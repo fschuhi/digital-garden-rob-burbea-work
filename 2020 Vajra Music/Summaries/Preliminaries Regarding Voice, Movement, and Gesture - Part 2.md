@@ -140,10 +140,10 @@ A second thing that it means is that the movement, gesture, and voice of oneself
 ```
 
 ---
-##### With regard to the "grief", there were plenty of things within jazz that I figured out on my own ^soul-grief
+##### With regard to the "grief", there were plenty of things within jazz that I figured out on my own
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^5-3|5-3]]**: _[[Grief]] (3) · [[Music#Jazz]] (4) · [[Music]] · [[Eros]]_</span>
 
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^soul-grief]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Soul-grief from not practicing being fluid]]
 
 ---
 ##### I could have just kept bashing away, but I didn't

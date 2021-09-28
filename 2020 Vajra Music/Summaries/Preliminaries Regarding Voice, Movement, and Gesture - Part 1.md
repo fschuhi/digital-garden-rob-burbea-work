@@ -357,10 +357,10 @@ comes out of
 - practicing 
 
 ---
-##### Soul-grief from not practicing being fluid ^soul-grief
+##### Soul-grief from not practicing being fluid
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^14-1|14-1]]**: _[[Death]] · [[Grief]] (4) · [[Relationships]] · [[Soul]] (3) · [[Music#Jazz]]_</span>
 
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^soul-grief]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#With regard to the grief there were plenty of things within jazz that I figured out on my own soul-grief]]
 
 ---
 ##### Fluidity wasn't taught then
