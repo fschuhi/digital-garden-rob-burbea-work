@@ -1,0 +1,1167 @@
+[[2021-09-21_Tue]] created
+
+ignored:
+  - I wonder
+  - a huge shame
+  - calling it
+  - centre around
+  - centre the
+  - do wonder
+  - freedom from remorse
+  - mixed blessing
+  - music concert
+  - not - self
+  - out of breath
+  - so calling
+  - urban centre
+  - we are calling
+  - what I'm calling
+  - would wonder
+
+Persons:
+  - Abraham:
+      - The Hospitality of Abraham
+      - Abraham's hospitality to the angels
+  - Ajahn Dhammadharo
+  - Albert Einstein:
+      - /Einstein, Albert
+      - Einstein
+  - Allen Ginsberg:
+      - /Ginsberg, Allen
+  - Baba Amte
+  - Carl Gustav Jung:
+      - /Jung, Carl Gustav
+      - Jungian
+  - Catherine McGee:
+      - /McGee, Catherine
+      - Catherine
+  - Charles Tart:
+      - /Tart, Charles
+  - Chogyam Trungpa
+  - Dalai Lama
+  - Dwight Eisenhower:
+      - /Eisenhower, Dwight
+      - General Eisenhower
+  - Emmett Till:
+      - /Till, Emmet
+  - Gertrude Stein:
+      - /Stein, Gertrude
+  - Goenka:
+      - Goenka-style
+      - Goenka retreat
+      - Goenka course
+  - Hans Georg Gadamer:
+      - /Gadamer, Hans Georg
+  - Henry Corbin:
+      - /Corbin, Henry
+  - Jeffrey J Kripal:
+      - /Kripal, Jeffrey J
+  - Jesus:
+      - Cosmic Christ
+      - Passions of Christ
+  - Jiddu Krishnamurti:
+      - /Krishnamurti, Juddi
+      - Krishnamurti
+  - Julian of Norwich
+  - Kaccayana:
+      - Kaccāyana
+  - Ludwig van Beethoven:
+      - /Beethoven, Ludwig van
+      - Beethoven
+  - Mahasi Sayadaw:
+      - Mahasi
+      - Mahasi-style
+  - Mahatma Gandhi:
+      - /Gandhi, Mahatma
+      - Gandhi
+  - Mary
+  - Mother Theresa
+  - Naomi Shihab Nye:
+      - /Nye, Naomi Shibab
+  - Payutto
+  - Pontius Pilate
+  - Richard Rorty:
+      - /Rorty, Richard
+  - Rosa Parks:
+      - /Parks, Rosa
+  - Rumi
+  - Sariputta
+  - St. Paul:
+      - Paul
+  - Stephen Batchelor:
+      - /Batchelor, Stephen
+  - Thanissaro Bhikkhu:
+      - Ajahn Geoff
+      - Ajahn Thanissaro
+      - Ajaan Ṭhānissaro
+  - Thich Nhat Hanh:
+      - Thích Nhất Hạnh
+  - W.V.O. Quine:
+      - /Quine, W.V.O.
+  - Walt Whitman:
+      - /Whitman, Walt
+  - Wilfrid Sellars:
+      - /Sellars, Wilfrid
+  - William Blake:
+      - /Blake, William
+
+Buddhology:
+  - Aksayamati Sutra:
+      - Akṣayamati Sūtra
+  - Anatta:
+      - anattā
+      - no self
+      - no-self
+      - not-self
+      - not self
+      - anattā practice
+      - anatta practice
+      - first characteristic
+  - Asavas
+  - Attention:
+      - bare attention
+  - Avalokiteśvara:
+      - Avalkiteshvara
+      - Kuan Yin
+      - Guanyin
+      - Guan Yin
+  - Aversion:
+      - pushing away
+      - push it away
+      - averse to it
+      - wanting to get rid of
+  - Avijja:
+      - delusion
+  - Awakening:
+      - secular enlightenment
+      - enlightenment
+      - enlightened
+      - arahantship
+      - liberation
+      - Factors of Awakening: .
+  - Awareness:
+      - non-conceptual awareness
+      - vast awareness
+      - big mind
+      - big awareness
+  - Bhumi:
+      - bhūmi
+      - bhumis
+  - Birth
+  - Bodhi Tree
+  - Bodhisattva
+  - Brahman
+  - Brahmaviharas:
+      - brahmavihara
+      - brahmavihāras
+      - divine abidings
+  - Buddha:
+      - Bhagavān
+      - the blessed one
+      - Tathāgata
+      - primordial Buddha
+  - Buddha-nature:
+      - tathāgatagarbha
+  - Buddhism:
+      - Buddhist tradition
+      - Buddhist mythology
+      - Buddhist iconography
+  - Citta
+  - Clinging:
+      - upadana
+      - non-clinging
+      - raga
+      - ruparaga
+      - lobha
+      - cling
+      - clingings
+  - Compassion:
+      - Karuṇā
+      - Karunā
+      - karuna
+  - Conventional reality:
+      - relative truth
+      - the relative
+  - Craving:
+      - tanha
+      - taṇhā
+      - vibhava-tanha
+      - crave
+      - cravings
+      - push and pull
+      - the push and the pull
+      - push-pull
+      - the push, the pull
+      - pushing and pulling
+  - Dakini:
+      - ḍākinī
+      - consort
+  - Dana:
+      - dāna
+  - Death:
+      - extinction
+      - after death
+      - relationship with death
+      - ways of relating to death
+      - death and dying
+      - death threat
+      - death threats
+  - Dependent Origination:
+      - dependently originated
+      - dependent arising
+      - dependent originiations
+      - twelve links of dependent origination
+      - twelve links
+      - causes and conditions
+      - infinite web of conditions
+      - web of conditions
+  - Dharma:
+      - secular dharma
+      - secularist dharma
+      - dhamma
+      - buddhadharma
+      - buddhist path
+      - the path
+      - dharma path
+      - dharma culture
+      - dharma cultures
+      - dharma teaching
+      - dharma teachings
+      - dharma circles
+      - dharma circle
+      - dharma 101
+  - Dharmakaya:
+      - Dharmakāya
+  - Dukkha:
+      - suffering
+      - dis-ease
+      - dissatisfaction
+      - second characteristic
+  - Dzogchen
+  - Eight worldly conditions
+  - Emptiness:
+      - emptiness of all things
+      - emptiness of things
+      - sunyata
+      - fading
+      - fade
+      - suchness: .
+      - emptiness practices
+      - completely empty
+  - Energy:
+      - viriya
+      - energizing quality
+  - Equanimity:
+      - upekkhā
+      - upekkha
+  - Eternality
+  - Fetters:
+      - samyojanani
+  - Four Bases:
+      - Four Bases of Power
+      - Four Bases of Success
+      - Four Bases of Accomplishment
+  - Four Noble Truths:
+      - First Noble Truth
+      - Second Noble Truth
+      - Third Noble Truth
+      - Fourth Noble Truth
+  - Freedom:
+      - deep freedom
+      - true peace
+      - freedom from suffering
+      - end of suffering
+  - Guhyasamaja Tantra:
+      - Guhyasamāja Tantra
+  - Heaven
+  - Hell
+  - Hindrances:
+      - kamacchanda
+      - kama
+      - sense pleasure
+      - sense pleasures
+      - uddhata
+      - uddhacca
+      - chanda
+      - chandaraga
+      - hitacchanda
+      - restlessness
+      - ill will
+      - ill-will
+  - Human Relationship:
+      - human relationships
+  - Ignorance:
+      - avijjā
+      - avijja
+  - Impermanence:
+      - anicca
+      - impermanent
+      - arisings and passings
+      - arisings and passings away
+      - arise and pass
+      - rise and fall
+      - first characteristic
+  - Insight:
+      - insights
+      - understanding
+      - understandings
+      - wisdom
+      - discernment
+      - panna
+      - pañña
+      - mystical insight
+  - Jhanas:
+      - jhānas
+      - jhāna
+      - jhana practice
+      - jhāna practice
+      - jhana
+      - first jhana
+      - first jhāna
+      - second jhana
+      - second jhāna
+      - third jhana
+      - third jhāna
+      - fourth jhana
+      - fourth jhāna
+      - realm of nothingness
+      - realm of neither perception nor non-perception
+  - Karma
+  - Kusala:
+      - akusala
+      - wholesome
+      - unwholesome
+  - Letting go:
+      - let go of everything
+      - just let go
+      - illusion of non-doing
+  - Lotus Sutra
+  - Love:
+      - sense of connection
+      - self-love
+  - Mahamudra:
+      - Mahāmudrā
+  - Mahayana:
+      - Mahāyāna
+  - Mara:
+      - māra
+      - amāra
+  - Metta:
+      - mettā
+      - loving-kindness
+      - kindness
+      - goodwill
+  - Middle Way
+  - Mindfulness:
+      - mindful
+      - sati
+      - mindfulness of the body
+      - mindful ob the body
+      - mindfulness-based cognitive theory
+  - Mudita:
+      - sympathetic joy
+      - spiritual joy
+  - Mudra:
+      - mudrā
+      - mudras
+  - Near enemy:
+      - near enemies
+  - Ngöndro
+  - Nondualism:
+      - nonduality
+      - non-duality
+      - non-dualist
+      - dualism
+      - duality
+      - separation
+      - non-separation
+      - neither simply single, nor double
+      - neither simple singularity nor a simple doubleness
+      - neither one nor two
+      - neither real nor not real
+  - Om mani padme hum:
+      - oṃ maṇi padme hūṃ
+  - Oneness:
+      - dissolving into oneness
+  - Pali Canon:
+      - Pāli Canon
+  - Papanca:
+      - proliferation
+      - non-proliferation
+      - non-papanca
+      - complication
+  - Piti:
+      - pīti
+      - rapture
+  - Precepts:
+      - five precepts
+  - Rebirth:
+      - ending of rebirth
+  - Receptivity
+  - Retreat:
+      - retreats
+      - meditation retreat
+      - meditation retreats
+      - retreat setting
+      - on retreat
+      - on personal retreat
+      - group retreat
+      - group retreats
+  - Right speech:
+      - commitment to honesty
+  - Samadhi:
+      - samādhi
+      - concentration
+      - collectedness
+      - unification
+  - Samatha:
+      - Śamatha
+  - Sangha:
+      - saṅgha
+  - Sankhara:
+      - habit formations
+      - deeply engrained habit
+      - deeply engrained habits
+      - sankharas
+      - habitual holding
+      - habitual holdings
+      - holding back of
+  - Satipatthana Sutta:
+      - Satipaṭṭhāna Sutta
+  - Seed Syllables:
+      - seed syllable
+  - Shingon
+  - Sila:
+      - sīla
+  - Skandhas:
+      - skandha
+      - khandha
+      - khandhas
+      - five khandhas
+      - five skandhas
+      - aggregates
+      - aggregate
+      - five aggregates
+  - Spiritual friendship:
+      - kalyanamitta
+  - Sutra:
+      - sūtras
+  - Sutta:
+      - suttas
+  - Tantra:
+      - tantric
+  - Theravada:
+      - Theravāda
+      - Theravādan
+      - Theravadan
+  - Three characteristics
+  - Tibetan Buddhism:
+      - Tibetan Buddhist
+      - Tibetan tradition
+  - Tonglen
+  - Ultimate Truth:
+      - ultimate truths
+      - the ultimate
+      - universal truths
+      - universal insights
+  - Vajra
+  - Vajrayana:
+      - Vajrayāna
+  - Vedana:
+      - pleasant vedana
+      - unpleasant vedana
+  - Vedic:
+      - Vedic creation myth
+      - Vedic hymn
+  - Zen:
+      - Soto Zen
+      - Rinzai Zen
+
+Philosophy:
+  - Anthropology
+  - Christianity:
+      - New Testament: .
+      - Christian tradition
+      - Holy Trinity
+      - Trinity
+      - crucifixion
+      - Catholic tradition
+      - Theodicy
+  - Cosmology:
+      - cosmopoesis
+      - cosmos
+  - Dogma
+  - Empiricism
+  - Epistemology:
+      - epistemicide: .
+      - epistemic cleansing: Epistemicide
+      - epistemologies
+      - epistemological framework
+  - Hermeneutics:
+      - hermeneutics: Overview
+      - hermeneutical circle: .
+      - hermeneutical conundrum: .
+  - Humanism
+  - Judaism:
+      - Jewish tradition
+  - Materialism:
+      - materiality
+      - material reality
+  - Messianism
+  - Metaphysics:
+      - belief about what is real
+      - metaphysical
+  - Modernism:
+      - secular modernism
+      - modernity
+      - secular modernity
+  - Monotheism:
+      - monotheistic
+  - Neuroscience:
+      - biochemistry
+  - Nihilism:
+      - nihilistic
+  - Old Testament:
+      - Genesis
+      - Abraham\'s hospitality to the angels
+  - Ontology
+  - Pedagogy:
+      - pedagogically
+  - Phenomenology:
+      - phenomenological
+      - phenomenological bracketing
+      - phenomenologically
+  - Phenomenon:
+      - phenomena
+  - Physicalism
+  - Postmodernism:
+      - post-modern attitude
+      - post-modern
+      - postmodernity
+      - postmodern philosophy
+  - Rationalism
+  - Realism
+  - Reductionism:
+      - reductionist view of the body
+      - atomic reductionism
+  - Sabbath:
+      - Shekhinah
+      - bride of God
+      - Sabbath bride
+  - Scientific method
+  - Scientific research
+  - Scientific revolution
+  - Sociology:
+      - social dynamics
+      - social injustice
+      - racial injustice
+  - Via Negativa:
+      - apophatic tradition
+      - apophatic
+      - neti neti
+      - nothingness of God
+
+Psychology:
+  - Anxiety
+  - Archtetype:
+      - archetypal
+      - primordial archetype
+  - Child Development
+  - Depression:
+      - depressed
+  - Fear:
+      - fear of others
+  - Gestalt Psychology:
+      - Gestalt
+  - Grief
+  - Personality structure:
+      - personality structures
+  - Personality types:
+      - personality differences
+  - Personhood:
+      - human subject
+      - human being
+      - personhood of a person
+  - Pity
+  - Psychological maturity
+  - Psychology of a Person
+  - Shame
+
+Robology:
+  - Acceptance
+  - Active listening:
+      - receptive listening
+      - modes of listening
+  - Activism:
+      - engagement and activism
+      - engagement
+  - Alchemy:
+      - alchemy of desire
+      - alchemical
+      - alchemically
+      - transubstantiation
+      - transubstantiate
+  - Anger
+  - Antinomy
+  - Appreciation
+  - Beauty:
+      - possibilities for beauty
+      - beauties
+      - sense of beauty
+  - Blessing:
+      - Jesus\'s blessing
+      - blessings
+      - gifts
+  - Breath:
+      - breath meditation
+  - Centre:
+      - thrown off centre
+      - lost my centre
+      - get centred
+      - centre myself
+      - centre the practice
+      - regain my centre
+      - find my centre
+      - centring
+      - interiority
+      - centre of gravity
+      - still point
+      - one\'s self
+      - one\'s true self
+      - centring prayer
+      - centre of emanation
+      - centre of resonance
+  - Circuits:
+      - circuits are cut
+      - circuits are blocked
+      - circuit is blocked
+      - opens the circuits
+      - open the circuits
+      - reconnect the circuits
+      - reconnect those circuits
+      - re-establish the circuits
+  - Conceptual Framework:
+      - dharma conceptual framework
+      - conceptual frameworks
+      - trellis
+      - trellis analogy
+      - wooden scaffolding
+      - tree analogy
+      - orchard of trees
+      - orchard image of the tree
+      - conceptuality
+      - subtle concept
+      - conceptual structure
+      - larger principle
+      - larger structure of ideas
+      - non-conceptual framework
+  - Consciousness:
+      - consciousnesses
+  - Constriction:
+      - constriction in the view
+      - constrained
+  - Contraction:
+      - contracted
+      - tightness
+  - Create-Discover:
+      - create-discover
+      - create/discover
+      - created/discovered
+      - creating-discovering
+      - discovering/creating
+      - construct and discover
+  - Cultivation:
+      - cultivate
+      - nourishing
+      - nourish
+      - nourishment
+      - nurture
+      - nurtures
+      - cultivates
+  - Daimon:
+      - angel
+      - angels
+      - daimons
+      - the angel out ahead
+      - refraction of the daimon
+      - refracting of daimon
+      - reconnect with the angels
+  - Delineations:
+      - distinctions
+      - delineate
+  - Desire:
+      - desires
+      - dimensions of desire
+      - deep desire
+      - visceral desire
+      - deep, visceral desire
+  - Devotion:
+      - faith
+      - sense of faith
+      - grace
+      - God\'s grace
+  - Dharma Seed:
+      - Dharmaseed
+  - Diamond Approach:
+      - Ridhwan school
+      - impeccability
+  - Dimensionality:
+      - dimensions
+      - dimensions of our existence
+      - angelic dimensions
+  - Discrepancy-based Processing:
+      - discrepancy based processing
+      - discrepancy-based processing
+  - Divinity:
+      - sense of divinity
+      - unfathomability of divinity
+      - something sacred
+      - sacredness
+      - face of the divine
+      - faces of the divine
+      - theophany
+  - Dominant Culture:
+      - mainstream of society
+      - influences from society
+      - societal influences
+      - Western culture
+      - culturally contingent
+      - cultural icon
+      - present culture
+      - in our culture
+      - contemporary culture
+  - Duty:
+      - one\'s duty
+      - sense of duty
+  - Elitism:
+      - elitist
+      - non-elitism
+      - accessability
+  - Embodiment:
+      - embodied
+      - embodying
+      - different accounts of the body
+      - embodied ways of knowing
+      - physical body
+      - movement, gesture, voice
+      - movement, gesture, and voice
+      - movement, gesture
+      - movement/gesture/voice
+      - moving/gesturing/vocalizing
+      - move/gesture/vocalize
+      - movements/gestures/vocalizations
+      - movement or gesture or vocalization
+      - moving, gesturing, and vocalizing
+      - in moving, in gesturing, in vocalizing
+      - sense of the body
+      - sense of body
+      - bodily sense
+      - expressions of body
+      - expression through the body
+      - whole body
+      - fully inhabiting
+      - body and soul
+      - body movement
+      - sense of balance
+      - world of our body
+      - body sensations
+  - Emotions
+  - Empathy
+  - Energy Body:
+      - imaginal energy body
+      - imaginal-energy body
+      - energy body experience
+      - energy body as image
+      - whole energy body
+      - whole energy body awareness
+      - emotional body
+      - sense of the energy body
+      - energy body sense
+      - energy body awareness
+  - Eros:
+      - erotic love
+      - cosmic eros
+      - divine eros
+      - gaze of eros
+      - life force
+      - different manifestations of eros
+  - Ethics
+  - Experience:
+      - bodily experience
+      - dramatic experience
+      - compelling experience
+      - \'wow\' experience
+      - dramatic unpleasant experience
+      - amazing experience
+  - Fabrication:
+      - fabricating
+      - fabricate
+      - fabricates
+      - fabricated
+      - fabrications
+      - nothing gets fabricated
+      - no experience gets fabricated
+      - lessening fabrication
+      - spectrum of fabrication
+      - fabricating experience
+      - fabricating that experience
+      - fabricating the experience
+  - Fantasy:
+      - fantasy of awakening
+      - fantasy of the Buddha: .
+      - fantasy of historical facticity: .
+      - fantasy of origins: .
+      - fantasy of the path
+      - fantasies of path
+      - fantasies of the path
+      - fantasy of the goal of the path
+      - fantasy of practice
+      - fantasy of scholarship: .
+      - fantasy of the self
+      - fantasies
+      - Mythos
+      - mythological stories
+      - mythos of the bodhisattva
+      - mythic creature
+  - Feelings
+  - Fullness of Intention:
+      - one\'s fullness of intention
+  - Gaia House
+  - Generosity
+  - Global warming
+  - Gratitude
+  - Guinness Book of Records
+  - Habit:
+      - habits
+  - Happiness:
+      - joy
+      - buoyancy
+      - unhappiness
+  - Healing
+  - Hermit:
+      - the Hermit
+  - History:
+      - ahistoricality
+      - ahistorical
+      - historically emergent
+      - historical movement
+      - personal history
+  - Image:
+      - icon
+      - iconic image
+      - iconic moments
+      - iconic movements
+      - image-sense
+      - images
+      - whole range of images
+      - range of light images
+      - range of images
+      - light images
+      - image and analogue
+      - images and analogues
+      - image of God
+      - intrapsychic image
+      - erotic image
+  - Imaginal:
+      - imaginal constellation
+      - imaginal dyad
+      - imaginal figure
+      - imaginal figures
+      - imaginal image
+      - imaginal perception
+      - imaginal perceptions
+      - imaginal person
+      - imaginal practice
+      - imaginal sense
+      - imaginal work
+      - imaginal \'meaningfulness\'
+      - erotic-imaginal object
+      - erotic-imaginal objects
+      - inner imaginal sense
+      - elements of the imaginal
+      - intrapsychic imaginal figure
+      - constellation of the imaginal
+  - Immeasurability
+  - Inertia
+  - Infinity:
+      - the infinite
+  - Kabbala:
+      - kabbalistic
+  - Logos
+  - Manifestations
+  - Meaningfulness:
+      - imaginal meaningfulness
+  - Measuring mind
+  - Mode of mind
+  - Music:
+      - music school
+      - Jazz: .
+      - jazz music: Jazz
+      - jazz guitar: Jazz
+  - Mystical opening:
+      - mystical openings
+  - Nobility:
+      - ennobling quality
+  - Pain:
+      - headache
+      - knee-ache
+  - Passion:
+      - passion
+      - passions
+      - passion for awakening
+      - passion for the path
+      - passion on the path
+      - calling
+      - vocation
+  - Perception:
+      - appearance
+      - appearances
+      - appearing
+      - non-appearance
+  - Perfection
+  - Pleasantness:
+      - pleasant feeling
+      - enjoyment
+      - pleasant quality
+      - well-being
+      - okayness
+  - Poetry:
+      - psychology without poetry
+  - Preliminaries:
+      - preliminary excercise
+      - preliminary excercises
+      - preliminary trainings
+      - preliminary requirements
+      - preliminary developments
+      - foundation excercise
+      - stepping-stones
+      - stepping stones
+  - Present Moment:
+      - present moment experience
+  - Psyche
+  - Reactivity:
+      - reactivity to experience
+  - Reconditioning
+  - Relationships
+  - Romantic love
+  - Seeing That Frees
+  - Sexuality
+  - Simplification:
+      - oversimplification
+      - simplify the mind
+  - Soul:
+      - soulfulness
+      - ensouled
+      - soulful
+      - sensing with soul
+      - sensing others with soul
+      - sense of sould
+      - what soul needs
+      - what soul might need
+      - what soul can do
+      - soulscape
+      - soul-antannae
+      - soul-conception
+      - soul-conviction
+      - soul-desire
+      - soul-discernment
+      - soul-duty
+      - soul-environment
+      - soul-experience
+      - soul-force
+      - soul-grief
+      - soul-movement
+      - soul-possibility
+      - soul-power
+      - soul-resonances
+      - soul-risk
+      - soul-secret
+      - soul-secrets
+      - soul-sense
+      - soul-stretch
+      - soul-style
+      - soul-territory
+      - soul-territories
+      - soul may want
+      - areas of soul
+      - manifestations of soul
+      - openess of soul
+      - soulless
+      - soullessness
+      - suffering of soullessness
+      - habit of soul
+      - influx of soul
+      - efflux of soul
+      - manifestation of soul
+      - heart and soul
+      - the heart and the soul
+      - live a life of soul
+  - Soulmaking:
+      - soulmaking construction
+      - Soulmaking Dharma
+      - soulmaking dharma practice
+      - soulmaking poise
+      - soulmaking practice
+      - soulmaking practicioner
+      - soulmaking teachings
+      - soulmaking tradition
+      - poise of soulmaking
+  - Soulmaking Dynamic:
+      - eros-psyche-logos dynamic
+      - eros psyche logos dynamic
+      - eros-psyche-logos
+      - eros psyche logos
+  - Spaciousness
+  - Spiritual circles
+  - Spirituality
+  - Steadiness:
+      - steadiness of practice
+      - steadiness of the formations
+      - steadiness of the heart
+      - steadiness of the mind
+      - calmness
+  - Stories:
+      - our story
+      - our journey
+      - the story we tell
+      - narrative
+  - Telos:
+      - one\'s telos
+  - Temenos
+  - Thanatos
+  - The Self:
+      - particular self
+      - unique self
+      - particularity
+      - modernist self
+      - sense of self
+      - sense of our selves
+      - psychological self
+      - self, world, time
+      - self, other, world, time
+      - self, other, world
+      - experience of self
+      - experience of self, other, world
+      - self-view
+      - the self as singular
+      - the self as a plurality
+      - self-experience
+      - self-consciousness
+      - self-conscious
+      - self-judgement
+      - self-centred
+      - self-centredness
+      - self-preoccupation
+      - self-story
+      - self-inflatings
+      - self-importance
+      - self-aggrandizement
+      - self-obsession
+      - selfing
+  - Tiredness
+  - Unfabricated:
+      - nirvana
+      - nibbana
+      - timelessness
+      - The Deathless
+      - The Unborn
+      - The Unconditioned
+      - the Unfabricating
+      - unbinding
+      - unborn
+  - Unfathomability:
+      - beyonds
+      - unfathomable beyonds
+      - unfathomable mystery
+  - Vessel:
+      - Shevirat ha-Kelim
+      - breaking of the vessel
+      - breaking of the vessels
+      - breaking of vessels
+  - Ways of Looking:
+      - way of looking
+      - way of seeing
+      - ways of seeing
+      - ways of looking
+      - ways of knowing
+      - some kind of knowing
+  - Wonder:
+      - wonders
+      - wonder in being
+      - cultivating wonder
+
+Retreats:
+  - Eros Unfettered
+  - Foundations of a Soulmaking Dharma
+  - Four Circles, Four Parables of Stone and Light
+  - In Psyche's Orchard
+  - Practicing the Jhanas (retreat):
+      - Practicing the Jhanas
+      - Practicing the Jhānas
+      - jhāna retreat
+  - Re-enchanting the Cosmos
+
+Talks:
+  - Art and Dharma
+  - Daimon, Refracted
+  - Engagement and Activism
+  - Hearing All Sounds as Mantra
+  - Heat and the Material
+  - Immanence, Tantra, and Transcendence
+  - Orienting to This Jhana Retreat:
+      - Orienting to This Jhāna Retreat
+  - Pain, as Void and as Sacrament
+  - Passion, Desire, and the Path
+  - Practicing with Death and Dying
+  - Sila and Soul
+  - The Image of Ethics
+  - The Movement of Devotion
+  - The Spreading of Five Wings
+  - Voice, Movement, and the Possibilities of Soul
+  - Wise Effort
+  - Wise Relationship to Practice
+
+Practices:
+  - Borne Aloft By Angels
+  - Dyad:
+      - dyad practice
+      - triad
+      - dyadic excercise
+      - dyadic relationship
+      - dyad partner
+  - Mantra Practice:
+      - chanting of the mantra
+      - reciting of the mantra
+      - incantation
+      - spell-making
+      - invocation
+  - Meditation:
+      - insight meditation
+      - meditation experience
+      - meditative experience
+      - dharma practice
+      - dharma practices
+      - goal of meditation
+      - Dharma teacher
+      - Dharma teachers
+      - meditation posture
+      - meditation practice
+      - guided meditation
+      - guided meditations
+      - meditation instructions
+      - silent meditation
+      - walking meditation
+      - sitting meditation
+  - Sensing the other as angel:
+      - perceive other as angel
+      - sense/see other as angel
+  - Supernova:
+      - supernova explosion
+  - The Hospitality to the Angels
+  - The Immovable Protector:
+      - the immovable guardian
+  - The Raging Beast
+  - The Serpent
+  - Thunderclap:
+      - thunder and lightning
+  - Via Dolorosa
