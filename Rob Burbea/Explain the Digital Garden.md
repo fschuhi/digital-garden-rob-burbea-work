@@ -8,6 +8,7 @@
 	-  summary shows how the talk is embeddedin the overall semantic network
 	- use practice guides (which point to transcripts and summaries)
 	- explore concepts like [[Energy Body]], following the links into the transcripts where it is used
+- Transcript is the main artifact, can be used standalone, no visual cluttering by showing links to other places (except the keywords and fullstops for summary backlinks, see [[Add manual backlinks to transcript paragraphs]])
 
 ##### [[2021-09-26_Sun]]
 - Warum überhaupt ein Digital Garden?
