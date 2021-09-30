@@ -80,6 +80,7 @@ So sometimes it will feel like we're very much in the 'feeling the sorrow' side,
 ```
 
 ---
+#### Balance
 ##### The outflow of compassion from us to others touches us, and we feel healed
 **[[0208 Equanimity in Compassion#^2-4|2-4]]**: _[[Healing]] (3) · [[Pleasantness]] (2) · [[Happiness]]_
 
@@ -95,144 +96,166 @@ What's going out, the comforting, the balm, it actually has a feeling of feeling
 ##### It's part of our humanity to be touched
 **[[0208 Equanimity in Compassion#^2-6|2-6]]**: _[[Grief]]_
 
+```ad-quote
+It's part of our humanity to be touched. We're not, in a way, wanting to be untouched and inhuman. It gives the heart a quality of some kind of opening, some kind of tenderness that's really important.
+```
+
 ---
-##### ...
+##### Equanimity means  buoyancy, not to sink underneath the weight of the suffering
 **[[0208 Equanimity in Compassion#^3-1|3-1]]**: _[[Compassion]] (4) · [[Dukkha]] (2) · [[Cultivation]] · [[Happiness]] (2) · [[Equanimity]] (2) · [[Steadiness]]_
 
 ---
-##### ...
+#### Samadhi
+##### Don't underestimate the power of samadhi in the deepening of equanimity
 **[[0208 Equanimity in Compassion#^3-2|3-2]]**: _[[Equanimity]] (2) · [[Samadhi]] (5) · [[Retreat]] · [[Steadiness]] · [[Metta]] · [[Compassion]]_
 
 ---
-##### ...
+##### Story: last year's retreatant who didn't want to do samadhi, pointing to the busyness of life
 **[[0208 Equanimity in Compassion#^3-3|3-3]]**: _[[Samadhi]] (3) · [[Compassion]]_
 
 ---
-##### ...
+##### Samadhi allows any quality to sink into the cells
 **[[0208 Equanimity in Compassion#^3-4|3-4]]**: _[[Samadhi]] (2) · [[Insight]] · [[Metta]] · [[Compassion]] (2)_
 
+```ad-quote
+sink into the cells, and to be there, woven in almost to the fabric of our being
+```
+
 ---
-##### ...
+##### But it's also important to practice when the mind isn't that settled
 **[[0208 Equanimity in Compassion#^3-5|3-5]]**: _[[Samadhi]]_
 
 ---
-##### ...
+##### The natural progression of samadhi leads to equanimity, which eventually becomes also accessible outside samadhi
 **[[0208 Equanimity in Compassion#^3-6|3-6]]**: _[[Samadhi]] (3) · [[Equanimity]] (3) · [[Piti]] · [[Happiness]]_
 
+```ad-quote
+This is usually a progression that takes months and months, but in the progression of that, the equanimity, too, gets kind of sewn into the being
+```
+
 ---
-##### ...
+#### The Self
+##### How much is the self _doing_ the compassion practice
 **[[0208 Equanimity in Compassion#^4-1|4-1]]**: _[[Samadhi]] · [[The Self]] (3) · [[Compassion]] (4) · [[Retreat]]_
 
 ---
-##### ...
+##### As the self-sense gets quite, equanimity becomes the natural state
 **[[0208 Equanimity in Compassion#^4-2|4-2]]**: _[[The Self]] (7) · [[Compassion]] (2) · [[Equanimity]] (4)_
 
 ---
-##### ...
+#### Spaciousness
+##### With spaciousness, any suffering can be held effortlessly in that space
 **[[0208 Equanimity in Compassion#^4-3|4-3]]**: _[[Spaciousness]] · [[Compassion]] (3) · [[The Self]] · [[Dukkha]] (4)_
 
 ---
-##### ...
+##### Spaciousness is a prominent feature of equanimity
 **[[0208 Equanimity in Compassion#^4-4|4-4]]**: _[[Dukkha]] · [[Spaciousness]] (2) · [[Equanimity]] (3) · [[Steadiness]]_
 
 ---
-##### ...
+##### Still, the self giving compassion is a necessary aspect of our humanity
 **[[0208 Equanimity in Compassion#^4-5|4-5]]**: _[[The Self]] · [[Compassion]] (5) · [[Dukkha]]_
 
 ---
-##### ...
+#### Limits of compassion practice
+##### "What do I want or need for myself here?"
 **[[0208 Equanimity in Compassion#^4-6|4-6]]**: _[[Samadhi]] · [[The Self]] · [[Spaciousness]] · [[Compassion]]_
 
 ---
-##### ...
+##### It's challenging to care for someone who is clearly causing suffering for themselves
 **[[0208 Equanimity in Compassion#^5-1|5-1]]**: _[[Compassion]] · [[Dukkha]] (3)_
 
 ---
-##### ...
+##### Am I finding a way to care of my needs?
 **[[0208 Equanimity in Compassion#^5-2|5-2]]**: _[[Metta]] · [[Compassion]] · [[Relationships]]_
 
 ---
-##### ...
+##### Co-dependence can happen
 **[[0208 Equanimity in Compassion#^5-3|5-3]]**: _[[Compassion]]_
 
 ---
-##### ...
+##### We might want some recognition for our efforts
 [[0208 Equanimity in Compassion#^5-4|5-4]]
 
 ---
-##### ...
+##### So we need to ask ourselves in those situations how we can get at least some of what we need in a healthy way
 **[[0208 Equanimity in Compassion#^5-5|5-5]]**: _[[Compassion]] (5) · [[Love]] · [[Aversion]] · [[Dukkha]] · [[Perception]]_
 
 ---
-##### ...
+##### Politics show that there are limits in how much we can help
 **[[0208 Equanimity in Compassion#^6-1|6-1]]**: _[[Brahmaviharas]] · [[Love]] · [[Compassion]] · [[Happiness]] · [[Insight]]_
 
 ---
-##### ...
+##### Bringing equanimity in seeing the web of conditions which makes any situation what it is
 **[[0208 Equanimity in Compassion#^6-2|6-2]]**: _[[Equanimity]] · [[Dependent Origination]] (2) · [[Freedom]]_
 
 ---
-##### ...
+##### Example: Dharma talk
 **[[0208 Equanimity in Compassion#^6-3|6-3]]**: _[[Dharma]] (4) · [[Experience]] · [[Dependent Origination]]_
 
 ---
-##### ...
+##### Maybe it's just a see
 **[[0208 Equanimity in Compassion#^6-4|6-4]]**: _[[Desire]] · [[Dependent Origination]]_
 
+```ad-quote
+But mostly it's actually just a little drop, and then one goes out into that infinite web of conditions in the life. Maybe it's just a seed. It meets another condition, then it begins to sprout. Maybe it sprouts a little here, and then it gets watered. Maybe it meets the wrong conditions and it just gets covered over, you know?
+```
+
 ---
-##### ...
+##### Somthing you've done or said, it might just be enough that it can blossom later for that person
 **[[0208 Equanimity in Compassion#^6-5|6-5]]**: _[[Compassion]] · [[Dependent Origination]]_
 
 ---
-##### ...
+##### Equanimity is not indifference
 **[[0208 Equanimity in Compassion#^6-6|6-6]]**: _[[Brahmaviharas]] · [[Equanimity]] (5) · [[Near enemy]] · [[Spiritual circles]]_
 
 ---
-##### ...
+##### The barometer for any view (like karma, or God's will) is: what's it doing to the heart?
 **[[0208 Equanimity in Compassion#^7-1|7-1]]**: _[[Karma]] (2) · [[Dukkha]] · [[Retreat]] · [[Metta]] · [[Compassion]]_
 
 ---
-##### ...
+##### Can the compassion stay steady and strong, but also that the tenderness of the heart remains?
 **[[0208 Equanimity in Compassion#^7-2|7-2]]**: _[[The Self]] · [[Dukkha]] (4) · [[Equanimity]] · [[Compassion]] (2) · [[Ignorance]] (2) · [[Insight]] · [[Love]]_
 
 ---
-##### ...
+#### Phrases for equanimity
+##### Phrases make the limits of our responsibility clearer to us and to another
 **[[0208 Equanimity in Compassion#^7-3|7-3]]**: _[[Equanimity]] · [[Compassion]] · [[Dukkha]]_
 
 ---
-##### ...
+##### This is to distinguish the suffering coming down from outside vs what humans bring on themselves through ignorance
 **[[0208 Equanimity in Compassion#^7-4|7-4]]**: _[[Dukkha]] (3) · [[Ignorance]] · [[Buddha]]_
 
 ---
-##### ...
+##### "All beings are the owners of their actions." (shortened)
 **[[0208 Equanimity in Compassion#^7-5|7-5]]**: _[[Happiness]] (2)_
 
 ---
-##### ...
+##### "All beings inherit the results of their actions." (shortened)
 [[0208 Equanimity in Compassion#^7-6|7-6]]
 
 ---
-##### ...
+##### "All actions with intention, be they skilful or harmful, of such acts they will be the heirs."
 [[0208 Equanimity in Compassion#^8-1|8-1]]
 
 ---
-##### ...
+##### This formal equanimity practice brings in the recollection to balance the compassion
 **[[0208 Equanimity in Compassion#^8-2|8-2]]**: _[[Compassion]] (2) · [[Equanimity]]_
 
 ---
-##### ...
+##### Still, loving-kindness and compassion is the best way to live, even if actions or results seem to fall short
 **[[0208 Equanimity in Compassion#^8-3|8-3]]**: _[[Dukkha]] · [[Metta]] (2) · [[Compassion]] (4) · [[Freedom]] (2) · [[Equanimity]] (2) · [[Spaciousness]] (2) · [[Insight]]_
 
 ---
-##### ...
+#### Emptiness
+##### The more we see the emptiness of all things, the more we can walk in a relaxed and effortless way
 **[[0208 Equanimity in Compassion#^8-4|8-4]]**: _[[Emptiness]] (2) · [[Spaciousness]]_
 
 ---
-##### ...
+##### Paradoxically, we become even more devoted with seeing the emptiness of everything
 **[[0208 Equanimity in Compassion#^8-5|8-5]]**: _[[Insight]] · [[Emptiness]] (7) · [[Freedom]] · [[Happiness]] · [[Wonder]] · [[Devotion]] (4) · [[Nihilism]] (2) · [[Near enemy]] · [[Compassion]]_
 
 ---
-##### ...
+##### I can neither find myself nor others deparate, and in that the love is there
 **[[0208 Equanimity in Compassion#^8-6|8-6]]**: _[[Compassion]] (3) · [[Metta]] · [[Anatta]] (2) · [[Love]] (3) · [[Dukkha]] (3) · [[Emptiness]] (3) · [[Nondualism]] · [[Equanimity]] (2)_
 
 ---

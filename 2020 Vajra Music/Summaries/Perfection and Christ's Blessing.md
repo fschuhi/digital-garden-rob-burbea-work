@@ -20,7 +20,7 @@ Transcript PDF: [[2020_0306 Perfection and Christ's Blessing.pdf]]
 <span class="counts">**[[0306 Perfection and Christ's Blessing#^1-1|1-1]]**: _[[Perfection]] (6) · [[Beauty]] · [[Devotion]]_</span>
 
 ---
-##### Jesus's blessing is on eveything
+##### Jesus's blessing is on everything
 <span class="counts">**[[0306 Perfection and Christ's Blessing#^1-2|1-2]]**: _[[Ways of Looking]] · [[Love]] · [[Perfection]] (3) · [[Jesus]] (2) · [[Blessing]] (3) · [[Soul]]_</span>
 
 ---

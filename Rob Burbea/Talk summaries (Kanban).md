@@ -4,7 +4,7 @@ kanban-plugin: basic
 ## Pending
 - [ ] [[Samadhi in Metta Practice]]  causes of happiness 4-3
 ## Working on it
-- [ ] [[Equanimity in Compassion]] (13)
+- [ ] [[Equanimity in Compassion]] (6)
 ## Done
 **Complete**
 - [x] [[Love and Emptiness]] (ok)
