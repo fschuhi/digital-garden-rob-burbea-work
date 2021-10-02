@@ -3,7 +3,7 @@ Needed: keep Shannon in the loop
 
 https://airtable.com/shr9OS6jqmWvWTG5g/tblHlCKWIIhZzEFMk/viw3k0IfSo0Dve9ZJ 
 
-also [Reddit r/streamentry Rob Resources](https://www.reddit.com/r/streamentry/wiki/resources-rob)
+also [[Reddit resources]]
 
 ## Airtable information for circles
 https://docs.google.com/document/d/1l9x9x-oyCUfswHTh3dcTvr7UC-LTfwZaGXFLFtszSzA/edit
@@ -20,4 +20,4 @@ some Christopher is quoted:
 
 > I would strongly encourage porting the transcripts to a more accessible and web-friendly format than the current one. Web formats like HTML are generally much more readable across devices and flexible with regard to issues like scaling, pagination, and typography. With a body of work this size, web features such as hyperlinking between documents and even within documents (footnote links) become important, as do accessibility features for those with visual impairments, etc. With close to 500 talks, the ability to browse the material in different ways (by series/retreat, by theme, by date, by topic, etc) is really necessary. And a robust search function, not only to help find talks with keywords but also with features like ranking based on context and diacritic-invariant matching (as the transcripts show admirable attention to Pali terms), is vital in my view.
 
-[[Reddit]]
+

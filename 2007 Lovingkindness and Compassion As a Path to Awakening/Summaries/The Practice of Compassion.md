@@ -12,7 +12,7 @@ Transcript PDF: [[2007_0201 The Practice of Compassion.pdf]]
 ![[20070201-Rob_Burbea-GAIA-the_practice_of_compassion-12295.mp3]]
 
 ## Index
-<span class="counts">_[[Compassion]] (155) · [[Dukkha]] (118) · [[Insight]] (35) · [[Metta]] (31) · [[The Self]] (18) · [[Fear]] (14) · [[Grief]] (14) · [[Happiness]] (13) · [[Emptiness]] (12) · [[Anger]] (11) · [[Dependent Origination]] (11) · [[Energy]] (10) · [[Healing]] (10) · [[Ignorance]] (10) · [[Near enemy]] (10) · [[Pity]] (9) · [[Buddha]] (8) · [[Equanimity]] (8) · [[Love]] (8) · [[Oneness]] (8) · [[Pleasantness]] (7) · [[Awareness]] (6) · [[Cultivation]] (6) · [[Freedom]] (6) · [[Pain]] (6) · [[Samadhi]] (6) · [[Anatta]] (5) · [[Aversion]] (5) · [[Contraction]] (5) · [[Perception]] (5) · [[Empathy]] (4) · [[Jesus]] (4) · [[Retreat]] (4) · [[Avalokiteshvara]] (3) · [[Avijja]] (3) · [[Bodhisattva]] (3) · [[Centre]] (3) · [[Experience]] (3) · [[Breath]] (2) · [[Clinging]] (2) · [[Consciousness]] (2) · [[Death]] (2) · [[Hindrances]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Karma]] (2) · [[Letting go]] (2) · [[Nobility]] (2) · [[Present Moment]] (2) · [[Tiredness]] (2) · [[Ways of Looking]] (2) · [[Acceptance]] · [[Attention]] · [[Awakening]] · [[Beauty]] · [[Christianity]] · [[Constriction]] · [[Cosmology]] · [[Craving]] · [[Dalai Lama]] · [[Depression]] · [[Desire]] · [[Embodiment]] · [[Gertrude Stein]] · [[Image]] · [[Julian of Norwich]] · [[Meditation]] · [[Naomi Shihab Nye]] · [[Nihilism]] · [[Nondualism]] · [[Reconditioning]] · [[Spaciousness]] · [[Steadiness]] · [[Stephen Batchelor]] · [[Supernova]] · [[Thich Nhat Hanh]] · [[Tibetan Buddhism]] · [[Tonglen]] · [[Walt Whitman]]_</span>
+<span class="counts">_[[Compassion]] (155) · [[Dukkha]] (118) · [[Insight]] (35) · [[Metta]] (31) · [[The Self]] (18) · [[Fear]] (14) · [[Grief]] (14) · [[Happiness]] (13) · [[Emptiness]] (12) · [[Anger]] (11) · [[Dependent Origination]] (11) · [[Energy]] (10) · [[Healing]] (10) · [[Ignorance]] (10) · [[Near enemy]] (10) · [[Pity]] (9) · [[Buddha]] (8) · [[Equanimity]] (8) · [[Love]] (8) · [[Oneness]] (8) · [[Perception]] (7) · [[Pleasantness]] (7) · [[Awareness]] (6) · [[Cultivation]] (6) · [[Freedom]] (6) · [[Pain]] (6) · [[Samadhi]] (6) · [[Anatta]] (5) · [[Aversion]] (5) · [[Contraction]] (5) · [[Empathy]] (4) · [[Jesus]] (4) · [[Retreat]] (4) · [[Avalokiteshvara]] (3) · [[Avijja]] (3) · [[Bodhisattva]] (3) · [[Centre]] (3) · [[Experience]] (3) · [[Breath]] (2) · [[Clinging]] (2) · [[Consciousness]] (2) · [[Death]] (2) · [[Hindrances]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Karma]] (2) · [[Letting go]] (2) · [[Nobility]] (2) · [[Present Moment]] (2) · [[Spaciousness]] (2) · [[Tiredness]] (2) · [[Ways of Looking]] (2) · [[Acceptance]] · [[Attention]] · [[Awakening]] · [[Beauty]] · [[Christianity]] · [[Constriction]] · [[Cosmology]] · [[Craving]] · [[Dalai Lama]] · [[Depression]] · [[Desire]] · [[Embodiment]] · [[Gertrude Stein]] · [[Image]] · [[Julian of Norwich]] · [[Meditation]] · [[Naomi Shihab Nye]] · [[Nihilism]] · [[Nondualism]] · [[Reconditioning]] · [[Steadiness]] · [[Stephen Batchelor]] · [[Supernova]] · [[Thich Nhat Hanh]] · [[Tibetan Buddhism]] · [[Tonglen]] · [[Walt Whitman]]_</span>
 <br/>
 
 ## Paragraphs
@@ -328,7 +328,7 @@ TODO: mystical insight
 
 ---
 ##### Non-separation as corrolary to the mind having perceptions
-<span class="counts">**[[0201 The Practice of Compassion#^12-8|12-8]]**: _[[Oneness]] · [[Perception]] (4) · [[Avijja]]_</span>
+<span class="counts">**[[0201 The Practice of Compassion#^12-8|12-8]]**: _[[Oneness]] · [[Perception]] (6) · [[Avijja]]_</span>
 
 ![[20070201-Rob_Burbea-GAIA-the_practice_of_compassion-12295.mp3#t=01:01:41]]
 
@@ -402,7 +402,7 @@ Absolutely. I mean, the near enemies will come up, and they're to be worked with
 
 ---
 ##### Yogi: How can you have action without attachment to results?
-<span class="counts">**[[0201 The Practice of Compassion#^15-1|15-1]]**: _[[Compassion]] · [[Dukkha]] · [[Equanimity]]_</span>
+<span class="counts">**[[0201 The Practice of Compassion#^15-1|15-1]]**: _[[Compassion]] · [[Dukkha]] · [[Spaciousness]] · [[Equanimity]]_</span>
 
 ---
 ##### Rob: In our practice it's going to be shifting, and in the world as well

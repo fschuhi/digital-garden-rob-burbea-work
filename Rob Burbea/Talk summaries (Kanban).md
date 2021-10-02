@@ -1,12 +1,22 @@
 ---
+
 kanban-plugin: basic
+
 ---
+
 ## Pending
+
 - [ ] [[Samadhi in Metta Practice]]  causes of happiness 4-3
+
+
 ## Working on it
-- [ ] [[Equanimity in Compassion]] (6)
+
+
+
 ## Done
+
 **Complete**
+- [x] [[Equanimity in Compassion]] (ok)
 - [x] [[Love and Emptiness]] (ok)
 - [x] [[Guided meditation - Metta to phenomena]] (ok)
 - [x] [[The Practice of Compassion]] (ok)
@@ -15,3 +25,5 @@ kanban-plugin: basic
 - [x] [[From Insight to Love]] (ok)
 - [x] [[Expressions of Metta]] (ok)
 - [x] [[Samadhi in Metta Practice]] (ok)
+
+

@@ -39,7 +39,7 @@ Disseminating
 
 ### ideas
 - Practice guides 
-	- à la [[Reddit]]
+	- à la [[Reddit streamentry resources]]
 	- Pádraig: Vajra Music bullet list, Jhana Retreat
 - catalogue the talks, with keywords, like [[AirTable]]
 - Prioritising of the talks in terms of "fullness of evolution"

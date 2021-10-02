@@ -12,7 +12,7 @@ Transcript PDF: [[2007_0204 Love and Emptiness.pdf]]
 ![[20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3]]
 
 ## Index
-<span class="counts">_[[Metta]] (85) · [[Compassion]] (63) · [[Love]] (63) · [[Emptiness]] (47) · [[Craving]] (38) · [[Perception]] (27) · [[Experience]] (22) · [[Dukkha]] (17) · [[Insight]] (16) · [[Acceptance]] (14) · [[Consciousness]] (14) · [[Awareness]] (12) · [[Fear]] (12) · [[Mindfulness]] (12) · [[Awakening]] (11) · [[Buddha]] (11) · [[Cultivation]] (10) · [[Meditation]] (10) · [[Oneness]] (10) · [[Clinging]] (9) · [[Attention]] (8) · [[Freedom]] (8) · [[Kusala]] (8) · [[Dharma]] (7) · [[Equanimity]] (7) · [[Reconditioning]] (7) · [[Retreat]] (7) · [[Unfabricated]] (7) · [[Anger]] (5) · [[Dependent Origination]] (5) · [[Embodiment]] (4) · [[Emotions]] (4) · [[Mahayana]] (4) · [[Mind state]] (4) · [[Samadhi]] (4) · [[Ways of Looking]] (4) · [[Aksayamati Sutra]] (3) · [[Anatta]] (3) · [[Aversion]] (3) · [[Nondualism]] (3) · [[Phenomenon]] (3) · [[Present Moment]] (3) · [[Blessing]] (2) · [[Chanda]] (2) · [[Fabrication]] (2) · [[Impermanence]] (2) · [[Nihilism]] (2) · [[Sutra]] (2) · [[The Self]] (2) · [[Activism]] · [[Breath]] · [[Dimensionality]] · [[Feelings]] · [[Gaia House]] · [[Habit]] · [[Happiness]] · [[Healing]] · [[Heaven]] · [[Image]] · [[Letting go]] · [[Lotus Sutra]] · [[Middle Way]] · [[Pain]] · [[Ram Dass]] · [[Relationships]] · [[Romantic love]] · [[Rumi]] · [[Stories]] · [[Sutta]] · [[Thanissaro Bhikkhu]] · [[Tibetan Buddhism]] · [[Vajrayana]] · [[Wonder]]_</span>
+<span class="counts">_[[Metta]] (85) · [[Compassion]] (63) · [[Love]] (63) · [[Emptiness]] (47) · [[Craving]] (38) · [[Perception]] (31) · [[Experience]] (22) · [[Dukkha]] (17) · [[Insight]] (16) · [[Acceptance]] (14) · [[Consciousness]] (14) · [[Awareness]] (12) · [[Fear]] (12) · [[Mindfulness]] (12) · [[Awakening]] (11) · [[Buddha]] (11) · [[Cultivation]] (10) · [[Meditation]] (10) · [[Oneness]] (10) · [[Clinging]] (9) · [[Attention]] (8) · [[Freedom]] (8) · [[Kusala]] (8) · [[Dharma]] (7) · [[Equanimity]] (7) · [[Reconditioning]] (7) · [[Retreat]] (7) · [[Unfabricated]] (7) · [[Anger]] (5) · [[Dependent Origination]] (5) · [[Embodiment]] (4) · [[Emotions]] (4) · [[Mahayana]] (4) · [[Mind state]] (4) · [[Samadhi]] (4) · [[Ways of Looking]] (4) · [[Aksayamati Sutra]] (3) · [[Anatta]] (3) · [[Aversion]] (3) · [[Nondualism]] (3) · [[Phenomenon]] (3) · [[Present Moment]] (3) · [[Blessing]] (2) · [[Chanda]] (2) · [[Fabrication]] (2) · [[Impermanence]] (2) · [[Nihilism]] (2) · [[Sutra]] (2) · [[The Self]] (2) · [[Activism]] · [[Breath]] · [[Dimensionality]] · [[Feelings]] · [[Gaia House]] · [[Habit]] · [[Happiness]] · [[Healing]] · [[Heaven]] · [[Image]] · [[Letting go]] · [[Lotus Sutra]] · [[Middle Way]] · [[Pain]] · [[Ram Dass]] · [[Relationships]] · [[Romantic love]] · [[Rumi]] · [[Stories]] · [[Sutta]] · [[Thanissaro Bhikkhu]] · [[Tibetan Buddhism]] · [[Vajrayana]] · [[Wonder]]_</span>
 <br/>
 
 ## Paragraphs
@@ -126,7 +126,7 @@ There's nowhere outside of acceptance. There's nowhere outside of love. So if we
 
 ---
 ##### Experience begin to fade
-<span class="counts">**[[0204 Love and Emptiness#^4-4|4-4]]**: _[[Feelings]] · [[Love]] · [[Emotions]] · [[Embodiment]] · [[Mindfulness]] · [[Experience]] · [[Emptiness]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^4-4|4-4]]**: _[[Feelings]] · [[Love]] · [[Emotions]] · [[Embodiment]] · [[Perception]] · [[Mindfulness]] · [[Experience]] · [[Emptiness]]_</span>
 
 ![[20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=19:04]]
 
@@ -180,7 +180,7 @@ Mind always has some mind state. So with [mindfulness](app://obsidian.md/mindful
 
 ---
 ##### But don't be in a hurry, as the power of those kinds of perceptions transforms heart and mind
-<span class="counts">**[[0204 Love and Emptiness#^7-2|7-2]]**: _[[Emptiness]] · [[Oneness]] (2) · [[Love]] (2) · [[Perception]] (3) · [[Experience]] · [[Fabrication]] · [[Consciousness]] · [[Ways of Looking]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^7-2|7-2]]**: _[[Emptiness]] · [[Oneness]] (2) · [[Love]] (2) · [[Perception]] (4) · [[Experience]] · [[Fabrication]] · [[Consciousness]] · [[Ways of Looking]]_</span>
 
 ```ad-quote
 Human consciousness is programmed incredibly strongly to go to that default mode. What we begin to see in practice is that default way of seeing is not the reality. If we throw out what I would call the deeper senses of oneness, of an infinite love, whatever you want to call it, if we throw that out too quickly, we just go back to the default, and in a way, we're not challenging that default mode enough.
@@ -188,7 +188,7 @@ Human consciousness is programmed incredibly strongly to go to that default mode
 
 ---
 ##### ..."By not holding to fixed views" - the liberation comes through how ways of seeing are fabricated
-<span class="counts">**[[0204 Love and Emptiness#^7-3|7-3]]**: _[[Metta]] (3) · [[Sutta]] · [[Awakening]] (3) · [[Nondualism]] · [[Oneness]] · [[Love]] · [[Consciousness]] · [[Insight]] · [[Ways of Looking]] · [[Fabrication]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^7-3|7-3]]**: _[[Metta]] (3) · [[Sutta]] · [[Awakening]] (3) · [[Nondualism]] · [[Oneness]] · [[Love]] · [[Consciousness]] · [[Insight]] · [[Perception]] · [[Ways of Looking]] · [[Fabrication]]_</span>
 
 ![[20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=35:27]]
 
@@ -479,7 +479,7 @@ In [[Phenomenology]] (the branch of Continental Philosophy), consciousness is al
 
 ---
 ##### Yogi: 2 practices: sending metta to persons and to dharmas ("new")
-<span class="counts">**[[0204 Love and Emptiness#^17-2|17-2]]**: _[[Metta]] (3) · [[Compassion]] (2) · [[Awareness]] · [[Pain]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^17-2|17-2]]**: _[[Metta]] (3) · [[Compassion]] (2) · [[Awareness]] · [[Perception]] · [[Pain]]_</span>
 
 ---
 ##### Rob: You can switch in a sitting, but be clear which one you're doing

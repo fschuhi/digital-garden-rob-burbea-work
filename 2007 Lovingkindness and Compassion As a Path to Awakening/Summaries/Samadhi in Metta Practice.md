@@ -12,7 +12,7 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3]]
 
 ## Index
-<span class="counts">_[[Samadhi]] (92) · [[Metta]] (43) · [[Love]] (30) · [[Contraction]] (20) · [[Piti]] (18) · [[Pleasantness]] (17) · [[Steadiness]] (16) · [[Retreat]] (15) · [[Insight]] (14) · [[Meditation]] (12) · [[Buddha]] (11) · [[Anger]] (10) · [[Aversion]] (10) · [[Fear]] (9) · [[Happiness]] (9) · [[Awareness]] (8) · [[Embodiment]] (8) · [[Dharma]] (7) · [[Experience]] (7) · [[Nondualism]] (7) · [[Receptivity]] (7) · [[Breath]] (6) · [[Energy]] (6) · [[Consciousness]] (5) · [[Mindfulness]] (5) · [[The Self]] (5) · [[Freedom]] (4) · [[Gratitude]] (4) · [[Hindrances]] (4) · [[Anatta]] (3) · [[Awakening]] (3) · [[Beauty]] (3) · [[Compassion]] (3) · [[Cultivation]] (3) · [[Emotions]] (3) · [[Emptiness]] (3) · [[Personhood]] (3) · [[Ways of Looking]] (3) · [[Acceptance]] (2) · [[Appreciation]] (2) · [[Centre]] (2) · [[Habit]] (2) · [[Bodhi Tree]] · [[Brahmaviharas]] · [[Buddhism]] · [[Catherine McGee]] · [[Craving]] · [[Death]] · [[Gaia House]] · [[Guinness Book of Records]] · [[Healing]] · [[Hell]] · [[Image]] · [[Impermanence]] · [[Mind state]] · [[Psyche]] · [[Tiredness]] · [[Wonder]]_</span>
+<span class="counts">_[[Samadhi]] (92) · [[Metta]] (43) · [[Love]] (30) · [[Contraction]] (20) · [[Piti]] (18) · [[Pleasantness]] (17) · [[Steadiness]] (16) · [[Retreat]] (15) · [[Insight]] (14) · [[Meditation]] (12) · [[Buddha]] (11) · [[Anger]] (10) · [[Aversion]] (10) · [[Fear]] (9) · [[Happiness]] (9) · [[Awareness]] (8) · [[Embodiment]] (8) · [[Dharma]] (7) · [[Experience]] (7) · [[Nondualism]] (7) · [[Receptivity]] (7) · [[Breath]] (6) · [[Energy]] (6) · [[Consciousness]] (5) · [[Mindfulness]] (5) · [[The Self]] (5) · [[Freedom]] (4) · [[Gratitude]] (4) · [[Hindrances]] (4) · [[Anatta]] (3) · [[Awakening]] (3) · [[Beauty]] (3) · [[Compassion]] (3) · [[Cultivation]] (3) · [[Emotions]] (3) · [[Emptiness]] (3) · [[Personhood]] (3) · [[Ways of Looking]] (3) · [[Acceptance]] (2) · [[Appreciation]] (2) · [[Centre]] (2) · [[Habit]] (2) · [[Perception]] (2) · [[Bodhi Tree]] · [[Brahmaviharas]] · [[Buddhism]] · [[Catherine McGee]] · [[Craving]] · [[Death]] · [[Gaia House]] · [[Guinness Book of Records]] · [[Healing]] · [[Hell]] · [[Image]] · [[Impermanence]] · [[Mind state]] · [[Psyche]] · [[Tiredness]] · [[Wonder]]_</span>
 <br/>
 
 ## Paragraphs
@@ -37,7 +37,7 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 
 ---
 ##### Expanded perceptions come when the consciousness deepens
-<span class="counts">**[[0122 Samadhi in Metta Practice#^2-1|2-1]]**: _[[Consciousness]] (3)_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^2-1|2-1]]**: _[[Consciousness]] (3) · [[Perception]]_</span>
 
 ---
 ### Why we need Samadhi
@@ -48,7 +48,7 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 
 ---
 ##### With samadhi we are maximizing the receptivity of the mind
-<span class="counts">**[[0122 Samadhi in Metta Practice#^2-3|2-3]]**: _[[Metta]] · [[Samadhi]] (3) · [[Receptivity]] (2) · [[Ways of Looking]] (2)_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^2-3|2-3]]**: _[[Metta]] · [[Samadhi]] (3) · [[Perception]] · [[Receptivity]] (2) · [[Ways of Looking]] (2)_</span>
 
 ---
 ##### Samadhi doesn't have to be with just one object

@@ -12,7 +12,7 @@ Transcript PDF: [[2007_0125 Expressions of Metta.pdf]]
 ![[20070125-Rob_Burbea-GAIA-expressions_of_metta-12290.mp3]]
 
 ## Index
-<span class="counts">_[[Metta]] (65) · [[Anger]] (51) · [[Love]] (49) · [[Clinging]] (12) · [[The Self]] (12) · [[Retreat]] (11) · [[Oneness]] (7) · [[Perception]] (7) · [[Anatta]] (6) · [[Compassion]] (6) · [[Habit]] (6) · [[Relationships]] (6) · [[Consciousness]] (5) · [[Energy]] (5) · [[Appreciation]] (4) · [[Buddha]] (4) · [[Dependent Origination]] (4) · [[Depression]] (4) · [[Dukkha]] (4) · [[Fear]] (4) · [[Pain]] (4) · [[Bodhisattva]] (3) · [[Emptiness]] (3) · [[Meditation]] (3) · [[Near enemy]] (3) · [[Nondualism]] (3) · [[Personhood]] (3) · [[Sutta]] (3) · [[Ways of Looking]] (3) · [[Avalokiteshvara]] (2) · [[Beauty]] (2) · [[Dimensionality]] (2) · [[Feelings]] (2) · [[Freedom]] (2) · [[Healing]] (2) · [[Hindrances]] (2) · [[Acceptance]] · [[Attention]] · [[Aversion]] · [[Desire]] · [[Gaia House]] · [[Happiness]] · [[History]] · [[Infinity]] · [[Insight]] · [[Jesus]] · [[Letting go]] · [[Music]] · [[Pleasantness]] · [[Realism]] · [[Samadhi]] · [[Spiritual circles]] · [[Steadiness]] · [[Wonder]]_</span>
+<span class="counts">_[[Metta]] (65) · [[Anger]] (51) · [[Love]] (49) · [[Clinging]] (12) · [[The Self]] (12) · [[Retreat]] (11) · [[Perception]] (10) · [[Oneness]] (7) · [[Anatta]] (6) · [[Compassion]] (6) · [[Habit]] (6) · [[Relationships]] (6) · [[Consciousness]] (5) · [[Energy]] (5) · [[Appreciation]] (4) · [[Buddha]] (4) · [[Dependent Origination]] (4) · [[Depression]] (4) · [[Dukkha]] (4) · [[Fear]] (4) · [[Pain]] (4) · [[Bodhisattva]] (3) · [[Emptiness]] (3) · [[Meditation]] (3) · [[Near enemy]] (3) · [[Nondualism]] (3) · [[Personhood]] (3) · [[Sutta]] (3) · [[Ways of Looking]] (3) · [[Avalokiteshvara]] (2) · [[Beauty]] (2) · [[Dimensionality]] (2) · [[Feelings]] (2) · [[Freedom]] (2) · [[Healing]] (2) · [[Hindrances]] (2) · [[Spaciousness]] (2) · [[Acceptance]] · [[Attention]] · [[Aversion]] · [[Desire]] · [[Gaia House]] · [[Happiness]] · [[History]] · [[Infinity]] · [[Insight]] · [[Jesus]] · [[Juiciness]] · [[Letting go]] · [[Music]] · [[Pleasantness]] · [[Realism]] · [[Samadhi]] · [[Spiritual circles]] · [[Steadiness]] · [[Wonder]]_</span>
 <br/>
 
 ## Paragraphs
@@ -52,7 +52,7 @@ Transcript PDF: [[2007_0125 Expressions of Metta.pdf]]
 
 ---
 ##### Category "friend"
-<span class="counts">**[[0125 Expressions of Metta#^2-5|2-5]]**: _[[Metta]] (4) · [[Sutta]] (2) · [[Meditation]] · [[Beauty]]_</span>
+<span class="counts">**[[0125 Expressions of Metta#^2-5|2-5]]**: _[[Metta]] (4) · [[Sutta]] (2) · [[Juiciness]] · [[Meditation]] · [[Beauty]]_</span>
 
 ---
 ##### Re-parenting ourselves
@@ -134,7 +134,7 @@ I've cut some paragraphs here
 
 ---
 ##### When anger is thrown at us, it's difficult to not automatically go into reactive mode
-<span class="counts">**[[0125 Expressions of Metta#^7-5|7-5]]**: _[[Anger]] (6)_</span>
+<span class="counts">**[[0125 Expressions of Metta#^7-5|7-5]]**: _[[Anger]] (6) · [[Spaciousness]] (2)_</span>
 
 ---
 ##### It might be easier to vent the anger, but then we are building a habit of that
@@ -256,7 +256,7 @@ I've cut some paragraphs here
 
 ---
 ##### Perceptions are changing and opening
-<span class="counts">**[[0125 Expressions of Metta#^13-1|13-1]]**: _[[Bodhisattva]] · [[Love]]_</span>
+<span class="counts">**[[0125 Expressions of Metta#^13-1|13-1]]**: _[[Bodhisattva]] · [[Love]] · [[Perception]] (3)_</span>
 
 ---
 ##### Experiment with letting the phrases go

@@ -15,16 +15,17 @@ kanban-plugin: basic
 - [ ] **Rob Burbea folder aufräumen**
 - [ ] [[Qualifying pages with trailing (...)]]
 - [ ] [[Force preview mode]]
+- [ ] [[Involve Shannon in Custodians]]
 
 
 ## Working on it
 
 - [ ] [[Explain the Digital Garden]]
-- [ ] [[Publish to GitHub]]
 
 
 ## Done
 
+- [ ] [[Publish to GitHub]]
 - [ ] [[Breadcrumbs on top of summary]]
 - [ ] [[Refactor first part of transcripts and summaries]]
 - [ ] Audio in Summary pages verlinken
