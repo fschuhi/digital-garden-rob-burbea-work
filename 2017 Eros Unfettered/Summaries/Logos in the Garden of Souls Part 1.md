@@ -1,6 +1,6 @@
 ---
-obsidianUIMode: preview
 ParagraphsListPage: false
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -11,7 +11,7 @@ Transcript: [[0202 Logos in the Garden of Souls Part 1]]
 Transcript PDF: [[2017_0202 Logos in the Garden of Souls Part 1.pdf]]
 
 ## Index
-<span class="counts">_[[Conceptual Framework]] (89) · [[Experience]] (46) · [[Fabrication]] (26) · [[Ways of Looking]] (25) · [[Soulmaking]] (22) · [[The Self]] (22) · [[Eros]] (21) · [[History]] (20) · [[Perception]] (20) · [[Divinity]] (19) · [[Logos]] (19) · [[Death]] (17) · [[Cosmology]] (13) · [[Jesus]] (12) · [[Soulmaking Dynamic]] (12) · [[Image]] (11) · [[Beauty]] (10) · [[Dharma]] (8) · [[Emptiness]] (8) · [[Imaginal]] (8) · [[Love]] (7) · [[Mindfulness]] (7) · [[Modernism]] (7) · [[Vessel]] (7) · [[Dimensionality]] (6) · [[Dominant Culture]] (6) · [[Attention]] (5) · [[Dependent Origination]] (5) · [[Embodiment]] (5) · [[Personhood]] (5) · [[Soul]] (5) · [[St. Paul]] (5) · [[Mary]] (4) · [[Anatta]] (3) · [[Fantasy]] (3) · [[Materialism]] (3) · [[Monotheism]] (3) · [[Retreat]] (3) · [[Alchemy]] (2) · [[Awareness]] (2) · [[Create-Discover]] (2) · [[Epistemology#Epistemicide]] (2) · [[Human Relationship]] (2) · [[Insight]] (2) · [[Jhanas]] (2) · [[Meditation]] (2) · [[Metaphysics]] (2) · [[Neuroscience]] (2) · [[Old Testament]] (2) · [[Present Moment]] (2) · [[Psyche]] (2) · [[Rebirth]] (2) · [[Ultimate Truth]] (2) · [[Unfabricated]] (2) · [[Archtetype]] · [[Brahman]] · [[Buddha]] · [[Carl Gustav Jung]] · [[Child Development]] · [[Christianity]] · [[Christianity#New Testament]] · [[Clinging]] · [[Desire]] · [[Dogma]] · [[Dzogchen]] · [[Epistemology]] · [[Habit]] · [[Heaven]] · [[Hell]] · [[Hermeneutics#Overview]] · [[Ignorance]] · [[Impermanence]] · [[Judaism]] · [[Kabbala]] · [[Messianism]] · [[Oneness]] · [[Ontology]] · [[Phenomenology]] · [[Poetry]] · [[Psychology of a Person]] · [[Relationships]] · [[Sexuality]] · [[Skandhas]]_</span>
+<span class="counts">_[[Conceptual Framework]] (89) · [[Experience]] (46) · [[Fabrication]] (26) · [[Ways of Looking]] (25) · [[Perception]] (22) · [[Soulmaking]] (22) · [[The Self]] (22) · [[Eros]] (21) · [[History]] (20) · [[Divinity]] (19) · [[Logos]] (19) · [[Death]] (17) · [[Cosmology]] (13) · [[Jesus]] (12) · [[Soulmaking Dynamic]] (12) · [[Image]] (11) · [[Beauty]] (10) · [[Dharma]] (8) · [[Emptiness]] (8) · [[Imaginal]] (8) · [[Love]] (7) · [[Mindfulness]] (7) · [[Modernism]] (7) · [[Vessel]] (7) · [[Dimensionality]] (6) · [[Dominant Culture]] (6) · [[Attention]] (5) · [[Dependent Origination]] (5) · [[Embodiment]] (5) · [[Personhood]] (5) · [[Soul]] (5) · [[St. Paul]] (5) · [[Mary]] (4) · [[Anatta]] (3) · [[Fantasy]] (3) · [[Materialism]] (3) · [[Monotheism]] (3) · [[Retreat]] (3) · [[Alchemy]] (2) · [[Awareness]] (2) · [[Create-Discover]] (2) · [[Epistemology#Epistemicide]] (2) · [[Human Relationship]] (2) · [[Insight]] (2) · [[Jhanas]] (2) · [[Meditation]] (2) · [[Metaphysics]] (2) · [[Neuroscience]] (2) · [[Old Testament]] (2) · [[Present Moment]] (2) · [[Psyche]] (2) · [[Rebirth]] (2) · [[Ultimate Truth]] (2) · [[Unfabricated]] (2) · [[Archtetype]] · [[Brahman]] · [[Buddha]] · [[Carl Gustav Jung]] · [[Child Development]] · [[Christianity]] · [[Christianity#New Testament]] · [[Clinging]] · [[Desire]] · [[Dogma]] · [[Dzogchen]] · [[Epistemology]] · [[Habit]] · [[Heaven]] · [[Hell]] · [[Hermeneutics#Overview]] · [[Ignorance]] · [[Impermanence]] · [[Judaism]] · [[Kabbala]] · [[Messianism]] · [[Oneness]] · [[Ontology]] · [[Phenomenology]] · [[Poetry]] · [[Psychology of a Person]] · [[Relationships]] · [[Sexuality]] · [[Skandhas]]_</span>
 <br/>
 
 ## Paragraphs
@@ -105,11 +105,11 @@ Transcript PDF: [[2017_0202 Logos in the Garden of Souls Part 1.pdf]]
 
 ---
 ##### ...
-<span class="counts">**[[0202 Logos in the Garden of Souls Part 1#^6-2|6-2]]**: _[[Dimensionality]] (3) · [[Divinity]] (4) · [[Conceptual Framework]] (3) · [[Experience]] · [[Attention]]_</span>
+<span class="counts">**[[0202 Logos in the Garden of Souls Part 1#^6-2|6-2]]**: _[[Dimensionality]] (3) · [[Divinity]] (4) · [[Conceptual Framework]] (3) · [[Experience]] · [[Attention]] · [[Perception]]_</span>
 
 ---
 ##### ...
-<span class="counts">**[[0202 Logos in the Garden of Souls Part 1#^6-3|6-3]]**: _[[Conceptual Framework]] (3) · [[Experience]] (8) · [[Fabrication]] · [[Dependent Origination]] · [[Logos]] · [[History]] (7) · [[Perception]]_</span>
+<span class="counts">**[[0202 Logos in the Garden of Souls Part 1#^6-3|6-3]]**: _[[Conceptual Framework]] (3) · [[Experience]] (8) · [[Fabrication]] · [[Dependent Origination]] · [[Logos]] · [[History]] (7) · [[Perception]] (2)_</span>
 
 ---
 ##### ...

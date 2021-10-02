@@ -7,15 +7,15 @@ kanban-plugin: basic
 ## Backlog
 
 - [ ] Kanban für Index entries anlegen
+- [ ] [[Involve Shannon in Custodians]]
+- [ ] [[Qualifying pages with trailing (...)]]
 - [ ] [[Folgezettel mechanism]]
+- [ ] [[Number headings]]
+- [ ] [[Transcripts have hr page breaks]]
 
 
 ## Pending
 
-- [ ] **Rob Burbea folder aufräumen**
-- [ ] [[Qualifying pages with trailing (...)]]
-- [ ] [[Force preview mode]]
-- [ ] [[Involve Shannon in Custodians]]
 
 
 ## Working on it
@@ -25,6 +25,7 @@ kanban-plugin: basic
 
 ## Done
 
+- [ ] [[Force preview mode]]
 - [ ] [[Publish to GitHub]]
 - [ ] [[Breadcrumbs on top of summary]]
 - [ ] [[Refactor first part of transcripts and summaries]]

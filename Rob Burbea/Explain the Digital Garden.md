@@ -36,7 +36,7 @@
 ### Digital Garden
 - I'll use the actual Digital Garden prototype to explain what I mean with "Digital Garden".
 
-[[Digital Garden#Rob]]
+[[Digital Gardens#Rob]]
 - Point of departure was a [this](https://docs.google.com/document/d/1my-qnizw-9XKszhI6TCXsXuXpPChz_rayHlRV08fGXY/edit) document from Padraig. When he showed it to the Custodians, I had not listened that [[2020 Vajra Music]] series of talks.
 - And when I did, I heard Rob calling me to action, right in the first talk.
 

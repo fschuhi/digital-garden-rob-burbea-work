@@ -19,7 +19,7 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 [[Samadhi in Metta Practice -|bare list]]
 
 ---
-##### Opportunity to develop samadhi via metta
+##### Metta develops the heart, insight and samadhi
 <span class="counts">**[[0122 Samadhi in Metta Practice#^1-1|1-1]]**: _[[Samadhi]] (3) · [[Retreat]] · [[Metta]] (2) · [[Insight]]_</span>
 
 ---
@@ -32,11 +32,11 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 <span class="counts">**[[0122 Samadhi in Metta Practice#^1-3|1-3]]**: _[[Buddha]] (2) · [[Samadhi]] (8)_</span>
 
 ---
-##### A continuum of depth - a lifelong exploration
+##### It's a continuum of depth and a lifelong exploration
 <span class="counts">**[[0122 Samadhi in Metta Practice#^1-4|1-4]]**: _[[Meditation]] (2) · [[Samadhi]] (3)_</span>
 
 ---
-##### Expanded perceptions come when the consciousness deepens
+##### Perceptions expands when the consciousness deepens
 <span class="counts">**[[0122 Samadhi in Metta Practice#^2-1|2-1]]**: _[[Consciousness]] (3) · [[Perception]]_</span>
 
 ---
@@ -159,7 +159,8 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 <span class="counts">**[[0122 Samadhi in Metta Practice#^6-1|6-1]]**: _[[Samadhi]] (2) · [[Insight]] · [[Metta]] · [[Meditation]] · [[Retreat]]_</span>
 
 ---
-##### Tightness
+#### Tightness
+##### Tightness can come from focus, but relaxing the latter is only one way to deal with tightness
 <span class="counts">**[[0122 Samadhi in Metta Practice#^6-2|6-2]]**: _[[Metta]] (2) · [[Samadhi]] · [[Experience]] · [[Breath]] (2) · [[Contraction]] (2) · [[Meditation]] · [[Retreat]]_</span>
 
 ---
@@ -181,7 +182,7 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 <span class="counts">**[[0122 Samadhi in Metta Practice#^7-1|7-1]]**: _[[Samadhi]] (2)_</span>
 
 ---
-##### Can we okay with a sense of tightness?
+##### Can we be okay with a sense of tightness?
 <span class="counts">**[[0122 Samadhi in Metta Practice#^7-2|7-2]]**: _[[Metta]] (2) · [[Contraction]] (4) · [[Awareness]]_</span>
 
 ---
@@ -207,6 +208,10 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ##### The question of effort is connected with a sense of duality, which is connected with a sense of love
 <span class="counts">**[[0122 Samadhi in Metta Practice#^7-7|7-7]]**: _[[Contraction]] (2) · [[Tiredness]] · [[Love]] (4) · [[Acceptance]] (2) · [[Nondualism]] (6)_</span>
 
+```ad-warning
+"...sense of duality, which is connected to a _lack of_ sense of love" ?
+```
+
 ---
 ##### Samadhi as goal-oriented practice
 <span class="counts">**[[0122 Samadhi in Metta Practice#^8-1|8-1]]**: _[[Insight]] · [[Samadhi]]_</span>
@@ -216,6 +221,7 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 <span class="counts">**[[0122 Samadhi in Metta Practice#^8-2|8-2]]**: _[[Samadhi]] (3) · [[Pleasantness]] (3)_</span>
 
 ---
+#### Thinking
 ##### Dwelling in a lovely space
 <span class="counts">**[[0122 Samadhi in Metta Practice#^8-3|8-3]]**: _[[Buddha]] · [[Love]] (2) · [[Compassion]] (2) · [[Metta]] · [[Brahmaviharas]] · [[Personhood]] · [[Samadhi]] (3) · [[Steadiness]] · [[Pleasantness]]_</span>
 
@@ -257,7 +263,8 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 <span class="counts">**[[0122 Samadhi in Metta Practice#^10-1|10-1]]**: _[[Samadhi]] (2) · [[Consciousness]]_</span>
 
 ---
-##### What allows piti? 1. Piti is a kind of energy
+#### What allows piti?
+##### 1. Piti is a kind of energy
 <span class="counts">**[[0122 Samadhi in Metta Practice#^10-2|10-2]]**: _[[Piti]] (4) · [[Breath]] · [[Metta]] · [[Pleasantness]] (3) · [[Samadhi]] (2) · [[Energy]] (5)_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=49:12]]

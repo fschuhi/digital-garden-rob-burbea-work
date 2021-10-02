@@ -1,6 +1,6 @@
 ---
-obsidianUIMode: preview
 ParagraphsListPage: false
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -11,7 +11,7 @@ Transcript: [[0126 Eros Unfettered Part 4]]
 Transcript PDF: [[2017_0126 Eros Unfettered Part 4.pdf]]
 
 ## Index
-<span class="counts">_[[Eros]] (38) · [[Soulmaking]] (27) · [[Image]] (26) · [[Dimensionality]] (17) · [[Imaginal]] (13) · [[Fantasy]] (11) · [[Logos]] (10) · [[Music]] (10) · [[Insight]] (9) · [[Beauty]] (8) · [[Love]] (8) · [[Soul]] (8) · [[Divinity]] (7) · [[Soulmaking Dynamic]] (7) · [[Psyche]] (6) · [[Vessel]] (6) · [[Buddha]] (5) · [[Buddha-nature]] (5) · [[Realism]] (5) · [[Alchemy]] (4) · [[Contraction]] (4) · [[Infinity]] (4) · [[Meditation]] (4) · [[Relationships]] (4) · [[Temenos]] (4) · [[Cosmology]] (3) · [[Energy]] (3) · [[Perception]] (3) · [[The Self]] (3) · [[Awakening]] (2) · [[Conceptual Framework]] (2) · [[Desire]] (2) · [[Energy Body]] (2) · [[Hermeneutics#Overview]] (2) · [[Letting go]] (2) · [[Meaningfulness]] (2) · [[Personhood]] (2) · [[Ways of Looking]] (2) · [[Activism]] · [[Carl Gustav Jung]] · [[Consciousness]] · [[Constriction]] · [[Craving]] · [[Daimon]] · [[Emptiness]] · [[Experience]] · [[Fabrication]] · [[Henry Corbin]] · [[Kabbala]] · [[Middle Way]] · [[Old Testament]] · [[Oneness]] · [[Pain]] · [[Retreat]] · [[Stories]] · [[Unfathomability]]_</span>
+<span class="counts">_[[Eros]] (38) · [[Soulmaking]] (27) · [[Image]] (26) · [[Dimensionality]] (17) · [[Imaginal]] (13) · [[Fantasy]] (11) · [[Logos]] (10) · [[Music]] (10) · [[Insight]] (9) · [[Beauty]] (8) · [[Love]] (8) · [[Soul]] (8) · [[Divinity]] (7) · [[Soulmaking Dynamic]] (7) · [[Psyche]] (6) · [[Vessel]] (6) · [[Buddha]] (5) · [[Buddha-nature]] (5) · [[Realism]] (5) · [[Alchemy]] (4) · [[Contraction]] (4) · [[Infinity]] (4) · [[Meditation]] (4) · [[Relationships]] (4) · [[Temenos]] (4) · [[Cosmology]] (3) · [[Energy]] (3) · [[Energy Body]] (3) · [[Perception]] (3) · [[The Self]] (3) · [[Awakening]] (2) · [[Conceptual Framework]] (2) · [[Desire]] (2) · [[Hermeneutics#Overview]] (2) · [[Letting go]] (2) · [[Meaningfulness]] (2) · [[Personhood]] (2) · [[Ways of Looking]] (2) · [[Activism]] · [[Carl Gustav Jung]] · [[Consciousness]] · [[Constriction]] · [[Craving]] · [[Daimon]] · [[Emptiness]] · [[Experience]] · [[Fabrication]] · [[Henry Corbin]] · [[Kabbala]] · [[Middle Way]] · [[Old Testament]] · [[Oneness]] · [[Pain]] · [[Retreat]] · [[Stories]] · [[Unfathomability]]_</span>
 <br/>
 
 ## Paragraphs
@@ -50,7 +50,7 @@ Transcript PDF: [[2017_0126 Eros Unfettered Part 4.pdf]]
 <span class="counts">**[[0126 Eros Unfettered Part 4#^2-7|2-7]]**: _[[Beauty]] (4) · [[Music]] · [[Meditation]] (2) · [[Imaginal]]_</span>
 
 ##### ...
-<span class="counts">**[[0126 Eros Unfettered Part 4#^3-1|3-1]]**: _[[Energy Body]] · [[Beauty]] · [[Image]] · [[Divinity]]_</span>
+<span class="counts">**[[0126 Eros Unfettered Part 4#^3-1|3-1]]**: _[[Energy Body]] (2) · [[Beauty]] · [[Image]] · [[Divinity]]_</span>
 
 ##### ...
 <span class="counts">**[[0126 Eros Unfettered Part 4#^3-2|3-2]]**: _[[Energy Body]] · [[Image]] (4) · [[Beauty]] · [[Music]] · [[Stories]]_</span>

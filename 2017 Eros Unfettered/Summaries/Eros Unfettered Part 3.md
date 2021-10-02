@@ -1,6 +1,6 @@
 ---
-obsidianUIMode: preview
 ParagraphsListPage: false
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -11,7 +11,7 @@ Transcript: [[0125 Eros Unfettered Part 3]]
 Transcript PDF: [[2017_0125 Eros Unfettered Part 3.pdf]]
 
 ## Index
-<span class="counts">_[[Eros]] (62) · [[Logos]] (44) · [[Image]] (39) · [[Soulmaking]] (38) · [[Ways of Looking]] (23) · [[Dimensionality]] (22) · [[Soul]] (22) · [[Perception]] (20) · [[Imaginal]] (18) · [[Psyche]] (18) · [[Soulmaking Dynamic]] (14) · [[Conceptual Framework]] (11) · [[Sexuality]] (11) · [[Fabrication]] (10) · [[Metta]] (10) · [[Love]] (9) · [[Experience]] (7) · [[Infinity]] (6) · [[Personhood]] (6) · [[Embodiment]] (5) · [[Clinging]] (4) · [[Centre]] (3) · [[Consciousness]] (3) · [[Constriction]] (3) · [[Delineations]] (3) · [[Dharma]] (3) · [[Divinity]] (3) · [[Dukkha]] (3) · [[Pain]] (3) · [[Spirituality]] (3) · [[Unfathomability]] (3) · [[Attention]] (2) · [[Awareness]] (2) · [[Emptiness]] (2) · [[History]] (2) · [[Meditation]] (2) · [[Mindfulness]] (2) · [[Modernism]] (2) · [[Oneness]] (2) · [[Reductionism]] (2) · [[Retreat]] (2) · [[The Self]] (2) · [[Unfabricated]] (2) · [[Appreciation]] · [[Beauty]] · [[Birth]] · [[Catherine McGee]] · [[Dependent Origination]] · [[Desire]] · [[Devotion]] · [[Jhanas]] · [[Passion]] · [[Phenomenon]] · [[Poetry]] · [[Wonder]]_</span>
+<span class="counts">_[[Eros]] (62) · [[Logos]] (44) · [[Image]] (39) · [[Soulmaking]] (38) · [[Ways of Looking]] (23) · [[Dimensionality]] (22) · [[Soul]] (22) · [[Perception]] (21) · [[Imaginal]] (18) · [[Psyche]] (18) · [[Soulmaking Dynamic]] (14) · [[Conceptual Framework]] (11) · [[Sexuality]] (11) · [[Fabrication]] (10) · [[Metta]] (10) · [[Love]] (9) · [[Experience]] (7) · [[Infinity]] (6) · [[Personhood]] (6) · [[Embodiment]] (5) · [[Clinging]] (4) · [[Centre]] (3) · [[Consciousness]] (3) · [[Constriction]] (3) · [[Delineations]] (3) · [[Dharma]] (3) · [[Divinity]] (3) · [[Dukkha]] (3) · [[Pain]] (3) · [[Spirituality]] (3) · [[Unfathomability]] (3) · [[Attention]] (2) · [[Awareness]] (2) · [[Emptiness]] (2) · [[History]] (2) · [[Meditation]] (2) · [[Mindfulness]] (2) · [[Modernism]] (2) · [[Oneness]] (2) · [[Reductionism]] (2) · [[Retreat]] (2) · [[The Self]] (2) · [[Unfabricated]] (2) · [[Appreciation]] · [[Beauty]] · [[Birth]] · [[Catherine McGee]] · [[Dependent Origination]] · [[Desire]] · [[Devotion]] · [[Jhanas]] · [[Passion]] · [[Phenomenon]] · [[Poetry]] · [[Wonder]]_</span>
 <br/>
 
 ## Paragraphs
@@ -29,7 +29,7 @@ Transcript PDF: [[2017_0125 Eros Unfettered Part 3.pdf]]
 <span class="counts">**[[0125 Eros Unfettered Part 3#^1-4|1-4]]**: _[[Eros]] · [[Soulmaking Dynamic]] · [[The Self]] (2) · [[Imaginal]] (2)_</span>
 
 ##### ...
-<span class="counts">**[[0125 Eros Unfettered Part 3#^1-5|1-5]]**: _[[Eros]] (6) · [[Psyche]] (3) · [[Logos]] (3) · [[Imaginal]] · [[Image]] (4) · [[Ways of Looking]] (2)_</span>
+<span class="counts">**[[0125 Eros Unfettered Part 3#^1-5|1-5]]**: _[[Eros]] (6) · [[Psyche]] (3) · [[Logos]] (3) · [[Imaginal]] · [[Image]] (4) · [[Ways of Looking]] (2) · [[Perception]]_</span>
 
 ##### ...
 <span class="counts">**[[0125 Eros Unfettered Part 3#^2-1|2-1]]**: _[[Image]] (2) · [[Ways of Looking]] (5) · [[Imaginal]] (2) · [[Soulmaking]] (4) · [[Eros]] · [[Clinging]] (2)_</span>

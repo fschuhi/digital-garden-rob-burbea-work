@@ -1,6 +1,6 @@
 ---
-obsidianUIMode: preview
 ParagraphsListPage: false
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -11,7 +11,7 @@ Transcript: [[0204 Logos in the Garden of Souls Part 3]]
 Transcript PDF: [[2017_0204 Logos in the Garden of Souls Part 3.pdf]]
 
 ## Index
-<span class="counts">_[[Soulmaking]] (43) · [[Image]] (36) · [[Conceptual Framework]] (31) · [[Eros]] (30) · [[Soul]] (26) · [[Imaginal]] (25) · [[Ways of Looking]] (24) · [[Perception]] (21) · [[Music]] (16) · [[The Self]] (15) · [[Soulmaking Dynamic]] (12) · [[Citta]] (11) · [[Psyche]] (11) · [[Cosmology]] (9) · [[Dimensionality]] (9) · [[Experience]] (8) · [[Logos]] (8) · [[Insight]] (7) · [[Oneness]] (7) · [[Relationships]] (7) · [[Consciousness]] (6) · [[Mindfulness]] (6) · [[Nondualism]] (6) · [[Buddha]] (5) · [[Dogma]] (4) · [[Fear]] (4) · [[Infinity]] (4) · [[Metaphysics]] (4) · [[Scientific method]] (4) · [[Desire]] (3) · [[Dominant Culture]] (3) · [[Dwight Eisenhower]] (3) · [[Emptiness]] (3) · [[History]] (3) · [[Materialism]] (3) · [[Meaningfulness]] (3) · [[Beauty]] (2) · [[Birth]] (2) · [[Dakini]] (2) · [[Death]] (2) · [[Divinity]] (2) · [[Epistemology]] (2) · [[Modernism]] (2) · [[Ontology]] (2) · [[Papanca]] (2) · [[Receptivity]] (2) · [[Retreat]] (2) · [[Vessel]] (2) · [[Alchemy]] · [[Attention]] · [[Awakening]] · [[Blessing]] · [[Constriction]] · [[Create-Discover]] · [[Delineations]] · [[Dependent Origination]] · [[Dharma]] · [[Feelings]] · [[Gaia House]] · [[Gestalt Psychology]] · [[Hermeneutics#Overview]] · [[Hindrances]] · [[Kabbala]] · [[Love]] · [[Meditation]] · [[Metta]] · [[Pain]] · [[Passion]] · [[Personhood]] · [[Phenomenology]] · [[Physicalism]] · [[Realism]] · [[Richard Rorty]] · [[Scientific revolution]] · [[Spirituality]] · [[Wonder]]_</span>
+<span class="counts">_[[Soulmaking]] (43) · [[Image]] (36) · [[Conceptual Framework]] (31) · [[Eros]] (30) · [[Soul]] (26) · [[Imaginal]] (25) · [[Ways of Looking]] (24) · [[Perception]] (23) · [[Music]] (16) · [[The Self]] (15) · [[Soulmaking Dynamic]] (12) · [[Citta]] (11) · [[Psyche]] (11) · [[Cosmology]] (9) · [[Dimensionality]] (9) · [[Experience]] (8) · [[Logos]] (8) · [[Insight]] (7) · [[Oneness]] (7) · [[Relationships]] (7) · [[Consciousness]] (6) · [[Mindfulness]] (6) · [[Nondualism]] (6) · [[Buddha]] (5) · [[Dogma]] (4) · [[Fear]] (4) · [[Infinity]] (4) · [[Metaphysics]] (4) · [[Scientific method]] (4) · [[Desire]] (3) · [[Dominant Culture]] (3) · [[Dwight Eisenhower]] (3) · [[Emptiness]] (3) · [[History]] (3) · [[Materialism]] (3) · [[Meaningfulness]] (3) · [[Beauty]] (2) · [[Birth]] (2) · [[Dakini]] (2) · [[Death]] (2) · [[Divinity]] (2) · [[Epistemology]] (2) · [[Modernism]] (2) · [[Ontology]] (2) · [[Papanca]] (2) · [[Receptivity]] (2) · [[Retreat]] (2) · [[Vessel]] (2) · [[Alchemy]] · [[Attention]] · [[Awakening]] · [[Blessing]] · [[Constriction]] · [[Create-Discover]] · [[Delineations]] · [[Dependent Origination]] · [[Dharma]] · [[Feelings]] · [[Gaia House]] · [[Gestalt Psychology]] · [[Hermeneutics#Overview]] · [[Hindrances]] · [[Kabbala]] · [[Love]] · [[Meditation]] · [[Metta]] · [[Pain]] · [[Passion]] · [[Personhood]] · [[Phenomenology]] · [[Physicalism]] · [[Realism]] · [[Richard Rorty]] · [[Scientific revolution]] · [[Spirituality]] · [[Wonder]]_</span>
 <br/>
 
 ## Paragraphs
@@ -57,7 +57,7 @@ Transcript PDF: [[2017_0204 Logos in the Garden of Souls Part 3.pdf]]
 
 ---
 ##### ...
-<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^3-3|3-3]]**: _[[Realism]] · [[Imaginal]] (3) · [[Consciousness]] (2) · [[Perception]] · [[Dominant Culture]] · [[Dharma]] · [[Gaia House]] · [[Psyche]]_</span>
+<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^3-3|3-3]]**: _[[Realism]] · [[Imaginal]] (3) · [[Consciousness]] (2) · [[Perception]] (3) · [[Dominant Culture]] · [[Dharma]] · [[Gaia House]] · [[Psyche]]_</span>
 
 ---
 ##### ...

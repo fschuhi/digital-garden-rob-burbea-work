@@ -9,7 +9,7 @@ From HAF final.pdf
 > This Circle will work towards maintaining, cataloguing, centralising and disseminating this body of work. Integrating this process with the development of digital platforms.
 
 Maintaining, cataloguing, centralising
-- [[Dharmaseed]]
+- [[Using Dharma Seed]]
 - [[AirTable]]
 - Transcripts as corpus => [[Explain the Digital Garden]]
 
@@ -77,6 +77,6 @@ Other media
 
 [[AirTable]]
 [[Reddit]]
-[[Dharmaseed]]
+[[Using Dharma Seed]]
 [[STF German translation]]
 [[Editorial Project]]

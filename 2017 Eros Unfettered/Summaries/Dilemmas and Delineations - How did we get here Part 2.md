@@ -1,6 +1,6 @@
 ---
-obsidianUIMode: preview
 ParagraphsListPage: false
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -13,7 +13,7 @@ Transcript PDF: [[2017_0119 Dilemmas and Delineations - How did we get here Part
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3]]
 
 ## Index
-<span class="counts">_[[Eros]] (91) · [[Soulmaking]] (20) · [[Experience]] (18) · [[Energy Body]] (14) · [[Conceptual Framework]] (10) · [[Desire]] (10) · [[Dharma]] (9) · [[Imaginal]] (9) · [[Divinity]] (8) · [[Oneness]] (8) · [[Retreat]] (7) · [[Insight]] (6) · [[Sexuality]] (6) · [[Buddha]] (4) · [[Energy]] (4) · [[Mindfulness]] (4) · [[Soul]] (4) · [[Awakening]] (3) · [[Craving]] (3) · [[Delineations]] (3) · [[Image]] (3) · [[Jhanas]] (3) · [[Psyche]] (3) · [[Soulmaking Dynamic]] (3) · [[Awareness]] (2) · [[Beauty]] (2) · [[Dimensionality]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Love]] (2) · [[Phenomenology]] (2) · [[Pleasantness]] (2) · [[Samadhi]] (2) · [[The Self]] (2) · [[Alchemy]] · [[Clinging]] · [[Consciousness]] · [[Death]] · [[Emptiness]] · [[Feelings]] · [[Happiness]] · [[Hermeneutics#Overview]] · [[Hindrances]] · [[Metta]] · [[Papanca]] · [[Passion]] · [[Piti]] · [[Relationships]] · [[Romantic love]] · [[Tantra]] · [[Unfabricated]]_</span>
+<span class="counts">_[[Eros]] (91) · [[Soulmaking]] (20) · [[Experience]] (18) · [[Energy Body]] (14) · [[Conceptual Framework]] (10) · [[Desire]] (10) · [[Dharma]] (9) · [[Imaginal]] (9) · [[Divinity]] (8) · [[Juiciness]] (8) · [[Oneness]] (8) · [[Retreat]] (7) · [[Insight]] (6) · [[Sexuality]] (6) · [[Buddha]] (4) · [[Energy]] (4) · [[Mindfulness]] (4) · [[Soul]] (4) · [[Awakening]] (3) · [[Craving]] (3) · [[Delineations]] (3) · [[Image]] (3) · [[Jhanas]] (3) · [[Psyche]] (3) · [[Soulmaking Dynamic]] (3) · [[Awareness]] (2) · [[Beauty]] (2) · [[Dimensionality]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Love]] (2) · [[Phenomenology]] (2) · [[Pleasantness]] (2) · [[Samadhi]] (2) · [[The Self]] (2) · [[Alchemy]] · [[Clinging]] · [[Consciousness]] · [[Death]] · [[Emptiness]] · [[Feelings]] · [[Happiness]] · [[Hermeneutics#Overview]] · [[Hindrances]] · [[Metta]] · [[Papanca]] · [[Passion]] · [[Piti]] · [[Relationships]] · [[Romantic love]] · [[Tantra]] · [[Unfabricated]]_</span>
 <br/>
 
 ## Paragraphs
@@ -94,19 +94,19 @@ Transcript PDF: [[2017_0119 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^5-3|5-3]]**: _[[Oneness]] · [[Eros]] (3) · [[History]] (2) · [[Love]]_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^5-3|5-3]]**: _[[Oneness]] · [[Eros]] (3) · [[Juiciness]] · [[History]] (2) · [[Love]]_</span>
 
 ---
 ##### ...
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^5-4|5-4]]**: _[[Alchemy]] · [[Eros]] (5) · [[Energy]] (2) · [[Psyche]] · [[Experience]] (2) · [[Imaginal]] (3) · [[Soulmaking]] (4)_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^5-4|5-4]]**: _[[Alchemy]] · [[Eros]] (5) · [[Energy]] (2) · [[Psyche]] · [[Juiciness]] (3) · [[Experience]] (2) · [[Imaginal]] (3) · [[Soulmaking]] (4)_</span>
 
 ---
 ##### ...
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^5-5|5-5]]**: _[[Imaginal]] · [[Image]] (3) · [[Eros]] (5) · [[Retreat]] · [[Soulmaking]] · [[Papanca]] · [[Psyche]] · [[Conceptual Framework]]_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^5-5|5-5]]**: _[[Juiciness]] · [[Imaginal]] · [[Image]] (3) · [[Eros]] (5) · [[Retreat]] · [[Soulmaking]] · [[Papanca]] · [[Psyche]] · [[Conceptual Framework]]_</span>
 
 ---
 ##### ...
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^6-1|6-1]]**: _[[Eros]] (3) · [[Experience]] · [[Energy Body]] (4) · [[Retreat]] · [[Imaginal]]_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^6-1|6-1]]**: _[[Eros]] (3) · [[Juiciness]] · [[Experience]] · [[Energy Body]] (4) · [[Retreat]] · [[Imaginal]]_</span>
 
 ---
 ##### ...
@@ -114,7 +114,7 @@ Transcript PDF: [[2017_0119 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^6-3|6-3]]**: _[[Eros]] (2) · [[Experience]] · [[Soulmaking]] (7) · [[Soul]] (4) · [[Soulmaking Dynamic]]_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^6-3|6-3]]**: _[[Eros]] (2) · [[Experience]] · [[Soulmaking]] (7) · [[Soul]] (4) · [[Soulmaking Dynamic]] · [[Juiciness]]_</span>
 
 ---
 ##### ...
@@ -122,7 +122,7 @@ Transcript PDF: [[2017_0119 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^7-1|7-1]]**: _[[Eros]] (3) · [[Experience]] (3) · [[Energy Body]] (3) · [[Pleasantness]] · [[Feelings]] · [[Retreat]]_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^7-1|7-1]]**: _[[Eros]] (3) · [[Juiciness]] · [[Experience]] (3) · [[Energy Body]] (3) · [[Pleasantness]] · [[Feelings]] · [[Retreat]]_</span>
 
 ---
 ##### ...

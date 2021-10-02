@@ -1,6 +1,6 @@
 ---
-obsidianUIMode: preview
 ParagraphsListPage: true
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -13,7 +13,7 @@ Transcript PDF: [[2017_0118 Dilemmas and Delineations - How did we get here Part
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3]]
 
 ## Index
-<span class="counts">_[[Eros]] (80) · [[Desire]] (62) · [[Dharma]] (36) · [[Passion]] (28) · [[Retreat]] (19) · [[Divinity]] (18) · [[Meditation]] (17) · [[Imaginal]] (16) · [[Insight]] (16) · [[Awakening]] (15) · [[Soulmaking]] (13) · [[Craving]] (12) · [[Delineations]] (12) · [[Sexuality]] (11) · [[Ways of Looking]] (11) · [[Buddha]] (10) · [[Love]] (10) · [[Perception]] (9) · [[Soul]] (9) · [[Beauty]] (8) · [[Clinging]] (8) · [[Experience]] (8) · [[Cosmology]] (7) · [[Death]] (7) · [[Image]] (7) · [[Conceptual Framework]] (6) · [[Dukkha]] (6) · [[Fabrication]] (6) · [[Mara]] (6) · [[Unfabricated]] (6) · [[Dependent Origination]] (5) · [[Emptiness]] (5) · [[Energy]] (5) · [[Freedom]] (5) · [[Letting go]] (5) · [[Attention]] (4) · [[Fantasy]] (4) · [[Metta]] (4) · [[Middle Way]] (4) · [[Pain]] (4) · [[Pali Canon]] (4) · [[Romantic love]] (4) · [[Thanatos]] (4) · [[The Self]] (4) · [[Dimensionality]] (3) · [[Embodiment]] (3) · [[Gaia House]] (3) · [[Oneness]] (3) · [[Tantra]] (3) · [[Alchemy]] (2) · [[Brahmaviharas]] (2) · [[Cultivation]] (2) · [[Four Bases]] (2) · [[Hindrances]] (2) · [[Jhanas]] (2) · [[Meaningfulness]] (2) · [[Psyche]] (2) · [[Samadhi]] (2) · [[Soulmaking Dynamic]] (2) · [[Archtetype]] · [[Awakening#Factors of Awakening]] · [[Consciousness]] · [[Devotion]] · [[Dominant Culture]] · [[Emptiness#Suchness]] · [[Energy Body]] · [[Equanimity]] · [[Fear]] · [[Hermit]] · [[Kusala]] · [[Logos]] · [[Materialism]] · [[Passion, Desire, and the Path]] · [[Personhood]] · [[Poetry]] · [[Precepts]] · [[Relationships]] · [[Samatha]] · [[Stories]] · [[Sutta]] · [[Wise Effort]] · [[Wise Relationship to Practice]]_</span>
+<span class="counts">_[[Eros]] (80) · [[Desire]] (62) · [[Dharma]] (36) · [[Passion]] (28) · [[Retreat]] (19) · [[Divinity]] (18) · [[Meditation]] (17) · [[Imaginal]] (16) · [[Insight]] (16) · [[Awakening]] (15) · [[Soulmaking]] (13) · [[Craving]] (12) · [[Delineations]] (12) · [[Sexuality]] (11) · [[Ways of Looking]] (11) · [[Buddha]] (10) · [[Love]] (10) · [[Perception]] (10) · [[Soul]] (9) · [[Beauty]] (8) · [[Clinging]] (8) · [[Experience]] (8) · [[Cosmology]] (7) · [[Death]] (7) · [[Image]] (7) · [[Conceptual Framework]] (6) · [[Dukkha]] (6) · [[Fabrication]] (6) · [[Mara]] (6) · [[Unfabricated]] (6) · [[Dependent Origination]] (5) · [[Emptiness]] (5) · [[Energy]] (5) · [[Freedom]] (5) · [[Letting go]] (5) · [[Attention]] (4) · [[Fantasy]] (4) · [[Metta]] (4) · [[Middle Way]] (4) · [[Pain]] (4) · [[Pali Canon]] (4) · [[Romantic love]] (4) · [[Thanatos]] (4) · [[The Self]] (4) · [[Dimensionality]] (3) · [[Embodiment]] (3) · [[Gaia House]] (3) · [[Oneness]] (3) · [[Tantra]] (3) · [[Alchemy]] (2) · [[Brahmaviharas]] (2) · [[Cultivation]] (2) · [[Four Bases]] (2) · [[Hindrances]] (2) · [[Jhanas]] (2) · [[Meaningfulness]] (2) · [[Psyche]] (2) · [[Samadhi]] (2) · [[Soulmaking Dynamic]] (2) · [[Archtetype]] · [[Awakening#Factors of Awakening]] · [[Consciousness]] · [[Devotion]] · [[Dominant Culture]] · [[Emptiness#Suchness]] · [[Energy Body]] · [[Equanimity]] · [[Fear]] · [[Hermit]] · [[Juiciness]] · [[Kusala]] · [[Logos]] · [[Materialism]] · [[Passion, Desire, and the Path]] · [[Personhood]] · [[Poetry]] · [[Precepts]] · [[Relationships]] · [[Samatha]] · [[Stories]] · [[Sutta]] · [[Wise Effort]] · [[Wise Relationship to Practice]]_</span>
 <br/>
 
 ## Paragraphs
@@ -63,7 +63,7 @@ Transcript PDF: [[2017_0118 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### There was no consensus
-<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^2-6|2-6]]**: _[[Eros]]_</span>
+<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^2-6|2-6]]**: _[[Eros]] · [[Juiciness]]_</span>
 
 ---
 ##### We need to know what we are talking about
@@ -209,7 +209,7 @@ Transcript PDF: [[2017_0118 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^11-1|11-1]]**: _[[Imaginal]] · [[Insight]] · [[Eros]] · [[The Self]] · [[Soul]] · [[Soulmaking]] (2) · [[Divinity]] (3) · [[Beauty]]_</span>
+<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^11-1|11-1]]**: _[[Imaginal]] · [[Insight]] · [[Eros]] · [[Perception]] · [[The Self]] · [[Soul]] · [[Soulmaking]] (2) · [[Divinity]] (3) · [[Beauty]]_</span>
 
 ---
 ##### ...

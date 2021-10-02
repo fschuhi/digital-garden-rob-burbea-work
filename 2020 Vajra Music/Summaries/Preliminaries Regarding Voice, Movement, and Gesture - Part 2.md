@@ -27,7 +27,7 @@ E --- E3-5[The Serpent]
 ```
 
 ## Index
-<span class="counts">_[[Soul]] (88) · [[Image]] (62) · [[Embodiment]] (49) · [[Retreat]] (34) · [[Soulmaking]] (30) · [[Energy Body]] (28) · [[Circuits]] (22) · [[Daimon]] (22) · [[Imaginal]] (17) · [[Anger]] (15) · [[Experience]] (14) · [[Soulmaking Dynamic]] (14) · [[Energy]] (13) · [[Dharma]] (12) · [[Preliminaries]] (12) · [[Eros]] (9) · [[Inertia]] (8) · [[Sankhara]] (7) · [[Duty]] (6) · [[Pedagogy]] (6) · [[The Self]] (6) · [[Thunderclap]] (6) · [[Meditation]] (5) · [[The Immovable Protector]] (5) · [[Ethics]] (4) · [[Goenka]] (4) · [[Grief]] (4) · [[Manifestations]] (4) · [[Music]] (4) · [[Music#Jazz]] (4) · [[The Serpent]] (4) · [[Alchemy]] (3) · [[Diamond Approach]] (3) · [[Dukkha]] (3) · [[Habit]] (3) · [[Insight]] (3) · [[Sila]] (3) · [[Sociology]] (3) · [[Awareness]] (2) · [[Beauty]] (2) · [[Borne Aloft By Angels]] (2) · [[Citta]] (2) · [[Contraction]] (2) · [[Devotion]] (2) · [[Dominant Culture]] (2) · [[Hindrances]] (2) · [[Love]] (2) · [[Mindfulness]] (2) · [[Pain]] (2) · [[Personhood]] (2) · [[Precepts]] (2) · [[Psyche]] (2) · [[The Spreading of Five Wings]] (2) · [[Vessel]] (2) · [[Voice, Movement, and the Possibilities of Soul]] (2) · [[Buddhism]] · [[Catherine McGee]] · [[Create-Discover]] · [[Dana]] · [[Dharma Seed]] · [[Dimensionality]] · [[Fantasy]] · [[Foundations of a Soulmaking Dharma]] · [[Gaia House]] · [[Impermanence]] · [[In Psyche's Orchard]] · [[Logos]] · [[Metta]] · [[Middle Way]] · [[Passion]] · [[Receptivity]] · [[Relationships]] · [[Sangha]] · [[Sila and Soul]] · [[Spirituality]] · [[The Image of Ethics]] · [[The Raging Beast]] · [[Theravada]] · [[Wonder]]_</span>
+<span class="counts">_[[Soul]] (88) · [[Image]] (62) · [[Embodiment]] (49) · [[Retreat]] (34) · [[Soulmaking]] (30) · [[Energy Body]] (28) · [[Circuits]] (22) · [[Daimon]] (22) · [[Imaginal]] (17) · [[Anger]] (15) · [[Experience]] (14) · [[Soulmaking Dynamic]] (14) · [[Energy]] (13) · [[Dharma]] (12) · [[Preliminaries]] (12) · [[Eros]] (9) · [[Inertia]] (8) · [[Sankhara]] (7) · [[Duty]] (6) · [[Pedagogy]] (6) · [[The Self]] (6) · [[Thunderclap]] (6) · [[Meditation]] (5) · [[The Immovable Protector]] (5) · [[Ethics]] (4) · [[Goenka]] (4) · [[Grief]] (4) · [[Manifestations]] (4) · [[Music]] (4) · [[Music#Jazz]] (4) · [[The Serpent]] (4) · [[Alchemy]] (3) · [[Diamond Approach]] (3) · [[Dukkha]] (3) · [[Habit]] (3) · [[Insight]] (3) · [[Sila]] (3) · [[Sociology]] (3) · [[Awareness]] (2) · [[Beauty]] (2) · [[Borne Aloft By Angels]] (2) · [[Citta]] (2) · [[Contraction]] (2) · [[Devotion]] (2) · [[Dominant Culture]] (2) · [[Hindrances]] (2) · [[Juiciness]] (2) · [[Love]] (2) · [[Mindfulness]] (2) · [[Pain]] (2) · [[Personhood]] (2) · [[Precepts]] (2) · [[Psyche]] (2) · [[The Spreading of Five Wings]] (2) · [[Vessel]] (2) · [[Voice, Movement, and the Possibilities of Soul]] (2) · [[Buddhism]] · [[Catherine McGee]] · [[Create-Discover]] · [[Dana]] · [[Index/Dharma Seed]] · [[Dimensionality]] · [[Fantasy]] · [[Foundations of a Soulmaking Dharma]] · [[Gaia House]] · [[Impermanence]] · [[In Psyche's Orchard]] · [[Logos]] · [[Metta]] · [[Middle Way]] · [[Passion]] · [[Receptivity]] · [[Relationships]] · [[Sangha]] · [[Sila and Soul]] · [[Spirituality]] · [[The Image of Ethics]] · [[The Raging Beast]] · [[Theravada]] · [[Wonder]]_</span>
 <br/>
 
 ## Referenced talks
@@ -53,7 +53,7 @@ references [[Daimon, Refracted]]
 
 ---
 ##### "Voice, Movement, and the Possibilities of Soul" ... but how many have picked it up? 🟢
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^1-3|1-3]]**: _[[Retreat]] · [[Foundations of a Soulmaking Dharma]] · [[Dharma Seed]] · [[Voice, Movement, and the Possibilities of Soul]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^1-3|1-3]]**: _[[Retreat]] · [[Foundations of a Soulmaking Dharma]] · [[Index/Dharma Seed]] · [[Voice, Movement, and the Possibilities of Soul]]_</span>
 
 ---
 ##### If not, why not?
@@ -536,7 +536,7 @@ And that's something that often goes with anger when anger is not so healthy: it
 
 ---
 ##### The anger can be brittle and not have depth to it
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^18-3|18-3]]**: _[[Anger]] (7) · [[Circuits]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^18-3|18-3]]**: _[[Anger]] (7) · [[Juiciness]] (2) · [[Circuits]]_</span>
 
 ---
 ##### Something can shatter in an unhelpful way

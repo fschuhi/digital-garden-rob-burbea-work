@@ -28,7 +28,7 @@ The "Index" and "Paragraphs" parts of a talk summary are explained below.
 
 
 ## Index
-<span class="counts">_[[Equanimity]] (40) · [[Happiness]] (28) · [[Metta]] (22) · [[Pain]] (22) · [[Cultivation]] (19) · [[Insight]] (14) · [[Wonder]] (13) · [[Experience]] (12) · [[Impermanence]] (12) · [[Steadiness]] (12) · [[Buddha]] (11) · [[Craving]] (11) · [[The Self]] (11) · [[Mudita]] (10) · [[Dharma]] (8) · [[Compassion]] (5) · [[Death]] (5) · [[Infinity]] (5) · [[Mindfulness]] (5) · [[Retreat]] (5) · [[Spaciousness]] (5) · [[Attention]] (4) · [[Awareness]] (4) · [[Beauty]] (4) · [[Personality structure]] (4) · [[Dukkha]] (3) · [[Eight worldly conditions]] (3) · [[Emptiness]] (3) · [[Fear]] (3) · [[Immeasurability]] (3) · [[Measuring mind]] (3) · [[Meditation]] (3) · [[Receptivity]] (3) · [[Right speech]] (3) · [[Aversion]] (2) · [[Dominant Culture]] (2) · [[Embodiment]] (2) · [[Freedom]] (2) · [[Healing]] (2) · [[Jesus]] (2) · [[Jiddu Krishnamurti]] (2) · [[Love]] (2) · [[Music]] (2) · [[Near enemy]] (2) · [[Personhood]] (2) · [[Pleasantness]] (2) · [[Reactivity]] (2) · [[Anger]] · [[Breath]] · [[Clinging]] · [[Dalai Lama]] · [[Depression]] · [[Energy]] · [[Hindrances]] · [[Mahatma Gandhi]] · [[Mother Theresa]] · [[Nondualism]] · [[Perception]] · [[Samadhi]] · [[Sangha]] · [[Thanissaro Bhikkhu]]_</span>
+<span class="counts">_[[Equanimity]] (40) · [[Happiness]] (28) · [[Metta]] (22) · [[Pain]] (22) · [[Cultivation]] (19) · [[Insight]] (14) · [[Wonder]] (13) · [[Experience]] (12) · [[Impermanence]] (12) · [[Steadiness]] (12) · [[Buddha]] (11) · [[Craving]] (11) · [[The Self]] (11) · [[Mudita]] (10) · [[Dharma]] (8) · [[Compassion]] (5) · [[Death]] (5) · [[Infinity]] (5) · [[Mindfulness]] (5) · [[Retreat]] (5) · [[Spaciousness]] (5) · [[Attention]] (4) · [[Awareness]] (4) · [[Beauty]] (4) · [[Immeasurability]] (4) · [[Personality structure]] (4) · [[Dukkha]] (3) · [[Eight worldly conditions]] (3) · [[Emptiness]] (3) · [[Fear]] (3) · [[Measuring mind]] (3) · [[Meditation]] (3) · [[Perception]] (3) · [[Receptivity]] (3) · [[Right speech]] (3) · [[Aversion]] (2) · [[Dominant Culture]] (2) · [[Embodiment]] (2) · [[Freedom]] (2) · [[Healing]] (2) · [[Jesus]] (2) · [[Jiddu Krishnamurti]] (2) · [[Juiciness]] (2) · [[Love]] (2) · [[Music]] (2) · [[Near enemy]] (2) · [[Personhood]] (2) · [[Pleasantness]] (2) · [[Reactivity]] (2) · [[Anger]] · [[Breath]] · [[Clinging]] · [[Dalai Lama]] · [[Depression]] · [[Energy]] · [[Hindrances]] · [[Mahatma Gandhi]] · [[Mother Teresa]] · [[Nondualism]] · [[Samadhi]] · [[Sangha]] · [[Thanissaro Bhikkhu]]_</span>
 
 ```ad-info
 Most of the talk summaries starts with an index. This is the collection of index entries found in each of the transcript paragraphs, with the total count across all paragraphs given in brackets. If there are no brackets then the keyword occurs only once.
@@ -92,13 +92,13 @@ There are also lines starting with "TODO". They are reminders for the "gardeners
 
 ---
 ##### Equanimity in relation to the eight worldly conditions
-<span class="counts">**[[1228 Equanimity (talk)#^2-1|2-1]]**: _[[Buddha]] (2) · [[Equanimity]] (2) · [[Eight worldly conditions]] · [[Pain]] (3) · [[Experience]] · [[Jesus]] · [[Mahatma Gandhi]] · [[Mother Theresa]] · [[Pleasantness]] (2)_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^2-1|2-1]]**: _[[Buddha]] (2) · [[Equanimity]] (2) · [[Eight worldly conditions]] · [[Pain]] (3) · [[Experience]] · [[Jesus]] · [[Mahatma Gandhi]] · [[Mother Teresa]] · [[Pleasantness]] (2)_</span>
 
 ![[20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=03:32]]
 
 ---
 ##### The near enemy is indifference and lack of juicyness in life
-<span class="counts">**[[1228 Equanimity (talk)#^2-2|2-2]]**: _[[Equanimity]] (9) · [[Near enemy]] (2) · [[The Self]]_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^2-2|2-2]]**: _[[Equanimity]] (9) · [[Near enemy]] (2) · [[Juiciness]] (2) · [[The Self]]_</span>
 
 ![[20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=05:45]]
 
@@ -292,7 +292,7 @@ Who cares, who cares. These things are completely dependent, completely relative
 
 ---
 ##### Then things begin to fade
-<span class="counts">**[[1228 Equanimity (talk)#^12-1|12-1]]**: _[[Craving]] (4) · [[Reactivity]] · [[Experience]] (3) · [[Perception]] · [[Emptiness]] (3) · [[Pain]] · [[Awareness]]_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^12-1|12-1]]**: _[[Craving]] (4) · [[Reactivity]] · [[Perception]] (3) · [[Experience]] (3) · [[Emptiness]] (3) · [[Pain]] · [[Awareness]]_</span>
 
 ![[20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=48:45]]
 
@@ -310,7 +310,7 @@ Who cares, who cares. These things are completely dependent, completely relative
 
 ---
 ##### The only way a thing really is is immeasurable
-<span class="counts">**[[1228 Equanimity (talk)#^12-5|12-5]]**: _[[Immeasurability]] (3) · [[Craving]] · [[Cultivation]] · [[Equanimity]] · [[Freedom]]_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^12-5|12-5]]**: _[[Immeasurability]] (4) · [[Craving]] · [[Cultivation]] · [[Equanimity]] · [[Freedom]]_</span>
 
 ---
 ##### This is very possible for all of us

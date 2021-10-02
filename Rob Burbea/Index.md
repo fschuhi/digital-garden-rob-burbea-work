@@ -32,7 +32,7 @@ Each index entry has a page in the "Index entries" folder. Use backlinks (shown 
 ---
 ^D
 ##### D
-[[Daimon]] &nbsp;·&nbsp; [[Daimon, Refracted]] &nbsp;·&nbsp; [[Dakini]] &nbsp;·&nbsp; [[Dalai Lama]] &nbsp;·&nbsp; [[Dana]] &nbsp;·&nbsp; [[Death]] &nbsp;·&nbsp; [[Delineations]] &nbsp;·&nbsp; [[Dependent Origination]] &nbsp;·&nbsp; [[Depression]] &nbsp;·&nbsp; [[Desire]] &nbsp;·&nbsp; [[Devotion]] &nbsp;·&nbsp; [[Dharma]] &nbsp;·&nbsp; [[Dharma Seed]] &nbsp;·&nbsp; [[Dharmakaya]] &nbsp;·&nbsp; [[Diamond Approach]] &nbsp;·&nbsp; [[Dimensionality]] &nbsp;·&nbsp; [[Discrepancy-based Processing]] &nbsp;·&nbsp; [[Divinity]] &nbsp;·&nbsp; [[Dogma]] &nbsp;·&nbsp; [[Dominant Culture]] &nbsp;·&nbsp; [[Dukkha]] &nbsp;·&nbsp; [[Duty]] &nbsp;·&nbsp; [[Dyad]] &nbsp;·&nbsp; [[Dzogchen]]
+[[Daimon]] &nbsp;·&nbsp; [[Daimon, Refracted]] &nbsp;·&nbsp; [[Dakini]] &nbsp;·&nbsp; [[Dalai Lama]] &nbsp;·&nbsp; [[Dana]] &nbsp;·&nbsp; [[Death]] &nbsp;·&nbsp; [[Delineations]] &nbsp;·&nbsp; [[Dependent Origination]] &nbsp;·&nbsp; [[Depression]] &nbsp;·&nbsp; [[Desire]] &nbsp;·&nbsp; [[Devotion]] &nbsp;·&nbsp; [[Dharma]] &nbsp;·&nbsp; [[Index/Dharma Seed]] &nbsp;·&nbsp; [[Dharmakaya]] &nbsp;·&nbsp; [[Diamond Approach]] &nbsp;·&nbsp; [[Dimensionality]] &nbsp;·&nbsp; [[Discrepancy-based Processing]] &nbsp;·&nbsp; [[Divinity]] &nbsp;·&nbsp; [[Dogma]] &nbsp;·&nbsp; [[Dominant Culture]] &nbsp;·&nbsp; [[Dukkha]] &nbsp;·&nbsp; [[Duty]] &nbsp;·&nbsp; [[Dyad]] &nbsp;·&nbsp; [[Dzogchen]]
 
 ---
 ^E
