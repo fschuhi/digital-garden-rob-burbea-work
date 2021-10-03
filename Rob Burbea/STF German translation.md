@@ -1,3 +1,0 @@
-- Christoph is handling Eva
-- It's a complex situation.
-- There is potentially a need to deviate from what Rob said he wants (or in this case: doesn't want, namely Eva to continue with the translation)

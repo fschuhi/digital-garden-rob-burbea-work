@@ -1,1 +1,0 @@
-Rob's body of teachings are so big and we are so infatuated with them that we run the risk of ventriloquizing Rob.
