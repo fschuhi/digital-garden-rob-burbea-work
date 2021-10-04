@@ -20,7 +20,7 @@ kanban-plugin: basic
 
 ## Working on it
 
-- [ ] [[Explain the Digital Garden]]
+- [ ] [[Explain the Digital Garden]], including terminology
 
 
 ## Done

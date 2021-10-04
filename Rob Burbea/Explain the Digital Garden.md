@@ -1,5 +1,16 @@
 [[AirTable]]
 
+==Terminology==
+- paragraph
+	- should be reserved for a paragraph on the PDF, i.e. the block id
+- "block id" => "paragraph id"
+- kind of same problem w/ "markdown line", "snippet" - - maybe **"line"**?
+- transcript
+- (transcript) summary
+- index entry (or "keyword"?)
+- index
+- 
+
 ## Themen, die ich ansprechen sollte
 ##### [[2021-09-29_Wed]]
 - supports different ways to work with the material
@@ -93,5 +104,7 @@ Let's now revisit Padraig's [[Vajra Music Excercises (Pádraig)]]:
 - Lastly, I am aware that something like this lives on the border between the Custodians and the Digital Platforms circle. It curates and presents the teachings, in an accessible way, but it does so using web technology.
 - That's another reason why I wanted to present the prototype to you, so that you know that there's something happening at the border.
 - I'm certainly looking forward to adding more time to gardening, and I hope that that will help the engagement with Rob's teachings, not only for me but also for others, of course.
+
+
 
 
