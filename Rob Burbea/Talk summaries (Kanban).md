@@ -11,13 +11,14 @@ kanban-plugin: basic
 
 ## Working on it
 
-- [ ] [[What is Insight]] (16)
+- [ ] additional headers for [[What is Insight]]
 - [ ] [[Joy (talk)]] (18)
 
 
 ## Done
 
 **Complete**
+- [x] [[What is Insight]] (ok)
 - [x] [[Equanimity in Compassion]] (ok)
 - [x] [[Love and Emptiness]] (ok)
 - [x] [[Guided meditation - Metta to phenomena]] (ok)
