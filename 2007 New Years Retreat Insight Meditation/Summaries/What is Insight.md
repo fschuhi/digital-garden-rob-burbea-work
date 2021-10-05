@@ -13,10 +13,6 @@ Transcript PDF: [[2007_1229 What is Insight.pdf]]
 
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3]]
 
-```ad-danger
-Work in Progress
-```
-
 ## Index
 <span class="counts">_[[Insight]] (89) · [[Dukkha]] (55) · [[Impermanence]] (30) · [[Experience]] (29) · [[Letting go]] (24) · [[Mindfulness]] (22) · [[Ways of Looking]] (17) · [[Buddha]] (16) · [[Dharma]] (16) · [[Aversion]] (12) · [[Consciousness]] (11) · [[Freedom]] (11) · [[Ultimate Truth]] (11) · [[Embodiment]] (10) · [[Mind]] (10) · [[Stories]] (10) · [[Craving]] (9) · [[Habit]] (9) · [[Emptiness]] (8) · [[Happiness]] (8) · [[Love]] (8) · [[Anatta]] (6) · [[Conventional reality]] (6) · [[Generosity]] (6) · [[Metta]] (6) · [[Pain]] (6) · [[Attention]] (5) · [[Emotions]] (5) · [[Papanca]] (5) · [[Phenomenon]] (5) · [[Samadhi]] (5) · [[Beauty]] (4) · [[Clinging]] (4) · [[Ethics]] (4) · [[Meditation]] (4) · [[Personality types]] (4) · [[Relationships]] (4) · [[Retreat]] (4) · [[Steadiness]] (4) · [[Avijja]] (3) · [[Conceptual Framework]] (3) · [[Perception]] (3) · [[Three characteristics]] (3) · [[Awakening]] (2) · [[Awareness]] (2) · [[Breath]] (2) · [[Commentaries]] (2) · [[Cultivation]] (2) · [[Death]] (2) · [[Dependent Origination]] (2) · [[Devotion]] (2) · [[Emptiness#Suchness]] (2) · [[Feelings]] (2) · [[Four Noble Truths]] (2) · [[Healing]] (2) · [[Kaccayana]] (2) · [[Nihilism]] (2) · [[Personhood]] (2) · [[Skandhas]] (2) · [[Spiritual circles]] (2) · [[Unfabricated]] (2) · [[Compassion]] · [[Fabrication]] · [[Fantasy]] · [[Ignorance]] · [[Pleasantness]] · [[Present Moment]] · [[Psychological maturity]] · [[Satipatthana Sutta]]_</span>
 <br/>
@@ -25,6 +21,7 @@ Work in Progress
 [[What is Insight -|bare list]]
 
 ---
+### Intro
 ##### This talk is about putting things in place
 <span class="counts">**[[1229 What is Insight#^1-1|1-1]]**: _[[Insight]] (4) · [[Meditation]] · [[Conceptual Framework]]_</span>
 
@@ -43,6 +40,7 @@ Work in Progress
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=01:50]]
 
 ---
+### Definition
 ##### General definition of insight: that which brings lessening of suffering
 <span class="counts">**[[1229 What is Insight#^1-4|1-4]]**: _[[Insight]] (12) · [[Dukkha]] (7) · [[Experience]] (2) · [[Meditation]]_</span>
 
@@ -62,13 +60,15 @@ Any situation, any experience, you can apply insight to, insight is relevant.
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=04:46]]
 
 ---
+### Kinds of insight
 ##### 3 kinds of insights
 <span class="counts">**[[1229 What is Insight#^2-2|2-2]]**: _[[Insight]] (2) · [[Ways of Looking]]_</span>
 
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=05:52]]
 
+#### (1) Personal insight
 ---
-##### (1) Personal insight into one's own habits of body, speech and mind
+##### Personal insight into one's own habits of body, speech and mind
 <span class="counts">**[[1229 What is Insight#^2-3|2-3]]**: _[[Insight]] (4) · [[Habit]] (4) · [[Embodiment]] · [[Mind]]_</span>
 
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=06:17]]
@@ -122,7 +122,8 @@ Any story we have of ourselves can never, even if it's very beautiful, even if i
 ```
 
 ---
-##### (2) Universal insights, for all beings and all things
+#### (2) Universal insights
+##### Universal insights pertain to all beings and all things
 <span class="counts">**[[1229 What is Insight#^4-3|4-3]]**: _[[Ultimate Truth]] · [[Habit]] · [[Impermanence]]_</span>
 
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=13:35]]
@@ -145,7 +146,8 @@ add more "world of" index entries
 ```
 
 ---
-##### (3) Ultimate truth is beyond words, transcends any of the other
+#### (3) Ultimate truth
+##### Ultimate truth is beyond words, transcends any of the other
 <span class="counts">**[[1229 What is Insight#^5-1|5-1]]**: _[[Ultimate Truth]] · [[Buddha]] · [[Awakening]] · [[Insight]]_</span>
 
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=15:45]]
@@ -157,6 +159,7 @@ add more "world of" index entries
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=16:10]]
 
 ---
+#### More on universal insights
 ##### Another universal insight: it's a good idea to practice
 <span class="counts">**[[1229 What is Insight#^5-3|5-3]]**: _[[Ultimate Truth]] · [[Insight]] (3) · [[Dukkha]]_</span>
 
@@ -192,6 +195,8 @@ Actually we need to see this over and over and over and over and over, until fin
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=20:28]]
 
 ---
+### Insight practice
+#### Insights as results
 ##### "Insights arise", often from trusting mindfulness
 <span class="counts">**[[1229 What is Insight#^6-2|6-2]]**: _[[Dharma]] (4) · [[Insight]] (5) · [[Cultivation]] · [[Mindfulness]] (6) · [[Attention]] · [[Present Moment]] · [[Mind]]_</span>
 
@@ -204,6 +209,7 @@ Actually we need to see this over and over and over and over and over, until fin
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=22:43]]
 
 ---
+#### Acting on insights
 ##### "Insights arising" vs "using insights"
 <span class="counts">**[[1229 What is Insight#^6-4|6-4]]**: _[[Insight]] (4) · [[Retreat]] (2) · [[Metta]] · [[Letting go]] · [[Impermanence]]_</span>
 
@@ -233,6 +239,7 @@ check out some thing, or the other.
 ```
 
 ---
+#### Using an insight as a lens
 ##### Another way to consolidate the insight is to use it as a mode of seeing
 <span class="counts">**[[1229 What is Insight#^7-3|7-3]]**: _[[Insight]] (3) · [[Mindfulness]] (2) · [[Conceptual Framework]] · [[Impermanence]] (3) · [[Experience]] (2) · [[Ways of Looking]] (2) · [[Retreat]]_</span>
 
@@ -289,13 +296,15 @@ So some people always want to just "be," and just let things arise, and some peo
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=33:52]]
 
 ---
-##### The Three Characteristics
+### Three Characteristics
+##### The Three Characteristics are modes of seeing which add to suffering
 <span class="counts">**[[1229 What is Insight#^9-3|9-3]]**: _[[Ways of Looking]] (2) · [[Dukkha]] (2) · [[Consciousness]] · [[Buddha]] · [[Three characteristics]] · [[Impermanence]] · [[Anatta]] (2)_</span>
 
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=34:57]]
 
 ---
-##### (1) Impermanence: it is obvious, but are we seeing it in a way that makes a difference?
+#### (1) Impermance
+##### Impermanence is an obvious fact, but are we seeing it in a way that makes a difference?
 <span class="counts">**[[1229 What is Insight#^9-4|9-4]]**: _[[Impermanence]] (3) · [[Insight]] (2) · [[Mindfulness]] (2) · [[Attention]] · [[Beauty]]_</span>
 
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=35:40]]
@@ -347,7 +356,8 @@ So I'm talking about modes of seeing that we can pick up and use, that lead to a
 ```
 
 ---
-##### (2) Dukkha
+#### (2) Dukkha
+##### Seeing things as unsatisfactory
 <span class="counts">**[[1229 What is Insight#^11-1|11-1]]**: _[[Dukkha]] (2) · [[Freedom]] (2) · [[Happiness]] · [[Impermanence]] · [[Consciousness]] · [[Experience]] · [[Aversion]] · [[Letting go]] (2)_</span>
 
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=40:43]]
@@ -369,7 +379,8 @@ What if I saw everything as unsatisfactory? Just things come into consciousness,
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=42:39]]
 
 ---
-##### (3) Anatta
+#### (3) Anatta
+##### Seeing things as not-self
 <span class="counts">**[[1229 What is Insight#^11-4|11-4]]**: _[[Anatta]] (3) · [[Embodiment]] · [[Emotions]] · [[Letting go]] (4)_</span>
 
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=43:38]]
@@ -452,6 +463,7 @@ I was just being there, and the experience was getting more and more bright, mor
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=51:55]]
 
 ---
+#### Dependent Origination
 ##### Satipatthana Sutta
 <span class="counts">**[[1229 What is Insight#^14-2|14-2]]**: _[[Buddha]] · [[Satipatthana Sutta]] · [[Meditation]] · [[Phenomenon]] · [[Embodiment]] · [[Perception]] · [[Consciousness]] (2) · [[Impermanence]] · [[Clinging]] · [[Experience]] · [[Emptiness]] · [[Insight]] · [[Awakening]]_</span>
 
