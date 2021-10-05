@@ -1,7 +1,7 @@
 ---
-obsidianUIMode: preview
 ParagraphsListPage: true
 Series: 2020 Vajra Music
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -29,7 +29,7 @@ E --- E3-5[The Serpent]
 ```
 
 ## Index
-<span class="counts">_[[Soul]] (88) · [[Image]] (62) · [[Embodiment]] (49) · [[Retreat]] (34) · [[Soulmaking]] (30) · [[Energy Body]] (28) · [[Circuits]] (22) · [[Daimon]] (22) · [[Imaginal]] (17) · [[Anger]] (15) · [[Experience]] (14) · [[Soulmaking Dynamic]] (14) · [[Energy]] (13) · [[Dharma]] (12) · [[Preliminaries]] (12) · [[Eros]] (9) · [[Inertia]] (8) · [[Sankhara]] (7) · [[Duty]] (6) · [[Pedagogy]] (6) · [[The Self]] (6) · [[Thunderclap]] (6) · [[Meditation]] (5) · [[The Immovable Protector]] (5) · [[Ethics]] (4) · [[Goenka]] (4) · [[Grief]] (4) · [[Manifestations]] (4) · [[Music]] (4) · [[Music#Jazz]] (4) · [[The Serpent]] (4) · [[Alchemy]] (3) · [[Diamond Approach]] (3) · [[Dukkha]] (3) · [[Habit]] (3) · [[Insight]] (3) · [[Sila]] (3) · [[Sociology]] (3) · [[Awareness]] (2) · [[Beauty]] (2) · [[Borne Aloft By Angels]] (2) · [[Citta]] (2) · [[Contraction]] (2) · [[Devotion]] (2) · [[Dominant Culture]] (2) · [[Hindrances]] (2) · [[Juiciness]] (2) · [[Love]] (2) · [[Mindfulness]] (2) · [[Pain]] (2) · [[Personhood]] (2) · [[Precepts]] (2) · [[Psyche]] (2) · [[The Spreading of Five Wings]] (2) · [[Vessel]] (2) · [[Voice, Movement, and the Possibilities of Soul]] (2) · [[Buddhism]] · [[Catherine McGee]] · [[Create-Discover]] · [[Dana]] · [[Index/Dharma Seed]] · [[Dimensionality]] · [[Fantasy]] · [[Foundations of a Soulmaking Dharma]] · [[Gaia House]] · [[Impermanence]] · [[In Psyche's Orchard]] · [[Logos]] · [[Metta]] · [[Middle Way]] · [[Passion]] · [[Receptivity]] · [[Relationships]] · [[Sangha]] · [[Sila and Soul]] · [[Spirituality]] · [[The Image of Ethics]] · [[The Raging Beast]] · [[Theravada]] · [[Wonder]]_</span>
+<span class="counts">_[[Embodiment]] (95) · [[Soul]] (88) · [[Image]] (62) · [[Retreat]] (34) · [[Soulmaking]] (30) · [[Energy Body]] (28) · [[Circuits]] (22) · [[Daimon]] (22) · [[Imaginal]] (17) · [[Anger]] (15) · [[Experience]] (14) · [[Soulmaking Dynamic]] (14) · [[Energy]] (13) · [[Dharma]] (12) · [[Preliminaries]] (12) · [[Mind]] (10) · [[Eros]] (9) · [[Inertia]] (8) · [[Sankhara]] (7) · [[Duty]] (6) · [[Pedagogy]] (6) · [[The Self]] (6) · [[Thunderclap]] (6) · [[Meditation]] (5) · [[The Immovable Protector]] (5) · [[Ethics]] (4) · [[Goenka]] (4) · [[Grief]] (4) · [[Manifestations]] (4) · [[Music]] (4) · [[Music#Jazz]] (4) · [[The Serpent]] (4) · [[Alchemy]] (3) · [[Diamond Approach]] (3) · [[Dukkha]] (3) · [[Habit]] (3) · [[Insight]] (3) · [[Sila]] (3) · [[Sociology]] (3) · [[Awareness]] (2) · [[Beauty]] (2) · [[Borne Aloft By Angels]] (2) · [[Citta]] (2) · [[Contraction]] (2) · [[Devotion]] (2) · [[Dominant Culture]] (2) · [[Hindrances]] (2) · [[Juiciness]] (2) · [[Love]] (2) · [[Mindfulness]] (2) · [[Pain]] (2) · [[Personhood]] (2) · [[Precepts]] (2) · [[Psyche]] (2) · [[The Spreading of Five Wings]] (2) · [[Vessel]] (2) · [[Voice, Movement, and the Possibilities of Soul]] (2) · [[Buddhism]] · [[Catherine McGee]] · [[Create-Discover]] · [[Dana]] · [[Dharma Seed]] · [[Dimensionality]] · [[Fantasy]] · [[Foundations of a Soulmaking Dharma]] · [[Gaia House]] · [[Impermanence]] · [[In Psyche's Orchard]] · [[Logos]] · [[Metta]] · [[Middle Way]] · [[Passion]] · [[Receptivity]] · [[Relationships]] · [[Sangha]] · [[Sila and Soul]] · [[Spirituality]] · [[The Image of Ethics]] · [[The Raging Beast]] · [[Theravada]] · [[Wonder]]_</span>
 <br/>
 
 ## Referenced talks
@@ -49,13 +49,13 @@ E --- E3-5[The Serpent]
 
 ---
 ##### "Daimon, Refracted" 🟢
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^1-2|1-2]]**: _[[Embodiment]] · [[Retreat]] · [[Meditation]] · [[Soulmaking]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^1-2|1-2]]**: _[[Embodiment]] (2) · [[Retreat]] · [[Meditation]] · [[Soulmaking]]_</span>
 
 references [[Daimon, Refracted]]
 
 ---
 ##### "Voice, Movement, and the Possibilities of Soul" ... but how many have picked it up? 🟢
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^1-3|1-3]]**: _[[Retreat]] · [[Foundations of a Soulmaking Dharma]] · [[Index/Dharma Seed]] · [[Voice, Movement, and the Possibilities of Soul]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^1-3|1-3]]**: _[[Retreat]] · [[Foundations of a Soulmaking Dharma]] · [[Dharma Seed]] · [[Voice, Movement, and the Possibilities of Soul]]_</span>
 
 ---
 ##### If not, why not?
@@ -71,7 +71,7 @@ revisits [[Inertia]]
 
 ---
 ##### The question also sheds light on pedagogy
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^2-2|2-2]]**: _[[Pedagogy]] (2) · [[Inertia]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^2-2|2-2]]**: _[[Pedagogy]] (2) · [[Mind]] · [[Inertia]]_</span>
 
 ---
 ##### Recap from yesterday: it's about sensitivity
@@ -79,7 +79,7 @@ revisits [[Inertia]]
 
 ---
 ##### We are often held back or holding in of our energy
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^2-4|2-4]]**: _[[The Self]] · [[Sociology]] · [[Energy]] (4) · [[Sankhara]] (7) · [[Eros]] (3) · [[Soul]] (2) · [[Dominant Culture]] · [[Dharma]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^2-4|2-4]]**: _[[The Self]] · [[Sociology]] · [[Energy]] (4) · [[Embodiment]] (2) · [[Sankhara]] (7) · [[Eros]] (3) · [[Soul]] (2) · [[Dominant Culture]] · [[Dharma]]_</span>
 
 ---
 ##### "Preliminaries" can become ensouled
@@ -179,7 +179,7 @@ In a way, I'm offering these particular teachings now, offering them so that the
 
 ---
 ##### And always listen to you body, adapt it if necessary
-<span class="counts">[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^6-5|6-5]]</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^6-5|6-5]]**: _[[Embodiment]] (5)_</span>
 
 ---
 ### Excercise 3
@@ -208,7 +208,7 @@ This one was the one which made Rob compile those offerings, so it's really, rea
 
 ---
 ##### Emphatic gesture
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^7-5|7-5]]**: _[[Energy]] (2) · [[Soul]] (5) · [[Imaginal]] · [[Eros]] · [[Embodiment]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^7-5|7-5]]**: _[[Energy]] (2) · [[Soul]] (5) · [[Imaginal]] · [[Eros]] · [[Mind]] · [[Embodiment]] (3)_</span>
 - relativly short
 - maybe with vocalization
 - emphatic, i.e. force, energy, strength in it
@@ -216,7 +216,7 @@ This one was the one which made Rob compile those offerings, so it's really, rea
 
 ---
 ##### Thunderclap examples
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^7-6|7-6]]**: _[[Embodiment]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^7-6|7-6]]**: _[[Mind]] · [[Embodiment]] (3)_</span>
 - stamp the foot
 - gesture with arms or fists
 - kick
@@ -243,7 +243,7 @@ you don't actually know what you're going to do. You just feel the impulse, and 
 
 ---
 ##### Bring everything together: mind, intention, soul, body
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^8-1|8-1]]**: _[[Soul]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^8-1|8-1]]**: _[[Mind]] · [[Soul]] · [[Embodiment]]_</span>
 
 ---
 ##### You assess it first (the student)
@@ -266,7 +266,7 @@ see [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^assessment-
 ---
 #### 🟡 Excercise 3.2: _Borne Aloft by Angels_
 ##### Make your body buoyant
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-1|9-1]]**: _[[Borne Aloft By Angels]] (2) · [[Image]] · [[Love]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-1|9-1]]**: _[[Borne Aloft By Angels]] (2) · [[Embodiment]] (4) · [[Image]] · [[Love]]_</span>
 ==timing==
 - max 2 minutes
 - certainly >20 seconds
@@ -274,7 +274,7 @@ see [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^assessment-
 
 ---
 ##### Be moved by these angels
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-2|9-2]]**: _[[Daimon]] (2) · [[Energy Body]] · [[Soul]] · [[Retreat]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-2|9-2]]**: _[[Embodiment]] (6) · [[Daimon]] (2) · [[Energy Body]] · [[Soul]] · [[Retreat]]_</span>
 - express with body of being borne aloft
 - weightless angels carry me => soaring
 - held up by gossamer threads of love and light
@@ -287,7 +287,7 @@ see [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^assessment-
 ---
 #### 🟡 Excercise 3.3: _The Raging Beast_
 ##### Different types of beasts
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-3|9-3]]**: _[[The Raging Beast]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-3|9-3]]**: _[[The Raging Beast]] · [[Mind]]_</span>
 ==variations==
 - only raging
 - with horns, fangs
@@ -295,11 +295,11 @@ see [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^assessment-
 
 ---
 ##### Gather the citta, then another burst
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-4|9-4]]**: _[[Hindrances]] (2) · [[Citta]] · [[Energy Body]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-4|9-4]]**: _[[Hindrances]] (2) · [[Embodiment]] (2) · [[Citta]] · [[Energy Body]]_</span>
 
 ---
 ##### Vocalization is possible, not necessary - - get more discriminating
-<span class="counts">[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-5|9-5]]</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-5|9-5]]**: _[[Embodiment]]_</span>
 
 ---
 #### 🟡 Excercise 3.4: _The Immovable Protector_
@@ -323,7 +323,7 @@ see [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^assessment-
 
 ---
 ##### Modalities
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^10-1|10-1]]**: _[[The Immovable Protector]] · [[Energy Body]] (2) · [[Soul]] · [[Image]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^10-1|10-1]]**: _[[The Immovable Protector]] · [[Energy Body]] (2) · [[Mind]] · [[Soul]] · [[Image]]_</span>
 ==variations==
 - range of movement
 	- immovable
@@ -343,7 +343,7 @@ see [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^assessment-
 
 ---
 ##### Summary of some modalities
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^10-3|10-3]]**: _[[Energy Body]] · [[Imaginal]] (2) · [[Image]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^10-3|10-3]]**: _[[Energy Body]] · [[Imaginal]] (2) · [[Image]] · [[Embodiment]]_</span>
 
 ---
 ##### Excercise 3 ends
@@ -354,11 +354,11 @@ see [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^assessment-
 ---
 ### Again: Why?
 ##### Ability to gather momentum (e.g. for Thunderclap) is quite rare
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^10-5|10-5]]**: _[[Passion]] · [[Thunderclap]] (2) · [[Citta]] · [[Soul]] · [[Energy]] · [[Wonder]] · [[Dharma]] (2)_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^10-5|10-5]]**: _[[Passion]] · [[Thunderclap]] (2) · [[Citta]] · [[Soul]] · [[Mind]] · [[Embodiment]] · [[Energy]] · [[Wonder]] · [[Dharma]] (2)_</span>
 
 ---
 ##### Circuits aren't connected, and it limits what arises imaginally
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^10-6|10-6]]**: _[[Energy]] · [[Soul]] · [[Circuits]] (5) · [[Image]] (7) · [[Soulmaking]] (2) · [[Imaginal]] · [[Soulmaking Dynamic]] (2)_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^10-6|10-6]]**: _[[Embodiment]] · [[Mind]] · [[Energy]] · [[Soul]] · [[Circuits]] (5) · [[Image]] (7) · [[Soulmaking]] (2) · [[Imaginal]] · [[Soulmaking Dynamic]] (2)_</span>
 
 ---
 ##### This affects the whole psyche, heart, relation to others
@@ -426,15 +426,15 @@ Putting that piece in, the assessment, the sort of exam piece, actually makes it
 
 ---
 ##### Sometimes yogis need me to demonstrate it, and/or they forget it
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^13-5|13-5]]**: _[[Insight]] · [[Habit]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^13-5|13-5]]**: _[[Embodiment]] · [[Insight]] · [[Habit]]_</span>
 
 ---
 ##### Sometimes there's a lack of sensitivity to the energy body
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^13-6|13-6]]**: _[[Energy Body]] · [[Energy]] · [[Embodiment]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^13-6|13-6]]**: _[[Energy Body]] · [[Energy]] · [[Embodiment]] (2)_</span>
 
 ---
 ##### Loud Heavy Metal or Punk voices can still be contracted
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^14-1|14-1]]**: _[[Contraction]] (2)_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^14-1|14-1]]**: _[[Contraction]] (2) · [[Embodiment]]_</span>
 
 ---
 ##### There are singers whose energy is fully inhabiting the space they are in
@@ -442,7 +442,7 @@ Putting that piece in, the assessment, the sort of exam piece, actually makes it
 
 ---
 ##### Doing the excercises can feel alien or comical, or  go against what's associated with spirituality 🟢
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^14-3|14-3]]**: _[[Retreat]] · [[Voice, Movement, and the Possibilities of Soul]] · [[Spirituality]] · [[Dharma]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^14-3|14-3]]**: _[[Retreat]] · [[Voice, Movement, and the Possibilities of Soul]] · [[Embodiment]] · [[Spirituality]] · [[Dharma]]_</span>
 
 ---
 ##### It's something that can be strikingly underdeveloped for practitioners
@@ -508,15 +508,15 @@ Beautiful as the [[experience]] of that week can be, or some of the experiences 
 
 ---
 ##### The soul needs the circuits to be connected
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^17-3|17-3]]**: _[[Soul]] (4) · [[Circuits]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^17-3|17-3]]**: _[[Soul]] (4) · [[Circuits]] · [[Embodiment]]_</span>
 
 ---
 ##### Sometimes we don't let certain expressions of movement/gesture/voice into the body
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^17-4|17-4]]**: _[[Embodiment]] (2) · [[Manifestations]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^17-4|17-4]]**: _[[Embodiment]] (5) · [[Manifestations]]_</span>
 
 ---
 ##### we want the whole range of images to be available 🟢
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^17-5|17-5]]**: _[[Image]] (11) · [[Soul]] (3) · [[Imaginal]] (2) · [[The Spreading of Five Wings]] (2) · [[Inertia]] · [[Embodiment]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^17-5|17-5]]**: _[[Image]] (11) · [[Soul]] (3) · [[Embodiment]] (3) · [[Imaginal]] (2) · [[The Spreading of Five Wings]] (2) · [[Inertia]]_</span>
 
 ```ad-quote
 Soul wants the whole palette to be available for its art. And it wants that not just in imaginal practice, but also in the body and in the voice, and the [[Embodiment|expressions of body]] and voice, movement and gesture, etc. 
@@ -524,7 +524,7 @@ Soul wants the whole palette to be available for its art. And it wants that not 
 
 ---
 ##### Closed circuit might lead to black-and-white thinking
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^18-1|18-1]]**: _[[Soul]] · [[Embodiment]] (2) · [[Anger]] (5) · [[Circuits]] (2) · [[Image]] · [[Habit]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^18-1|18-1]]**: _[[Soul]] · [[Embodiment]] (4) · [[Anger]] (5) · [[Circuits]] (2) · [[Mind]] (2) · [[Image]] · [[Habit]]_</span>
 
 ![[20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=1:33:03]]
 
@@ -538,7 +538,7 @@ And that's something that often goes with anger when anger is not so healthy: it
 
 ---
 ##### The anger can be brittle and not have depth to it
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^18-3|18-3]]**: _[[Anger]] (7) · [[Juiciness]] (2) · [[Circuits]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^18-3|18-3]]**: _[[Anger]] (7) · [[Juiciness]] (2) · [[Circuits]] · [[Embodiment]]_</span>
 
 ---
 ##### Something can shatter in an unhelpful way
@@ -552,7 +552,7 @@ referenced [[Pain, as Void and as Sacrament]]
 
 ---
 ##### When does an image need to be concretized in movement, gesture, voice?
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^19-2|19-2]]**: _[[Embodiment]] (3) · [[Image]] (5) · [[Soulmaking]] (4) · [[Energy Body]] · [[Soul]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^19-2|19-2]]**: _[[Embodiment]] (5) · [[Image]] (5) · [[Soulmaking]] (4) · [[Energy Body]] · [[Soul]]_</span>
 
 ---
 ##### What's the most soulmaking in the more long-term?
@@ -560,13 +560,13 @@ referenced [[Pain, as Void and as Sacrament]]
 
 ---
 ##### 2 temporalities
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^19-4|19-4]]**: _[[Image]] (3) · [[Soulmaking]] (2)_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^19-4|19-4]]**: _[[Image]] (3) · [[Soulmaking]] (2) · [[Embodiment]]_</span>
 - what allows the image to become more soulmaking _now_?
 - what is it that allows a fuller soulmaking in my life, over the _long term_?
 
 ---
 ##### The image needs to be refracted into duty - - are the circuits working?
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^19-5|19-5]]**: _[[Image]] (2) · [[Duty]] (2) · [[Embodiment]] · [[Circuits]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^19-5|19-5]]**: _[[Image]] (2) · [[Embodiment]] (2) · [[Duty]] (2) · [[Circuits]]_</span>
 
 ---
 ##### Sometimes something is so cut that we don't even feel the soul's want

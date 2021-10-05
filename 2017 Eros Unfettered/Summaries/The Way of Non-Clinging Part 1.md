@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: true
-obsidianUIMode: preview
 Series: 2017 Eros Unfettered
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -29,7 +29,7 @@ Transcript PDF: [[2017_0115 The Way of Non-Clinging Part 1.pdf]]
 => Be wary of teachings with limited depth and breath
 
 ## Index
-<span class="counts">_[[Craving]] (85) · [[Clinging]] (66) · [[Dukkha]] (28) · [[Impermanence]] (23) · [[Letting go]] (23) · [[Experience]] (21) · [[Desire]] (19) · [[Attention]] (18) · [[Buddha]] (18) · [[The Self]] (18) · [[Hindrances]] (15) · [[Mindfulness]] (15) · [[Ignorance]] (13) · [[Insight]] (13) · [[Awakening]] (12) · [[Papanca]] (12) · [[Dependent Origination]] (11) · [[Dharma]] (11) · [[Perception]] (10) · [[Delineations]] (9) · [[Passion]] (9) · [[Unfabricated]] (9) · [[Contraction]] (8) · [[Vedana]] (8) · [[Avijja]] (7) · [[Fabrication]] (7) · [[Habit]] (7) · [[Meditation]] (7) · [[Consciousness]] (6) · [[Fetters]] (6) · [[Pain]] (6) · [[Pleasantness]] (6) · [[Sankhara]] (6) · [[Aversion]] (5) · [[Chanda]] (5) · [[Death]] (5) · [[Freedom]] (5) · [[Conceptual Framework]] (4) · [[Retreat]] (4) · [[Stories]] (4) · [[Beauty]] (3) · [[Birth]] (3) · [[Pali Canon]] (3) · [[Rebirth]] (3) · [[Emptiness]] (2) · [[Energy Body]] (2) · [[Kusala]] (2) · [[Mystical opening]] (2) · [[Vedic]] (2) · [[Alchemy]] · [[Anxiety]] · [[Asavas]] · [[Divinity]] · [[Eros]] · [[History]] · [[Image]] · [[Jhanas]] · [[Love]] · [[Manifestations]] · [[Metta]] · [[Mode of mind]] · [[Payutto]] · [[Personhood]] · [[Phenomenon]] · [[Sariputta]] · [[Seeing That Frees]] · [[Spaciousness]]_</span>
+<span class="counts">_[[Craving]] (85) · [[Clinging]] (66) · [[Mind]] (30) · [[Dukkha]] (28) · [[Impermanence]] (23) · [[Letting go]] (23) · [[Experience]] (21) · [[Desire]] (19) · [[Attention]] (18) · [[Buddha]] (18) · [[The Self]] (18) · [[Hindrances]] (15) · [[Mindfulness]] (15) · [[Ignorance]] (13) · [[Insight]] (13) · [[Awakening]] (12) · [[Papanca]] (12) · [[Dependent Origination]] (11) · [[Dharma]] (11) · [[Habit]] (11) · [[Embodiment]] (10) · [[Perception]] (10) · [[Delineations]] (9) · [[Passion]] (9) · [[Unfabricated]] (9) · [[Contraction]] (8) · [[Vedana]] (8) · [[Avijja]] (7) · [[Fabrication]] (7) · [[Meditation]] (7) · [[Consciousness]] (6) · [[Fetters]] (6) · [[Pain]] (6) · [[Pleasantness]] (6) · [[Sankhara]] (6) · [[Aversion]] (5) · [[Chanda]] (5) · [[Death]] (5) · [[Freedom]] (5) · [[Conceptual Framework]] (4) · [[Retreat]] (4) · [[Stories]] (4) · [[Beauty]] (3) · [[Birth]] (3) · [[Pali Canon]] (3) · [[Rebirth]] (3) · [[Emptiness]] (2) · [[Energy Body]] (2) · [[Kusala]] (2) · [[Mystical opening]] (2) · [[Vedic]] (2) · [[Alchemy]] · [[Anxiety]] · [[Asavas]] · [[Divinity]] · [[Eros]] · [[History]] · [[Image]] · [[Jhanas]] · [[Love]] · [[Manifestations]] · [[Metta]] · [[Mode of mind]] · [[Payutto]] · [[Personhood]] · [[Phenomenon]] · [[Sariputta]] · [[Seeing That Frees]] · [[Spaciousness]]_</span>
 <br/>
 
 ## Paragraphs
@@ -65,7 +65,7 @@ Transcript PDF: [[2017_0115 The Way of Non-Clinging Part 1.pdf]]
 
 ---
 ##### Clinging is more obsessive craving
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^2-3|2-3]]**: _[[Delineations]] (2) · [[Craving]] (4) · [[Clinging]] (4) · [[Aversion]] · [[Desire]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^2-3|2-3]]**: _[[Delineations]] (2) · [[Craving]] (4) · [[Clinging]] (4) · [[Aversion]] · [[Mind]] · [[Desire]]_</span>
 
 ![[20170115-Rob_Burbea-GAIA-the_way_of_non_clinging_part_1-40190.mp3#t=11:57]]
 
@@ -89,19 +89,19 @@ pdf: [[2017_0115 The Way of Non-Clinging Part 1.pdf#page=3]]
 
 ---
 ##### Sankhara
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^3-4|3-4]]**: _[[Sankhara]] (3) · [[Habit]] (5)_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^3-4|3-4]]**: _[[Sankhara]] (3) · [[Habit]] (6) · [[Mind]] · [[Embodiment]]_</span>
 
 ---
 ##### Craving
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^3-5|3-5]]**: _[[Consciousness]] · [[Craving]] (4) · [[Contraction]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^3-5|3-5]]**: _[[Mind]] (2) · [[Consciousness]] · [[Craving]] (4) · [[Contraction]]_</span>
 
 ---
 ##### Clinging
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^3-6|3-6]]**: _[[Clinging]] (2) · [[Craving]] (2) · [[Desire]] (2)_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^3-6|3-6]]**: _[[Clinging]] (2) · [[Craving]] (2) · [[Desire]] (2) · [[Mind]] (3)_</span>
 
 ---
 ##### Birth
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^4-1|4-1]]**: _[[Birth]] (2)_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^4-1|4-1]]**: _[[Mind]] · [[Birth]] (2)_</span>
 
 ---
 ##### Death
@@ -109,11 +109,11 @@ pdf: [[2017_0115 The Way of Non-Clinging Part 1.pdf#page=3]]
 
 ---
 ##### Process gets reinforced
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^4-3|4-3]]**: _[[Dukkha]] (2) · [[Habit]] · [[Sankhara]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^4-3|4-3]]**: _[[Dukkha]] (2) · [[Habit]] (2) · [[Sankhara]] · [[Mind]] · [[Embodiment]]_</span>
 
 ---
 ##### Another example: ==dating==
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^4-4|4-4]]**: _[[Ignorance]] (3) · [[Avijja]] (2) · [[Pleasantness]] · [[The Self]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^4-4|4-4]]**: _[[Ignorance]] (3) · [[Avijja]] (2) · [[Pleasantness]] · [[The Self]] · [[Habit]]_</span>
 
 ---
 ##### Example cont.
@@ -121,15 +121,15 @@ pdf: [[2017_0115 The Way of Non-Clinging Part 1.pdf#page=3]]
 
 ---
 ##### "Is she going to call?"
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^4-6|4-6]]**: _[[Dukkha]] · [[Pain]] · [[Consciousness]] (4) · [[Ignorance]] · [[Sankhara]] · [[Craving]] (6)_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^4-6|4-6]]**: _[[Dukkha]] · [[Pain]] · [[Consciousness]] (4) · [[Ignorance]] · [[Sankhara]] · [[Mind]] · [[Embodiment]] · [[Craving]] (6)_</span>
 
 ---
 ##### Rise and fall of the becoming of the self
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^5-1|5-1]]**: _[[The Self]] (5) · [[Anxiety]] · [[Impermanence]] · [[Attention]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^5-1|5-1]]**: _[[The Self]] (5) · [[Anxiety]] · [[Impermanence]] · [[Mind]] · [[Attention]]_</span>
 
 ---
 ##### Pattern gets reinforced
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^5-2|5-2]]**: _[[Death]] (2) · [[The Self]] (3) · [[Buddha]] · [[Asavas]] · [[Ignorance]] (2) · [[Sankhara]] · [[Pleasantness]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^5-2|5-2]]**: _[[Death]] (2) · [[The Self]] (3) · [[Buddha]] · [[Asavas]] · [[Ignorance]] (2) · [[Sankhara]] · [[Habit]] · [[Pleasantness]]_</span>
 
 ---
 ##### The seeds have gotten bigger
@@ -145,11 +145,11 @@ pdf: [[2017_0115 The Way of Non-Clinging Part 1.pdf#page=3]]
 
 ---
 ##### The tragedy but also the comedy of human life
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^6-2|6-2]]**: _[[Craving]] · [[Clinging]] (2) · [[Dependent Origination]] (3) · [[Delineations]] · [[Seeing That Frees]] · [[Payutto]] · [[Dukkha]] (3) · [[Contraction]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^6-2|6-2]]**: _[[Craving]] · [[Clinging]] (2) · [[Dependent Origination]] (3) · [[Delineations]] · [[Seeing That Frees]] · [[Payutto]] · [[Dukkha]] (3) · [[Contraction]] · [[Mind]]_</span>
 
 ---
 ##### Does understanding make a difference?
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^6-3|6-3]]**: _[[Buddha]] · [[Experience]] · [[Insight]] · [[Dependent Origination]] · [[Attention]] · [[Mindfulness]] · [[Dukkha]] (2)_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^6-3|6-3]]**: _[[Mind]] · [[Buddha]] · [[Experience]] · [[Insight]] · [[Dependent Origination]] · [[Attention]] · [[Mindfulness]] · [[Dukkha]] (2)_</span>
 
 ---
 ##### Illusion of understanding something
@@ -165,19 +165,19 @@ pdf: [[2017_0115 The Way of Non-Clinging Part 1.pdf#page=3]]
 
 ---
 ##### How do I notice craving?
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^7-3|7-3]]**: _[[Buddha]] · [[Letting go]] (3) · [[Craving]] (3) · [[Experience]] · [[Desire]] · [[Clinging]] (2)_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^7-3|7-3]]**: _[[Buddha]] · [[Letting go]] (3) · [[Craving]] (3) · [[Experience]] · [[Desire]] · [[Clinging]] (2) · [[Mind]]_</span>
 
 ---
 ##### Huge range of what contitutes craving
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^7-4|7-4]]**: _[[Craving]] (9) · [[Dukkha]] (8) · [[Experience]] · [[Mindfulness]] · [[Clinging]] · [[Manifestations]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^7-4|7-4]]**: _[[Craving]] (9) · [[Dukkha]] (8) · [[Experience]] · [[Mindfulness]] · [[Mind]] · [[Clinging]] · [[Manifestations]]_</span>
 
 ---
 ##### How to tell that craving is active in the body
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^7-5|7-5]]**: _[[Craving]] (3) · [[Energy Body]] (2) · [[Contraction]] (2) · [[Spaciousness]] · [[Dukkha]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^7-5|7-5]]**: _[[Craving]] (3) · [[Embodiment]] (2) · [[Energy Body]] (2) · [[Contraction]] (2) · [[Mind]] (3) · [[Spaciousness]] · [[Dukkha]]_</span>
 
 ---
 ##### Bodily tension/contraction
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^8-1|8-1]]**: _[[Attention]] (2) · [[Mode of mind]] · [[Craving]] · [[Contraction]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^8-1|8-1]]**: _[[Attention]] (2) · [[Mode of mind]] · [[Craving]] · [[Contraction]] · [[Embodiment]] · [[Mind]]_</span>
 
 ---
 ##### ==Techniques of "just let go of everything"==, 1.
@@ -185,11 +185,11 @@ pdf: [[2017_0115 The Way of Non-Clinging Part 1.pdf#page=3]]
 
 ---
 ##### 2. Skillful reflection
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^8-3|8-3]]**: _[[Impermanence]] · [[Hindrances]] · [[Clinging]] (4)_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^8-3|8-3]]**: _[[Impermanence]] · [[Hindrances]] · [[Clinging]] (4) · [[Mind]]_</span>
 
 ---
 ##### 3. Understand papanca
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^8-4|8-4]]**: _[[Meditation]] · [[Mindfulness]] · [[Papanca]] (2) · [[History]] · [[The Self]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^8-4|8-4]]**: _[[Meditation]] · [[Mindfulness]] · [[Papanca]] (2) · [[Mind]] · [[History]] · [[The Self]]_</span>
 
 ---
 ##### People like to hear funny stories about papanca (1)
@@ -197,7 +197,7 @@ pdf: [[2017_0115 The Way of Non-Clinging Part 1.pdf#page=3]]
 
 ---
 ##### Papanca <=> fabrication
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^8-6|8-6]]**: _[[Stories]] · [[Mindfulness]] · [[Papanca]] · [[Fabrication]] (2) · [[Experience]] · [[Contraction]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^8-6|8-6]]**: _[[Stories]] · [[Mindfulness]] · [[Mind]] (3) · [[Papanca]] · [[Fabrication]] (2) · [[Experience]] · [[Contraction]]_</span>
 
 ---
 ##### ...
@@ -209,27 +209,27 @@ pdf: [[2017_0115 The Way of Non-Clinging Part 1.pdf#page=3]]
 
 ---
 ##### 4. Role of vedana
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^9-3|9-3]]**: _[[Clinging]] · [[Craving]] (3) · [[Papanca]] (2) · [[Mindfulness]] (3) · [[Attention]] · [[Fabrication]] · [[Aversion]] (2) · [[Retreat]] · [[Vedana]] · [[Stories]] · [[Pain]] · [[Contraction]] · [[Personhood]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^9-3|9-3]]**: _[[Clinging]] · [[Craving]] (3) · [[Papanca]] (2) · [[Mindfulness]] (3) · [[Attention]] · [[Fabrication]] · [[Aversion]] (2) · [[Retreat]] · [[Vedana]] · [[Mind]] · [[Stories]] · [[Pain]] · [[Contraction]] · [[Personhood]]_</span>
 
 ---
 ##### Technique: focus on vedana
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^9-4|9-4]]**: _[[Pain]] · [[Experience]] · [[Aversion]] · [[Attention]] (2) · [[Vedana]] (2) · [[Craving]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^9-4|9-4]]**: _[[Pain]] · [[Experience]] · [[Embodiment]] (2) · [[Mind]] · [[Aversion]] · [[Attention]] (2) · [[Vedana]] (2) · [[Craving]]_</span>
 
 ---
 ##### Impulsive, energetic movement
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^9-5|9-5]]**: _[[Vedana]] · [[Retreat]] · [[Attention]] · [[Craving]] (3) · [[Pleasantness]] (2)_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^9-5|9-5]]**: _[[Vedana]] · [[Retreat]] · [[Attention]] · [[Mind]] · [[Craving]] (3) · [[Pleasantness]] (2)_</span>
 
 ![[20170115-Rob_Burbea-GAIA-the_way_of_non_clinging_part_1-40190.mp3#t=1:00:13]]
 
 ---
 ##### Clinging doesn't happen if we stay with the craving (vedana)
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^10-1|10-1]]**: _[[Vedana]] (3) · [[Craving]] (4) · [[Clinging]] (2) · [[Pain]] · [[Aversion]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^10-1|10-1]]**: _[[Vedana]] (3) · [[Craving]] (4) · [[Clinging]] (2) · [[Pain]] · [[Embodiment]] · [[Aversion]]_</span>
 
 ![[20170115-Rob_Burbea-GAIA-the_way_of_non_clinging_part_1-40190.mp3#t=1:01:00]]
 
 ---
 ##### 5. Experience the pressure that is involved with craving
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^10-2|10-2]]**: _[[Attention]] · [[Experience]] · [[Craving]] (3) · [[Image]] · [[Clinging]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^10-2|10-2]]**: _[[Attention]] · [[Experience]] · [[Craving]] (3) · [[Mind]] (2) · [[Image]] · [[Clinging]] · [[Embodiment]]_</span>
 
 ![[20170115-Rob_Burbea-GAIA-the_way_of_non_clinging_part_1-40190.mp3#t=1:01:51]]
 
@@ -239,7 +239,7 @@ pdf: [[2017_0115 The Way of Non-Clinging Part 1.pdf#page=3]]
 
 ---
 ##### Impermance brings less solidification
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^10-4|10-4]]**: _[[Impermanence]] (6) · [[Attention]] · [[Letting go]] · [[The Self]] (3) · [[Phenomenon]] · [[Perception]] · [[Consciousness]] · [[Ignorance]] · [[Avijja]] · [[Clinging]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^10-4|10-4]]**: _[[Impermanence]] (6) · [[Attention]] · [[Letting go]] · [[The Self]] (3) · [[Phenomenon]] · [[Mind]] · [[Perception]] · [[Consciousness]] · [[Ignorance]] · [[Avijja]] · [[Clinging]]_</span>
 
 ---
 ##### I'm not selling this very well

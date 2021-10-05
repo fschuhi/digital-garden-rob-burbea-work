@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: true
-obsidianUIMode: preview
 Series: 2007 Lovingkindness and Compassion As a Path to Awakening
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -14,7 +14,7 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3]]
 
 ## Index
-<span class="counts">_[[Samadhi]] (92) · [[Metta]] (43) · [[Love]] (30) · [[Contraction]] (20) · [[Piti]] (18) · [[Pleasantness]] (17) · [[Steadiness]] (16) · [[Retreat]] (15) · [[Insight]] (14) · [[Meditation]] (12) · [[Buddha]] (11) · [[Anger]] (10) · [[Aversion]] (10) · [[Fear]] (9) · [[Happiness]] (9) · [[Awareness]] (8) · [[Embodiment]] (8) · [[Dharma]] (7) · [[Experience]] (7) · [[Nondualism]] (7) · [[Receptivity]] (7) · [[Breath]] (6) · [[Energy]] (6) · [[Consciousness]] (5) · [[Mindfulness]] (5) · [[The Self]] (5) · [[Freedom]] (4) · [[Gratitude]] (4) · [[Hindrances]] (4) · [[Anatta]] (3) · [[Awakening]] (3) · [[Beauty]] (3) · [[Compassion]] (3) · [[Cultivation]] (3) · [[Emotions]] (3) · [[Emptiness]] (3) · [[Personhood]] (3) · [[Ways of Looking]] (3) · [[Acceptance]] (2) · [[Appreciation]] (2) · [[Centre]] (2) · [[Habit]] (2) · [[Perception]] (2) · [[Bodhi Tree]] · [[Brahmaviharas]] · [[Buddhism]] · [[Catherine McGee]] · [[Craving]] · [[Death]] · [[Gaia House]] · [[Guinness Book of Records]] · [[Healing]] · [[Hell]] · [[Image]] · [[Impermanence]] · [[Mind state]] · [[Psyche]] · [[Tiredness]] · [[Wonder]]_</span>
+<span class="counts">_[[Samadhi]] (92) · [[Mind]] (65) · [[Metta]] (43) · [[Love]] (30) · [[Embodiment]] (27) · [[Contraction]] (20) · [[Piti]] (18) · [[Pleasantness]] (17) · [[Steadiness]] (16) · [[Retreat]] (15) · [[Insight]] (14) · [[Meditation]] (12) · [[Buddha]] (11) · [[Anger]] (10) · [[Aversion]] (10) · [[Fear]] (9) · [[Happiness]] (9) · [[Awareness]] (8) · [[Dharma]] (7) · [[Experience]] (7) · [[Nondualism]] (7) · [[Receptivity]] (7) · [[Breath]] (6) · [[Energy]] (6) · [[Consciousness]] (5) · [[Mindfulness]] (5) · [[The Self]] (5) · [[Freedom]] (4) · [[Gratitude]] (4) · [[Hindrances]] (4) · [[Anatta]] (3) · [[Awakening]] (3) · [[Beauty]] (3) · [[Compassion]] (3) · [[Cultivation]] (3) · [[Emotions]] (3) · [[Emptiness]] (3) · [[Habit]] (3) · [[Personhood]] (3) · [[Ways of Looking]] (3) · [[Acceptance]] (2) · [[Appreciation]] (2) · [[Centre]] (2) · [[Perception]] (2) · [[Bodhi Tree]] · [[Brahmaviharas]] · [[Buddhism]] · [[Catherine McGee]] · [[Craving]] · [[Death]] · [[Gaia House]] · [[Guinness Book of Records]] · [[Healing]] · [[Hell]] · [[Image]] · [[Impermanence]] · [[Mind state]] · [[Psyche]] · [[Tiredness]] · [[Wonder]]_</span>
 <br/>
 
 ## Paragraphs
@@ -29,19 +29,19 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ---
 ### Terminology
 ##### Samadhi is often translated as "concentration"
-<span class="counts">**[[0122 Samadhi in Metta Practice#^1-2|1-2]]**: _[[Samadhi]] (5) · [[Buddhism]] · [[Buddha]] · [[Metta]] · [[Experience]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^1-2|1-2]]**: _[[Samadhi]] (5) · [[Buddhism]] · [[Buddha]] · [[Metta]] · [[Mind]] · [[Experience]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=01:26]]
 
 ---
 ##### Better: "collectedness", even better: "unification"
-<span class="counts">**[[0122 Samadhi in Metta Practice#^1-3|1-3]]**: _[[Buddha]] (2) · [[Samadhi]] (8)_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^1-3|1-3]]**: _[[Mind]] (5) · [[Buddha]] (2) · [[Samadhi]] (8) · [[Embodiment]] (5)_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=02:39]]
 
 ---
 ##### It's a continuum of depth and a lifelong exploration
-<span class="counts">**[[0122 Samadhi in Metta Practice#^1-4|1-4]]**: _[[Meditation]] (2) · [[Samadhi]] (3)_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^1-4|1-4]]**: _[[Meditation]] (2) · [[Samadhi]] (3) · [[Mind]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=03:57]]
 
@@ -60,19 +60,19 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 
 ---
 ##### With samadhi we are maximizing the receptivity of the mind
-<span class="counts">**[[0122 Samadhi in Metta Practice#^2-3|2-3]]**: _[[Metta]] · [[Samadhi]] (3) · [[Perception]] · [[Receptivity]] (2) · [[Ways of Looking]] (2)_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^2-3|2-3]]**: _[[Metta]] · [[Mind]] (3) · [[Samadhi]] (3) · [[Perception]] · [[Receptivity]] (2) · [[Ways of Looking]] (2)_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=06:24]]
 
 ---
 ##### Samadhi doesn't have to be with just one object
-<span class="counts">**[[0122 Samadhi in Metta Practice#^2-4|2-4]]**: _[[Samadhi]] (5) · [[Breath]] · [[Metta]] (3) · [[Awareness]] · [[Retreat]] (2)_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^2-4|2-4]]**: _[[Samadhi]] (5) · [[Breath]] · [[Metta]] (3) · [[Mind]] (2) · [[Awareness]] · [[Retreat]] (2)_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=07:48]]
 
 ---
 ##### The mind is moving a lot, which is not conducive to calm
-<span class="counts">**[[0122 Samadhi in Metta Practice#^2-5|2-5]]**: _[[Meditation]] · [[Mindfulness]] (2) · [[Aversion]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^2-5|2-5]]**: _[[Mind]] (3) · [[Meditation]] · [[Mindfulness]] (2) · [[Aversion]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=09:05]]
 
@@ -96,13 +96,13 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 
 ---
 ##### Samadhi is the soil where insights grow
-<span class="counts">**[[0122 Samadhi in Metta Practice#^3-3|3-3]]**: _[[Samadhi]] (4) · [[Pleasantness]] · [[Healing]] · [[Insight]] (5) · [[Impermanence]] · [[Contraction]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^3-3|3-3]]**: _[[Samadhi]] (4) · [[Pleasantness]] · [[Healing]] · [[Insight]] (5) · [[Mind]] · [[Impermanence]] · [[Habit]] · [[Contraction]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=12:06]]
 
 ---
 ##### Samadhi goes to the cells and bones
-<span class="counts">**[[0122 Samadhi in Metta Practice#^3-4|3-4]]**: _[[Insight]] (2) · [[Samadhi]] · [[Embodiment]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^3-4|3-4]]**: _[[Insight]] (2) · [[Mind]] · [[Samadhi]] · [[Embodiment]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=13:33]]
 
@@ -116,26 +116,26 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ---
 #### Steadiness
 ##### Importance of steadiness
-<span class="counts">**[[0122 Samadhi in Metta Practice#^3-6|3-6]]**: _[[Steadiness]] (7) · [[Samadhi]] · [[Meditation]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^3-6|3-6]]**: _[[Steadiness]] (7) · [[Samadhi]] · [[Mind]] (2) · [[Meditation]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=14:37]]
 
 ---
 ##### Samadhi has both softness and pliable strength in it
-<span class="counts">**[[0122 Samadhi in Metta Practice#^4-1|4-1]]**: _[[Steadiness]] · [[Samadhi]] (2) · [[Dharma]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^4-1|4-1]]**: _[[Steadiness]] · [[Samadhi]] (2) · [[Mind]] · [[Dharma]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=15:39]]
 
 ---
 ##### Stay with metta for a while, that's how samadhi begins
-<span class="counts">**[[0122 Samadhi in Metta Practice#^4-2|4-2]]**: _[[Steadiness]] (3) · [[Metta]] (2) · [[Samadhi]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^4-2|4-2]]**: _[[Steadiness]] (3) · [[Metta]] (2) · [[Mind]] (3) · [[Samadhi]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=16:30]]
 
 ---
 #### Happiness
 ##### Happiness is the most significant cause of samadhi
-<span class="counts">**[[0122 Samadhi in Metta Practice#^4-3|4-3]]**: _[[Buddha]] · [[Samadhi]] (2) · [[Happiness]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^4-3|4-3]]**: _[[Buddha]] · [[Samadhi]] (2) · [[Happiness]] · [[Mind]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=17:17]]
 
@@ -178,37 +178,37 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ---
 ### Hindrances
 ##### It's never a linear process
-<span class="counts">**[[0122 Samadhi in Metta Practice#^5-2|5-2]]**: _[[Consciousness]] · [[Samadhi]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^5-2|5-2]]**: _[[Mind]] (2) · [[Consciousness]] · [[Samadhi]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=20:58]]
 
 ---
 ##### Learn to expect and accept hindrances
-<span class="counts">**[[0122 Samadhi in Metta Practice#^5-3|5-3]]**: _[[Hindrances]] (2) · [[Meditation]] · [[Hell]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^5-3|5-3]]**: _[[Hindrances]] (2) · [[Meditation]] · [[Hell]] · [[Mind]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=21:47]]
 
 ---
 ##### Aversion
-<span class="counts">**[[0122 Samadhi in Metta Practice#^5-4|5-4]]**: _[[Catherine McGee]] · [[Aversion]] (3) · [[Hindrances]] · [[Metta]] (2) · [[Experience]] · [[Anger]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^5-4|5-4]]**: _[[Mind]] (4) · [[Catherine McGee]] · [[Aversion]] (3) · [[Hindrances]] · [[Metta]] (2) · [[Experience]] · [[Anger]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=22:57]]
 
 ---
 ##### We don't have to get caught up in the content of what the hindrances are saying
-<span class="counts">**[[0122 Samadhi in Metta Practice#^5-5|5-5]]**: _[[Aversion]] (5) · [[Retreat]] · [[Hindrances]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^5-5|5-5]]**: _[[Aversion]] (5) · [[Retreat]] · [[Mind]] · [[Hindrances]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=23:45]]
 
 ---
 ##### Maturity comes from not taking things so personal
-<span class="counts">**[[0122 Samadhi in Metta Practice#^5-6|5-6]]**: _[[Buddha]] · [[Anatta]] (3) · [[Awakening]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^5-6|5-6]]**: _[[Mind]] (2) · [[Buddha]] · [[Anatta]] (3) · [[Awakening]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=24:40]]
 
 ---
 ##### It's just human stuff, have some kindness towards it in meditation
-<span class="counts">**[[0122 Samadhi in Metta Practice#^6-1|6-1]]**: _[[Samadhi]] (2) · [[Insight]] · [[Metta]] · [[Meditation]] · [[Retreat]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^6-1|6-1]]**: _[[Samadhi]] (2) · [[Insight]] · [[Mind]] · [[Metta]] · [[Meditation]] · [[Retreat]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=25:51]]
 
@@ -227,13 +227,13 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 
 ---
 ##### Move towards softening the sense of the body
-<span class="counts">**[[0122 Samadhi in Metta Practice#^6-4|6-4]]**: _[[Contraction]] (3) · [[Samadhi]] (2) · [[Embodiment]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^6-4|6-4]]**: _[[Contraction]] (3) · [[Samadhi]] (2) · [[Mind]] · [[Embodiment]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=29:10]]
 
 ---
 ##### Emotion is reflected as a contraction in the body
-<span class="counts">**[[0122 Samadhi in Metta Practice#^6-5|6-5]]**: _[[Mindfulness]] (3) · [[Awareness]] (3) · [[Embodiment]] (2) · [[Emotions]] · [[Craving]] · [[Contraction]] (3)_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^6-5|6-5]]**: _[[Mindfulness]] (3) · [[Awareness]] (3) · [[Embodiment]] (9) · [[Emotions]] · [[Craving]] · [[Contraction]] (3)_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=29:44]]
 
@@ -276,7 +276,7 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 
 ---
 ##### The question of effort is connected with a sense of duality, which is connected with a sense of love
-<span class="counts">**[[0122 Samadhi in Metta Practice#^7-7|7-7]]**: _[[Contraction]] (2) · [[Tiredness]] · [[Love]] (4) · [[Acceptance]] (2) · [[Nondualism]] (6)_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^7-7|7-7]]**: _[[Contraction]] (2) · [[Mind]] · [[Tiredness]] · [[Love]] (4) · [[Acceptance]] (2) · [[Nondualism]] (6)_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=35:57]]
 
@@ -294,26 +294,26 @@ TODO: x points to y
 
 ---
 ##### Samadhi doesn't lead to a sense of attachment
-<span class="counts">**[[0122 Samadhi in Metta Practice#^8-2|8-2]]**: _[[Samadhi]] (3) · [[Pleasantness]] (3)_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^8-2|8-2]]**: _[[Samadhi]] (3) · [[Mind]] · [[Pleasantness]] (3)_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=38:16]]
 
 ---
 #### Thinking
 ##### Dwelling in a lovely space
-<span class="counts">**[[0122 Samadhi in Metta Practice#^8-3|8-3]]**: _[[Buddha]] · [[Love]] (2) · [[Compassion]] (2) · [[Metta]] · [[Brahmaviharas]] · [[Personhood]] · [[Samadhi]] (3) · [[Steadiness]] · [[Pleasantness]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^8-3|8-3]]**: _[[Buddha]] · [[Love]] (2) · [[Compassion]] (2) · [[Metta]] · [[Brahmaviharas]] · [[Personhood]] · [[Samadhi]] (3) · [[Mind]] (4) · [[Steadiness]] · [[Pleasantness]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=39:05]]
 
 ---
 ##### Metta phrases are more helpful than a lot of the other thoughts we have during the day
-<span class="counts">**[[0122 Samadhi in Metta Practice#^8-4|8-4]]**: _[[Metta]] (5)_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^8-4|8-4]]**: _[[Metta]] (5) · [[Mind]] (2)_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=40:52]]
 
 ---
 ##### Samadhi is an acquired taste
-<span class="counts">[[0122 Samadhi in Metta Practice#^9-1|9-1]]</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^9-1|9-1]]**: _[[Mind]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=42:44]]
 
@@ -325,26 +325,26 @@ TODO: x points to y
 
 ---
 ##### The compulsion of things we are addicted begins to get lost
-<span class="counts">**[[0122 Samadhi in Metta Practice#^9-3|9-3]]**: _[[Meditation]] · [[Pleasantness]] · [[Samadhi]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^9-3|9-3]]**: _[[Meditation]] · [[Mind]] (3) · [[Pleasantness]] · [[Samadhi]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=44:21]]
 
 ---
 ### Piti
 ##### Piti
-<span class="counts">**[[0122 Samadhi in Metta Practice#^9-4|9-4]]**: _[[Samadhi]] · [[Piti]] (3) · [[Pleasantness]] · [[Embodiment]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^9-4|9-4]]**: _[[Samadhi]] · [[Piti]] (3) · [[Pleasantness]] · [[Embodiment]] (3)_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=45:11]]
 
 ---
 ##### The range of piti
-<span class="counts">**[[0122 Samadhi in Metta Practice#^9-5|9-5]]**: _[[Piti]] · [[Pleasantness]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^9-5|9-5]]**: _[[Piti]] · [[Pleasantness]] · [[Embodiment]] (3)_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=46:22]]
 
 ---
 ##### Centre the practice around the nice feeling which comes with metta
-<span class="counts">**[[0122 Samadhi in Metta Practice#^9-6|9-6]]**: _[[Metta]] · [[Centre]] (2) · [[Pleasantness]] (3) · [[Embodiment]] (2)_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^9-6|9-6]]**: _[[Mind]] (2) · [[Metta]] · [[Centre]] (2) · [[Pleasantness]] (3) · [[Embodiment]] (2)_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=47:13]]
 
@@ -357,7 +357,7 @@ TODO: x points to y
 ---
 #### What allows piti?
 ##### 1. Piti is a kind of energy
-<span class="counts">**[[0122 Samadhi in Metta Practice#^10-2|10-2]]**: _[[Piti]] (4) · [[Breath]] · [[Metta]] · [[Pleasantness]] (3) · [[Samadhi]] (2) · [[Energy]] (5)_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^10-2|10-2]]**: _[[Piti]] (4) · [[Mind]] (4) · [[Breath]] · [[Metta]] · [[Pleasantness]] (3) · [[Samadhi]] (2) · [[Energy]] (5)_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=49:06]]
 
@@ -375,14 +375,14 @@ TODO: x points to y
 
 ---
 ##### 4. Non-entanglement with things
-<span class="counts">**[[0122 Samadhi in Metta Practice#^10-5|10-5]]**: _[[Piti]] (2) · [[Metta]] (4) · [[Experience]] (2)_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^10-5|10-5]]**: _[[Piti]] (2) · [[Mind]] · [[Metta]] (4) · [[Experience]] (2)_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=51:27]]
 
 ---
 ### Fear
 ##### There can be some fear in there
-<span class="counts">**[[0122 Samadhi in Metta Practice#^10-6|10-6]]**: _[[Piti]] (3) · [[Samadhi]] · [[Fear]] (5) · [[Buddha]] (2) · [[Mind state]] · [[Awareness]] · [[Aversion]] · [[Pleasantness]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^10-6|10-6]]**: _[[Piti]] (3) · [[Mind]] (6) · [[Samadhi]] · [[Fear]] (5) · [[Buddha]] (2) · [[Mind state]] · [[Awareness]] · [[Aversion]] · [[Pleasantness]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=52:02]]
 
@@ -394,7 +394,7 @@ TODO: x points to y
 
 ---
 ##### Quality of softness
-<span class="counts">**[[0122 Samadhi in Metta Practice#^11-2|11-2]]**: _[[Samadhi]] (2) · [[Embodiment]] · [[The Self]] (2) · [[Image]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^11-2|11-2]]**: _[[Samadhi]] (2) · [[Embodiment]] (3) · [[The Self]] (2) · [[Image]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=53:52]]
 
@@ -412,25 +412,25 @@ TODO: x points to y
 
 ---
 ##### Samadhi should have love in it
-<span class="counts">**[[0122 Samadhi in Metta Practice#^11-5|11-5]]**: _[[The Self]] · [[Love]] (9) · [[Nondualism]] · [[Samadhi]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^11-5|11-5]]**: _[[The Self]] · [[Love]] (9) · [[Nondualism]] · [[Samadhi]] · [[Mind]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=56:06]]
 
 ---
 ##### Receptivity and an openess to some kind of wonder in being
-<span class="counts">**[[0122 Samadhi in Metta Practice#^11-6|11-6]]**: _[[Receptivity]] (4) · [[Wonder]] · [[Love]] (4) · [[Samadhi]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^11-6|11-6]]**: _[[Receptivity]] (4) · [[Wonder]] · [[Mind]] · [[Love]] (4) · [[Samadhi]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=57:00]]
 
 ---
 ##### "I am surpressing something?"
-<span class="counts">**[[0122 Samadhi in Metta Practice#^12-1|12-1]]**: _[[Samadhi]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^12-1|12-1]]**: _[[Samadhi]] · [[Mind]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=58:31]]
 
 ---
 ##### Example story: because of samadhi there weren't the conditions there for anger
-<span class="counts">**[[0122 Samadhi in Metta Practice#^12-2|12-2]]**: _[[Anger]] (8) · [[Retreat]] · [[Samadhi]] (4) · [[Psyche]] · [[Insight]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^12-2|12-2]]**: _[[Anger]] (8) · [[Retreat]] · [[Samadhi]] (4) · [[Psyche]] · [[Mind]] · [[Insight]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=59:06]]
 

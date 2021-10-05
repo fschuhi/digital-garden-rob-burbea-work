@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: true
-obsidianUIMode: preview
 Series: 2007 Lovingkindness and Compassion As a Path to Awakening
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -14,7 +14,7 @@ Transcript PDF: [[2007_0201 The Practice of Compassion.pdf]]
 ![[20070201-Rob_Burbea-GAIA-the_practice_of_compassion-12295.mp3]]
 
 ## Index
-<span class="counts">_[[Compassion]] (155) · [[Dukkha]] (118) · [[Insight]] (35) · [[Metta]] (31) · [[The Self]] (18) · [[Fear]] (14) · [[Grief]] (14) · [[Happiness]] (13) · [[Emptiness]] (12) · [[Anger]] (11) · [[Dependent Origination]] (11) · [[Energy]] (10) · [[Healing]] (10) · [[Ignorance]] (10) · [[Near enemy]] (10) · [[Pity]] (9) · [[Buddha]] (8) · [[Equanimity]] (8) · [[Love]] (8) · [[Oneness]] (8) · [[Perception]] (7) · [[Pleasantness]] (7) · [[Awareness]] (6) · [[Cultivation]] (6) · [[Freedom]] (6) · [[Pain]] (6) · [[Samadhi]] (6) · [[Anatta]] (5) · [[Aversion]] (5) · [[Contraction]] (5) · [[Empathy]] (4) · [[Jesus]] (4) · [[Retreat]] (4) · [[Avalokiteshvara]] (3) · [[Avijja]] (3) · [[Bodhisattva]] (3) · [[Centre]] (3) · [[Experience]] (3) · [[Breath]] (2) · [[Clinging]] (2) · [[Consciousness]] (2) · [[Death]] (2) · [[Hindrances]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Karma]] (2) · [[Letting go]] (2) · [[Nobility]] (2) · [[Present Moment]] (2) · [[Spaciousness]] (2) · [[Tiredness]] (2) · [[Ways of Looking]] (2) · [[Acceptance]] · [[Attention]] · [[Awakening]] · [[Beauty]] · [[Christianity]] · [[Constriction]] · [[Cosmology]] · [[Craving]] · [[Dalai Lama]] · [[Depression]] · [[Desire]] · [[Embodiment]] · [[Gertrude Stein]] · [[Image]] · [[Julian of Norwich]] · [[Meditation]] · [[Naomi Shihab Nye]] · [[Nihilism]] · [[Nondualism]] · [[Reconditioning]] · [[Steadiness]] · [[Stephen Batchelor]] · [[Supernova]] · [[Thich Nhat Hanh]] · [[Tibetan Buddhism]] · [[Tonglen]] · [[Walt Whitman]]_</span>
+<span class="counts">_[[Compassion]] (155) · [[Dukkha]] (118) · [[Insight]] (35) · [[Metta]] (31) · [[Mind]] (26) · [[The Self]] (18) · [[Fear]] (14) · [[Grief]] (14) · [[Happiness]] (13) · [[Emptiness]] (12) · [[Anger]] (11) · [[Dependent Origination]] (11) · [[Embodiment]] (10) · [[Energy]] (10) · [[Healing]] (10) · [[Ignorance]] (10) · [[Near enemy]] (10) · [[Pity]] (9) · [[Buddha]] (8) · [[Equanimity]] (8) · [[Love]] (8) · [[Oneness]] (8) · [[Perception]] (7) · [[Pleasantness]] (7) · [[Awareness]] (6) · [[Cultivation]] (6) · [[Freedom]] (6) · [[Pain]] (6) · [[Samadhi]] (6) · [[Anatta]] (5) · [[Aversion]] (5) · [[Contraction]] (5) · [[Empathy]] (4) · [[Jesus]] (4) · [[Retreat]] (4) · [[Avalokiteshvara]] (3) · [[Avijja]] (3) · [[Bodhisattva]] (3) · [[Centre]] (3) · [[Experience]] (3) · [[Breath]] (2) · [[Clinging]] (2) · [[Consciousness]] (2) · [[Death]] (2) · [[Hindrances]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Karma]] (2) · [[Letting go]] (2) · [[Nobility]] (2) · [[Present Moment]] (2) · [[Spaciousness]] (2) · [[Tiredness]] (2) · [[Ways of Looking]] (2) · [[Acceptance]] · [[Attention]] · [[Awakening]] · [[Beauty]] · [[Christianity]] · [[Constriction]] · [[Cosmology]] · [[Craving]] · [[Dalai Lama]] · [[Depression]] · [[Desire]] · [[Gertrude Stein]] · [[Habit]] · [[Image]] · [[Julian of Norwich]] · [[Meditation]] · [[Naomi Shihab Nye]] · [[Nihilism]] · [[Nondualism]] · [[Reconditioning]] · [[Steadiness]] · [[Stephen Batchelor]] · [[Supernova]] · [[Thich Nhat Hanh]] · [[Tibetan Buddhism]] · [[Tonglen]] · [[Walt Whitman]]_</span>
 <br/>
 
 ## Paragraphs
@@ -22,7 +22,7 @@ Transcript PDF: [[2007_0201 The Practice of Compassion.pdf]]
 
 ---
 ##### Compassion is the natural response of the heart to suffering, in absense preoccupation with self
-<span class="counts">**[[0201 The Practice of Compassion#^1-1|1-1]]**: _[[Compassion]] (3) · [[Dukkha]] (2) · [[Consciousness]] · [[Contraction]] (2) · [[The Self]]_</span>
+<span class="counts">**[[0201 The Practice of Compassion#^1-1|1-1]]**: _[[Compassion]] (3) · [[Dukkha]] (2) · [[Mind]] · [[Consciousness]] · [[Contraction]] (2) · [[The Self]]_</span>
 
 ---
 ##### When metta meets suffering, it transformsinto compassion
@@ -154,7 +154,7 @@ TODO: rename Avalokiteśvara
 
 ---
 ##### Counter the anger by 'remaining percipient of the beautiful'
-<span class="counts">**[[0201 The Practice of Compassion#^7-1|7-1]]**: _[[Anger]] · [[Insight]] · [[Dependent Origination]] (2) · [[Ignorance]] (3) · [[Buddha]] · [[Dukkha]] · [[Perception]]_</span>
+<span class="counts">**[[0201 The Practice of Compassion#^7-1|7-1]]**: _[[Anger]] · [[Insight]] · [[Dependent Origination]] (2) · [[Ignorance]] (3) · [[Buddha]] · [[Dukkha]] · [[Mind]] · [[Perception]]_</span>
 
 ![[20070201-Rob_Burbea-GAIA-the_practice_of_compassion-12295.mp3#t=30:49]]
 
@@ -200,7 +200,7 @@ when the [compassion](https://publish.obsidian.md/rob-burbea/Index/Compassion) h
 
 ---
 ##### Find a dynamic balance, with well-being and happiness
-<span class="counts">**[[0201 The Practice of Compassion#^8-3|8-3]]**: _[[Energy]] · [[Healing]] · [[Awareness]] · [[Happiness]] (2) · [[Pleasantness]] · [[Compassion]] (2) · [[Cultivation]]_</span>
+<span class="counts">**[[0201 The Practice of Compassion#^8-3|8-3]]**: _[[Energy]] · [[Healing]] · [[Awareness]] · [[Happiness]] (2) · [[Pleasantness]] · [[Compassion]] (2) · [[Mind]] · [[Cultivation]] · [[Embodiment]]_</span>
 
 ---
 ##### Spaciousness is holding whatever suffering arises
@@ -245,11 +245,11 @@ In that climate of compassion, with a little bit more broad awareness, it's like
 
 ---
 ##### Seeing mind moments of experience
-<span class="counts">**[[0201 The Practice of Compassion#^10-3|10-3]]**: _[[Compassion]] (2) · [[Steadiness]] · [[Experience]] · [[Dukkha]]_</span>
+<span class="counts">**[[0201 The Practice of Compassion#^10-3|10-3]]**: _[[Compassion]] (2) · [[Steadiness]] · [[Mind]] (2) · [[Experience]] · [[Dukkha]]_</span>
 
 ---
 ##### Giving compassion to mind moments
-<span class="counts">**[[0201 The Practice of Compassion#^10-4|10-4]]**: _[[Compassion]] (7) · [[The Self]] (2) · [[Insight]] · [[Emptiness]] · [[Anatta]]_</span>
+<span class="counts">**[[0201 The Practice of Compassion#^10-4|10-4]]**: _[[Compassion]] (7) · [[Mind]] (7) · [[The Self]] (2) · [[Insight]] · [[Emptiness]] · [[Anatta]]_</span>
 
 ---
 ##### My suffering is not different than the suffering of others
@@ -268,7 +268,7 @@ Oftentimes with our own suffering, we're actually adding to the suffering by sor
 
 ---
 ##### How to practice if the other person doesn't seem to have much suffering in their life
-<span class="counts">**[[0201 The Practice of Compassion#^11-2|11-2]]**: _[[Compassion]] (4) · [[Dukkha]] (7)_</span>
+<span class="counts">**[[0201 The Practice of Compassion#^11-2|11-2]]**: _[[Compassion]] (4) · [[Dukkha]] (7) · [[Mind]] (2)_</span>
 
 ---
 ##### Seeing the oneness in the commonality
@@ -307,11 +307,11 @@ https://www.youtube.com/watch?v=8UF3NolGSHg
 
 ---
 ##### We were all borne from the same supernova
-<span class="counts">**[[0201 The Practice of Compassion#^12-4|12-4]]**: _[[Supernova]]_</span>
+<span class="counts">**[[0201 The Practice of Compassion#^12-4|12-4]]**: _[[Embodiment]] (2) · [[Supernova]]_</span>
 
 ---
 ##### We breathe the same air molecules as everyone before us
-<span class="counts">**[[0201 The Practice of Compassion#^12-5|12-5]]**: _[[Present Moment]] · [[Breath]] (2) · [[Jesus]]_</span>
+<span class="counts">**[[0201 The Practice of Compassion#^12-5|12-5]]**: _[[Present Moment]] · [[Breath]] (2) · [[Jesus]] · [[Embodiment]] (2)_</span>
 
 ```ad-quote
 We tend to see barriers and walls and discrete entities. When we look deeper, there are no barriers. It's a very fluid, amorphous, non-separate thing, this body.
@@ -330,7 +330,7 @@ TODO: mystical insight
 
 ---
 ##### Non-separation as corrolary to the mind having perceptions
-<span class="counts">**[[0201 The Practice of Compassion#^12-8|12-8]]**: _[[Oneness]] · [[Perception]] (6) · [[Avijja]]_</span>
+<span class="counts">**[[0201 The Practice of Compassion#^12-8|12-8]]**: _[[Oneness]] · [[Mind]] (8) · [[Perception]] (6) · [[Embodiment]] · [[Avijja]]_</span>
 
 ![[20070201-Rob_Burbea-GAIA-the_practice_of_compassion-12295.mp3#t=01:01:41]]
 
@@ -340,11 +340,11 @@ No perception, no mind. They go together. To have a mind, you need to have a per
 
 ---
 ##### This is not just a cute intellectual idea, but can come into the practice on a very real level
-<span class="counts">[[0201 The Practice of Compassion#^13-1|13-1]]</span>
+<span class="counts">**[[0201 The Practice of Compassion#^13-1|13-1]]**: _[[Mind]]_</span>
 
 ---
 ##### Emptiness is fullness, mind and world interpenetrating, beyond  interconnectedness
-<span class="counts">**[[0201 The Practice of Compassion#^13-2|13-2]]**: _[[Emptiness]] (3)_</span>
+<span class="counts">**[[0201 The Practice of Compassion#^13-2|13-2]]**: _[[Emptiness]] (3) · [[Mind]] (2) · [[Embodiment]]_</span>
 TODO: introduce "interconnection" alongside Nondualism, then move (non-)separation-stuff?
 
 ---
@@ -370,7 +370,7 @@ TODO: introduce "interconnection" alongside Nondualism, then move (non-)separati
 
 ---
 ##### Rob: Giving compassion to oneself is important for healing and insight
-<span class="counts">**[[0201 The Practice of Compassion#^13-9|13-9]]**: _[[Compassion]] (2) · [[Healing]] · [[Insight]]_</span>
+<span class="counts">**[[0201 The Practice of Compassion#^13-9|13-9]]**: _[[Compassion]] (2) · [[Healing]] · [[Insight]] · [[Habit]]_</span>
 
 ---
 ##### Because of the well-being involved, that also supports samadhi
@@ -470,7 +470,7 @@ Absolutely. I mean, the near enemies will come up, and they're to be worked with
 
 ---
 ##### A space radiating compassion
-<span class="counts">**[[0201 The Practice of Compassion#^18-8|18-8]]**: _[[Compassion]] (6) · [[Image]]_</span>
+<span class="counts">**[[0201 The Practice of Compassion#^18-8|18-8]]**: _[[Compassion]] (6) · [[Image]] · [[Embodiment]] (2)_</span>
 
 ```ad-quote
 But the space is quite important. Just a space radiating compassion. Sometimes it can feel like you're just resting in that space, and there's very little doing, very little phrases. It's just sort of not doing much; it's just a space of compassion. That can be very helpful. Sometimes, again to emphasize, to be as much as possible in the body with it. So it's almost like the body becomes compassion. It's just radiating out compassion. You've become compassion

@@ -1,3 +1,6 @@
+---
+obsidianUIMode: preview
+---
 # The Garden of the Soul: Rob Burbea's Teachings
 ```ad-danger
 title: Thank you!

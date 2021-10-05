@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: false
-obsidianUIMode: preview
 Series: 2017 Eros Unfettered
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -14,7 +14,7 @@ Transcript PDF: [[2017_0123 Eros Unfettered Part 1.pdf]]
 ![[20170123-Rob_Burbea-GAIA-eros_unfettered_part_1-40171.mp3]]
 
 ## Index
-<span class="counts">_[[Image]] (136) · [[Eros]] (87) · [[Imaginal]] (70) · [[Psyche]] (29) · [[Energy Body]] (26) · [[Love]] (21) · [[Energy]] (19) · [[Logos]] (18) · [[Desire]] (16) · [[Soul]] (15) · [[Perception]] (14) · [[Soulmaking]] (14) · [[Soulmaking Dynamic]] (14) · [[Retreat]] (12) · [[Meditation]] (11) · [[Beauty]] (10) · [[Dimensionality]] (10) · [[Conceptual Framework]] (9) · [[Daimon]] (9) · [[Divinity]] (8) · [[Embodiment]] (8) · [[Emptiness]] (8) · [[Insight]] (8) · [[Dependent Origination]] (7) · [[Ways of Looking]] (7) · [[Cosmology]] (6) · [[Fantasy]] (6) · [[The Self]] (6) · [[Personhood]] (5) · [[Sexuality]] (5) · [[Stories]] (5) · [[Constriction]] (4) · [[Happiness]] (4) · [[Samadhi]] (4) · [[Telos]] (4) · [[Dakini]] (3) · [[Dharma]] (3) · [[Fabrication]] (3) · [[Ignorance]] (3) · [[Oneness]] (3) · [[Passion]] (3) · [[Shame]] (3) · [[Unfathomability]] (3) · [[Awareness]] (2) · [[Buddha]] (2) · [[Buddha-nature]] (2) · [[Christianity]] (2) · [[Experience]] (2) · [[Juiciness]] (2) · [[Manifestations]] (2) · [[Attention]] · [[Buddhism]] · [[Catherine McGee]] · [[Consciousness]] · [[Devotion]] · [[Equanimity]] · [[Eternality]] · [[Gaia House]] · [[Healing]] · [[Henry Corbin]] · [[Hermit]] · [[History]] · [[Mindfulness]] · [[Pain]] · [[Papanca]] · [[Realism]] · [[Spiritual circles]] · [[Steadiness]] · [[Unfabricated]]_</span>
+<span class="counts">_[[Image]] (136) · [[Eros]] (87) · [[Imaginal]] (70) · [[Psyche]] (29) · [[Embodiment]] (26) · [[Energy Body]] (26) · [[Love]] (21) · [[Energy]] (19) · [[Logos]] (18) · [[Desire]] (16) · [[Soul]] (15) · [[Perception]] (14) · [[Soulmaking]] (14) · [[Soulmaking Dynamic]] (14) · [[Retreat]] (12) · [[Meditation]] (11) · [[Mind]] (11) · [[Beauty]] (10) · [[Dimensionality]] (10) · [[Conceptual Framework]] (9) · [[Daimon]] (9) · [[Divinity]] (8) · [[Emptiness]] (8) · [[Insight]] (8) · [[Dependent Origination]] (7) · [[Ways of Looking]] (7) · [[Cosmology]] (6) · [[Fantasy]] (6) · [[The Self]] (6) · [[Personhood]] (5) · [[Sexuality]] (5) · [[Stories]] (5) · [[Constriction]] (4) · [[Happiness]] (4) · [[Samadhi]] (4) · [[Telos]] (4) · [[Dakini]] (3) · [[Dharma]] (3) · [[Fabrication]] (3) · [[Ignorance]] (3) · [[Oneness]] (3) · [[Passion]] (3) · [[Shame]] (3) · [[Unfathomability]] (3) · [[Awareness]] (2) · [[Buddha]] (2) · [[Buddha-nature]] (2) · [[Christianity]] (2) · [[Experience]] (2) · [[Juiciness]] (2) · [[Manifestations]] (2) · [[Attention]] · [[Buddhism]] · [[Catherine McGee]] · [[Consciousness]] · [[Devotion]] · [[Equanimity]] · [[Eternality]] · [[Gaia House]] · [[Healing]] · [[Henry Corbin]] · [[Hermit]] · [[History]] · [[Mindfulness]] · [[Pain]] · [[Papanca]] · [[Realism]] · [[Spiritual circles]] · [[Steadiness]] · [[Unfabricated]]_</span>
 <br/>
 
 ## Paragraphs
@@ -32,7 +32,7 @@ Transcript PDF: [[2017_0123 Eros Unfettered Part 1.pdf]]
 <span class="counts">**[[0123 Eros Unfettered Part 1#^1-4|1-4]]**: _[[Love]] (5) · [[Eros]] (7) · [[Juiciness]] (2) · [[Imaginal]] · [[Logos]] · [[Conceptual Framework]] · [[Image]] (2) · [[Catherine McGee]]_</span>
 
 ##### ...
-<span class="counts">**[[0123 Eros Unfettered Part 1#^1-5|1-5]]**: _[[Image]] (3) · [[Imaginal]] · [[Attention]] · [[Devotion]] · [[Equanimity]] · [[Steadiness]] · [[Fantasy]] (2) · [[Hermit]] · [[Buddhism]]_</span>
+<span class="counts">**[[0123 Eros Unfettered Part 1#^1-5|1-5]]**: _[[Image]] (3) · [[Imaginal]] · [[Attention]] · [[Devotion]] · [[Equanimity]] · [[Mind]] · [[Steadiness]] · [[Fantasy]] (2) · [[Hermit]] · [[Buddhism]]_</span>
 
 ##### ...
 <span class="counts">[[0123 Eros Unfettered Part 1#^2-1|2-1]]</span>
@@ -41,10 +41,10 @@ Transcript PDF: [[2017_0123 Eros Unfettered Part 1.pdf]]
 <span class="counts">**[[0123 Eros Unfettered Part 1#^2-2|2-2]]**: _[[Psyche]] (2) · [[Imaginal]] (7) · [[Beauty]] (5) · [[Image]] (2) · [[Eros]] (5)_</span>
 
 ##### ...
-<span class="counts">**[[0123 Eros Unfettered Part 1#^2-3|2-3]]**: _[[Imaginal]] · [[Consciousness]] · [[Psyche]] (2) · [[History]] · [[Personhood]] · [[Image]] (5) · [[Eros]] (3) · [[Soul]]_</span>
+<span class="counts">**[[0123 Eros Unfettered Part 1#^2-3|2-3]]**: _[[Imaginal]] · [[Mind]] · [[Consciousness]] · [[Psyche]] (2) · [[History]] · [[Personhood]] · [[Image]] (5) · [[Eros]] (3) · [[Soul]]_</span>
 
 ##### ...
-<span class="counts">**[[0123 Eros Unfettered Part 1#^2-4|2-4]]**: _[[Imaginal]] (4) · [[Love]] (7) · [[Desire]] (5) · [[Daimon]] · [[Passion]] · [[Eros]] (2)_</span>
+<span class="counts">**[[0123 Eros Unfettered Part 1#^2-4|2-4]]**: _[[Imaginal]] (4) · [[Love]] (7) · [[Mind]] · [[Desire]] (5) · [[Daimon]] · [[Passion]] · [[Eros]] (2)_</span>
 
 ##### ...
 <span class="counts">**[[0123 Eros Unfettered Part 1#^2-5|2-5]]**: _[[Image]] (6) · [[Imaginal]] (2) · [[Unfathomability]] (2) · [[Eros]] (3)_</span>
@@ -62,7 +62,7 @@ Transcript PDF: [[2017_0123 Eros Unfettered Part 1.pdf]]
 <span class="counts">**[[0123 Eros Unfettered Part 1#^3-3|3-3]]**: _[[Insight]] · [[Divinity]] · [[Cosmology]] · [[Love]] · [[Dimensionality]] · [[Conceptual Framework]] · [[Logos]]_</span>
 
 ##### ...
-<span class="counts">**[[0123 Eros Unfettered Part 1#^3-4|3-4]]**: _[[Conceptual Framework]] (2) · [[Dependent Origination]] (2) · [[Emptiness]] (5) · [[Fabrication]] · [[Retreat]] · [[Insight]] · [[Ignorance]] (2) · [[Pain]] · [[Perception]] (2) · [[Meditation]]_</span>
+<span class="counts">**[[0123 Eros Unfettered Part 1#^3-4|3-4]]**: _[[Conceptual Framework]] (2) · [[Dependent Origination]] (2) · [[Emptiness]] (5) · [[Fabrication]] · [[Retreat]] · [[Insight]] · [[Ignorance]] (2) · [[Embodiment]] · [[Pain]] · [[Perception]] (2) · [[Meditation]]_</span>
 
 ##### ...
 <span class="counts">**[[0123 Eros Unfettered Part 1#^4-1|4-1]]**: _[[Soulmaking Dynamic]] · [[Conceptual Framework]] (3) · [[Psyche]] · [[Insight]] (4) · [[Emptiness]] · [[Soulmaking]] (2) · [[Retreat]] · [[Meditation]] · [[Dharma]]_</span>
@@ -71,7 +71,7 @@ Transcript PDF: [[2017_0123 Eros Unfettered Part 1.pdf]]
 <span class="counts">**[[0123 Eros Unfettered Part 1#^4-2|4-2]]**: _[[Soulmaking Dynamic]] · [[Eros]] (3) · [[Imaginal]] (2) · [[Dimensionality]] · [[Image]]_</span>
 
 ##### ...
-<span class="counts">**[[0123 Eros Unfettered Part 1#^4-3|4-3]]**: _[[Eros]] · [[Embodiment]] (2) · [[Imaginal]]_</span>
+<span class="counts">**[[0123 Eros Unfettered Part 1#^4-3|4-3]]**: _[[Eros]] · [[Embodiment]] (5) · [[Imaginal]]_</span>
 
 ##### ...
 <span class="counts">**[[0123 Eros Unfettered Part 1#^4-4|4-4]]**: _[[Constriction]] (2)_</span>
@@ -164,10 +164,10 @@ Transcript PDF: [[2017_0123 Eros Unfettered Part 1.pdf]]
 <span class="counts">**[[0123 Eros Unfettered Part 1#^10-2|10-2]]**: _[[Image]] (3)_</span>
 
 ##### ...
-<span class="counts">**[[0123 Eros Unfettered Part 1#^10-3|10-3]]**: _[[Image]] (5) · [[Imaginal]] (4)_</span>
+<span class="counts">**[[0123 Eros Unfettered Part 1#^10-3|10-3]]**: _[[Image]] (5) · [[Mind]] (2) · [[Imaginal]] (4)_</span>
 
 ##### ...
-<span class="counts">[[0123 Eros Unfettered Part 1#^10-4|10-4]]</span>
+<span class="counts">**[[0123 Eros Unfettered Part 1#^10-4|10-4]]**: _[[Mind]]_</span>
 
 ##### ...
 <span class="counts">**[[0123 Eros Unfettered Part 1#^10-5|10-5]]**: _[[Image]] (3) · [[Energy]]_</span>
@@ -176,16 +176,16 @@ Transcript PDF: [[2017_0123 Eros Unfettered Part 1.pdf]]
 <span class="counts">**[[0123 Eros Unfettered Part 1#^10-6|10-6]]**: _[[Image]] (2) · [[Perception]]_</span>
 
 ##### ...
-<span class="counts">**[[0123 Eros Unfettered Part 1#^11-1|11-1]]**: _[[Samadhi]] (2) · [[Energy Body]] (6) · [[Image]] · [[Embodiment]] · [[Happiness]]_</span>
+<span class="counts">**[[0123 Eros Unfettered Part 1#^11-1|11-1]]**: _[[Samadhi]] (2) · [[Energy Body]] (6) · [[Mind]] · [[Image]] · [[Embodiment]] (4) · [[Happiness]]_</span>
 
 ##### ...
-<span class="counts">**[[0123 Eros Unfettered Part 1#^11-2|11-2]]**: _[[Energy]] · [[Happiness]] (2) · [[Samadhi]] (2) · [[Daimon]] (3) · [[Energy Body]] (4) · [[Image]] (2) · [[Dependent Origination]] (2)_</span>
+<span class="counts">**[[0123 Eros Unfettered Part 1#^11-2|11-2]]**: _[[Energy]] · [[Embodiment]] · [[Happiness]] (2) · [[Samadhi]] (2) · [[Daimon]] (3) · [[Energy Body]] (4) · [[Image]] (2) · [[Dependent Origination]] (2) · [[Mind]]_</span>
 
 ##### ...
-<span class="counts">**[[0123 Eros Unfettered Part 1#^11-3|11-3]]**: _[[Daimon]]_</span>
+<span class="counts">**[[0123 Eros Unfettered Part 1#^11-3|11-3]]**: _[[Daimon]] · [[Embodiment]]_</span>
 
 ##### ...
-<span class="counts">**[[0123 Eros Unfettered Part 1#^11-4|11-4]]**: _[[Happiness]] · [[Insight]] (2) · [[Cosmology]]_</span>
+<span class="counts">**[[0123 Eros Unfettered Part 1#^11-4|11-4]]**: _[[Happiness]] · [[Mind]] (2) · [[Insight]] (2) · [[Cosmology]]_</span>
 
 ##### ...
 <span class="counts">**[[0123 Eros Unfettered Part 1#^11-5|11-5]]**: _[[Meditation]] · [[Energy Body]] (3)_</span>
@@ -206,7 +206,7 @@ Transcript PDF: [[2017_0123 Eros Unfettered Part 1.pdf]]
 <span class="counts">**[[0123 Eros Unfettered Part 1#^12-5|12-5]]**: _[[Image]] (2) · [[Meditation]]_</span>
 
 ##### ...
-<span class="counts">**[[0123 Eros Unfettered Part 1#^13-1|13-1]]**: _[[Energy]] (4) · [[Image]]_</span>
+<span class="counts">**[[0123 Eros Unfettered Part 1#^13-1|13-1]]**: _[[Energy]] (4) · [[Image]] · [[Embodiment]] (2)_</span>
 
 ##### ...
 <span class="counts">**[[0123 Eros Unfettered Part 1#^13-2|13-2]]**: _[[Energy]] (2) · [[Retreat]] (2)_</span>
@@ -218,10 +218,10 @@ Transcript PDF: [[2017_0123 Eros Unfettered Part 1.pdf]]
 <span class="counts">**[[0123 Eros Unfettered Part 1#^13-4|13-4]]**: _[[Image]] (4) · [[Retreat]] (2) · [[Meditation]] · [[Embodiment]] · [[Energy]]_</span>
 
 ##### ...
-<span class="counts">**[[0123 Eros Unfettered Part 1#^14-1|14-1]]**: _[[Energy]] (3) · [[Meditation]] (2) · [[Embodiment]] · [[Energy Body]] (5) · [[Image]] · [[Imaginal]]_</span>
+<span class="counts">**[[0123 Eros Unfettered Part 1#^14-1|14-1]]**: _[[Energy]] (3) · [[Embodiment]] (4) · [[Meditation]] (2) · [[Energy Body]] (5) · [[Image]] · [[Imaginal]]_</span>
 
 ##### ...
-<span class="counts">**[[0123 Eros Unfettered Part 1#^14-2|14-2]]**: _[[Energy Body]] · [[Embodiment]] · [[Imaginal]] · [[Image]] (5) · [[Love]]_</span>
+<span class="counts">**[[0123 Eros Unfettered Part 1#^14-2|14-2]]**: _[[Energy Body]] · [[Embodiment]] (5) · [[Imaginal]] · [[Image]] (5) · [[Love]]_</span>
 
 ##### ...
 <span class="counts">**[[0123 Eros Unfettered Part 1#^14-3|14-3]]**: _[[Image]] (2) · [[Beauty]] (2) · [[Manifestations]] · [[Eros]] · [[Imaginal]]_</span>
@@ -236,7 +236,7 @@ Transcript PDF: [[2017_0123 Eros Unfettered Part 1.pdf]]
 <span class="counts">**[[0123 Eros Unfettered Part 1#^15-1|15-1]]**: _[[Image]] (2) · [[Ways of Looking]] · [[Logos]]_</span>
 
 ##### ...
-<span class="counts">**[[0123 Eros Unfettered Part 1#^15-2|15-2]]**: _[[Dependent Origination]] · [[Image]] (2) · [[Ways of Looking]] (3) · [[Conceptual Framework]] · [[Soulmaking]] · [[Shame]] (3) · [[Energy]]_</span>
+<span class="counts">**[[0123 Eros Unfettered Part 1#^15-2|15-2]]**: _[[Dependent Origination]] · [[Image]] (2) · [[Ways of Looking]] (3) · [[Conceptual Framework]] · [[Soulmaking]] · [[Mind]] · [[Shame]] (3) · [[Energy]]_</span>
 
 ##### ...
 <span class="counts">**[[0123 Eros Unfettered Part 1#^15-3|15-3]]**: _[[Image]]_</span>

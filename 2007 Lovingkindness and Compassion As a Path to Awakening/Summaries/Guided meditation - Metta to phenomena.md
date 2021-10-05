@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: true
-obsidianUIMode: preview
 Series: 2007 Lovingkindness and Compassion As a Path to Awakening
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -14,7 +14,7 @@ Transcript PDF: [[2007_0204 Guided meditation - Metta to phenomena.pdf]]
 ![[20070204-Rob_Burbea-GAIA-guided_meditation_metta_to_phenomena-12292.mp3]]
 
 ## Index
-<span class="counts">_[[Metta]] (26) · [[Experience]] (12) · [[Compassion]] (9) · [[Love]] (9) · [[Consciousness]] (5) · [[Awareness]] (4) · [[Acceptance]] (2) · [[Letting go]] (2) · [[Meditation]] (2) · [[Anger]] · [[Embodiment]] · [[Emptiness]] · [[Fear]] · [[Happiness]] · [[Image]] · [[Mind state]] · [[Mindfulness]] · [[Phenomenon]] · [[Pleasantness]] · [[Tiredness]]_</span>
+<span class="counts">_[[Metta]] (26) · [[Experience]] (12) · [[Compassion]] (9) · [[Love]] (9) · [[Consciousness]] (5) · [[Awareness]] (4) · [[Embodiment]] (4) · [[Acceptance]] (2) · [[Letting go]] (2) · [[Meditation]] (2) · [[Anger]] · [[Emptiness]] · [[Fear]] · [[Happiness]] · [[Image]] · [[Mind]] · [[Mind state]] · [[Mindfulness]] · [[Phenomenon]] · [[Pleasantness]] · [[Tiredness]]_</span>
 <br/>
 
 ## Paragraphs
@@ -22,11 +22,11 @@ Transcript PDF: [[2007_0204 Guided meditation - Metta to phenomena.pdf]]
 
 ---
 ##### Just noticing if anything in experience is standing out
-<span class="counts">**[[0204 Guided meditation - Metta to phenomena#^1-2|1-2]]**: _[[Metta]] · [[Compassion]] · [[Experience]] (2) · [[Phenomenon]] · [[Consciousness]] · [[Awareness]] (2) · [[Embodiment]] · [[Mind state]]_</span>
+<span class="counts">**[[0204 Guided meditation - Metta to phenomena#^1-2|1-2]]**: _[[Metta]] · [[Compassion]] · [[Experience]] (2) · [[Phenomenon]] · [[Consciousness]] · [[Awareness]] (2) · [[Embodiment]] (3) · [[Mind state]]_</span>
 
 ---
 ##### Bathing that in loving kindness, over and over
-<span class="counts">**[[0204 Guided meditation - Metta to phenomena#^1-3|1-3]]**: _[[Compassion]] (2) · [[Metta]] (5) · [[Love]] (4) · [[Experience]] (5)_</span>
+<span class="counts">**[[0204 Guided meditation - Metta to phenomena#^1-3|1-3]]**: _[[Compassion]] (2) · [[Metta]] (5) · [[Love]] (4) · [[Experience]] (5) · [[Embodiment]] · [[Mind]]_</span>
 
 ---
 ##### Complete acceptence of whatever is in consciousness

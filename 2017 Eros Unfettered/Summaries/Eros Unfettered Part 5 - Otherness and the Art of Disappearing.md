@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: false
-obsidianUIMode: preview
 Series: 2017 Eros Unfettered
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -12,7 +12,7 @@ Transcript: [[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearin
 Transcript PDF: [[2017_0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing.pdf]]
 
 ## Index
-<span class="counts">_[[Eros]] (73) · [[Oneness]] (42) · [[Soulmaking]] (30) · [[Experience]] (26) · [[Imaginal]] (24) · [[Ways of Looking]] (24) · [[Desire]] (22) · [[Dharma]] (22) · [[Image]] (20) · [[Insight]] (17) · [[Perception]] (16) · [[Soulmaking Dynamic]] (16) · [[Soul]] (15) · [[Unfabricated]] (15) · [[Divinity]] (12) · [[Emptiness]] (12) · [[Beauty]] (10) · [[Dimensionality]] (10) · [[Fabrication]] (9) · [[Epistemology]] (8) · [[Fantasy]] (8) · [[Logos]] (8) · [[Love]] (8) · [[Retreat]] (8) · [[Awakening]] (7) · [[Birth]] (7) · [[Psyche]] (6) · [[Buddha]] (5) · [[Conceptual Framework]] (5) · [[Energy]] (5) · [[Eternality]] (5) · [[Hermeneutics#Overview]] (5) · [[Meditation]] (5) · [[Tantra]] (5) · [[The Self]] (5) · [[Clinging]] (4) · [[Jhanas]] (4) · [[Realism]] (4) · [[Rebirth]] (4) · [[Awareness]] (3) · [[Consciousness]] (3) · [[Dukkha]] (3) · [[Impermanence]] (3) · [[Mahayana]] (3) · [[Nondualism]] (3) · [[Pali Canon]] (3) · [[Aversion]] (2) · [[Craving]] (2) · [[Delineations]] (2) · [[Modernism]] (2) · [[Ontology]] (2) · [[Passion]] (2) · [[Phenomenology]] (2) · [[Samadhi]] (2) · [[Vajrayana]] (2) · [[Activism]] · [[Anatta]] · [[Attention]] · [[Bhumi]] · [[Bodhisattva]] · [[Brahman]] · [[Brahmaviharas]] · [[Buddha-nature]] · [[Buddhism]] · [[Constriction]] · [[Cosmology]] · [[Daimon]] · [[Dependent Origination]] · [[Dharmakaya]] · [[History]] · [[Old Testament]] · [[Personhood]] · [[Postmodernism]] · [[Re-enchanting the Cosmos]] · [[Scientific method]] · [[Vessel]] · [[Wonder]]_</span>
+<span class="counts">_[[Eros]] (73) · [[Oneness]] (42) · [[Soulmaking]] (30) · [[Experience]] (26) · [[Imaginal]] (24) · [[Ways of Looking]] (24) · [[Desire]] (22) · [[Dharma]] (22) · [[Image]] (20) · [[Insight]] (17) · [[Perception]] (16) · [[Soulmaking Dynamic]] (16) · [[Soul]] (15) · [[Unfabricated]] (15) · [[Divinity]] (12) · [[Emptiness]] (12) · [[Beauty]] (10) · [[Dimensionality]] (10) · [[Fabrication]] (9) · [[Epistemology]] (8) · [[Fantasy]] (8) · [[Logos]] (8) · [[Love]] (8) · [[Mind]] (8) · [[Retreat]] (8) · [[Awakening]] (7) · [[Birth]] (7) · [[Psyche]] (6) · [[Buddha]] (5) · [[Conceptual Framework]] (5) · [[Energy]] (5) · [[Eternality]] (5) · [[Hermeneutics#Overview]] (5) · [[Meditation]] (5) · [[Tantra]] (5) · [[The Self]] (5) · [[Clinging]] (4) · [[Jhanas]] (4) · [[Realism]] (4) · [[Rebirth]] (4) · [[Awareness]] (3) · [[Consciousness]] (3) · [[Dukkha]] (3) · [[Impermanence]] (3) · [[Mahayana]] (3) · [[Nondualism]] (3) · [[Pali Canon]] (3) · [[Aversion]] (2) · [[Craving]] (2) · [[Delineations]] (2) · [[Embodiment]] (2) · [[Modernism]] (2) · [[Ontology]] (2) · [[Passion]] (2) · [[Phenomenology]] (2) · [[Samadhi]] (2) · [[Vajrayana]] (2) · [[Activism]] · [[Anatta]] · [[Attention]] · [[Bhumi]] · [[Bodhisattva]] · [[Brahman]] · [[Brahmaviharas]] · [[Buddha-nature]] · [[Buddhism]] · [[Constriction]] · [[Cosmology]] · [[Daimon]] · [[Dependent Origination]] · [[Dharmakaya]] · [[History]] · [[Old Testament]] · [[Personhood]] · [[Postmodernism]] · [[Re-enchanting the Cosmos]] · [[Scientific method]] · [[Vessel]] · [[Wonder]]_</span>
 <br/>
 
 ## Paragraphs
@@ -48,7 +48,7 @@ Transcript PDF: [[2017_0127 Eros Unfettered Part 5 - Otherness and the Art of Di
 <span class="counts">**[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^2-5|2-5]]**: _[[Soulmaking]] · [[Eros]] · [[Oneness]] (2) · [[Perception]] (2) · [[Ways of Looking]] · [[Meditation]] (2) · [[Experience]] (2) · [[Unfabricated]]_</span>
 
 ##### ...
-<span class="counts">**[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^3-1|3-1]]**: _[[Eros]] · [[Image]] · [[Energy]] (4) · [[Desire]] (4) · [[Craving]] · [[Vessel]] · [[Soulmaking]] · [[Experience]]_</span>
+<span class="counts">**[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^3-1|3-1]]**: _[[Eros]] · [[Image]] · [[Energy]] (4) · [[Embodiment]] (2) · [[Desire]] (4) · [[Craving]] · [[Vessel]] · [[Soulmaking]] · [[Experience]]_</span>
 
 ##### ...
 <span class="counts">**[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^3-2|3-2]]**: _[[Eros]] (3) · [[Soulmaking Dynamic]] · [[Soulmaking]] · [[Desire]] (2) · [[Experience]] · [[Oneness]]_</span>
@@ -81,7 +81,7 @@ Transcript PDF: [[2017_0127 Eros Unfettered Part 5 - Otherness and the Art of Di
 <span class="counts">**[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^5-1|5-1]]**: _[[Oneness]] (2) · [[Emptiness]] · [[Imaginal]] · [[Eros]] · [[Soulmaking]] · [[Constriction]] · [[Soulmaking Dynamic]]_</span>
 
 ##### ...
-<span class="counts">**[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^5-2|5-2]]**: _[[Beauty]] · [[Eros]] (3) · [[Insight]] · [[Buddha-nature]] · [[Soul]] (3)_</span>
+<span class="counts">**[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^5-2|5-2]]**: _[[Beauty]] · [[Eros]] (3) · [[Mind]] (6) · [[Insight]] · [[Buddha-nature]] · [[Soul]] (3)_</span>
 
 ##### ...
 <span class="counts">**[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^5-3|5-3]]**: _[[Eros]] (2) · [[Perception]] · [[Psyche]] (2) · [[Dimensionality]] (2) · [[Personhood]] · [[Imaginal]] · [[Conceptual Framework]] · [[Soulmaking]] · [[Beauty]] (2)_</span>
@@ -111,10 +111,10 @@ Transcript PDF: [[2017_0127 Eros Unfettered Part 5 - Otherness and the Art of Di
 <span class="counts">**[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^7-3|7-3]]**: _[[Imaginal]] (2)_</span>
 
 ##### ...
-<span class="counts">**[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^7-4|7-4]]**: _[[Imaginal]] · [[Nondualism]] · [[Perception]] · [[Experience]] (3) · [[Fabrication]] (4)_</span>
+<span class="counts">**[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^7-4|7-4]]**: _[[Imaginal]] · [[Nondualism]] · [[Mind]] · [[Perception]] · [[Experience]] (3) · [[Fabrication]] (4)_</span>
 
 ##### ...
-<span class="counts">**[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^7-5|7-5]]**: _[[Ways of Looking]] (2) · [[Scientific method]]_</span>
+<span class="counts">**[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^7-5|7-5]]**: _[[Ways of Looking]] (2) · [[Scientific method]] · [[Mind]]_</span>
 
 ##### ...
 <span class="counts">**[[0127 Eros Unfettered Part 5 - Otherness and the Art of Disappearing#^8-1|8-1]]**: _[[Realism]] (3) · [[Dharma]] (3) · [[Conceptual Framework]] · [[Activism]] · [[Epistemology]] · [[Perception]] · [[Experience]] · [[Postmodernism]] · [[Insight]] (3) · [[Emptiness]] (2) · [[Ways of Looking]]_</span>

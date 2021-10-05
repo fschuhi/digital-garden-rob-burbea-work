@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: true
-obsidianUIMode: preview
 Series: 2017 Eros Unfettered
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -14,7 +14,7 @@ Transcript PDF: [[2017_0117 The Way of Non-Clinging Part 3.pdf]]
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3]]
 
 ## Index
-<span class="counts">_[[Desire]] (60) · [[Clinging]] (57) · [[Eros]] (42) · [[Craving]] (39) · [[Fantasy]] (30) · [[Dharma]] (28) · [[Passion]] (23) · [[Letting go]] (20) · [[Soul]] (15) · [[Dukkha]] (14) · [[Love]] (14) · [[Insight]] (13) · [[Mindfulness]] (13) · [[Avijja]] (11) · [[Discrepancy-based Processing]] (11) · [[Hindrances]] (11) · [[Romantic love]] (11) · [[Conceptual Framework]] (10) · [[Fabrication]] (10) · [[Perception]] (10) · [[Activism]] (9) · [[Metta]] (9) · [[Beauty]] (8) · [[Emptiness]] (8) · [[Kusala]] (8) · [[Constriction]] (7) · [[Dependent Origination]] (7) · [[Psyche]] (7) · [[Retreat]] (7) · [[Sexuality]] (7) · [[The Self]] (7) · [[Freedom]] (6) · [[Image]] (6) · [[Soulmaking]] (6) · [[Spiritual friendship]] (6) · [[Attention]] (5) · [[Awakening]] (5) · [[Delineations]] (5) · [[Experience]] (5) · [[Personhood]] (5) · [[Poetry]] (5) · [[Cultivation]] (4) · [[Dimensionality]] (4) · [[Divinity]] (4) · [[Habit]] (4) · [[Imaginal]] (4) · [[Mode of mind]] (4) · [[Papanca]] (4) · [[Relationships]] (4) · [[Ways of Looking]] (4) · [[Zen]] (4) · [[Buddha]] (3) · [[Happiness]] (3) · [[Vedana]] (3) · [[Bodhisattva]] (2) · [[Chanda]] (2) · [[Hermeneutics#Overview]] (2) · [[Meditation]] (2) · [[Music]] (2) · [[Allen Ginsberg]] · [[Brahmaviharas]] · [[Chogyam Trungpa]] · [[Cosmology]] · [[Ethics]] · [[Global warming]] · [[Hermit]] · [[Ignorance]] · [[Impermanence]] · [[Mahayana]] · [[Meaningfulness]] · [[Music#Jazz]] · [[Pain]] · [[Realism]] · [[Sangha]] · [[Simplification]] · [[Spirituality]] · [[Steadiness]] · [[Thich Nhat Hanh]] · [[Unfabricated]]_</span>
+<span class="counts">_[[Desire]] (60) · [[Clinging]] (57) · [[Eros]] (42) · [[Craving]] (39) · [[Fantasy]] (30) · [[Dharma]] (28) · [[Passion]] (23) · [[Letting go]] (20) · [[Soul]] (15) · [[Dukkha]] (14) · [[Love]] (14) · [[Insight]] (13) · [[Mindfulness]] (13) · [[Avijja]] (11) · [[Discrepancy-based Processing]] (11) · [[Hindrances]] (11) · [[Romantic love]] (11) · [[Conceptual Framework]] (10) · [[Fabrication]] (10) · [[Perception]] (10) · [[Activism]] (9) · [[Metta]] (9) · [[Beauty]] (8) · [[Emptiness]] (8) · [[Kusala]] (8) · [[Mind]] (8) · [[Constriction]] (7) · [[Dependent Origination]] (7) · [[Psyche]] (7) · [[Retreat]] (7) · [[Sexuality]] (7) · [[The Self]] (7) · [[Freedom]] (6) · [[Image]] (6) · [[Soulmaking]] (6) · [[Spiritual friendship]] (6) · [[Attention]] (5) · [[Awakening]] (5) · [[Delineations]] (5) · [[Experience]] (5) · [[Personhood]] (5) · [[Poetry]] (5) · [[Cultivation]] (4) · [[Dimensionality]] (4) · [[Divinity]] (4) · [[Habit]] (4) · [[Imaginal]] (4) · [[Mode of mind]] (4) · [[Papanca]] (4) · [[Relationships]] (4) · [[Ways of Looking]] (4) · [[Zen]] (4) · [[Buddha]] (3) · [[Happiness]] (3) · [[Vedana]] (3) · [[Bodhisattva]] (2) · [[Chanda]] (2) · [[Hermeneutics#Overview]] (2) · [[Meditation]] (2) · [[Music]] (2) · [[Allen Ginsberg]] · [[Brahmaviharas]] · [[Chogyam Trungpa]] · [[Cosmology]] · [[Embodiment]] · [[Ethics]] · [[Global warming]] · [[Hermit]] · [[Ignorance]] · [[Impermanence]] · [[Mahayana]] · [[Meaningfulness]] · [[Music#Jazz]] · [[Pain]] · [[Realism]] · [[Sangha]] · [[Simplification]] · [[Spirituality]] · [[Steadiness]] · [[Thich Nhat Hanh]] · [[Unfabricated]]_</span>
 <br/>
 
 ## Paragraphs
@@ -50,7 +50,7 @@ slippery slope of "craving, clinging, attachment, desire"
 
 ---
 ##### Constraints on the kinds of desire that are allowed
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^2-2|2-2]]**: _[[Activism]] · [[Personhood]] · [[Love]] · [[Romantic love]] · [[Sexuality]] · [[Dharma]] (3) · [[Mindfulness]] (6) · [[Clinging]] · [[Desire]] (4) · [[Fantasy]] (2) · [[Image]] (2) · [[Awakening]] · [[Constriction]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^2-2|2-2]]**: _[[Activism]] · [[Personhood]] · [[Love]] · [[Romantic love]] · [[Sexuality]] · [[Dharma]] (3) · [[Mindfulness]] (6) · [[Embodiment]] · [[Clinging]] · [[Desire]] (4) · [[Fantasy]] (2) · [[Image]] (2) · [[Awakening]] · [[Constriction]]_</span>
 
 ---
 ##### Fantasy of the Buddhist path
@@ -90,11 +90,11 @@ slippery slope of "craving, clinging, attachment, desire"
 
 ---
 ##### Nourishment, life, structure, vision, opening doors
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^4-5|4-5]]**: _[[Desire]] (5) · [[Meditation]] · [[Retreat]] · [[Insight]] (2) · [[Emptiness]] (3) · [[Passion]] (3) · [[Freedom]] · [[Dependent Origination]] · [[Cultivation]] · [[Soul]] · [[Eros]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^4-5|4-5]]**: _[[Desire]] (5) · [[Meditation]] · [[Retreat]] · [[Mind]] (2) · [[Insight]] (2) · [[Emptiness]] (3) · [[Passion]] (3) · [[Freedom]] · [[Dependent Origination]] · [[Cultivation]] · [[Soul]] · [[Eros]]_</span>
 
 ---
 ##### Different avenues
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^5-1|5-1]]**: _[[Soul]] · [[Passion]] · [[Desire]] · [[Eros]] · [[Dependent Origination]] · [[Emptiness]] · [[Craving]] (4) · [[Letting go]] (2) · [[Awakening]] (2)_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^5-1|5-1]]**: _[[Soul]] · [[Passion]] · [[Desire]] · [[Eros]] · [[Dependent Origination]] · [[Emptiness]] · [[Mind]] (3) · [[Craving]] (4) · [[Letting go]] (2) · [[Awakening]] (2)_</span>
 
 ---
 ##### Is there something missing in the way we are thinking about this?
@@ -114,7 +114,7 @@ slippery slope of "craving, clinging, attachment, desire"
 
 ---
 ##### Discrepancy-based processing
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^6-2|6-2]]**: _[[Mindfulness]] · [[Dharma]] · [[Discrepancy-based Processing]] (2) · [[Mode of mind]] · [[Desire]] · [[Perception]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^6-2|6-2]]**: _[[Mindfulness]] · [[Dharma]] · [[Discrepancy-based Processing]] (2) · [[Mind]] (2) · [[Mode of mind]] · [[Desire]] · [[Perception]]_</span>
 
 ---
 ##### The idea that discrepancy-based processing is the opposite of mindfulness
@@ -146,7 +146,7 @@ How could I possibly justify an abstract art painting? It has nothing to do with
 
 ---
 ##### Oversimplistic ideas not quite add up in relation to eros in our live
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^7-4|7-4]]**: _[[Clinging]] (3) · [[Desire]] (3) · [[Meditation]] · [[Craving]] (2) · [[Letting go]] (2) · [[Retreat]] · [[The Self]] · [[Habit]] · [[Passion]] · [[Love]] · [[Eros]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^7-4|7-4]]**: _[[Clinging]] (3) · [[Desire]] (3) · [[Meditation]] · [[Craving]] (2) · [[Letting go]] (2) · [[Retreat]] · [[The Self]] · [[Mind]] · [[Habit]] · [[Passion]] · [[Love]] · [[Eros]]_</span>
 
 ---
 ##### Does it satisfy me?

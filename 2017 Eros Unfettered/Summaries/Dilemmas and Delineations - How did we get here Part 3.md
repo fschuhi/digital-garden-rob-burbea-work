@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: false
-obsidianUIMode: preview
 Series: 2017 Eros Unfettered
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -14,7 +14,7 @@ Transcript PDF: [[2017_0120 Dilemmas and Delineations - How did we get here Part
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3]]
 
 ## Index
-<span class="counts">_[[Image]] (55) · [[Ways of Looking]] (51) · [[Soul]] (48) · [[Imaginal]] (46) · [[Divinity]] (42) · [[Perception]] (35) · [[Experience]] (29) · [[Logos]] (27) · [[Cosmology]] (25) · [[Eros]] (21) · [[Fabrication]] (20) · [[Emptiness]] (18) · [[Insight]] (17) · [[Soulmaking]] (17) · [[Conceptual Framework]] (13) · [[Desire]] (13) · [[Love]] (13) · [[The Self]] (13) · [[Awareness]] (12) · [[Dukkha]] (12) · [[Buddha-nature]] (11) · [[Phenomenology]] (11) · [[Psyche]] (11) · [[Craving]] (10) · [[Dimensionality]] (10) · [[Energy Body]] (10) · [[Meditation]] (9) · [[Retreat]] (9) · [[Beauty]] (8) · [[Fantasy]] (8) · [[Clinging]] (7) · [[Dharma]] (7) · [[Citta]] (6) · [[Buddha]] (5) · [[Ignorance]] (5) · [[Phenomenon]] (5) · [[Relationships]] (5) · [[Soulmaking Dynamic]] (5) · [[Unfathomability]] (5) · [[Dharmakaya]] (4) · [[Freedom]] (4) · [[Meaningfulness]] (4) · [[Personhood]] (4) · [[Attention]] (3) · [[Buddhism]] (3) · [[Contraction]] (3) · [[Dependent Origination]] (3) · [[Embodiment]] (3) · [[Energy]] (3) · [[History]] (3) · [[Impermanence]] (3) · [[Metaphysics]] (3) · [[Mindfulness]] (3) · [[Awakening]] (2) · [[Dominant Culture]] (2) · [[Gestalt Psychology]] (2) · [[Mahayana]] (2) · [[Telos]] (2) · [[Unfabricated]] (2) · [[Anatta]] · [[Archtetype]] · [[Centre]] · [[Chanda]] · [[Consciousness]] · [[Four Noble Truths]] · [[Jesus]] · [[Metta]] · [[Neuroscience]] · [[Pleasantness]] · [[Re-enchanting the Cosmos]] · [[Stories]] · [[Tibetan Buddhism]] · [[Vajrayana]]_</span>
+<span class="counts">_[[Image]] (55) · [[Ways of Looking]] (51) · [[Soul]] (48) · [[Imaginal]] (46) · [[Divinity]] (42) · [[Perception]] (35) · [[Experience]] (29) · [[Logos]] (27) · [[Cosmology]] (25) · [[Eros]] (21) · [[Fabrication]] (20) · [[Emptiness]] (18) · [[Insight]] (17) · [[Soulmaking]] (17) · [[Conceptual Framework]] (13) · [[Desire]] (13) · [[Love]] (13) · [[The Self]] (13) · [[Awareness]] (12) · [[Dukkha]] (12) · [[Buddha-nature]] (11) · [[Mind]] (11) · [[Phenomenology]] (11) · [[Psyche]] (11) · [[Craving]] (10) · [[Dimensionality]] (10) · [[Energy Body]] (10) · [[Embodiment]] (9) · [[Meditation]] (9) · [[Retreat]] (9) · [[Beauty]] (8) · [[Fantasy]] (8) · [[Clinging]] (7) · [[Dharma]] (7) · [[Citta]] (6) · [[Buddha]] (5) · [[Ignorance]] (5) · [[Phenomenon]] (5) · [[Relationships]] (5) · [[Soulmaking Dynamic]] (5) · [[Unfathomability]] (5) · [[Dharmakaya]] (4) · [[Freedom]] (4) · [[Meaningfulness]] (4) · [[Personhood]] (4) · [[Attention]] (3) · [[Buddhism]] (3) · [[Contraction]] (3) · [[Dependent Origination]] (3) · [[Energy]] (3) · [[History]] (3) · [[Impermanence]] (3) · [[Metaphysics]] (3) · [[Mindfulness]] (3) · [[Awakening]] (2) · [[Dominant Culture]] (2) · [[Gestalt Psychology]] (2) · [[Mahayana]] (2) · [[Telos]] (2) · [[Unfabricated]] (2) · [[Anatta]] · [[Archtetype]] · [[Centre]] · [[Chanda]] · [[Consciousness]] · [[Four Noble Truths]] · [[Jesus]] · [[Metta]] · [[Neuroscience]] · [[Pleasantness]] · [[Re-enchanting the Cosmos]] · [[Stories]] · [[Tibetan Buddhism]] · [[Vajrayana]]_</span>
 <br/>
 
 ## Paragraphs
@@ -23,7 +23,7 @@ Transcript PDF: [[2017_0120 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^1-2|1-2]]**: _[[Emptiness]] (2) · [[Dependent Origination]] · [[Imaginal]] (2) · [[Eros]] (2) · [[Meditation]] · [[Soul]] (2) · [[Divinity]] · [[Cosmology]] · [[Buddhism]] · [[Fantasy]] · [[Dharma]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^1-2|1-2]]**: _[[Embodiment]] (3) · [[Emptiness]] (2) · [[Dependent Origination]] · [[Imaginal]] (2) · [[Eros]] (2) · [[Meditation]] · [[Soul]] (2) · [[Divinity]] · [[Cosmology]] · [[Buddhism]] · [[Fantasy]] · [[Dharma]]_</span>
 
 ---
 ##### ...
@@ -55,7 +55,7 @@ Transcript PDF: [[2017_0120 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^3-1|3-1]]**: _[[Divinity]] · [[Soul]] (2) · [[Experience]] · [[Retreat]] (2) · [[Emptiness]] · [[Imaginal]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^3-1|3-1]]**: _[[Divinity]] · [[Soul]] (2) · [[Experience]] · [[Retreat]] (2) · [[Emptiness]] · [[Imaginal]] · [[Mind]]_</span>
 
 ---
 ##### ...
@@ -83,7 +83,7 @@ Transcript PDF: [[2017_0120 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^4-3|4-3]]**: _[[Emptiness]] (4) · [[Ways of Looking]] (5) · [[Fabrication]] (2) · [[Phenomenology]] · [[Insight]] (3) · [[Perception]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^4-3|4-3]]**: _[[Emptiness]] (4) · [[Ways of Looking]] (5) · [[Fabrication]] (2) · [[Phenomenology]] · [[Insight]] (3) · [[Mind]] · [[Perception]]_</span>
 
 ---
 ##### ...
@@ -103,7 +103,7 @@ Transcript PDF: [[2017_0120 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^5-5|5-5]]**: _[[Dimensionality]] · [[Imaginal]] (2) · [[Image]] (5) · [[Retreat]] · [[History]] (3)_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^5-5|5-5]]**: _[[Dimensionality]] · [[Imaginal]] (2) · [[Image]] (5) · [[Mind]] · [[Retreat]] · [[History]] (3)_</span>
 
 ---
 ##### ...
@@ -139,7 +139,7 @@ Transcript PDF: [[2017_0120 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^7-3|7-3]]**: _[[Energy Body]] (3) · [[Experience]] (3) · [[Ways of Looking]] · [[Phenomenology]] · [[Embodiment]] · [[Image]] · [[Energy]] (2)_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^7-3|7-3]]**: _[[Energy Body]] (3) · [[Experience]] (3) · [[Embodiment]] (2) · [[Ways of Looking]] · [[Phenomenology]] · [[Image]] · [[Energy]] (2)_</span>
 
 ---
 ##### ...
@@ -159,11 +159,11 @@ Transcript PDF: [[2017_0120 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^8-4|8-4]]**: _[[Craving]] (7) · [[Desire]] (2) · [[Soulmaking]] (2) · [[Contraction]] (2) · [[Energy Body]] · [[Dukkha]] · [[Eros]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^8-4|8-4]]**: _[[Craving]] (7) · [[Desire]] (2) · [[Soulmaking]] (2) · [[Contraction]] (2) · [[Embodiment]] · [[Energy Body]] · [[Mind]] · [[Dukkha]] · [[Eros]]_</span>
 
 ---
 ##### ...
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^8-5|8-5]]**: _[[Clinging]] (6) · [[Ignorance]] (3) · [[Attention]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^8-5|8-5]]**: _[[Clinging]] (6) · [[Ignorance]] (3) · [[Attention]] · [[Mind]]_</span>
 
 ---
 ##### ...
@@ -175,7 +175,7 @@ Transcript PDF: [[2017_0120 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^9-1|9-1]]**: _[[Psyche]] (6) · [[Citta]] (3) · [[Soul]] (4) · [[Imaginal]] (5) · [[Image]] (2)_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^9-1|9-1]]**: _[[Psyche]] (6) · [[Citta]] (3) · [[Mind]] (2) · [[Soul]] (4) · [[Imaginal]] (5) · [[Image]] (2)_</span>
 
 ---
 ##### ...
@@ -187,7 +187,7 @@ Transcript PDF: [[2017_0120 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^9-4|9-4]]**: _[[Logos]] (5) · [[Experience]] (2) · [[Unfabricated]] · [[Conceptual Framework]] (3) · [[Perception]] · [[Ways of Looking]] · [[Soulmaking Dynamic]] (2) · [[Retreat]] · [[Eros]] · [[Psyche]] · [[Imaginal]] · [[Dimensionality]] (3) · [[Personhood]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^9-4|9-4]]**: _[[Logos]] (5) · [[Mind]] · [[Experience]] (2) · [[Unfabricated]] · [[Conceptual Framework]] (3) · [[Perception]] · [[Ways of Looking]] · [[Soulmaking Dynamic]] (2) · [[Retreat]] · [[Eros]] · [[Psyche]] · [[Imaginal]] · [[Dimensionality]] (3) · [[Personhood]]_</span>
 
 ---
 ##### ...
@@ -211,7 +211,7 @@ Transcript PDF: [[2017_0120 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^11-1|11-1]]**: _[[Divinity]] (11) · [[Perception]] · [[Retreat]] (2) · [[Dharma]] · [[Imaginal]] (2) · [[Insight]] · [[Cosmology]] (2) · [[Re-enchanting the Cosmos]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^11-1|11-1]]**: _[[Divinity]] (11) · [[Perception]] · [[Retreat]] (2) · [[Dharma]] · [[Imaginal]] (2) · [[Insight]] · [[Cosmology]] (2) · [[Re-enchanting the Cosmos]] · [[Embodiment]]_</span>
 
 ---
 ##### ...
@@ -231,7 +231,7 @@ Transcript PDF: [[2017_0120 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^12-2|12-2]]**: _[[Buddha-nature]] · [[Buddhism]] · [[Awakening]] (2) · [[Buddha]] · [[Impermanence]] (2) · [[Ignorance]] (2) · [[Craving]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^12-2|12-2]]**: _[[Buddha-nature]] · [[Buddhism]] · [[Awakening]] (2) · [[Buddha]] · [[Mind]] (3) · [[Impermanence]] (2) · [[Ignorance]] (2) · [[Craving]]_</span>
 
 ---
 ##### ...

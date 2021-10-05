@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: false
-obsidianUIMode: preview
 Series: 2017 Eros Unfettered
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -14,7 +14,7 @@ Transcript PDF: [[2017_0122 Dilemmas and Delineations - How did we get here Part
 ![[20170122-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_5-40167.mp3]]
 
 ## Index
-<span class="counts">_[[Eros]] (70) · [[Delineations]] (49) · [[Insight]] (33) · [[Soulmaking]] (23) · [[Fabrication]] (22) · [[Desire]] (11) · [[Image]] (11) · [[Soulmaking Dynamic]] (11) · [[Craving]] (10) · [[Dharma]] (9) · [[Dimensionality]] (9) · [[Ways of Looking]] (9) · [[Daimon]] (7) · [[Imaginal]] (7) · [[Sexuality]] (7) · [[Clinging]] (6) · [[Ignorance]] (6) · [[Logos]] (6) · [[Perception]] (6) · [[Retreat]] (6) · [[Consciousness]] (5) · [[Dukkha]] (5) · [[Emotions]] (5) · [[Experience]] (5) · [[Freedom]] (5) · [[Mindfulness]] (5) · [[Psyche]] (5) · [[Skandhas]] (5) · [[Attention]] (4) · [[Beauty]] (4) · [[Happiness]] (4) · [[Samadhi]] (4) · [[Dependent Origination]] (3) · [[Emptiness]] (3) · [[Nondualism]] (3) · [[Soul]] (3) · [[Awakening]] (2) · [[Create-Discover]] (2) · [[Divinity]] (2) · [[Mahayana]] (2) · [[Pleasantness]] (2) · [[The Self]] (2) · [[Wonder]] (2) · [[Aversion]] · [[Awareness]] · [[Buddha]] · [[Centre]] · [[Conceptual Framework]] · [[Contraction]] · [[Cosmology]] · [[Cultivation]] · [[Equanimity]] · [[Fantasy]] · [[Hermeneutics#Overview]] · [[History]] · [[Meditation]] · [[Metta]] · [[Music]] · [[Papanca]] · [[Personhood]] · [[Spaciousness]] · [[Unfabricated]] · [[Unfathomability]]_</span>
+<span class="counts">_[[Eros]] (70) · [[Delineations]] (49) · [[Insight]] (33) · [[Soulmaking]] (23) · [[Fabrication]] (22) · [[Desire]] (11) · [[Image]] (11) · [[Soulmaking Dynamic]] (11) · [[Craving]] (10) · [[Dharma]] (9) · [[Dimensionality]] (9) · [[Ways of Looking]] (9) · [[Daimon]] (7) · [[Imaginal]] (7) · [[Sexuality]] (7) · [[Clinging]] (6) · [[Ignorance]] (6) · [[Logos]] (6) · [[Perception]] (6) · [[Retreat]] (6) · [[Consciousness]] (5) · [[Dukkha]] (5) · [[Emotions]] (5) · [[Experience]] (5) · [[Freedom]] (5) · [[Mindfulness]] (5) · [[Papanca]] (5) · [[Psyche]] (5) · [[Skandhas]] (5) · [[Attention]] (4) · [[Beauty]] (4) · [[Happiness]] (4) · [[Samadhi]] (4) · [[Dependent Origination]] (3) · [[Emptiness]] (3) · [[Mind]] (3) · [[Nondualism]] (3) · [[Soul]] (3) · [[Awakening]] (2) · [[Create-Discover]] (2) · [[Divinity]] (2) · [[Mahayana]] (2) · [[Pleasantness]] (2) · [[The Self]] (2) · [[Wonder]] (2) · [[Aversion]] · [[Awareness]] · [[Buddha]] · [[Centre]] · [[Conceptual Framework]] · [[Contraction]] · [[Cosmology]] · [[Cultivation]] · [[Equanimity]] · [[Fantasy]] · [[Hermeneutics#Overview]] · [[History]] · [[Meditation]] · [[Metta]] · [[Music]] · [[Personhood]] · [[Spaciousness]] · [[Unfabricated]] · [[Unfathomability]]_</span>
 <br/>
 
 ## Paragraphs
@@ -79,7 +79,7 @@ Transcript PDF: [[2017_0122 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0122 Dilemmas and Delineations - How did we get here Part 5#^4-2|4-2]]**: _[[Soulmaking]] · [[Eros]] · [[Insight]] (3) · [[Retreat]] · [[Delineations]]_</span>
+<span class="counts">**[[0122 Dilemmas and Delineations - How did we get here Part 5#^4-2|4-2]]**: _[[Soulmaking]] · [[Eros]] · [[Insight]] (3) · [[Retreat]] · [[Mind]] · [[Delineations]]_</span>
 
 ---
 ##### ...
@@ -99,7 +99,7 @@ Transcript PDF: [[2017_0122 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0122 Dilemmas and Delineations - How did we get here Part 5#^5-1|5-1]]**: _[[Delineations]] (3)_</span>
+<span class="counts">**[[0122 Dilemmas and Delineations - How did we get here Part 5#^5-1|5-1]]**: _[[Delineations]] (3) · [[Mind]]_</span>
 
 ---
 ##### ...
@@ -159,7 +159,7 @@ Transcript PDF: [[2017_0122 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0122 Dilemmas and Delineations - How did we get here Part 5#^8-3|8-3]]**: _[[Retreat]] · [[Delineations]] · [[Soulmaking]] (3) · [[Cultivation]] · [[Eros]] (2) · [[Desire]] (2) · [[Clinging]] · [[Happiness]] (4)_</span>
+<span class="counts">**[[0122 Dilemmas and Delineations - How did we get here Part 5#^8-3|8-3]]**: _[[Retreat]] · [[Delineations]] · [[Soulmaking]] (3) · [[Cultivation]] · [[Eros]] (2) · [[Mind]] · [[Desire]] (2) · [[Clinging]] · [[Happiness]] (4)_</span>
 
 ---
 ##### ...
@@ -167,7 +167,7 @@ Transcript PDF: [[2017_0122 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0122 Dilemmas and Delineations - How did we get here Part 5#^8-5|8-5]]**: _[[Soulmaking]] (3) · [[Fabrication]] (6) · [[Delineations]] (3) · [[Emotions]] · [[Consciousness]] (3) · [[Insight]]_</span>
+<span class="counts">**[[0122 Dilemmas and Delineations - How did we get here Part 5#^8-5|8-5]]**: _[[Soulmaking]] (3) · [[Fabrication]] (6) · [[Papanca]] (4) · [[Delineations]] (3) · [[Emotions]] · [[Consciousness]] (3) · [[Insight]]_</span>
 
 ---
 ##### ...

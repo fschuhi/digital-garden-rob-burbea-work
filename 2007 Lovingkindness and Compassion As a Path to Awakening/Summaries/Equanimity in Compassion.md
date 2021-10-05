@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: true
-obsidianUIMode: preview
 Series: 2007 Lovingkindness and Compassion As a Path to Awakening
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -14,7 +14,7 @@ Transcript PDF: [[2007_0208 Equanimity in Compassion.pdf]]
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3]]
 
 ## Index
-<span class="counts">_[[Equanimity]] (75) · [[Compassion]] (63) · [[Dukkha]] (50) · [[Samadhi]] (23) · [[Happiness]] (22) · [[Craving]] (21) · [[The Self]] (18) · [[Insight]] (17) · [[Steadiness]] (17) · [[Emptiness]] (15) · [[Metta]] (15) · [[Spaciousness]] (14) · [[Impermanence]] (12) · [[Aversion]] (10) · [[Love]] (10) · [[Letting go]] (9) · [[Future thinking]] (8) · [[Buddha]] (7) · [[Freedom]] (7) · [[Perception]] (7) · [[Awareness]] (6) · [[Experience]] (6) · [[Consciousness]] (5) · [[Dependent Origination]] (5) · [[Dharma]] (5) · [[Immeasurability]] (5) · [[Mudita]] (5) · [[Samatha]] (5) · [[Wonder]] (5) · [[Beauty]] (4) · [[Brahmaviharas]] (4) · [[Devotion]] (4) · [[Grief]] (4) · [[Healing]] (4) · [[Nondualism]] (4) · [[Retreat]] (4) · [[Contraction]] (3) · [[Fabrication]] (3) · [[Ignorance]] (3) · [[Pain]] (3) · [[Pleasantness]] (3) · [[Anatta]] (2) · [[Attention]] (2) · [[Clinging]] (2) · [[Cultivation]] (2) · [[Eight worldly conditions]] (2) · [[Energy]] (2) · [[Energy Body]] (2) · [[Hindrances]] (2) · [[Karma]] (2) · [[Meditation]] (2) · [[Mind state]] (2) · [[Near enemy]] (2) · [[Nihilism]] (2) · [[Acceptance]] · [[Breath]] · [[Catherine McGee]] · [[David Beckham]] · [[Death]] · [[Depression]] · [[Desire]] · [[Empathy]] · [[History]] · [[Jesus]] · [[Juiciness]] · [[Mahatma Gandhi]] · [[Mother Teresa]] · [[Music]] · [[Piti]] · [[Receptivity]] · [[Relationships]] · [[Spiritual circles]]_</span>
+<span class="counts">_[[Equanimity]] (75) · [[Compassion]] (63) · [[Dukkha]] (50) · [[Samadhi]] (23) · [[Happiness]] (22) · [[Craving]] (21) · [[Mind]] (21) · [[The Self]] (18) · [[Insight]] (17) · [[Steadiness]] (17) · [[Emptiness]] (15) · [[Metta]] (15) · [[Spaciousness]] (14) · [[Impermanence]] (12) · [[Aversion]] (10) · [[Love]] (10) · [[Letting go]] (9) · [[Future thinking]] (8) · [[Buddha]] (7) · [[Freedom]] (7) · [[Perception]] (7) · [[Awareness]] (6) · [[Experience]] (6) · [[Consciousness]] (5) · [[Dependent Origination]] (5) · [[Dharma]] (5) · [[Immeasurability]] (5) · [[Mudita]] (5) · [[Samatha]] (5) · [[Wonder]] (5) · [[Beauty]] (4) · [[Brahmaviharas]] (4) · [[Devotion]] (4) · [[Grief]] (4) · [[Healing]] (4) · [[Nondualism]] (4) · [[Retreat]] (4) · [[Contraction]] (3) · [[Fabrication]] (3) · [[Ignorance]] (3) · [[Pain]] (3) · [[Pleasantness]] (3) · [[Anatta]] (2) · [[Attention]] (2) · [[Clinging]] (2) · [[Commentaries]] (2) · [[Cultivation]] (2) · [[Eight worldly conditions]] (2) · [[Embodiment]] (2) · [[Energy]] (2) · [[Energy Body]] (2) · [[Hindrances]] (2) · [[Karma]] (2) · [[Meditation]] (2) · [[Mind state]] (2) · [[Near enemy]] (2) · [[Nihilism]] (2) · [[Acceptance]] · [[Breath]] · [[Catherine McGee]] · [[David Beckham]] · [[Death]] · [[Depression]] · [[Desire]] · [[Empathy]] · [[History]] · [[Jesus]] · [[Juiciness]] · [[Mahatma Gandhi]] · [[Mother Teresa]] · [[Music]] · [[Piti]] · [[Receptivity]] · [[Relationships]] · [[Spiritual circles]]_</span>
 <br/>
 
 ## Paragraphs
@@ -34,7 +34,7 @@ Transcript PDF: [[2007_0208 Equanimity in Compassion.pdf]]
 
 ---
 ##### Mudita is a kind of joy that's not so based on the ego
-<span class="counts">**[[0208 Equanimity in Compassion#^1-3|1-3]]**: _[[Buddha]] · [[Mudita]] (3) · [[Happiness]] (4) · [[Wonder]] (2) · [[Receptivity]] · [[Beauty]]_</span>
+<span class="counts">**[[0208 Equanimity in Compassion#^1-3|1-3]]**: _[[Commentaries]] · [[Buddha]] · [[Mudita]] (3) · [[Happiness]] (4) · [[Wonder]] (2) · [[Receptivity]] · [[Beauty]]_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=01:44]]
 
@@ -47,13 +47,13 @@ Transcript PDF: [[2007_0208 Equanimity in Compassion.pdf]]
 
 ---
 ##### The heart and mind stay steady through their contact with all things in life
-<span class="counts">**[[0208 Equanimity in Compassion#^1-5|1-5]]**: _[[Steadiness]] (2) · [[Equanimity]] · [[Buddha]]_</span>
+<span class="counts">**[[0208 Equanimity in Compassion#^1-5|1-5]]**: _[[Steadiness]] (2) · [[Mind]] (3) · [[Equanimity]] · [[Buddha]]_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=04:04]]
 
 ---
 ##### Equanimity makes the compassion steady in the face of suffering
-<span class="counts">**[[0208 Equanimity in Compassion#^1-6|1-6]]**: _[[Compassion]] (4) · [[Dukkha]] (7) · [[Depression]] · [[Equanimity]]_</span>
+<span class="counts">**[[0208 Equanimity in Compassion#^1-6|1-6]]**: _[[Commentaries]] · [[Compassion]] (4) · [[Dukkha]] (7) · [[Depression]] · [[Equanimity]]_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=04:49]]
 
@@ -115,7 +115,7 @@ It's part of our humanity to be touched. We're not, in a way, wanting to be unto
 ---
 #### Samadhi
 ##### Don't underestimate the power of samadhi in the deepening of equanimity
-<span class="counts">**[[0208 Equanimity in Compassion#^3-2|3-2]]**: _[[Equanimity]] (2) · [[Samadhi]] (5) · [[Retreat]] · [[Steadiness]] · [[Metta]] · [[Compassion]]_</span>
+<span class="counts">**[[0208 Equanimity in Compassion#^3-2|3-2]]**: _[[Equanimity]] (2) · [[Samadhi]] (5) · [[Retreat]] · [[Mind]] (2) · [[Steadiness]] · [[Metta]] · [[Compassion]]_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=11:51]]
 
@@ -137,7 +137,7 @@ sink into the cells, and to be there, woven in almost to the fabric of our being
 
 ---
 ##### But it's also important to practice when the mind isn't that settled
-<span class="counts">**[[0208 Equanimity in Compassion#^3-5|3-5]]**: _[[Samadhi]]_</span>
+<span class="counts">**[[0208 Equanimity in Compassion#^3-5|3-5]]**: _[[Samadhi]] · [[Mind]]_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=14:10]]
 
@@ -305,7 +305,7 @@ But mostly it's actually just a little drop, and then one goes out into that inf
 
 ---
 ##### This formal equanimity practice brings in the recollection to balance the compassion
-<span class="counts">**[[0208 Equanimity in Compassion#^8-2|8-2]]**: _[[Compassion]] (2) · [[Equanimity]]_</span>
+<span class="counts">**[[0208 Equanimity in Compassion#^8-2|8-2]]**: _[[Compassion]] (2) · [[Equanimity]] · [[Mind]] (2)_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=37:12]]
 
@@ -330,14 +330,14 @@ But mostly it's actually just a little drop, and then one goes out into that inf
 
 ---
 ##### I can neither find myself nor others deparate, and in that the love is there
-<span class="counts">**[[0208 Equanimity in Compassion#^8-6|8-6]]**: _[[Compassion]] (3) · [[Metta]] · [[Anatta]] (2) · [[Love]] (3) · [[Dukkha]] (3) · [[Emptiness]] (3) · [[Nondualism]] · [[Equanimity]] (2)_</span>
+<span class="counts">**[[0208 Equanimity in Compassion#^8-6|8-6]]**: _[[Compassion]] (3) · [[Metta]] · [[Anatta]] (2) · [[Love]] (3) · [[Mind]] (3) · [[Dukkha]] (3) · [[Emptiness]] (3) · [[Nondualism]] · [[Equanimity]] (2)_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=40:43]]
 
 ---
 #### How can we develop equanimity?
 ##### Equanimity is steadiness in the face of all conditions
-<span class="counts">**[[0208 Equanimity in Compassion#^9-1|9-1]]**: _[[Buddha]] · [[Equanimity]] (2) · [[Mind state]] (2) · [[Steadiness]]_</span>
+<span class="counts">**[[0208 Equanimity in Compassion#^9-1|9-1]]**: _[[Buddha]] · [[Equanimity]] (2) · [[Mind]] · [[Mind state]] (2) · [[Steadiness]]_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=42:26]]
 
@@ -391,7 +391,7 @@ No one wants to be blamed or to be in pain or to fail or to lose what we like. A
 
 ---
 ##### (3) Equanimity deepens when the mind tunes into the feeling-tone of equanimity
-<span class="counts">**[[0208 Equanimity in Compassion#^10-4|10-4]]**: _[[Retreat]] · [[Equanimity]] (2)_</span>
+<span class="counts">**[[0208 Equanimity in Compassion#^10-4|10-4]]**: _[[Retreat]] · [[Equanimity]] (2) · [[Mind]] (2)_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=48:13]]
 
@@ -417,7 +417,7 @@ How is it that my well of joy, my reservoir of inner happiness, can be deepened 
 
 ---
 ##### How will my life be if I don't cultivate what is beautiful?
-<span class="counts">**[[0208 Equanimity in Compassion#^10-7|10-7]]**: _[[Equanimity]] · [[Future thinking]] (5) · [[Meditation]]_</span>
+<span class="counts">**[[0208 Equanimity in Compassion#^10-7|10-7]]**: _[[Equanimity]] · [[Future thinking]] (5) · [[Embodiment]] · [[Meditation]]_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=51:18]]
 
@@ -445,7 +445,7 @@ So again, in Dharma practice as well, what will my life be like if I don't take 
 
 ---
 ##### Practice: seeing things as just perceptions
-<span class="counts">**[[0208 Equanimity in Compassion#^11-4|11-4]]**: _[[Perception]] (5) · [[Fabrication]] (3) · [[Metta]] (2) · [[Emptiness]] · [[Acceptance]] · [[Buddha]]_</span>
+<span class="counts">**[[0208 Equanimity in Compassion#^11-4|11-4]]**: _[[Perception]] (5) · [[Fabrication]] (3) · [[Metta]] (2) · [[Emptiness]] · [[Acceptance]] · [[Buddha]] · [[Mind]]_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=55:24]]
 
@@ -527,13 +527,13 @@ TODO: practice guide
 ---
 #### Q2: which is best when the mind is distracted (samatha or insight)
 ##### Yogi: when noticing grasping and consequent lack of equanimity, how to counteract?
-<span class="counts">**[[0208 Equanimity in Compassion#^14-1|14-1]]**: _[[Equanimity]] · [[Craving]]_</span>
+<span class="counts">**[[0208 Equanimity in Compassion#^14-1|14-1]]**: _[[Equanimity]] · [[Mind]] · [[Craving]]_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=1:06:41]]
 
 ---
 ##### Rob: depends on level of steadiness, spaciousness, and energy body
-<span class="counts">**[[0208 Equanimity in Compassion#^14-2|14-2]]**: _[[Metta]] · [[Steadiness]] (3) · [[Spaciousness]] · [[Energy Body]] (2) · [[Contraction]] (2) · [[Awareness]] · [[Hindrances]] (2)_</span>
+<span class="counts">**[[0208 Equanimity in Compassion#^14-2|14-2]]**: _[[Mind]] (3) · [[Metta]] · [[Steadiness]] (3) · [[Spaciousness]] · [[Energy Body]] (2) · [[Contraction]] (2) · [[Awareness]] · [[Hindrances]] (2)_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=1:07:02]]
 
@@ -541,7 +541,7 @@ TODO: practice guide
 
 ---
 ##### Rob: feeling the suffering is important because there's a lot insight in this approach
-<span class="counts">**[[0208 Equanimity in Compassion#^14-6|14-6]]**: _[[Dukkha]] (12) · [[Insight]] · [[Attention]] · [[Pain]] · [[Aversion]] (3) · [[Contraction]] · [[Equanimity]]_</span>
+<span class="counts">**[[0208 Equanimity in Compassion#^14-6|14-6]]**: _[[Dukkha]] (12) · [[Insight]] · [[Attention]] · [[Pain]] · [[Embodiment]] · [[Aversion]] (3) · [[Contraction]] · [[Equanimity]]_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=1:08:51]]
 
@@ -551,7 +551,7 @@ But sometimes it can be just the sense of contraction is a sense of suffering. A
 
 ---
 ##### It's good to stick for the session with one practice and use the other(s) as a backup
-<span class="counts">**[[0208 Equanimity in Compassion#^14-7|14-7]]**: _[[Metta]] · [[Spaciousness]]_</span>
+<span class="counts">**[[0208 Equanimity in Compassion#^14-7|14-7]]**: _[[Metta]] · [[Spaciousness]] · [[Mind]]_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=1:09:57]]
 

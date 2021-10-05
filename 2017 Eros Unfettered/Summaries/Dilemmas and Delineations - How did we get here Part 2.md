@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: false
-obsidianUIMode: preview
 Series: 2017 Eros Unfettered
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -14,7 +14,7 @@ Transcript PDF: [[2017_0119 Dilemmas and Delineations - How did we get here Part
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3]]
 
 ## Index
-<span class="counts">_[[Eros]] (91) · [[Soulmaking]] (20) · [[Experience]] (18) · [[Energy Body]] (14) · [[Conceptual Framework]] (10) · [[Desire]] (10) · [[Dharma]] (9) · [[Imaginal]] (9) · [[Divinity]] (8) · [[Juiciness]] (8) · [[Oneness]] (8) · [[Retreat]] (7) · [[Insight]] (6) · [[Sexuality]] (6) · [[Buddha]] (4) · [[Energy]] (4) · [[Mindfulness]] (4) · [[Soul]] (4) · [[Awakening]] (3) · [[Craving]] (3) · [[Delineations]] (3) · [[Image]] (3) · [[Jhanas]] (3) · [[Psyche]] (3) · [[Soulmaking Dynamic]] (3) · [[Awareness]] (2) · [[Beauty]] (2) · [[Dimensionality]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Love]] (2) · [[Phenomenology]] (2) · [[Pleasantness]] (2) · [[Samadhi]] (2) · [[The Self]] (2) · [[Alchemy]] · [[Clinging]] · [[Consciousness]] · [[Death]] · [[Emptiness]] · [[Feelings]] · [[Happiness]] · [[Hermeneutics#Overview]] · [[Hindrances]] · [[Metta]] · [[Papanca]] · [[Passion]] · [[Piti]] · [[Relationships]] · [[Romantic love]] · [[Tantra]] · [[Unfabricated]]_</span>
+<span class="counts">_[[Eros]] (91) · [[Soulmaking]] (20) · [[Experience]] (18) · [[Energy Body]] (14) · [[Conceptual Framework]] (10) · [[Desire]] (10) · [[Dharma]] (9) · [[Imaginal]] (9) · [[Divinity]] (8) · [[Juiciness]] (8) · [[Oneness]] (8) · [[Retreat]] (7) · [[Insight]] (6) · [[Mind]] (6) · [[Sexuality]] (6) · [[Buddha]] (4) · [[Energy]] (4) · [[Mindfulness]] (4) · [[Soul]] (4) · [[Awakening]] (3) · [[Craving]] (3) · [[Delineations]] (3) · [[Image]] (3) · [[Jhanas]] (3) · [[Psyche]] (3) · [[Soulmaking Dynamic]] (3) · [[Awareness]] (2) · [[Beauty]] (2) · [[Dimensionality]] (2) · [[Embodiment]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Love]] (2) · [[Phenomenology]] (2) · [[Pleasantness]] (2) · [[Samadhi]] (2) · [[The Self]] (2) · [[Alchemy]] · [[Clinging]] · [[Consciousness]] · [[Death]] · [[Emptiness]] · [[Feelings]] · [[Happiness]] · [[Hermeneutics#Overview]] · [[Hindrances]] · [[Metta]] · [[Papanca]] · [[Passion]] · [[Piti]] · [[Relationships]] · [[Romantic love]] · [[Tantra]] · [[Unfabricated]]_</span>
 <br/>
 
 ## Paragraphs
@@ -51,7 +51,7 @@ Transcript PDF: [[2017_0119 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^2-4|2-4]]**: _[[Eros]] (2) · [[Desire]] (2)_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^2-4|2-4]]**: _[[Mind]] (2) · [[Eros]] (2) · [[Desire]] (2)_</span>
 
 ---
 ##### ...
@@ -79,11 +79,11 @@ Transcript PDF: [[2017_0119 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^4-2|4-2]]**: _[[Eros]] (2) · [[Experience]] · [[Relationships]] · [[Awareness]]_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^4-2|4-2]]**: _[[Eros]] (2) · [[Experience]] · [[Relationships]] · [[Awareness]] · [[Embodiment]] (2) · [[Mind]]_</span>
 
 ---
 ##### ...
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^4-3|4-3]]**: _[[Dharma]] · [[Awareness]] · [[Eros]] · [[Energy Body]] (2)_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^4-3|4-3]]**: _[[Dharma]] · [[Awareness]] · [[Eros]] · [[Energy Body]] (2) · [[Mind]] (3)_</span>
 
 ---
 ##### ...

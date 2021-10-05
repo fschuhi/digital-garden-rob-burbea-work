@@ -1,7 +1,7 @@
 ---
-obsidianUIMode: preview
 ParagraphsListPage: true
 Series: 2020 Vajra Music
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -32,7 +32,7 @@ E2 --- E4-2[no meaning]
 ```
 
 ## Index
-<span class="counts">_[[Daimon]] (80) · [[Soul]] (70) · [[Centre]] (53) · [[Image]] (43) · [[Skandhas]] (26) · [[Blessing]] (24) · [[Personhood]] (21) · [[Imaginal]] (16) · [[Energy Body]] (14) · [[Soulmaking]] (14) · [[Dukkha]] (10) · [[The Self]] (10) · [[Insight]] (9) · [[Divinity]] (8) · [[Dyad]] (8) · [[Fabrication]] (8) · [[Conceptual Framework]] (7) · [[Sabbath]] (7) · [[Death]] (6) · [[Emptiness]] (6) · [[Anatta]] (5) · [[Dharma]] (5) · [[Dimensionality]] (5) · [[Embodiment]] (5) · [[Buddha]] (4) · [[Desire]] (4) · [[Duty]] (4) · [[Emotions]] (4) · [[Experience]] (4) · [[Dependent Origination]] (3) · [[Dominant Culture]] (3) · [[Eternality]] (3) · [[Gratitude]] (3) · [[Metta]] (3) · [[Nondualism]] (3) · [[Perception]] (3) · [[Sensing the other as angel]] (3) · [[Ultimate Truth]] (3) · [[Unfathomability]] (3) · [[Via Negativa]] (3) · [[Ways of Looking]] (3) · [[Antinomy]] (2) · [[Buddhism]] (2) · [[Christianity]] (2) · [[Dakini]] (2) · [[Eros]] (2) · [[Four Noble Truths]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Love]] (2) · [[Receptivity]] (2) · [[Retreat]] (2) · [[Attention]] · [[Awareness]] · [[Beauty]] · [[Ethics]] · [[Gestalt Psychology]] · [[Impermanence]] · [[In Psyche's Orchard]] · [[Judaism]] · [[Logos]] · [[Meaningfulness]] · [[Meditation]] · [[Middle Way]] · [[Passion]] · [[Phenomenology]] · [[Relationships]] · [[Sila and Soul]] · [[Soulmaking Dynamic]] · [[Temenos]] · [[The Image of Ethics]] · [[Vajrayana]]_</span>
+<span class="counts">_[[Daimon]] (80) · [[Soul]] (70) · [[Centre]] (53) · [[Image]] (43) · [[Skandhas]] (26) · [[Blessing]] (24) · [[Personhood]] (21) · [[Imaginal]] (16) · [[Energy Body]] (14) · [[Soulmaking]] (14) · [[Dukkha]] (10) · [[The Self]] (10) · [[Insight]] (9) · [[Divinity]] (8) · [[Dyad]] (8) · [[Fabrication]] (8) · [[Conceptual Framework]] (7) · [[Sabbath]] (7) · [[Death]] (6) · [[Embodiment]] (6) · [[Emptiness]] (6) · [[Anatta]] (5) · [[Dharma]] (5) · [[Dimensionality]] (5) · [[Buddha]] (4) · [[Desire]] (4) · [[Duty]] (4) · [[Emotions]] (4) · [[Experience]] (4) · [[Dependent Origination]] (3) · [[Dominant Culture]] (3) · [[Eternality]] (3) · [[Gratitude]] (3) · [[Metta]] (3) · [[Nondualism]] (3) · [[Perception]] (3) · [[Sensing the other as angel]] (3) · [[Ultimate Truth]] (3) · [[Unfathomability]] (3) · [[Via Negativa]] (3) · [[Ways of Looking]] (3) · [[Antinomy]] (2) · [[Buddhism]] (2) · [[Christianity]] (2) · [[Dakini]] (2) · [[Eros]] (2) · [[Four Noble Truths]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Love]] (2) · [[Mind]] (2) · [[Receptivity]] (2) · [[Retreat]] (2) · [[Attention]] · [[Awareness]] · [[Beauty]] · [[Ethics]] · [[Gestalt Psychology]] · [[Impermanence]] · [[In Psyche's Orchard]] · [[Judaism]] · [[Logos]] · [[Meaningfulness]] · [[Meditation]] · [[Middle Way]] · [[Passion]] · [[Phenomenology]] · [[Relationships]] · [[Sila and Soul]] · [[Soulmaking Dynamic]] · [[Temenos]] · [[The Image of Ethics]] · [[Vajrayana]]_</span>
 <br/>
 
 ## Referenced talks
@@ -169,7 +169,7 @@ We have to delimit; we're not just open for any old ideas about angels and all t
 
 ---
 ##### The terrain around the road develops as you walk down that road
-<span class="counts">**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^5-4|5-4]]**: _[[Daimon]] · [[Dependent Origination]] · [[Soulmaking]] (2) · [[Sabbath]] (3) · [[Eros]] · [[Soul]] (2) · [[Love]] · [[Imaginal]]_</span>
+<span class="counts">**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^5-4|5-4]]**: _[[Daimon]] · [[Dependent Origination]] · [[Soulmaking]] (2) · [[Sabbath]] (3) · [[Eros]] · [[Soul]] (2) · [[Love]] · [[Embodiment]] · [[Imaginal]]_</span>
 
 ---
 ##### The angel may visit in reponse to the task that I'm given
@@ -250,7 +250,7 @@ Oftentimes it's the 'making' that people don't relate to, the word 'making.' Of 
 
 ---
 ##### Or words like 'brain'
-<span class="counts">**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^8-4|8-4]]**: _[[Buddha]] (2) · [[Dominant Culture]]_</span>
+<span class="counts">**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^8-4|8-4]]**: _[[Buddha]] (2) · [[Dominant Culture]] · [[Mind]] (2)_</span>
 
 ---
 ##### Like 'aggregates', 'soul' can be a word I can relate to skillfully over time

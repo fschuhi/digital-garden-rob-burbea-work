@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: true
-obsidianUIMode: preview
 Series: 2007 Lovingkindness and Compassion As a Path to Awakening
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -14,7 +14,7 @@ Transcript PDF: [[2007_0125 Expressions of Metta.pdf]]
 ![[20070125-Rob_Burbea-GAIA-expressions_of_metta-12290.mp3]]
 
 ## Index
-<span class="counts">_[[Metta]] (65) · [[Anger]] (51) · [[Love]] (49) · [[Clinging]] (12) · [[The Self]] (12) · [[Retreat]] (11) · [[Perception]] (10) · [[Oneness]] (7) · [[Anatta]] (6) · [[Compassion]] (6) · [[Habit]] (6) · [[Relationships]] (6) · [[Consciousness]] (5) · [[Energy]] (5) · [[Appreciation]] (4) · [[Buddha]] (4) · [[Dependent Origination]] (4) · [[Depression]] (4) · [[Dukkha]] (4) · [[Fear]] (4) · [[Pain]] (4) · [[Bodhisattva]] (3) · [[Emptiness]] (3) · [[Meditation]] (3) · [[Near enemy]] (3) · [[Nondualism]] (3) · [[Personhood]] (3) · [[Sutta]] (3) · [[Ways of Looking]] (3) · [[Avalokiteshvara]] (2) · [[Beauty]] (2) · [[Dimensionality]] (2) · [[Feelings]] (2) · [[Freedom]] (2) · [[Healing]] (2) · [[Hindrances]] (2) · [[Spaciousness]] (2) · [[Acceptance]] · [[Attention]] · [[Aversion]] · [[Desire]] · [[Gaia House]] · [[Happiness]] · [[History]] · [[Infinity]] · [[Insight]] · [[Jesus]] · [[Juiciness]] · [[Letting go]] · [[Music]] · [[Pleasantness]] · [[Realism]] · [[Samadhi]] · [[Spiritual circles]] · [[Steadiness]] · [[Wonder]]_</span>
+<span class="counts">_[[Metta]] (65) · [[Anger]] (51) · [[Love]] (49) · [[Clinging]] (12) · [[The Self]] (12) · [[Retreat]] (11) · [[Perception]] (10) · [[Embodiment]] (7) · [[Oneness]] (7) · [[Anatta]] (6) · [[Compassion]] (6) · [[Habit]] (6) · [[Relationships]] (6) · [[Consciousness]] (5) · [[Energy]] (5) · [[Appreciation]] (4) · [[Buddha]] (4) · [[Dependent Origination]] (4) · [[Depression]] (4) · [[Dukkha]] (4) · [[Fear]] (4) · [[Mind]] (4) · [[Pain]] (4) · [[Bodhisattva]] (3) · [[Emptiness]] (3) · [[Meditation]] (3) · [[Near enemy]] (3) · [[Nondualism]] (3) · [[Personhood]] (3) · [[Sutta]] (3) · [[Ways of Looking]] (3) · [[Avalokiteshvara]] (2) · [[Beauty]] (2) · [[Dimensionality]] (2) · [[Feelings]] (2) · [[Freedom]] (2) · [[Healing]] (2) · [[Hindrances]] (2) · [[Spaciousness]] (2) · [[Acceptance]] · [[Attention]] · [[Aversion]] · [[Desire]] · [[Gaia House]] · [[Happiness]] · [[History]] · [[Infinity]] · [[Insight]] · [[Jesus]] · [[Juiciness]] · [[Letting go]] · [[Music]] · [[Pleasantness]] · [[Realism]] · [[Samadhi]] · [[Spiritual circles]] · [[Steadiness]] · [[Wonder]]_</span>
 <br/>
 
 ## Paragraphs
@@ -70,11 +70,11 @@ Transcript PDF: [[2007_0125 Expressions of Metta.pdf]]
 
 ---
 ##### It's an infinite web that has given rise to this appearence
-<span class="counts">**[[0125 Expressions of Metta#^4-1|4-1]]**: _[[Dependent Origination]] (2) · [[Infinity]] · [[Perception]] · [[Music]]_</span>
+<span class="counts">**[[0125 Expressions of Metta#^4-1|4-1]]**: _[[Dependent Origination]] (2) · [[Mind]] · [[Infinity]] · [[Perception]] · [[Music]]_</span>
 
 ---
 ##### Everything is always embedded in all of life
-<span class="counts">**[[0125 Expressions of Metta#^4-2|4-2]]**: _[[The Self]] · [[Dependent Origination]] · [[Freedom]] (2) · [[Love]]_</span>
+<span class="counts">**[[0125 Expressions of Metta#^4-2|4-2]]**: _[[Mind]] · [[The Self]] · [[Dependent Origination]] · [[Freedom]] (2) · [[Love]]_</span>
 
 ---
 ##### Do we really have a full relationship with life, or do we shave it down to a kind of spiritual ideal?
@@ -92,7 +92,7 @@ I've cut some paragraphs here
 
 ---
 ##### Clinging and the self are mutually dependent
-<span class="counts">**[[0125 Expressions of Metta#^5-2|5-2]]**: _[[The Self]] (4) · [[Clinging]] (8)_</span>
+<span class="counts">**[[0125 Expressions of Metta#^5-2|5-2]]**: _[[The Self]] (4) · [[Clinging]] (8) · [[Embodiment]] · [[Mind]]_</span>
 
 ---
 ##### The more self-sense there is, the more others are viewed as irrelevant
@@ -176,11 +176,11 @@ I've cut some paragraphs here
 
 ---
 ##### Expressing gentleness and care with the body
-<span class="counts">**[[0125 Expressions of Metta#^9-5|9-5]]**: _[[Metta]]_</span>
+<span class="counts">**[[0125 Expressions of Metta#^9-5|9-5]]**: _[[Metta]] · [[Embodiment]] (4)_</span>
 
 ---
 ##### Experiment with touching your hands, your arms
-<span class="counts">**[[0125 Expressions of Metta#^10-1|10-1]]**: _[[Love]] · [[Metta]] · [[Retreat]]_</span>
+<span class="counts">**[[0125 Expressions of Metta#^10-1|10-1]]**: _[[Love]] · [[Metta]] · [[Retreat]] · [[Embodiment]] (2)_</span>
 
 ---
 ##### Feet touching the earth

@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: false
-obsidianUIMode: preview
 Series: 2017 Eros Unfettered
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -12,7 +12,7 @@ Transcript: [[0203 Logos in the Garden of Souls Part 2]]
 Transcript PDF: [[2017_0203 Logos in the Garden of Souls Part 2.pdf]]
 
 ## Index
-<span class="counts">_[[Ways of Looking]] (41) · [[Epistemology]] (35) · [[Pali Canon]] (23) · [[Dharma]] (20) · [[Conceptual Framework]] (18) · [[Soulmaking]] (17) · [[Logos]] (14) · [[Desire]] (13) · [[Cosmology]] (12) · [[Buddha]] (11) · [[Experience]] (11) · [[Fantasy]] (10) · [[Awakening]] (9) · [[Eros]] (9) · [[Rationalism]] (9) · [[Ontology]] (8) · [[Epistemology#Epistemicide]] (7) · [[Freedom]] (7) · [[Meditation]] (7) · [[Modernism]] (7) · [[Reductionism]] (7) · [[Dominant Culture]] (5) · [[Love]] (5) · [[Mindfulness]] (5) · [[Zen]] (5) · [[Image]] (4) · [[Postmodernism]] (4) · [[Create-Discover]] (3) · [[Divinity]] (3) · [[Hermeneutics#Hermeneutical conundrum]] (3) · [[Insight]] (3) · [[Monotheism]] (3) · [[Beauty]] (2) · [[Birth]] (2) · [[Buddhism]] (2) · [[Charles Tart]] (2) · [[Delineations]] (2) · [[Dependent Origination]] (2) · [[Dimensionality]] (2) · [[Discrepancy-based Processing]] (2) · [[Dogma]] (2) · [[Dukkha]] (2) · [[Embodiment]] (2) · [[Empiricism]] (2) · [[Hermeneutics#Overview]] (2) · [[History]] (2) · [[Mahayana]] (2) · [[Metaphysics]] (2) · [[Passion]] (2) · [[Personhood]] (2) · [[Psyche]] (2) · [[Retreat]] (2) · [[Richard Rorty]] (2) · [[Scientific method]] (2) · [[Soul]] (2) · [[Soulmaking Dynamic]] (2) · [[Activism]] · [[Attention]] · [[Awareness]] · [[Catherine McGee]] · [[Centre]] · [[Christianity]] · [[Constriction]] · [[Contraction]] · [[Craving]] · [[Death]] · [[Emptiness]] · [[Fantasy#Fantasy of historical facticity]] · [[Fantasy#Fantasy of origins]] · [[Fantasy#Fantasy of scholarship]] · [[Fantasy#Fantasy of the Buddha]] · [[Four Noble Truths]] · [[Hans Georg Gadamer]] · [[Humanism]] · [[Imaginal]] · [[Impermanence]] · [[Jeffrey J Kripal]] · [[Letting go]] · [[Mode of mind]] · [[Neuroscience]] · [[Sangha]] · [[Scientific revolution]] · [[Shingon]] · [[Unfabricated]] · [[Vajrayana]] · [[W.V.O. Quine]] · [[Wilfrid Sellars]]_</span>
+<span class="counts">_[[Ways of Looking]] (41) · [[Epistemology]] (35) · [[Pali Canon]] (23) · [[Dharma]] (20) · [[Conceptual Framework]] (18) · [[Soulmaking]] (17) · [[Logos]] (14) · [[Desire]] (13) · [[Cosmology]] (12) · [[Buddha]] (11) · [[Experience]] (11) · [[Fantasy]] (10) · [[Awakening]] (9) · [[Eros]] (9) · [[Rationalism]] (9) · [[Mind]] (8) · [[Ontology]] (8) · [[Epistemology#Epistemicide]] (7) · [[Freedom]] (7) · [[Meditation]] (7) · [[Modernism]] (7) · [[Reductionism]] (7) · [[Dominant Culture]] (5) · [[Embodiment]] (5) · [[Love]] (5) · [[Mindfulness]] (5) · [[Zen]] (5) · [[Image]] (4) · [[Postmodernism]] (4) · [[Create-Discover]] (3) · [[Divinity]] (3) · [[Hermeneutics#Hermeneutical conundrum]] (3) · [[Insight]] (3) · [[Monotheism]] (3) · [[Beauty]] (2) · [[Birth]] (2) · [[Buddhism]] (2) · [[Charles Tart]] (2) · [[Delineations]] (2) · [[Dependent Origination]] (2) · [[Dimensionality]] (2) · [[Discrepancy-based Processing]] (2) · [[Dogma]] (2) · [[Dukkha]] (2) · [[Empiricism]] (2) · [[Hermeneutics#Overview]] (2) · [[History]] (2) · [[Mahayana]] (2) · [[Metaphysics]] (2) · [[Passion]] (2) · [[Personhood]] (2) · [[Psyche]] (2) · [[Retreat]] (2) · [[Richard Rorty]] (2) · [[Scientific method]] (2) · [[Soul]] (2) · [[Soulmaking Dynamic]] (2) · [[Activism]] · [[Attention]] · [[Awareness]] · [[Catherine McGee]] · [[Centre]] · [[Christianity]] · [[Constriction]] · [[Contraction]] · [[Craving]] · [[Death]] · [[Emptiness]] · [[Fantasy#Fantasy of historical facticity]] · [[Fantasy#Fantasy of origins]] · [[Fantasy#Fantasy of scholarship]] · [[Fantasy#Fantasy of the Buddha]] · [[Four Noble Truths]] · [[Hans Georg Gadamer]] · [[Humanism]] · [[Imaginal]] · [[Impermanence]] · [[Jeffrey J Kripal]] · [[Letting go]] · [[Mode of mind]] · [[Neuroscience]] · [[Sangha]] · [[Scientific revolution]] · [[Shingon]] · [[Unfabricated]] · [[Vajrayana]] · [[W.V.O. Quine]] · [[Wilfrid Sellars]]_</span>
 <br/>
 
 ## Paragraphs
@@ -70,7 +70,7 @@ Transcript PDF: [[2017_0203 Logos in the Garden of Souls Part 2.pdf]]
 
 ---
 ##### ...
-<span class="counts">**[[0203 Logos in the Garden of Souls Part 2#^4-2|4-2]]**: _[[Mahayana]] (2) · [[Vajrayana]] · [[Buddha]] (5) · [[Fantasy#Fantasy of origins]] · [[Fantasy]] (2) · [[Dharma]] (4) · [[Pali Canon]] (2) · [[Birth]] · [[Retreat]] · [[Zen]] · [[Buddhism]] · [[Dominant Culture]] · [[Fantasy#Fantasy of scholarship]]_</span>
+<span class="counts">**[[0203 Logos in the Garden of Souls Part 2#^4-2|4-2]]**: _[[Mahayana]] (2) · [[Vajrayana]] · [[Buddha]] (5) · [[Mind]] · [[Fantasy#Fantasy of origins]] · [[Fantasy]] (2) · [[Dharma]] (4) · [[Pali Canon]] (2) · [[Birth]] · [[Retreat]] · [[Zen]] · [[Buddhism]] · [[Dominant Culture]] · [[Fantasy#Fantasy of scholarship]]_</span>
 
 ---
 ##### ...
@@ -94,11 +94,11 @@ Transcript PDF: [[2017_0203 Logos in the Garden of Souls Part 2.pdf]]
 
 ---
 ##### ...
-<span class="counts">**[[0203 Logos in the Garden of Souls Part 2#^6-1|6-1]]**: _[[Dharma]] (3) · [[Christianity]] · [[Dimensionality]] (2) · [[Soul]] (2) · [[Soulmaking]]_</span>
+<span class="counts">**[[0203 Logos in the Garden of Souls Part 2#^6-1|6-1]]**: _[[Dharma]] (3) · [[Christianity]] · [[Dimensionality]] (2) · [[Soul]] (2) · [[Soulmaking]] · [[Embodiment]]_</span>
 
 ---
 ##### ...
-<span class="counts">**[[0203 Logos in the Garden of Souls Part 2#^6-2|6-2]]**: _[[Soulmaking]] · [[Epistemology]] · [[Ways of Looking]] (4) · [[Dharma]] (2) · [[Death]] · [[Embodiment]] · [[Epistemology#Epistemicide]] (3) · [[Catherine McGee]] · [[Attention]]_</span>
+<span class="counts">**[[0203 Logos in the Garden of Souls Part 2#^6-2|6-2]]**: _[[Soulmaking]] · [[Epistemology]] · [[Ways of Looking]] (4) · [[Dharma]] (2) · [[Death]] · [[Embodiment]] (3) · [[Epistemology#Epistemicide]] (3) · [[Catherine McGee]] · [[Attention]]_</span>
 
 ---
 ##### ...
@@ -122,4 +122,4 @@ Transcript PDF: [[2017_0203 Logos in the Garden of Souls Part 2.pdf]]
 
 ---
 ##### ...
-<span class="counts">**[[0203 Logos in the Garden of Souls Part 2#^8-1|8-1]]**: _[[Epistemology]] (5) · [[Scientific method]] · [[Rationalism]] (7) · [[Reductionism]] (7) · [[Jeffrey J Kripal]] · [[Charles Tart]] (2) · [[Awareness]] · [[Dominant Culture]] (2) · [[Ways of Looking]] (5) · [[Meditation]] (2)_</span>
+<span class="counts">**[[0203 Logos in the Garden of Souls Part 2#^8-1|8-1]]**: _[[Epistemology]] (5) · [[Scientific method]] · [[Rationalism]] (7) · [[Reductionism]] (7) · [[Jeffrey J Kripal]] · [[Charles Tart]] (2) · [[Awareness]] · [[Mind]] (7) · [[Dominant Culture]] (2) · [[Ways of Looking]] (5) · [[Meditation]] (2)_</span>

@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: false
-obsidianUIMode: preview
 Series: 2017 Eros Unfettered
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -14,7 +14,7 @@ Transcript PDF: [[2017_0121 Dilemmas and Delineations - How did we get here Part
 ![[20170121-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_4-40166.mp3]]
 
 ## Index
-<span class="counts">_[[Eros]] (55) · [[Imaginal]] (30) · [[Love]] (22) · [[Dharma]] (21) · [[Perception]] (18) · [[Image]] (14) · [[Craving]] (12) · [[Soulmaking Dynamic]] (12) · [[Soulmaking]] (9) · [[Clinging]] (7) · [[Logos]] (7) · [[Psyche]] (6) · [[Samadhi]] (6) · [[Sexuality]] (6) · [[Aversion]] (4) · [[Beauty]] (4) · [[Delineations]] (4) · [[Desire]] (4) · [[Dimensionality]] (4) · [[Fantasy]] (4) · [[Soul]] (4) · [[Brahmaviharas]] (3) · [[Divinity]] (3) · [[Dukkha]] (3) · [[Experience]] (3) · [[Metta]] (3) · [[Neuroscience]] (3) · [[Conceptual Framework]] (2) · [[Pleasantness]] (2) · [[Realism]] (2) · [[Retreat]] (2) · [[Buddha]] · [[Compassion]] · [[Create-Discover]] · [[Dependent Origination]] · [[Dominant Culture]] · [[Embodiment]] · [[Energy]] · [[Feelings]] · [[Habit]] · [[History]] · [[Impermanence]] · [[Juiciness]] · [[Meaningfulness]] · [[Meditation]] · [[Modernism]] · [[Phenomenology]] · [[Ways of Looking]]_</span>
+<span class="counts">_[[Eros]] (55) · [[Imaginal]] (30) · [[Love]] (22) · [[Dharma]] (21) · [[Perception]] (18) · [[Image]] (14) · [[Craving]] (12) · [[Soulmaking Dynamic]] (12) · [[Soulmaking]] (9) · [[Clinging]] (7) · [[Logos]] (7) · [[Psyche]] (6) · [[Samadhi]] (6) · [[Sexuality]] (6) · [[Aversion]] (4) · [[Beauty]] (4) · [[Delineations]] (4) · [[Desire]] (4) · [[Dimensionality]] (4) · [[Fantasy]] (4) · [[Soul]] (4) · [[Brahmaviharas]] (3) · [[Divinity]] (3) · [[Dukkha]] (3) · [[Experience]] (3) · [[Metta]] (3) · [[Neuroscience]] (3) · [[Conceptual Framework]] (2) · [[Embodiment]] (2) · [[Papanca]] (2) · [[Pleasantness]] (2) · [[Realism]] (2) · [[Retreat]] (2) · [[Buddha]] · [[Compassion]] · [[Create-Discover]] · [[Dependent Origination]] · [[Dominant Culture]] · [[Energy]] · [[Feelings]] · [[Habit]] · [[History]] · [[Impermanence]] · [[Juiciness]] · [[Meaningfulness]] · [[Meditation]] · [[Mind]] · [[Modernism]] · [[Phenomenology]] · [[Ways of Looking]]_</span>
 <br/>
 
 ## Paragraphs
@@ -31,15 +31,15 @@ Transcript PDF: [[2017_0121 Dilemmas and Delineations - How did we get here Part
 
 ---
 ##### ...
-<span class="counts">**[[0121 Dilemmas and Delineations - How did we get here Part 4#^1-4|1-4]]**: _[[Conceptual Framework]] · [[Soulmaking]] · [[Eros]] · [[Dharma]]_</span>
+<span class="counts">**[[0121 Dilemmas and Delineations - How did we get here Part 4#^1-4|1-4]]**: _[[Papanca]] · [[Conceptual Framework]] · [[Soulmaking]] · [[Eros]] · [[Dharma]]_</span>
 
 ---
 ##### ...
-<span class="counts">**[[0121 Dilemmas and Delineations - How did we get here Part 4#^1-5|1-5]]**: _[[Eros]] · [[Imaginal]] · [[Fantasy]] · [[Clinging]] · [[Habit]] · [[Metta]] · [[Delineations]]_</span>
+<span class="counts">**[[0121 Dilemmas and Delineations - How did we get here Part 4#^1-5|1-5]]**: _[[Eros]] · [[Papanca]] · [[Imaginal]] · [[Fantasy]] · [[Clinging]] · [[Habit]] · [[Metta]] · [[Delineations]]_</span>
 
 ---
 ##### ...
-<span class="counts">**[[0121 Dilemmas and Delineations - How did we get here Part 4#^2-1|2-1]]**: _[[Imaginal]] · [[Soulmaking]] · [[Soul]] · [[Eros]] · [[Craving]] · [[Dharma]] (2)_</span>
+<span class="counts">**[[0121 Dilemmas and Delineations - How did we get here Part 4#^2-1|2-1]]**: _[[Embodiment]] · [[Mind]] · [[Imaginal]] · [[Soulmaking]] · [[Soul]] · [[Eros]] · [[Craving]] · [[Dharma]] (2)_</span>
 
 ---
 ##### ...

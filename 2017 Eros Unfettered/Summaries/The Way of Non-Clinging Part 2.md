@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: true
-obsidianUIMode: preview
 Series: 2017 Eros Unfettered
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -18,7 +18,7 @@ Transcript PDF: [[2017_0116 The Way of Non-Clinging Part 2.pdf]]
 Good summary of the 2 talks: [[The Way of Non-Clinging Part 3#^1-1]]
 
 ## Index
-<span class="counts">_[[Clinging]] (136) · [[Fabrication]] (96) · [[Ways of Looking]] (75) · [[Craving]] (57) · [[Perception]] (46) · [[Emptiness]] (41) · [[Experience]] (32) · [[The Self]] (29) · [[Dukkha]] (27) · [[Insight]] (25) · [[Letting go]] (23) · [[Anatta]] (20) · [[Impermanence]] (20) · [[Attention]] (18) · [[Buddha]] (18) · [[Dependent Origination]] (16) · [[Ignorance]] (16) · [[Unfabricated]] (16) · [[Consciousness]] (13) · [[Awareness]] (12) · [[Dharma]] (11) · [[Meditation]] (10) · [[Mahayana]] (8) · [[Papanca]] (8) · [[Avijja]] (7) · [[Devotion]] (7) · [[Mindfulness]] (7) · [[Vedana]] (7) · [[Contraction]] (6) · [[Awakening]] (5) · [[Beauty]] (5) · [[Freedom]] (5) · [[Steadiness]] (5) · [[Jhanas]] (4) · [[Delineations]] (3) · [[Emptiness#Suchness]] (3) · [[Energy Body]] (3) · [[Personhood]] (3) · [[Present Moment]] (3) · [[Sankhara]] (3) · [[Aversion]] (2) · [[Buddhism]] (2) · [[Death]] (2) · [[Energy]] (2) · [[Four Noble Truths]] (2) · [[Pain]] (2) · [[Realism]] (2) · [[Reductionism]] (2) · [[Sila]] (2) · [[Tantra]] (2) · [[Ultimate Truth]] (2) · [[Ajahn Dhammadharo]] · [[Compassion]] · [[Conceptual Framework]] · [[Constriction]] · [[Goenka]] · [[History]] · [[Image]] · [[Juiciness]] · [[Kusala]] · [[Mahasi Sayadaw]] · [[Mystical opening]] · [[Oneness]] · [[Passion]] · [[Phenomenon]] · [[Retreat]] · [[Sangha]] · [[Spaciousness]] · [[Theravada]] · [[Vajrayana]]_</span>
+<span class="counts">_[[Clinging]] (136) · [[Fabrication]] (96) · [[Ways of Looking]] (75) · [[Craving]] (57) · [[Perception]] (46) · [[Emptiness]] (41) · [[Experience]] (32) · [[The Self]] (29) · [[Dukkha]] (27) · [[Insight]] (25) · [[Letting go]] (23) · [[Mind]] (23) · [[Anatta]] (20) · [[Impermanence]] (20) · [[Attention]] (18) · [[Buddha]] (18) · [[Dependent Origination]] (16) · [[Ignorance]] (16) · [[Unfabricated]] (16) · [[Consciousness]] (13) · [[Awareness]] (12) · [[Dharma]] (11) · [[Meditation]] (10) · [[Mahayana]] (8) · [[Papanca]] (8) · [[Avijja]] (7) · [[Devotion]] (7) · [[Mindfulness]] (7) · [[Vedana]] (7) · [[Contraction]] (6) · [[Awakening]] (5) · [[Beauty]] (5) · [[Freedom]] (5) · [[Steadiness]] (5) · [[Jhanas]] (4) · [[Delineations]] (3) · [[Embodiment]] (3) · [[Emptiness#Suchness]] (3) · [[Energy Body]] (3) · [[Personhood]] (3) · [[Present Moment]] (3) · [[Sankhara]] (3) · [[Aversion]] (2) · [[Buddhism]] (2) · [[Death]] (2) · [[Energy]] (2) · [[Four Noble Truths]] (2) · [[Pain]] (2) · [[Realism]] (2) · [[Reductionism]] (2) · [[Sila]] (2) · [[Tantra]] (2) · [[Ultimate Truth]] (2) · [[Ajahn Dhammadharo]] · [[Compassion]] · [[Conceptual Framework]] · [[Constriction]] · [[Goenka]] · [[History]] · [[Image]] · [[Juiciness]] · [[Kusala]] · [[Mahasi Sayadaw]] · [[Mystical opening]] · [[Oneness]] · [[Passion]] · [[Phenomenon]] · [[Retreat]] · [[Sangha]] · [[Spaciousness]] · [[Theravada]] · [[Vajrayana]]_</span>
 <br/>
 
 ## Paragraphs
@@ -30,15 +30,15 @@ Good summary of the 2 talks: [[The Way of Non-Clinging Part 3#^1-1]]
 
 ---
 ##### Experience of craving and clinging, of something contracting
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^1-3|1-3]]**: _[[Contraction]] · [[Clinging]] (3) · [[Craving]] (5) · [[Meditation]] (2) · [[Experience]] (2) · [[Image]] · [[Aversion]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^1-3|1-3]]**: _[[Contraction]] · [[Clinging]] (3) · [[Mind]] (2) · [[Craving]] (5) · [[Meditation]] (2) · [[Experience]] (2) · [[Embodiment]] · [[Image]] · [[Aversion]]_</span>
 
 ---
 ##### Relaxing the subtle dukkha
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^1-4|1-4]]**: _[[Dukkha]] (4) · [[Contraction]] (3) · [[Energy Body]] (3) · [[Energy]] (2) · [[Craving]] (3) · [[Clinging]] (2) · [[Impermanence]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^1-4|1-4]]**: _[[Dukkha]] (4) · [[Contraction]] (3) · [[Energy Body]] (3) · [[Mind]] · [[Energy]] (2) · [[Craving]] (3) · [[Clinging]] (2) · [[Impermanence]]_</span>
 
 ---
 ##### Release and calmness
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^1-5|1-5]]**: _[[Craving]] (4) · [[Steadiness]] (5)_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^1-5|1-5]]**: _[[Craving]] (4) · [[Steadiness]] (5) · [[Embodiment]] · [[Mind]]_</span>
 
 ---
 ##### Feel its tension, feel its release
@@ -58,7 +58,7 @@ Good summary of the 2 talks: [[The Way of Non-Clinging Part 3#^1-1]]
 
 ---
 ##### There is always a way of looking, with more or less conceiving
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^2-3|2-3]]**: _[[Ways of Looking]] (6) · [[Passion]] · [[Clinging]] (6)_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^2-3|2-3]]**: _[[Ways of Looking]] (6) · [[Passion]] · [[Clinging]] (6) · [[Mind]]_</span>
 
 ---
 ##### Experience is dependent on the way of looking
@@ -74,11 +74,11 @@ Good summary of the 2 talks: [[The Way of Non-Clinging Part 3#^1-1]]
 
 ---
 ##### Nothing is a thing in itself without the mind clinging at it or to it
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^3-2|3-2]]**: _[[Dependent Origination]] (3) · [[Fabrication]] (5) · [[Experience]] · [[Ways of Looking]] · [[Clinging]] (3) · [[The Self]] (2) · [[Perception]] (2)_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^3-2|3-2]]**: _[[Dependent Origination]] (3) · [[Fabrication]] (5) · [[Experience]] · [[Ways of Looking]] · [[Mind]] (3) · [[Clinging]] (3) · [[The Self]] (2) · [[Perception]] (2)_</span>
 
 ---
 ##### "Self is an illusion" leads to anatta practice
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^3-3|3-3]]**: _[[The Self]] (3) · [[Fabrication]] (2) · [[Dependent Origination]] · [[Emptiness]] · [[Letting go]] · [[Clinging]] · [[Craving]] · [[Consciousness]] · [[Sankhara]] · [[Buddha]] · [[Meditation]] (3) · [[Anatta]] (4)_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^3-3|3-3]]**: _[[The Self]] (3) · [[Fabrication]] (2) · [[Dependent Origination]] · [[Emptiness]] · [[Letting go]] · [[Clinging]] · [[Craving]] · [[Mind]] · [[Consciousness]] · [[Embodiment]] · [[Sankhara]] · [[Buddha]] · [[Meditation]] (3) · [[Anatta]] (4)_</span>
 
 ---
 ##### Whatever comes up is not self, not me, not mine
@@ -101,7 +101,7 @@ In transcript "no-self"
 
 ---
 ##### Avijja is a form of clinging
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^4-2|4-2]]**: _[[Experience]] (2) · [[Ways of Looking]] (3) · [[Ignorance]] (5) · [[Avijja]] (2) · [[Mahayana]] · [[Clinging]] (5)_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^4-2|4-2]]**: _[[Experience]] (2) · [[Ways of Looking]] (3) · [[Ignorance]] (5) · [[Avijja]] (2) · [[Mahayana]] · [[Clinging]] (5) · [[Mind]]_</span>
 
 ---
 ##### That way of looking says empty, empty, empty
@@ -120,7 +120,7 @@ In transcript "no-self"
 
 ---
 ##### Attention works through a kind of clinging
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^5-1|5-1]]**: _[[Attention]] (8) · [[Experience]] (3) · [[Awareness]] · [[Clinging]] (6) · [[Delineations]] (2) · [[Dependent Origination]] · [[Craving]] (2) · [[Sankhara]] (2) · [[Ignorance]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^5-1|5-1]]**: _[[Attention]] (8) · [[Experience]] (3) · [[Awareness]] · [[Mind]] (2) · [[Clinging]] (6) · [[Delineations]] (2) · [[Dependent Origination]] · [[Craving]] (2) · [[Sankhara]] (2) · [[Ignorance]]_</span>
 
 ---
 ##### "Clinging" has a huge range of subtlelty
@@ -128,7 +128,7 @@ In transcript "no-self"
 
 ---
 ##### There can be a complete unfabrication
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^5-3|5-3]]**: _[[Clinging]] (4) · [[Ways of Looking]] (2) · [[Perception]] · [[The Self]] · [[Fabrication]] (4) · [[Dukkha]] · [[Emptiness]] · [[Experience]] · [[Unfabricated]] · [[Phenomenon]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^5-3|5-3]]**: _[[Clinging]] (4) · [[Ways of Looking]] (2) · [[Perception]] · [[The Self]] · [[Fabrication]] (4) · [[Dukkha]] · [[Emptiness]] · [[Experience]] · [[Unfabricated]] · [[Phenomenon]] · [[Mind]]_</span>
 
 ---
 ##### Everybody knows papanca
@@ -144,15 +144,15 @@ In transcript "no-self"
 
 ---
 ##### Does Mahasi-style meditation on impermance disclose reality?
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^6-3|6-3]]**: _[[Ways of Looking]] (9) · [[Fabrication]] (3) · [[Perception]] (2) · [[Clinging]] (2) · [[Impermanence]] (3) · [[Mahasi Sayadaw]] · [[Goenka]] · [[Ultimate Truth]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^6-3|6-3]]**: _[[Ways of Looking]] (9) · [[Fabrication]] (3) · [[Perception]] (2) · [[Mind]] · [[Clinging]] (2) · [[Impermanence]] (3) · [[Mahasi Sayadaw]] · [[Goenka]] · [[Ultimate Truth]]_</span>
 
 ---
 ##### Bare sensations etc. is not ultimate reality
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^6-4|6-4]]**: _[[Fabrication]] (12) · [[Ways of Looking]] (3) · [[Mindfulness]] · [[Papanca]] (2) · [[Experience]] · [[Pain]] · [[Ultimate Truth]] · [[Awareness]] · [[Impermanence]] · [[Attention]] · [[Perception]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^6-4|6-4]]**: _[[Fabrication]] (12) · [[Ways of Looking]] (3) · [[Mindfulness]] · [[Papanca]] (2) · [[Experience]] · [[Pain]] · [[Mind]] · [[Ultimate Truth]] · [[Awareness]] · [[Impermanence]] · [[Attention]] · [[Perception]]_</span>
 
 ---
 ##### It's the resulting letting go of clinging unfabricates, not contemplating rapid impermance
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^6-5|6-5]]**: _[[Impermanence]] (6) · [[Meditation]] · [[Unfabricated]] (4) · [[Clinging]] (9) · [[Letting go]] (4) · [[Fabrication]] (2) · [[Ways of Looking]] · [[Dukkha]] · [[Perception]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^6-5|6-5]]**: _[[Impermanence]] (6) · [[Meditation]] · [[Unfabricated]] (4) · [[Clinging]] (9) · [[Mind]] (2) · [[Letting go]] (4) · [[Fabrication]] (2) · [[Ways of Looking]] · [[Dukkha]] · [[Perception]]_</span>
 
 ---
 ##### Impact comes from practicing and conceiving it
@@ -164,11 +164,11 @@ In transcript "no-self"
 
 ---
 ##### Dependent origination is the map, teachings on clinging the wrenches
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^7-3|7-3]]**: _[[Buddha]] · [[Dependent Origination]] (2) · [[Clinging]] (5) · [[Insight]] (2) · [[Perception]] (2) · [[Fabrication]] · [[The Self]] · [[Emptiness]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^7-3|7-3]]**: _[[Buddha]] · [[Dependent Origination]] (2) · [[Clinging]] (5) · [[Insight]] (2) · [[Perception]] (2) · [[Fabrication]] · [[The Self]] · [[Emptiness]] · [[Mind]]_</span>
 
 ---
 ##### We need to see the fading many times
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^8-1|8-1]]**: _[[Clinging]] · [[Fabrication]] · [[Emptiness]] (2) · [[Avijja]] · [[Craving]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^8-1|8-1]]**: _[[Clinging]] · [[Fabrication]] · [[Emptiness]] (2) · [[Avijja]] · [[Mind]] · [[Craving]]_</span>
 
 ---
 ##### See the emptiness of all things
@@ -204,7 +204,7 @@ In transcript "no-self"
 
 ---
 ##### Keeping appearances around but knowing them to be empty
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^9-3|9-3]]**: _[[Mahayana]] · [[Vajrayana]] · [[Tantra]] (2) · [[Buddha]] (2) · [[Insight]] (3) · [[Emptiness]] (7) · [[Ways of Looking]] · [[Perception]] (5) · [[Clinging]] (4)_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^9-3|9-3]]**: _[[Mahayana]] · [[Vajrayana]] · [[Tantra]] (2) · [[Buddha]] (2) · [[Mind]] (2) · [[Insight]] (3) · [[Emptiness]] (7) · [[Ways of Looking]] · [[Perception]] (5) · [[Clinging]] (4)_</span>
 
 ---
 ##### No clinger, no clung to, no clinging
@@ -216,7 +216,7 @@ In transcript "no-self"
 
 ---
 ##### What it means that craving is part of perception
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^10-2|10-2]]**: _[[Craving]] (4) · [[Perception]] · [[Clinging]] (2) · [[Fabrication]] (3) · [[Unfabricated]] · [[Emptiness]] · [[The Self]] · [[Consciousness]] · [[Awareness]] · [[Insight]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^10-2|10-2]]**: _[[Craving]] (4) · [[Perception]] · [[Clinging]] (2) · [[Fabrication]] (3) · [[Unfabricated]] · [[Emptiness]] · [[The Self]] · [[Mind]] · [[Consciousness]] · [[Awareness]] · [[Insight]]_</span>
 
 ---
 ##### Suchness means emptiness
@@ -224,7 +224,7 @@ In transcript "no-self"
 
 ---
 ##### States of mind and experiences are just ways of looking
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^10-4|10-4]]**: _[[Experience]] · [[Mindfulness]] · [[Attention]] · [[Beauty]] · [[Fabrication]] (7) · [[Awareness]] (4) · [[Impermanence]] · [[Ways of Looking]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^10-4|10-4]]**: _[[Mind]] · [[Experience]] · [[Mindfulness]] · [[Attention]] · [[Beauty]] · [[Fabrication]] (7) · [[Awareness]] (4) · [[Impermanence]] · [[Ways of Looking]]_</span>
 
 ---
 ##### Different directions of unfabrication

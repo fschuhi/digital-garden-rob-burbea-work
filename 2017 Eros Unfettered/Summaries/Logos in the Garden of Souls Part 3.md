@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: false
-obsidianUIMode: preview
 Series: 2017 Eros Unfettered
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -12,7 +12,7 @@ Transcript: [[0204 Logos in the Garden of Souls Part 3]]
 Transcript PDF: [[2017_0204 Logos in the Garden of Souls Part 3.pdf]]
 
 ## Index
-<span class="counts">_[[Soulmaking]] (43) · [[Image]] (36) · [[Conceptual Framework]] (31) · [[Eros]] (30) · [[Soul]] (26) · [[Imaginal]] (25) · [[Ways of Looking]] (24) · [[Perception]] (23) · [[Music]] (16) · [[The Self]] (15) · [[Soulmaking Dynamic]] (12) · [[Citta]] (11) · [[Psyche]] (11) · [[Cosmology]] (9) · [[Dimensionality]] (9) · [[Experience]] (8) · [[Logos]] (8) · [[Insight]] (7) · [[Oneness]] (7) · [[Relationships]] (7) · [[Consciousness]] (6) · [[Mindfulness]] (6) · [[Nondualism]] (6) · [[Buddha]] (5) · [[Dogma]] (4) · [[Fear]] (4) · [[Infinity]] (4) · [[Metaphysics]] (4) · [[Scientific method]] (4) · [[Desire]] (3) · [[Dominant Culture]] (3) · [[Dwight Eisenhower]] (3) · [[Emptiness]] (3) · [[History]] (3) · [[Materialism]] (3) · [[Meaningfulness]] (3) · [[Beauty]] (2) · [[Birth]] (2) · [[Dakini]] (2) · [[Death]] (2) · [[Divinity]] (2) · [[Epistemology]] (2) · [[Modernism]] (2) · [[Ontology]] (2) · [[Papanca]] (2) · [[Receptivity]] (2) · [[Retreat]] (2) · [[Vessel]] (2) · [[Alchemy]] · [[Attention]] · [[Awakening]] · [[Blessing]] · [[Constriction]] · [[Create-Discover]] · [[Delineations]] · [[Dependent Origination]] · [[Dharma]] · [[Feelings]] · [[Gaia House]] · [[Gestalt Psychology]] · [[Hermeneutics#Overview]] · [[Hindrances]] · [[Kabbala]] · [[Love]] · [[Meditation]] · [[Metta]] · [[Pain]] · [[Passion]] · [[Personhood]] · [[Phenomenology]] · [[Physicalism]] · [[Realism]] · [[Richard Rorty]] · [[Scientific revolution]] · [[Spirituality]] · [[Wonder]]_</span>
+<span class="counts">_[[Soulmaking]] (43) · [[Image]] (36) · [[Conceptual Framework]] (31) · [[Eros]] (30) · [[Soul]] (26) · [[Imaginal]] (25) · [[Ways of Looking]] (24) · [[Perception]] (23) · [[Embodiment]] (17) · [[Music]] (16) · [[The Self]] (15) · [[Mind]] (12) · [[Soulmaking Dynamic]] (12) · [[Citta]] (11) · [[Psyche]] (11) · [[Cosmology]] (9) · [[Dimensionality]] (9) · [[Experience]] (8) · [[Logos]] (8) · [[Insight]] (7) · [[Oneness]] (7) · [[Relationships]] (7) · [[Consciousness]] (6) · [[Mindfulness]] (6) · [[Nondualism]] (6) · [[Buddha]] (5) · [[Dogma]] (4) · [[Fear]] (4) · [[Infinity]] (4) · [[Metaphysics]] (4) · [[Scientific method]] (4) · [[Desire]] (3) · [[Dominant Culture]] (3) · [[Dwight Eisenhower]] (3) · [[Emptiness]] (3) · [[History]] (3) · [[Materialism]] (3) · [[Meaningfulness]] (3) · [[Beauty]] (2) · [[Birth]] (2) · [[Dakini]] (2) · [[Death]] (2) · [[Divinity]] (2) · [[Epistemology]] (2) · [[Modernism]] (2) · [[Ontology]] (2) · [[Papanca]] (2) · [[Receptivity]] (2) · [[Retreat]] (2) · [[Vessel]] (2) · [[Alchemy]] · [[Attention]] · [[Awakening]] · [[Blessing]] · [[Constriction]] · [[Create-Discover]] · [[Delineations]] · [[Dependent Origination]] · [[Dharma]] · [[Feelings]] · [[Gaia House]] · [[Gestalt Psychology]] · [[Hermeneutics#Overview]] · [[Hindrances]] · [[Kabbala]] · [[Love]] · [[Meditation]] · [[Metta]] · [[Pain]] · [[Passion]] · [[Personhood]] · [[Phenomenology]] · [[Physicalism]] · [[Realism]] · [[Richard Rorty]] · [[Scientific revolution]] · [[Spirituality]] · [[Wonder]]_</span>
 <br/>
 
 ## Paragraphs
@@ -22,7 +22,7 @@ Transcript PDF: [[2017_0204 Logos in the Garden of Souls Part 3.pdf]]
 
 ---
 ##### ...
-<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^1-2|1-2]]**: _[[Perception]] · [[Music]] (3) · [[Relationships]] · [[Psyche]] · [[Soul]] · [[Meaningfulness]]_</span>
+<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^1-2|1-2]]**: _[[Perception]] · [[Music]] (3) · [[Relationships]] · [[Psyche]] · [[Embodiment]] · [[Soul]] · [[Meaningfulness]]_</span>
 
 ---
 ##### ...
@@ -30,7 +30,7 @@ Transcript PDF: [[2017_0204 Logos in the Garden of Souls Part 3.pdf]]
 
 ---
 ##### ...
-<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^1-4|1-4]]**: _[[Music]] · [[Relationships]] · [[Meaningfulness]] · [[Soul]] · [[Psyche]] · [[Soulmaking]] (3) · [[Experience]]_</span>
+<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^1-4|1-4]]**: _[[Music]] · [[Relationships]] · [[Meaningfulness]] · [[Soul]] · [[Embodiment]] · [[Psyche]] · [[Soulmaking]] (3) · [[Experience]]_</span>
 
 ---
 ##### ...
@@ -74,7 +74,7 @@ Transcript PDF: [[2017_0204 Logos in the Garden of Souls Part 3.pdf]]
 
 ---
 ##### ...
-<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^4-3|4-3]]**: _[[Conceptual Framework]] · [[Psyche]] · [[Soul]] (2) · [[Soulmaking]]_</span>
+<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^4-3|4-3]]**: _[[Conceptual Framework]] · [[Psyche]] · [[Mind]] · [[Embodiment]] · [[Soul]] (2) · [[Soulmaking]]_</span>
 
 ---
 ##### ...
@@ -82,11 +82,11 @@ Transcript PDF: [[2017_0204 Logos in the Garden of Souls Part 3.pdf]]
 
 ---
 ##### ...
-<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^5-1|5-1]]**: _[[Conceptual Framework]] (2) · [[Citta]] (6) · [[Soul]] (3) · [[Nondualism]] · [[Consciousness]] · [[Emptiness]] (2) · [[Ways of Looking]] (5) · [[Mindfulness]] (5) · [[Metaphysics]] · [[Experience]] · [[Attention]] · [[Buddha]]_</span>
+<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^5-1|5-1]]**: _[[Conceptual Framework]] (2) · [[Citta]] (6) · [[Soul]] (3) · [[Nondualism]] · [[Mind]] · [[Consciousness]] · [[Emptiness]] (2) · [[Ways of Looking]] (5) · [[Mindfulness]] (5) · [[Metaphysics]] · [[Experience]] · [[Attention]] · [[Buddha]]_</span>
 
 ---
 ##### ...
-<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^5-2|5-2]]**: _[[Conceptual Framework]] · [[Ways of Looking]] (2) · [[Citta]] · [[Soul]] · [[Emptiness]] · [[Perception]] (2) · [[Experience]] (2) · [[Imaginal]] (6) · [[Cosmology]] (3) · [[Image]] (2) · [[Buddha]] (4) · [[Eros]] (5) · [[Dakini]] (2)_</span>
+<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^5-2|5-2]]**: _[[Conceptual Framework]] · [[Ways of Looking]] (2) · [[Citta]] · [[Soul]] · [[Emptiness]] · [[Perception]] (2) · [[Experience]] (2) · [[Imaginal]] (6) · [[Mind]] (7) · [[Cosmology]] (3) · [[Image]] (2) · [[Buddha]] (4) · [[Eros]] (5) · [[Dakini]] (2)_</span>
 
 ---
 ##### ...
@@ -114,11 +114,11 @@ Transcript PDF: [[2017_0204 Logos in the Garden of Souls Part 3.pdf]]
 
 ---
 ##### ...
-<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^7-1|7-1]]**: _[[Conceptual Framework]] (2) · [[Infinity]] · [[Dimensionality]] · [[Soul]] (3)_</span>
+<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^7-1|7-1]]**: _[[Conceptual Framework]] (2) · [[Infinity]] · [[Dimensionality]] · [[Embodiment]] (2) · [[Soul]] (3)_</span>
 
 ---
 ##### ...
-<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^7-2|7-2]]**: _[[Hermeneutics#Overview]] · [[Cosmology]] (2) · [[Materialism]] · [[Constriction]] · [[Infinity]] (3) · [[Soulmaking]]_</span>
+<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^7-2|7-2]]**: _[[Hermeneutics#Overview]] · [[Cosmology]] (2) · [[Embodiment]] · [[Materialism]] · [[Constriction]] · [[Infinity]] (3) · [[Soulmaking]]_</span>
 
 ---
 ##### ...
@@ -130,7 +130,7 @@ Transcript PDF: [[2017_0204 Logos in the Garden of Souls Part 3.pdf]]
 
 ---
 ##### ...
-<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^8-1|8-1]]**: _[[Soulmaking]] (4) · [[The Self]] (2) · [[Soul]] (2) · [[Imaginal]] · [[Ways of Looking]] · [[Soulmaking Dynamic]]_</span>
+<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^8-1|8-1]]**: _[[Soulmaking]] (4) · [[The Self]] (2) · [[Soul]] (2) · [[Imaginal]] · [[Embodiment]] (2) · [[Mind]] (2) · [[Ways of Looking]] · [[Soulmaking Dynamic]]_</span>
 
 ---
 ##### ...
@@ -138,7 +138,7 @@ Transcript PDF: [[2017_0204 Logos in the Garden of Souls Part 3.pdf]]
 
 ---
 ##### ...
-<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^8-3|8-3]]**: _[[Materialism]] · [[Soulmaking]] (2) · [[Perception]] · [[Dimensionality]] · [[Spirituality]]_</span>
+<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^8-3|8-3]]**: _[[Materialism]] · [[Embodiment]] (3) · [[Soulmaking]] (2) · [[Perception]] · [[Dimensionality]] · [[Spirituality]]_</span>
 
 ---
 ##### ...
@@ -186,11 +186,11 @@ Transcript PDF: [[2017_0204 Logos in the Garden of Souls Part 3.pdf]]
 
 ---
 ##### ...
-<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^11-3|11-3]]**: _[[Soulmaking Dynamic]] · [[Logos]] (2) · [[Image]] (7) · [[The Self]] (2) · [[Eros]] (4) · [[Love]] · [[Psyche]]_</span>
+<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^11-3|11-3]]**: _[[Soulmaking Dynamic]] · [[Logos]] (2) · [[Image]] (7) · [[The Self]] (2) · [[Eros]] (4) · [[Love]] · [[Embodiment]] (6) · [[Psyche]]_</span>
 
 ---
 ##### ...
-<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^11-4|11-4]]**: _[[Conceptual Framework]] (2) · [[Soulmaking]] (2) · [[Soulmaking Dynamic]] (3) · [[Eros]] (6) · [[Insight]] · [[Create-Discover]] · [[Psyche]] (2) · [[Soul]] (2) · [[Logos]] · [[Delineations]] · [[Alchemy]]_</span>
+<span class="counts">**[[0204 Logos in the Garden of Souls Part 3#^11-4|11-4]]**: _[[Mind]] · [[Conceptual Framework]] (2) · [[Soulmaking]] (2) · [[Soulmaking Dynamic]] (3) · [[Eros]] (6) · [[Insight]] · [[Create-Discover]] · [[Psyche]] (2) · [[Soul]] (2) · [[Logos]] · [[Delineations]] · [[Alchemy]]_</span>
 
 ---
 ##### ...

@@ -1,7 +1,7 @@
 ---
-obsidianUIMode: preview
 ParagraphsListPage: true
 Series: 2020 Vajra Music
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -35,7 +35,7 @@ E5 --- E5-4[Rosa Parks]
 ```
 
 ## Index
-<span class="counts">_[[Soul]] (136) · [[Image]] (62) · [[Soulmaking]] (40) · [[Imaginal]] (37) · [[Daimon]] (33) · [[Blessing]] (32) · [[Energy Body]] (31) · [[Embodiment]] (29) · [[Buddha]] (26) · [[The Self]] (24) · [[Compassion]] (13) · [[Dyad]] (13) · [[Dimensionality]] (11) · [[Fear]] (11) · [[Sabbath]] (11) · [[Abraham]] (10) · [[Metta]] (10) · [[Fullness of Intention]] (9) · [[Attention]] (8) · [[Christianity]] (8) · [[Habit]] (8) · [[Death]] (7) · [[Duty]] (7) · [[Meditation]] (7) · [[Personhood]] (7) · [[Telos]] (7) · [[Awakening]] (6) · [[Devotion]] (6) · [[History]] (6) · [[Mantra Practice]] (6) · [[Anxiety]] (5) · [[Awareness]] (5) · [[Contraction]] (5) · [[Insight]] (5) · [[Old Testament]] (5) · [[Perception]] (5) · [[Preliminaries]] (5) · [[Rosa Parks]] (5) · [[Dharmakaya]] (4) · [[Dukkha]] (4) · [[Emmett Till]] (4) · [[Energy]] (4) · [[Experience]] (4) · [[Mudra]] (4) · [[Temenos]] (4) · [[The Serpent]] (4) · [[Via Dolorosa]] (4) · [[Avalokiteshvara]] (3) · [[Beauty]] (3) · [[Buddhism]] (3) · [[Divinity]] (3) · [[Mindfulness]] (3) · [[Music]] (3) · [[Passion]] (3) · [[Unfathomability]] (3) · [[Art and Dharma]] (2) · [[Consciousness]] (2) · [[Create-Discover]] (2) · [[Desire]] (2) · [[Dzogchen]] (2) · [[Emotions]] (2) · [[Emptiness]] (2) · [[Emptiness#Suchness]] (2) · [[Eros]] (2) · [[Ethics]] (2) · [[Mahayana]] (2) · [[Mara]] (2) · [[Materialism]] (2) · [[Receptivity]] (2) · [[Sangha]] (2) · [[Thunderclap]] (2) · [[Tibetan Buddhism]] (2) · [[Vajra]] (2) · [[Ways of Looking]] (2) · [[Bhumi]] · [[Borne Aloft By Angels]] · [[Buddha-nature]] · [[Catherine McGee]] · [[Dominant Culture]] · [[Eros Unfettered]] · [[Gestalt Psychology]] · [[Grief]] · [[Guhyasamaja Tantra]] · [[Jhanas]] · [[Mahamudra]] · [[Near enemy]] · [[Ngöndro]] · [[Nobility]] · [[Om mani padme hum]] · [[Papanca]] · [[Pontius Pilate]] · [[Relationships]] · [[Retreat]] · [[Seed Syllables]] · [[Sociology]] · [[Tantra]] · [[The Hospitality to the Angels]] · [[Ultimate Truth]] · [[Vajrayana]] · [[Voice, Movement, and the Possibilities of Soul]]_</span>
+<span class="counts">_[[Soul]] (136) · [[Image]] (62) · [[Embodiment]] (61) · [[Soulmaking]] (40) · [[Imaginal]] (37) · [[Daimon]] (33) · [[Blessing]] (32) · [[Energy Body]] (31) · [[Buddha]] (26) · [[The Self]] (24) · [[Compassion]] (13) · [[Dyad]] (13) · [[Dimensionality]] (11) · [[Fear]] (11) · [[Sabbath]] (11) · [[Abraham]] (10) · [[Metta]] (10) · [[Fullness of Intention]] (9) · [[Mind]] (9) · [[Attention]] (8) · [[Christianity]] (8) · [[Habit]] (8) · [[Death]] (7) · [[Duty]] (7) · [[Meditation]] (7) · [[Personhood]] (7) · [[Telos]] (7) · [[Awakening]] (6) · [[Devotion]] (6) · [[History]] (6) · [[Mantra Practice]] (6) · [[Anxiety]] (5) · [[Awareness]] (5) · [[Contraction]] (5) · [[Insight]] (5) · [[Old Testament]] (5) · [[Perception]] (5) · [[Preliminaries]] (5) · [[Rosa Parks]] (5) · [[Dharmakaya]] (4) · [[Dukkha]] (4) · [[Emmett Till]] (4) · [[Energy]] (4) · [[Experience]] (4) · [[Mudra]] (4) · [[Temenos]] (4) · [[The Serpent]] (4) · [[Via Dolorosa]] (4) · [[Avalokiteshvara]] (3) · [[Beauty]] (3) · [[Buddhism]] (3) · [[Divinity]] (3) · [[Mindfulness]] (3) · [[Music]] (3) · [[Passion]] (3) · [[Unfathomability]] (3) · [[Art and Dharma]] (2) · [[Consciousness]] (2) · [[Create-Discover]] (2) · [[Desire]] (2) · [[Dzogchen]] (2) · [[Emotions]] (2) · [[Emptiness]] (2) · [[Emptiness#Suchness]] (2) · [[Eros]] (2) · [[Ethics]] (2) · [[Mahayana]] (2) · [[Mara]] (2) · [[Materialism]] (2) · [[Receptivity]] (2) · [[Sangha]] (2) · [[Thunderclap]] (2) · [[Tibetan Buddhism]] (2) · [[Vajra]] (2) · [[Ways of Looking]] (2) · [[Bhumi]] · [[Borne Aloft By Angels]] · [[Buddha-nature]] · [[Catherine McGee]] · [[Dominant Culture]] · [[Eros Unfettered]] · [[Gestalt Psychology]] · [[Grief]] · [[Guhyasamaja Tantra]] · [[Jhanas]] · [[Mahamudra]] · [[Near enemy]] · [[Ngöndro]] · [[Nobility]] · [[Om mani padme hum]] · [[Papanca]] · [[Pontius Pilate]] · [[Relationships]] · [[Retreat]] · [[Seed Syllables]] · [[Sociology]] · [[Tantra]] · [[The Hospitality to the Angels]] · [[Ultimate Truth]] · [[Vajrayana]] · [[Voice, Movement, and the Possibilities of Soul]]_</span>
 <br/>
 
 ## Referenced talks
@@ -53,7 +53,7 @@ _keywords: _
 
 #### What does "blessing" look like?
 ##### The question "what does blessing look like" is culturally contingent (Mode 1)
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^1-1|1-1]]**: _[[Blessing]] (4) · [[Dominant Culture]]_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^1-1|1-1]]**: _[[Blessing]] (4) · [[Mind]] (2) · [[Dominant Culture]]_</span>
 
 ---
 ##### "Blessing" in different traditions
@@ -96,7 +96,7 @@ What's the kind of rhythm that allows me to read, to sense, to be attuned and re
 
 ---
 ##### Leaning into Mode 2
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^3-2|3-2]]**: _[[Blessing]] (3) · [[Receptivity]] · [[Soul]] (2) · [[Energy Body]]_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^3-2|3-2]]**: _[[Blessing]] (3) · [[Receptivity]] · [[Soul]] (2) · [[Embodiment]] · [[Energy Body]]_</span>
 
 ![[20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=10:53]]
 
@@ -240,7 +240,7 @@ Because when there's sensing with soul, it will tend to counter that kind of rei
 ---
 #### Variation on Excercise 4
 ##### Rather than actual person, dyad partner is intrapsychic image
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^9-5|9-5]]**: _[[Dyad]] (4) · [[Image]] (3) · [[Personhood]] · [[Daimon]] (3) · [[Imaginal]] · [[Blessing]]_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^9-5|9-5]]**: _[[Dyad]] (4) · [[Image]] (3) · [[Personhood]] · [[Embodiment]] · [[Daimon]] (3) · [[Imaginal]] · [[Blessing]]_</span>
 
 ![[20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=43:31]]
 
@@ -300,7 +300,7 @@ Usually when the intention goes into that kind of thing, that's when I'm seeking
 
 ### Excercises 5
 ##### Iconic movements and gestures
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^11-5|11-5]]**: _[[Image]] (3) · [[Soul]] (2) · [[Energy Body]]_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^11-5|11-5]]**: _[[Image]] (3) · [[Soul]] (2) · [[Embodiment]] · [[Energy Body]]_</span>
 
 ![[20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=54:50]]
 
@@ -364,11 +364,11 @@ Doesn't the **therefore** point to a rather limited definition of what acting is
 
 ---
 ##### It's not important to recognise the situation from the outside, it's more important to resonate in the heart and the soul
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^14-2|14-2]]**: _[[Energy Body]] (5) · [[Soul]] (5)_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^14-2|14-2]]**: _[[Embodiment]] (2) · [[Energy Body]] (5) · [[Soul]] (5)_</span>
 
 ---
 ##### The Serpent
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^14-3|14-3]]**: _[[The Serpent]] (3) · [[Buddha]] · [[Mudra]] · [[Soul]]_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^14-3|14-3]]**: _[[The Serpent]] (3) · [[Embodiment]] · [[Buddha]] · [[Mudra]] · [[Soul]]_</span>
 
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^the-serpent]]
 
@@ -421,7 +421,7 @@ https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)
 
 ---
 ##### Any element of the whole constellation of the imaginal can become imag (e.g. Shekhinah)
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^16-3|16-3]]**: _[[Imaginal]] (2) · [[Image]] · [[Soulmaking]] (2) · [[Sabbath]] (11) · [[Divinity]] · [[Blessing]] · [[Abraham]]_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^16-3|16-3]]**: _[[Imaginal]] (2) · [[Image]] · [[Soulmaking]] (2) · [[Sabbath]] (11) · [[Divinity]] · [[Embodiment]] · [[Blessing]] · [[Abraham]]_</span>
 
 ---
 ##### 🟡 Exercise 5.4: _Rosa Parks_
@@ -446,15 +446,15 @@ https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)
 
 ---
 ##### There's a body in there
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^17-6|17-6]]**: _[[Embodiment]] · [[Soul]] (4) · [[Experience]] · [[Ethics]] (2)_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^17-6|17-6]]**: _[[Embodiment]] (4) · [[Soul]] (4) · [[Experience]] · [[Ethics]] (2)_</span>
 
 ---
 ##### Body, soul, soul-sense, voice
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^18-1|18-1]]**: _[[Experience]] · [[Embodiment]] · [[Soul]] (3) · [[Emmett Till]]_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^18-1|18-1]]**: _[[Experience]] · [[Embodiment]] (3) · [[Soul]] (3) · [[Emmett Till]]_</span>
 
 ---
 ##### She draws on an image (Emmett Till)
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^18-2|18-2]]**: _[[Emmett Till]] (3) · [[Rosa Parks]] · [[Soul]] · [[Image]] (2)_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^18-2|18-2]]**: _[[Emmett Till]] (3) · [[Rosa Parks]] · [[Mind]] · [[Soul]] · [[Image]] (2)_</span>
 
 ---
 ##### What enabled this immovability she had?
@@ -481,11 +481,11 @@ And then, again, in terms of consequences, one of the beautiful consequences - t
 ```
 ---
 ##### Her demeanour was quiet and seren, dignified, with soul-conviction
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^19-1|19-1]]**: _[[Rosa Parks]] · [[Image]] · [[Soul]] (3)_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^19-1|19-1]]**: _[[Rosa Parks]] · [[Image]] · [[Soul]] (3) · [[Embodiment]]_</span>
 
 ---
 ##### Embodying, reflecting, refracting
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^19-2|19-2]]**: _[[Image]] (3) · [[Gestalt Psychology]] · [[Embodiment]] (2) · [[Soul]] (6)_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^19-2|19-2]]**: _[[Image]] (3) · [[Gestalt Psychology]] · [[Embodiment]] (4) · [[Soul]] (6)_</span>
 
 ![[20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=1:36:10]]
 
@@ -506,11 +506,11 @@ Now, okay, so here's a certain personality, a certain kind of style of expressio
 
 ---
 ##### The principle is to make one body and soul
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^20-1|20-1]]**: _[[Energy Body]] (2) · [[Soul]] (10) · [[Embodiment]] · [[Perception]] (2)_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^20-1|20-1]]**: _[[Energy Body]] (2) · [[Soul]] (10) · [[Embodiment]] (4) · [[Perception]] (2)_</span>
 
 ---
 ##### All principles of soulmaking apply
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^20-2|20-2]]**: _[[Energy Body]] · [[Soul]] (3) · [[Embodiment]] · [[Soulmaking]] · [[Duty]]_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^20-2|20-2]]**: _[[Energy Body]] · [[Soul]] (3) · [[Embodiment]] (2) · [[Soulmaking]] · [[Duty]]_</span>
 
 ---
 ##### What out for rigid, reasserting habits
@@ -530,7 +530,7 @@ If I just remember the principle, the range of what I'm doing will not shrink to
 
 ---
 ##### We want the body and soul integrated together
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^21-2|21-2]]**: _[[Soul]] (6) · [[Embodiment]] · [[Telos]] · [[Duty]] (2) · [[Relationships]]_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^21-2|21-2]]**: _[[Embodiment]] (3) · [[Soul]] (6) · [[Telos]] · [[Duty]] (2) · [[Relationships]]_</span>
 
 ```ad-quote
 This is what we want. We want the body and the [[soul]] integrated together. We want the possibility of soul to manifest, express, flow through and flow from all aspects of the being, including the [[Embodiment|body movement]], the body sense, the gesturing, the voice, the language, all of it. We want soul to be able to come through there as soul wants to come through there, so that we _can_ follow our [[telos]], we _can_ discharge our [[duty]], we _can_ carry that out, we _can_ have a fuller sense of ourselves, sense ourselves with soul, sense our life with soul, our work, our duty, our relationships, our being, the aspects of our being. This is what we want.
@@ -555,18 +555,18 @@ references [[The World and More]]
 
 ---
 ##### Dwelling in the indestructible heart essence of the body, speach and mind of all those who are gone to and come from the truth
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^22-1|22-1]]**: _[[Buddha]] (3) · [[Tantra]] · [[Vajra]] (2)_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^22-1|22-1]]**: _[[Buddha]] (3) · [[Embodiment]] (4) · [[Mind]] (4) · [[Tantra]] · [[Vajra]] (2)_</span>
 
 ---
 ##### Open up so that we, too, are dwelling there
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^22-2|22-2]]**: _[[Soulmaking]] (2) · [[Soul]] (2) · [[Imaginal]] · [[Beauty]] · [[Dharmakaya]] · [[Buddha]] (3) · [[Embodiment]] · [[Emotions]]_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^22-2|22-2]]**: _[[Soulmaking]] (2) · [[Soul]] (2) · [[Imaginal]] · [[Embodiment]] (6) · [[Beauty]] · [[Dharmakaya]] · [[Buddha]] (3) · [[Emotions]] · [[Mind]]_</span>
 
 ```ad-quote
 Can we exercise and open up the channels of our being, the movements we make, the body, the [[Embodiment|sense of the body]], the sense of the emotions, the gestures, the voice, so that, at times, at least, we, too, are dwelling, vijahāra, in the diamond, the indestructible, the eternal heart essence of the body, speech, and mind of all Buddhas, all Tathāgatas, all those who go to and come from this transcendent truth, this transcendent reality, this reality that is both transcendent and immanent? 
 ```
 ---
 ##### The soul-duty of the dharmakāya
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^22-3|22-3]]**: _[[Buddha-nature]] · [[Embodiment]] · [[Soulmaking]] (2) · [[Dharmakaya]] (3) · [[Soul]] (4)_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^22-3|22-3]]**: _[[Buddha-nature]] · [[Embodiment]] (2) · [[Mind]] · [[Soulmaking]] (2) · [[Dharmakaya]] (3) · [[Soul]] (4)_</span>
 
 ---
 ##### To _be_ sould and to _make_ soul

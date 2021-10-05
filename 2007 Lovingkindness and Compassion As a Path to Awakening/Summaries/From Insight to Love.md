@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: true
-obsidianUIMode: preview
 Series: 2007 Lovingkindness and Compassion As a Path to Awakening
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -14,7 +14,7 @@ Transcript PDF: [[2007_0127 From Insight to Love.pdf]]
 ![[20070127-Rob_Burbea-GAIA-from_insight_to_love-12291.mp3]]
 
 ## Index
-<span class="counts">_[[Fear]] (128) · [[Metta]] (73) · [[Love]] (46) · [[Clinging]] (40) · [[Impermanence]] (32) · [[Insight]] (32) · [[Anatta]] (30) · [[Death]] (23) · [[Aversion]] (19) · [[Dukkha]] (17) · [[Freedom]] (17) · [[The Self]] (17) · [[Habit]] (15) · [[Awareness]] (14) · [[Compassion]] (13) · [[Buddha]] (12) · [[Perception]] (11) · [[Consciousness]] (10) · [[Ways of Looking]] (10) · [[Anxiety]] (9) · [[Experience]] (9) · [[Pleasantness]] (8) · [[Happiness]] (7) · [[Three characteristics]] (7) · [[Cultivation]] (6) · [[Nondualism]] (6) · [[Retreat]] (6) · [[Awakening]] (5) · [[Constriction]] (5) · [[Energy]] (5) · [[Oneness]] (5) · [[Contraction]] (4) · [[Embodiment]] (4) · [[Music]] (4) · [[Spaciousness]] (4) · [[Centre]] (3) · [[Craving]] (3) · [[Emptiness]] (3) · [[Fabrication]] (3) · [[Ignorance]] (3) · [[Kusala]] (3) · [[Mahatma Gandhi]] (3) · [[Mindfulness]] (3) · [[Acceptance]] (2) · [[Anger]] (2) · [[Beauty]] (2) · [[Future thinking]] (2) · [[Image]] (2) · [[Letting go]] (2) · [[Meditation]] (2) · [[Relationships]] (2) · [[Samadhi]] (2) · [[Skandhas]] (2) · [[Steadiness]] (2) · [[Attention]] · [[Baba Amte]] · [[Equanimity]] · [[Healing]] · [[Hell]] · [[Hindrances]] · [[Jhanas]] · [[Judaism]] · [[Measuring mind]] · [[Metaphysics]] · [[Papanca]] · [[Phenomenon]] · [[Present Moment]] · [[Wonder]]_</span>
+<span class="counts">_[[Fear]] (128) · [[Metta]] (73) · [[Love]] (46) · [[Clinging]] (40) · [[Impermanence]] (32) · [[Insight]] (32) · [[Anatta]] (30) · [[Mind]] (25) · [[Death]] (23) · [[Dukkha]] (23) · [[Aversion]] (19) · [[Freedom]] (17) · [[The Self]] (17) · [[Habit]] (15) · [[Awareness]] (14) · [[Compassion]] (13) · [[Embodiment]] (13) · [[Buddha]] (12) · [[Perception]] (11) · [[Consciousness]] (10) · [[Ways of Looking]] (10) · [[Anxiety]] (9) · [[Experience]] (9) · [[Pleasantness]] (8) · [[Happiness]] (7) · [[Three characteristics]] (7) · [[Cultivation]] (6) · [[Nondualism]] (6) · [[Retreat]] (6) · [[Awakening]] (5) · [[Constriction]] (5) · [[Energy]] (5) · [[Oneness]] (5) · [[Contraction]] (4) · [[Music]] (4) · [[Spaciousness]] (4) · [[Centre]] (3) · [[Craving]] (3) · [[Emptiness]] (3) · [[Fabrication]] (3) · [[Ignorance]] (3) · [[Kusala]] (3) · [[Mahatma Gandhi]] (3) · [[Mindfulness]] (3) · [[Acceptance]] (2) · [[Anger]] (2) · [[Beauty]] (2) · [[Commentaries]] (2) · [[Future thinking]] (2) · [[Image]] (2) · [[Letting go]] (2) · [[Meditation]] (2) · [[Relationships]] (2) · [[Samadhi]] (2) · [[Skandhas]] (2) · [[Steadiness]] (2) · [[Attention]] · [[Baba Amte]] · [[Equanimity]] · [[Healing]] · [[Hell]] · [[Hindrances]] · [[Jhanas]] · [[Judaism]] · [[Metaphysics]] · [[Papanca]] · [[Phenomenon]] · [[Present Moment]] · [[Wonder]]_</span>
 <br/>
 
 ## Paragraphs
@@ -27,7 +27,7 @@ Transcript PDF: [[2007_0127 From Insight to Love.pdf]]
 
 ---
 ##### Metta is fabricated, but it's also the natural state
-<span class="counts">**[[0127 From Insight to Love#^1-2|1-2]]**: _[[Metta]] (6) · [[Love]] (4) · [[Fabrication]] (3) · [[Compassion]] (2) · [[Consciousness]] · [[Clinging]] (2) · [[Ignorance]] (2) · [[The Self]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^1-2|1-2]]**: _[[Metta]] (6) · [[Love]] (4) · [[Fabrication]] (3) · [[Compassion]] (2) · [[Mind]] · [[Consciousness]] · [[Clinging]] (2) · [[Ignorance]] (2) · [[The Self]]_</span>
 
 ---
 ##### Insight is that which releases clinging
@@ -60,11 +60,11 @@ Transcript PDF: [[2007_0127 From Insight to Love.pdf]]
 
 ### Fear
 ##### Don't push away fear, but incline the awareness a bit towards loveliness
-<span class="counts">**[[0127 From Insight to Love#^2-5|2-5]]**: _[[Fear]] (12) · [[Love]] · [[Samadhi]] · [[Awareness]] · [[Pleasantness]] · [[Aversion]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^2-5|2-5]]**: _[[Fear]] (12) · [[Love]] · [[Samadhi]] · [[Mind]] (4) · [[Awareness]] · [[Pleasantness]] · [[Aversion]]_</span>
 
 ---
 ##### Fear involves unpleasant body sensations and a constriction of the mind
-<span class="counts">**[[0127 From Insight to Love#^3-1|3-1]]**: _[[Fear]] (5) · [[Embodiment]] · [[Constriction]] (2) · [[Consciousness]] (5) · [[Spaciousness]] · [[Aversion]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^3-1|3-1]]**: _[[Fear]] (5) · [[Embodiment]] · [[Constriction]] (2) · [[Mind]] · [[Consciousness]] (5) · [[Spaciousness]] · [[Aversion]]_</span>
 
 ---
 ##### Piecemeal approach to working with fear
@@ -76,7 +76,7 @@ Transcript PDF: [[2007_0127 From Insight to Love.pdf]]
 
 ---
 ##### "I can accomodate this"
-<span class="counts">**[[0127 From Insight to Love#^3-4|3-4]]**: _[[Awareness]] · [[Constriction]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^3-4|3-4]]**: _[[Awareness]] · [[Constriction]] · [[Mind]]_</span>
 
 ---
 ##### Fleeing from fear makes the fear increase
@@ -84,7 +84,7 @@ Transcript PDF: [[2007_0127 From Insight to Love.pdf]]
 
 ---
 ##### When we flee we go straight up into the mind
-<span class="counts">**[[0127 From Insight to Love#^4-2|4-2]]**: _[[Aversion]] · [[Fear]] (2) · [[Energy]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^4-2|4-2]]**: _[[Aversion]] · [[Fear]] (2) · [[Mind]] (2) · [[Energy]]_</span>
 
 ---
 ##### The aversion to fear is part of the fear itself
@@ -108,7 +108,7 @@ Transcript PDF: [[2007_0127 From Insight to Love.pdf]]
 
 ---
 ##### It's the cultivation of beautiful qualities of mind and heart
-<span class="counts">**[[0127 From Insight to Love#^5-1|5-1]]**: _[[Happiness]] (2) · [[Buddha]] · [[Cultivation]] · [[Love]] · [[Compassion]] · [[Habit]] · [[Mindfulness]] · [[Equanimity]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^5-1|5-1]]**: _[[Happiness]] (2) · [[Buddha]] · [[Cultivation]] · [[Mind]] (2) · [[Love]] · [[Compassion]] · [[Habit]] · [[Mindfulness]] · [[Equanimity]]_</span>
 
 ---
 ##### Cultivation will take care of the future, also in relationship to the present
@@ -130,11 +130,11 @@ Transcript PDF: [[2007_0127 From Insight to Love.pdf]]
 
 ---
 ##### The "three characteristics"
-<span class="counts">**[[0127 From Insight to Love#^5-6|5-6]]**: _[[Anatta]] (5) · [[Insight]] · [[Buddha]] · [[Three characteristics]] (3) · [[Phenomenon]] · [[Impermanence]] (2) · [[Dukkha]] (2)_</span>
+<span class="counts">**[[0127 From Insight to Love#^5-6|5-6]]**: _[[Anatta]] (5) · [[Insight]] · [[Buddha]] · [[Three characteristics]] (3) · [[Phenomenon]] · [[Impermanence]] (2) · [[Dukkha]] (4)_</span>
 
 ---
 ##### Commentarial view on dukkha
-<span class="counts">**[[0127 From Insight to Love#^6-1|6-1]]**: _[[Buddha]] · [[Three characteristics]] · [[Death]] · [[Impermanence]] · [[Fear]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^6-1|6-1]]**: _[[Commentaries]] (2) · [[Buddha]] · [[Three characteristics]] · [[Death]] · [[Impermanence]] · [[Dukkha]] · [[Fear]]_</span>
 TODO: unsatisfactoriness => dukkha
 
 ---
@@ -181,7 +181,7 @@ This moment here - colour, light, sound - is in the context of death and that ki
 
 ---
 ##### They are also subject to the uncertainties of live
-<span class="counts">**[[0127 From Insight to Love#^7-5|7-5]]**: _[[Death]] · [[Consciousness]] · [[Metta]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^7-5|7-5]]**: _[[Death]] · [[Mind]] · [[Embodiment]] · [[Consciousness]] · [[Metta]]_</span>
 ![[20070127-Rob_Burbea-GAIA-from_insight_to_love-12291.mp3#t=35:22]]
 
 ```ad-quote
@@ -198,13 +198,13 @@ They are also subject not just to [death](app://obsidian.md/death) but to the un
 
 ---
 ##### All I see are moments of perception that are both part of the world and part of me
-<span class="counts">**[[0127 From Insight to Love#^8-1|8-1]]**: _[[Impermanence]] (3) · [[Experience]] · [[Perception]] (11) · [[Nondualism]] (2) · [[Love]] (2) · [[Anatta]] · [[Death]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^8-1|8-1]]**: _[[Impermanence]] (3) · [[Experience]] · [[Perception]] (11) · [[Embodiment]] · [[Nondualism]] (2) · [[Love]] (2) · [[Anatta]] · [[Death]]_</span>
 ![[20070127-Rob_Burbea-GAIA-from_insight_to_love-12291.mp3#t=38:10]]
 
 ---
 ### (2) Dukkha
 ##### We are all in the same boat with dukkha
-<span class="counts">**[[0127 From Insight to Love#^8-2|8-2]]**: _[[Dukkha]] (4) · [[Metta]] (2)_</span>
+<span class="counts">**[[0127 From Insight to Love#^8-2|8-2]]**: _[[Dukkha]] (5) · [[Metta]] (2)_</span>
 ![[20070127-Rob_Burbea-GAIA-from_insight_to_love-12291.mp3#t=39:54]]
 
 ---
@@ -213,7 +213,7 @@ They are also subject not just to [death](app://obsidian.md/death) but to the un
 
 ---
 ##### Doing metta with the awareness of whether there's clinging
-<span class="counts">**[[0127 From Insight to Love#^8-4|8-4]]**: _[[Metta]] (2) · [[Compassion]] · [[Attention]] · [[Clinging]] (5) · [[Awareness]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^8-4|8-4]]**: _[[Metta]] (2) · [[Compassion]] · [[Attention]] · [[Clinging]] (5) · [[Embodiment]] · [[Awareness]]_</span>
 
 ---
 ##### The body will reflect when clinging is around
@@ -226,7 +226,7 @@ They are also subject not just to [death](app://obsidian.md/death) but to the un
 
 ---
 ##### With more open space with metta, the actual sense of self quietens
-<span class="counts">**[[0127 From Insight to Love#^9-2|9-2]]**: _[[The Self]] (5) · [[Clinging]] (3) · [[Aversion]] · [[Metta]] · [[Nondualism]] (2) · [[Love]] · [[Dukkha]] · [[Anatta]] · [[Craving]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^9-2|9-2]]**: _[[The Self]] (5) · [[Clinging]] (3) · [[Aversion]] · [[Metta]] · [[Embodiment]] · [[Nondualism]] (2) · [[Love]] · [[Dukkha]] · [[Anatta]] · [[Craving]]_</span>
 TODO: "the dukkha angle into anatta" => the 2 characteristics impermanence and anatta lead to the 3rd one, anatta
 
 ---
@@ -249,15 +249,15 @@ TODO: "the dukkha angle into anatta" => the 2 characteristics impermanence and a
 
 ---
 ##### With anatta we are working with the "me-mine" experience
-<span class="counts">**[[0127 From Insight to Love#^10-2|10-2]]**: _[[Anatta]] (2) · [[Ways of Looking]] (2) · [[Freedom]] · [[Love]] · [[Experience]] (2) · [[Hell]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^10-2|10-2]]**: _[[Anatta]] (2) · [[Ways of Looking]] (2) · [[Freedom]] · [[Love]] · [[Experience]] (2) · [[Embodiment]] · [[Hell]]_</span>
 
 ---
 ##### "Just unhook" is not a metaphysical statement
-<span class="counts">**[[0127 From Insight to Love#^10-3|10-3]]**: _[[Buddha]] · [[Present Moment]] · [[Experience]] · [[Metaphysics]] · [[Anatta]] · [[Freedom]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^10-3|10-3]]**: _[[Buddha]] · [[Present Moment]] · [[Experience]] · [[Embodiment]] · [[Metaphysics]] · [[Anatta]] · [[Freedom]]_</span>
 
 ---
 ##### The comparing, judging mind
-<span class="counts">**[[0127 From Insight to Love#^10-4|10-4]]**: _[[Retreat]] (2)_</span>
+<span class="counts">**[[0127 From Insight to Love#^10-4|10-4]]**: _[[Mind]] (2) · [[Retreat]] (2)_</span>
 
 ---
 ##### The self-sense gets its energy from measuring, comparing, judging
@@ -265,16 +265,16 @@ TODO: "the dukkha angle into anatta" => the 2 characteristics impermanence and a
 
 ---
 ##### Over time, the groove of metta will be more established than the groove of measuring, comparing, juding
-<span class="counts">**[[0127 From Insight to Love#^11-1|11-1]]**: _[[Metta]] (7) · [[Ways of Looking]] · [[Kusala]] (2) · [[Acceptance]] · [[Energy]] (3) · [[Compassion]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^11-1|11-1]]**: _[[Metta]] (7) · [[Mind]] (2) · [[Ways of Looking]] · [[Kusala]] (2) · [[Acceptance]] · [[Energy]] (3) · [[Compassion]]_</span>
 
 ---
 ##### Judgement thoughts are not me, not mine
-<span class="counts">**[[0127 From Insight to Love#^11-2|11-2]]**: _[[Freedom]] (2) · [[Measuring mind]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^11-2|11-2]]**: _[[Freedom]] (2) · [[Mind]] (2)_</span>
 TODO: not me, not mine => annatta, [[Test a new index entry first]]
 
 ---
 ##### The emptiness that opens up from "not me, not mine" is inbued with love
-<span class="counts">**[[0127 From Insight to Love#^11-3|11-3]]**: _[[Experience]] · [[Metta]] (2) · [[Compassion]] · [[Awareness]] (2) · [[Emptiness]] · [[Love]] (3) · [[Three characteristics]] · [[Freedom]] · [[Fear]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^11-3|11-3]]**: _[[Experience]] · [[Embodiment]] (2) · [[Metta]] (2) · [[Compassion]] · [[Awareness]] (2) · [[Emptiness]] · [[Love]] (3) · [[Three characteristics]] · [[Freedom]] · [[Fear]]_</span>
 
 ```ad-quote
 So with these three characteristics, one of the indicators that they're working properly is that they bring [[Awakening|freedom]] and love, and not a sense of coldness and disconnection or fear, as I said before. 
@@ -313,11 +313,11 @@ So with these three characteristics, one of the indicators that they're working 
 
 ---
 ##### Something is impermanent, therefore automatically unsatisfactory
-<span class="counts">**[[0127 From Insight to Love#^12-8|12-8]]**: _[[Freedom]] · [[Anatta]] · [[Impermanence]] (7) · [[Insight]] · [[Dukkha]] · [[Experience]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^12-8|12-8]]**: _[[Freedom]] · [[Anatta]] · [[Impermanence]] (7) · [[Insight]] · [[Dukkha]] (2) · [[Experience]] · [[Embodiment]]_</span>
 
 ---
 ##### The resulting letting go is not disconnection, and it can lead to an understanding of anatta
-<span class="counts">**[[0127 From Insight to Love#^13-1|13-1]]**: _[[Freedom]] · [[Impermanence]] (4) · [[Letting go]] · [[Insight]] · [[Anatta]] · [[The Self]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^13-1|13-1]]**: _[[Freedom]] · [[Impermanence]] (4) · [[Dukkha]] · [[Letting go]] · [[Insight]] · [[Anatta]] · [[The Self]] · [[Mind]]_</span>
 
 ![[20070127-Rob_Burbea-GAIA-from_insight_to_love-12291.mp3#t=01:03:11]]
 
@@ -352,7 +352,7 @@ But there are ways of understanding anattā that go even beyond the notion of im
 
 ---
 ##### Going back and forth between opening and a sense of contraction
-<span class="counts">**[[0127 From Insight to Love#^14-5|14-5]]**: _[[Dukkha]] · [[Awareness]] (2) · [[Clinging]] (2) · [[Contraction]] (3)_</span>
+<span class="counts">**[[0127 From Insight to Love#^14-5|14-5]]**: _[[Dukkha]] · [[Awareness]] (2) · [[Clinging]] (2) · [[Contraction]] (3) · [[Mind]]_</span>
 ![[20070127-Rob_Burbea-GAIA-from_insight_to_love-12291.mp3#t=01:07:39]]
 
 ---
@@ -366,7 +366,7 @@ But there are ways of understanding anattā that go even beyond the notion of im
 
 ---
 ##### A lot of stuff goes on below the radar of consciousness
-<span class="counts">**[[0127 From Insight to Love#^15-1|15-1]]**: _[[Image]] · [[Aversion]] (2) · [[Consciousness]] · [[Fear]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^15-1|15-1]]**: _[[Mind]] · [[Image]] · [[Aversion]] (2) · [[Consciousness]] · [[Fear]]_</span>
 
 ---
 ##### Hearing about metta sometimes makes the fear go away
@@ -391,12 +391,12 @@ if there's no fear in practice, just steam right ahead. Don't worry about it.
 
 ---
 ##### The more metta, the less soil fear has to establish itself as a habit
-<span class="counts">**[[0127 From Insight to Love#^16-2|16-2]]**: _[[Metta]] (4) · [[Fear]] (2) · [[Anxiety]] · [[Habit]] (3) · [[Music]] (4)_</span>
+<span class="counts">**[[0127 From Insight to Love#^16-2|16-2]]**: _[[Metta]] (4) · [[Fear]] (2) · [[Anxiety]] · [[Habit]] (3) · [[Music]] (4) · [[Mind]]_</span>
 TODO: CD player example
 
 ---
 ##### Much of our life is just grooves
-<span class="counts">**[[0127 From Insight to Love#^16-3|16-3]]**: _[[Habit]] (5) · [[Kusala]] · [[Metta]] (3) · [[Mindfulness]] · [[Steadiness]] · [[Fear]] (7) · [[Buddha]] · [[Insight]] · [[Relationships]] · [[Love]] (3)_</span>
+<span class="counts">**[[0127 From Insight to Love#^16-3|16-3]]**: _[[Mind]] · [[Habit]] (5) · [[Kusala]] · [[Metta]] (3) · [[Mindfulness]] · [[Steadiness]] · [[Fear]] (7) · [[Buddha]] · [[Insight]] · [[Relationships]] · [[Love]] (3)_</span>
 ![[20070127-Rob_Burbea-GAIA-from_insight_to_love-12291.mp3#t=01:16:08]]
 
 ---
@@ -409,7 +409,7 @@ TODO: CD player example
 
 ---
 ##### Fear from wanting the future be a certain way
-<span class="counts">**[[0127 From Insight to Love#^16-6|16-6]]**: _[[Clinging]] · [[Fear]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^16-6|16-6]]**: _[[Clinging]] · [[Mind]] · [[Fear]]_</span>
 
 ---
 ##### Cultivating positive qualities is helpful

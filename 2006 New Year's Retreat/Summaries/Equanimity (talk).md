@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: true
-obsidianUIMode: preview
 Series: 2006 New Year's Retreat
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -13,88 +13,24 @@ Transcript PDF: [[2006_1228 Equanimity (talk).pdf]]
 
 ![[20061228-Rob_Burbea-GAIA-equanimity-12307.mp3]]
 
-```ad-info
-This is a summary of a particular talk, as given by a transcript. Not all of the transcripts in the Digital Garden have summaries, but eventually most of them will.
-
-Each summary page starts with 
-- the audio player for the audio of the talk.
-- a link to the series where this talk is in
-- a link to the transcript, which is taken from the original PDF
-- a link to the original PDF that is the basis of the transcript
-
-NOTE that the name of the summary is (in nearly all cases) the name of the talk. The transcript follows the naming standard [month][day][talk name], with [talk name] equalling the name of the summary.
-
-The "Index" and "Paragraphs" parts of a talk summary are explained below.
-
-```
-
-
 ## Index
-<span class="counts">_[[Equanimity]] (40) · [[Happiness]] (28) · [[Metta]] (22) · [[Pain]] (22) · [[Cultivation]] (19) · [[Insight]] (14) · [[Wonder]] (13) · [[Experience]] (12) · [[Impermanence]] (12) · [[Steadiness]] (12) · [[Buddha]] (11) · [[Craving]] (11) · [[The Self]] (11) · [[Mudita]] (10) · [[Dharma]] (8) · [[Compassion]] (5) · [[Death]] (5) · [[Infinity]] (5) · [[Mindfulness]] (5) · [[Retreat]] (5) · [[Spaciousness]] (5) · [[Attention]] (4) · [[Awareness]] (4) · [[Beauty]] (4) · [[Immeasurability]] (4) · [[Personality structure]] (4) · [[Dukkha]] (3) · [[Eight worldly conditions]] (3) · [[Emptiness]] (3) · [[Fear]] (3) · [[Measuring mind]] (3) · [[Meditation]] (3) · [[Perception]] (3) · [[Receptivity]] (3) · [[Right speech]] (3) · [[Aversion]] (2) · [[Dominant Culture]] (2) · [[Embodiment]] (2) · [[Freedom]] (2) · [[Healing]] (2) · [[Jesus]] (2) · [[Jiddu Krishnamurti]] (2) · [[Juiciness]] (2) · [[Love]] (2) · [[Music]] (2) · [[Near enemy]] (2) · [[Personhood]] (2) · [[Pleasantness]] (2) · [[Reactivity]] (2) · [[Anger]] · [[Breath]] · [[Clinging]] · [[Dalai Lama]] · [[Depression]] · [[Energy]] · [[Hindrances]] · [[Mahatma Gandhi]] · [[Mother Teresa]] · [[Nondualism]] · [[Samadhi]] · [[Sangha]] · [[Thanissaro Bhikkhu]]_</span>
-
-```ad-info
-Most of the talk summaries starts with an index. This is the collection of index entries found in each of the transcript paragraphs, with the total count across all paragraphs given in brackets. If there are no brackets then the keyword occurs only once.
-
-(More on keywords and index entries below)
-```
+<span class="counts">_[[Equanimity]] (40) · [[Happiness]] (28) · [[Metta]] (22) · [[Pain]] (22) · [[Cultivation]] (19) · [[Mind]] (17) · [[Insight]] (14) · [[Wonder]] (13) · [[Experience]] (12) · [[Impermanence]] (12) · [[Steadiness]] (12) · [[Buddha]] (11) · [[Craving]] (11) · [[The Self]] (11) · [[Mudita]] (10) · [[Dharma]] (8) · [[Compassion]] (5) · [[Death]] (5) · [[Embodiment]] (5) · [[Infinity]] (5) · [[Mindfulness]] (5) · [[Retreat]] (5) · [[Spaciousness]] (5) · [[Attention]] (4) · [[Awareness]] (4) · [[Beauty]] (4) · [[Immeasurability]] (4) · [[Personality structure]] (4) · [[Dukkha]] (3) · [[Eight worldly conditions]] (3) · [[Emptiness]] (3) · [[Fear]] (3) · [[Meditation]] (3) · [[Perception]] (3) · [[Receptivity]] (3) · [[Right speech]] (3) · [[Aversion]] (2) · [[Dominant Culture]] (2) · [[Freedom]] (2) · [[Healing]] (2) · [[Jesus]] (2) · [[Jiddu Krishnamurti]] (2) · [[Juiciness]] (2) · [[Love]] (2) · [[Music]] (2) · [[Near enemy]] (2) · [[Personhood]] (2) · [[Pleasantness]] (2) · [[Reactivity]] (2) · [[Anger]] · [[Breath]] · [[Clinging]] · [[Dalai Lama]] · [[Depression]] · [[Energy]] · [[Hindrances]] · [[Mahatma Gandhi]] · [[Mother Teresa]] · [[Nondualism]] · [[Samadhi]] · [[Sangha]] · [[Thanissaro Bhikkhu]]_</span>
 
 ## Paragraphs
-
-```ad-info
-Each paragraph in the transcript has a descriptive one-liner. You'll find the plain list of those one-liners when following the "plain list" below.
-```
-
 [[Equanimity (talk) -|plain list]]
-
-```ad-info
-On the the summary pages like this one, paragraph descriptions are often grouped by headers. Some of those groupings come from the Transcription Project (i.e. are shown in the PDF), sometimes we added further headers to make the structure of the talk more evident.
-
-You find the headers and the paragraph descriptions in the box on the right, for easy navigation to a lower part of this page.
-
-```
 
 ### Introducing equanimity
 ---
 ##### Equanimity is neither a typical nor a particularly sexy sounding word
 <span class="counts">**[[1228 Equanimity (talk)#^1-2|1-2]]**: _[[Equanimity]] (2) · [[Buddha]] · [[Wonder]]_</span>
 
-```ad-info
-Below the description of the paragraph there is a line which follows this format:
-
-[page in PDF]-[paragraph on page]: [counts]
-
-You can have a "sneak preview" of the transcript paragraph by hoovering abot the first link. Clicking on the paragraph takes you to the transcript itself.
-
-The [counts] are links to index entry pages. IMPORTANT: different words and word combination can mean a single index entry. Example:
-
-Metta
-mettā
-loving-kindness
-kindness
-goodwill
-
-All the above occurrences will link to the page "Metta". If there was a paragraph with exactly each of the above words occurring once in the paragraph text, the shown count in brackets would be "(5)". NOTE that in this case in the paragraph text only the first occurrence of any of the words associated with the the "Metta"-page links to that page - - otherwise the paragraph text would be drowned in blue links and not easily readable anymore.
-
-You can see a sneak preview of the linked index enty page by hoovering with the mouse over the respective name of the index entry.
-
-```
-
-```ad-info
-In the paragraph you can also find additional information for the particular paragraph in the transcript:
-- link to the particular audio (with timestamp)
-- quotes from the paragraph
-- boxes for infos, warnings, important information
-
-There are also lines starting with "TODO". They are reminders for the "gardeners"; you can safely ignore them.
-```
-
 ---
 ##### Steadiness (Penguin story)
-<span class="counts">**[[1228 Equanimity (talk)#^1-3|1-3]]**: _[[Buddha]] · [[Steadiness]] (2) · [[Equanimity]] · [[Experience]]_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^1-3|1-3]]**: _[[Buddha]] · [[Steadiness]] (2) · [[Mind]] · [[Equanimity]] · [[Experience]]_</span>
 
 ---
 ##### Equanimity in relation to the eight worldly conditions
-<span class="counts">**[[1228 Equanimity (talk)#^2-1|2-1]]**: _[[Buddha]] (2) · [[Equanimity]] (2) · [[Eight worldly conditions]] · [[Pain]] (3) · [[Experience]] · [[Jesus]] · [[Mahatma Gandhi]] · [[Mother Teresa]] · [[Pleasantness]] (2)_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^2-1|2-1]]**: _[[Buddha]] (2) · [[Equanimity]] (2) · [[Eight worldly conditions]] · [[Pain]] (3) · [[Experience]] · [[Jesus]] · [[Mahatma Gandhi]] · [[Mother Teresa]] · [[Mind]] · [[Pleasantness]] (2)_</span>
 
 ![[20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=03:32]]
 
@@ -110,15 +46,15 @@ So this is quite interesting. Sometimes also the reason we are not so attracted 
 
 ---
 ##### Spaciousness and equanimity go together
-<span class="counts">**[[1228 Equanimity (talk)#^2-3|2-3]]**: _[[Steadiness]] (2) · [[Spaciousness]] (5) · [[Awareness]] (2) · [[Equanimity]] (2)_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^2-3|2-3]]**: _[[Steadiness]] (2) · [[Spaciousness]] (5) · [[Awareness]] (2) · [[Equanimity]] (2) · [[Mind]] (3)_</span>
 
 ---
 ##### It's not just about letting go, it's also actively nurturing qualities like equanimity
-<span class="counts">**[[1228 Equanimity (talk)#^2-4|2-4]]**: _[[Depression]] · [[Anger]] · [[Buddha]] · [[Cultivation]] (3) · [[Equanimity]] (2) · [[Dharma]] (2)_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^2-4|2-4]]**: _[[Mind]] (5) · [[Depression]] · [[Anger]] · [[Buddha]] · [[Cultivation]] (3) · [[Equanimity]] (2) · [[Dharma]] (2)_</span>
 
 ---
 ##### We sometimes have this fear of striving and ambition, when the measuring mind comes in
-<span class="counts">**[[1228 Equanimity (talk)#^3-1|3-1]]**: _[[Experience]] · [[Dharma]] (2) · [[Pain]] · [[Cultivation]] · [[Fear]] · [[Measuring mind]] (2) · [[Equanimity]] (2)_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^3-1|3-1]]**: _[[Experience]] · [[Dharma]] (2) · [[Pain]] · [[Cultivation]] · [[Fear]] · [[Mind]] (2) · [[Equanimity]] (2)_</span>
 
 ![[20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=10:16]]
 
@@ -132,7 +68,7 @@ Weird mention of "you are probably a dog" (really a Buddha quote?)
 
 ---
 ##### So hold the process very lightly
-<span class="counts">**[[1228 Equanimity (talk)#^3-3|3-3]]**: _[[Cultivation]] (4) · [[Measuring mind]]_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^3-3|3-3]]**: _[[Cultivation]] (4) · [[Mind]]_</span>
 
 ---
 ### How to cultivate equanimity
@@ -162,7 +98,7 @@ Weird mention of "you are probably a dog" (really a Buddha quote?)
 
 ---
 ##### Anicca means impermanence and uncertainty
-<span class="counts">**[[1228 Equanimity (talk)#^5-1|5-1]]**: _[[Buddha]] (2) · [[Impermanence]] (4) · [[Death]] · [[Mindfulness]]_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^5-1|5-1]]**: _[[Buddha]] (2) · [[Impermanence]] (4) · [[Embodiment]] · [[Death]] · [[Mind]] · [[Mindfulness]]_</span>
 
 ---
 ##### This moment is in the context of vast time and the vast unknown of death
@@ -212,7 +148,7 @@ really putting a lot of time, energy, effort into cultivating a heart of loving-
 
 ---
 ##### Happiness is dependent on what qualities arein the mind and heart at the time
-<span class="counts">**[[1228 Equanimity (talk)#^7-3|7-3]]**: _[[Happiness]] (11) · [[Clinging]] · [[Personality structure]] · [[Cultivation]] · [[Insight]] (2) · [[Dukkha]]_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^7-3|7-3]]**: _[[Happiness]] (11) · [[Clinging]] · [[Mind]] (2) · [[Personality structure]] · [[Cultivation]] · [[Insight]] (2) · [[Dukkha]]_</span>
 
 ---
 ##### Qualities like metta and equanimity develop a reservoir of happiness inside
@@ -274,7 +210,7 @@ A spiritual joy, doesn't have so much to do with the self. So one aspect of spir
 
 ---
 ##### Example: Accident with a newly bought Ferrari
-<span class="counts">[[1228 Equanimity (talk)#^10-4|10-4]]</span>
+<span class="counts">**[[1228 Equanimity (talk)#^10-4|10-4]]**: _[[Mind]]_</span>
 
 ```ad-quote
 Who cares, who cares. These things are completely dependent, completely relative on.. to our state of mind. In themselves they don't have any power, they don't have any inherent power: praise-blame, success-failure, gain-loss, all the rest of it; don't have any power inherently to effect us even.
@@ -282,7 +218,7 @@ Who cares, who cares. These things are completely dependent, completely relative
 
 ---
 ##### Pain and pleasure are dependent on my reaction to it - I am making things with my reaction
-<span class="counts">**[[1228 Equanimity (talk)#^11-1|11-1]]**: _[[Pain]] (13) · [[Aversion]] · [[Mindfulness]] · [[Insight]]_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^11-1|11-1]]**: _[[Pain]] (13) · [[Embodiment]] · [[Aversion]] · [[Mindfulness]] · [[Insight]]_</span>
 
 ![[20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=45:31]]
 
@@ -312,7 +248,7 @@ Who cares, who cares. These things are completely dependent, completely relative
 
 ---
 ##### The only way a thing really is is immeasurable
-<span class="counts">**[[1228 Equanimity (talk)#^12-5|12-5]]**: _[[Immeasurability]] (4) · [[Craving]] · [[Cultivation]] · [[Equanimity]] · [[Freedom]]_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^12-5|12-5]]**: _[[Immeasurability]] (4) · [[Craving]] · [[Embodiment]] · [[Cultivation]] · [[Equanimity]] · [[Freedom]]_</span>
 
 ---
 ##### This is very possible for all of us

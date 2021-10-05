@@ -1,7 +1,7 @@
 ---
 ParagraphsListPage: true
-obsidianUIMode: preview
 Series: 2007 Lovingkindness and Compassion As a Path to Awakening
+obsidianUIMode: preview
 ---
 #TranscriptSummary
 
@@ -14,7 +14,7 @@ Transcript PDF: [[2007_0204 Love and Emptiness.pdf]]
 ![[20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3]]
 
 ## Index
-<span class="counts">_[[Metta]] (85) · [[Compassion]] (63) · [[Love]] (63) · [[Emptiness]] (47) · [[Craving]] (38) · [[Perception]] (31) · [[Experience]] (22) · [[Dukkha]] (17) · [[Insight]] (16) · [[Acceptance]] (14) · [[Consciousness]] (14) · [[Awareness]] (12) · [[Fear]] (12) · [[Mindfulness]] (12) · [[Awakening]] (11) · [[Buddha]] (11) · [[Cultivation]] (10) · [[Meditation]] (10) · [[Oneness]] (10) · [[Clinging]] (9) · [[Attention]] (8) · [[Freedom]] (8) · [[Kusala]] (8) · [[Dharma]] (7) · [[Equanimity]] (7) · [[Reconditioning]] (7) · [[Retreat]] (7) · [[Unfabricated]] (7) · [[Anger]] (5) · [[Dependent Origination]] (5) · [[Embodiment]] (4) · [[Emotions]] (4) · [[Mahayana]] (4) · [[Mind state]] (4) · [[Samadhi]] (4) · [[Ways of Looking]] (4) · [[Aksayamati Sutra]] (3) · [[Anatta]] (3) · [[Aversion]] (3) · [[Nondualism]] (3) · [[Phenomenon]] (3) · [[Present Moment]] (3) · [[Blessing]] (2) · [[Chanda]] (2) · [[Fabrication]] (2) · [[Impermanence]] (2) · [[Nihilism]] (2) · [[Sutra]] (2) · [[The Self]] (2) · [[Activism]] · [[Breath]] · [[Dimensionality]] · [[Feelings]] · [[Gaia House]] · [[Habit]] · [[Happiness]] · [[Healing]] · [[Heaven]] · [[Image]] · [[Letting go]] · [[Lotus Sutra]] · [[Middle Way]] · [[Pain]] · [[Ram Dass]] · [[Relationships]] · [[Romantic love]] · [[Rumi]] · [[Stories]] · [[Sutta]] · [[Thanissaro Bhikkhu]] · [[Tibetan Buddhism]] · [[Vajrayana]] · [[Wonder]]_</span>
+<span class="counts">_[[Metta]] (85) · [[Compassion]] (63) · [[Love]] (63) · [[Emptiness]] (47) · [[Craving]] (38) · [[Perception]] (31) · [[Mind]] (28) · [[Experience]] (22) · [[Dukkha]] (17) · [[Insight]] (16) · [[Acceptance]] (14) · [[Consciousness]] (14) · [[Awareness]] (12) · [[Fear]] (12) · [[Mindfulness]] (12) · [[Awakening]] (11) · [[Buddha]] (11) · [[Cultivation]] (10) · [[Meditation]] (10) · [[Oneness]] (10) · [[Clinging]] (9) · [[Attention]] (8) · [[Freedom]] (8) · [[Kusala]] (8) · [[Dharma]] (7) · [[Equanimity]] (7) · [[Reconditioning]] (7) · [[Retreat]] (7) · [[Unfabricated]] (7) · [[Embodiment]] (6) · [[Anger]] (5) · [[Dependent Origination]] (5) · [[Emotions]] (4) · [[Mahayana]] (4) · [[Mind state]] (4) · [[Samadhi]] (4) · [[Ways of Looking]] (4) · [[Aksayamati Sutra]] (3) · [[Anatta]] (3) · [[Aversion]] (3) · [[Nondualism]] (3) · [[Phenomenon]] (3) · [[Present Moment]] (3) · [[Blessing]] (2) · [[Chanda]] (2) · [[Fabrication]] (2) · [[Impermanence]] (2) · [[Nihilism]] (2) · [[Sutra]] (2) · [[The Self]] (2) · [[Activism]] · [[Breath]] · [[Dimensionality]] · [[Feelings]] · [[Gaia House]] · [[Habit]] · [[Happiness]] · [[Healing]] · [[Heaven]] · [[Image]] · [[Letting go]] · [[Lotus Sutra]] · [[Middle Way]] · [[Pain]] · [[Ram Dass]] · [[Relationships]] · [[Romantic love]] · [[Rumi]] · [[Stories]] · [[Sutta]] · [[Thanissaro Bhikkhu]] · [[Tibetan Buddhism]] · [[Vajrayana]] · [[Wonder]]_</span>
 <br/>
 
 ## Paragraphs
@@ -26,7 +26,7 @@ Transcript PDF: [[2007_0204 Love and Emptiness.pdf]]
 
 ---
 ##### In transforming the heart, we're transforming our intentions in life
-<span class="counts">**[[0204 Love and Emptiness#^1-2|1-2]]**: _[[Ways of Looking]] (2) · [[Reconditioning]] (2) · [[Love]] · [[Compassion]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^1-2|1-2]]**: _[[Ways of Looking]] (2) · [[Reconditioning]] (2) · [[Mind]] (2) · [[Love]] · [[Compassion]]_</span>
 
 ---
 ##### Through metta and compassion we are creating an ideal inner climate for growth
@@ -34,21 +34,21 @@ Transcript PDF: [[2007_0204 Love and Emptiness.pdf]]
 
 ---
 ##### In practice, wholesome nourishment and investigation support each other
-<span class="counts">**[[0204 Love and Emptiness#^1-4|1-4]]**: _[[Buddha]] · [[Meditation]] · [[Kusala]] (3) · [[Cultivation]] (4) · [[Consciousness]] · [[Insight]] (2)_</span>
+<span class="counts">**[[0204 Love and Emptiness#^1-4|1-4]]**: _[[Buddha]] · [[Meditation]] · [[Kusala]] (3) · [[Cultivation]] (4) · [[Mind]] · [[Consciousness]] · [[Insight]] (2)_</span>
 
 ---
 ##### We are cultivating qualities of mind and heart, but there's no self in it
-<span class="counts">**[[0204 Love and Emptiness#^1-5|1-5]]**: _[[Metta]] (2) · [[Compassion]] (2) · [[Meditation]] · [[Cultivation]] (2) · [[Kusala]] (2) · [[Buddha]] · [[Activism]] · [[Anatta]] · [[Dukkha]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^1-5|1-5]]**: _[[Metta]] (2) · [[Compassion]] (2) · [[Meditation]] · [[Cultivation]] (2) · [[Kusala]] (2) · [[Buddha]] · [[Mind]] · [[Activism]] · [[Anatta]] · [[Dukkha]]_</span>
 
 ---
 ##### The mind is conditions - there's nothing wrong with reconditioning it
-<span class="counts">**[[0204 Love and Emptiness#^2-1|2-1]]**: _[[Reconditioning]] (5) · [[Kusala]] · [[Cultivation]] · [[Insight]] · [[Retreat]] · [[Compassion]] · [[Unfabricated]] (2) · [[Awakening]] · [[Habit]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^2-1|2-1]]**: _[[Reconditioning]] (5) · [[Kusala]] · [[Cultivation]] · [[Insight]] · [[Retreat]] · [[Compassion]] · [[Mind]] (5) · [[Unfabricated]] (2) · [[Awakening]] · [[Habit]]_</span>
 
 ![[20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=05:42]]
 
 ---
 ##### There is cultivation, but also that we're actually getting out of the way
-<span class="counts">**[[0204 Love and Emptiness#^2-2|2-2]]**: _[[Buddha]] (2) · [[Unfabricated]] (3) · [[Letting go]] · [[Metta]] (3) · [[Compassion]] (3) · [[Samadhi]] · [[Love]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^2-2|2-2]]**: _[[Buddha]] (2) · [[Unfabricated]] (3) · [[Letting go]] · [[Metta]] (3) · [[Compassion]] (3) · [[Samadhi]] · [[Mind]] · [[Love]]_</span>
 
 ```ad-quote
 But sometimes, a different sense of it is visible, which is that we're actually getting out of the way. We're doing less and less. And in that doing less and less, we are building less and less, building less and less barriers. And there's the love there...
@@ -91,7 +91,7 @@ Dharma is one of these words that can have a lot of different meanings. I think 
 
 ---
 ##### Recap guided meditation - Metta to phenomena
-<span class="counts">**[[0204 Love and Emptiness#^3-6|3-6]]**: _[[Metta]] (2) · [[Compassion]] (4) · [[Experience]] (3) · [[Meditation]] · [[Love]] (3)_</span>
+<span class="counts">**[[0204 Love and Emptiness#^3-6|3-6]]**: _[[Metta]] (2) · [[Compassion]] (4) · [[Experience]] (3) · [[Meditation]] · [[Embodiment]] · [[Mind]] · [[Love]] (3)_</span>
 
 [[Guided meditation - Metta to phenomena]]
 
@@ -128,7 +128,7 @@ There's nowhere outside of acceptance. There's nowhere outside of love. So if we
 
 ---
 ##### Experience begin to fade
-<span class="counts">**[[0204 Love and Emptiness#^4-4|4-4]]**: _[[Feelings]] · [[Love]] · [[Emotions]] · [[Embodiment]] · [[Perception]] · [[Mindfulness]] · [[Experience]] · [[Emptiness]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^4-4|4-4]]**: _[[Feelings]] · [[Love]] · [[Emotions]] · [[Embodiment]] (2) · [[Perception]] · [[Mindfulness]] · [[Experience]] · [[Emptiness]]_</span>
 
 ![[20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=19:04]]
 
@@ -148,7 +148,7 @@ There's nowhere outside of acceptance. There's nowhere outside of love. So if we
 
 ---
 ##### But the mind is coloroud with anger, metta, romantic love
-<span class="counts">**[[0204 Love and Emptiness#^5-3|5-3]]**: _[[Anger]] (3) · [[Perception]] (3) · [[Metta]] (7) · [[Romantic love]] · [[Mind state]] · [[Mindfulness]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^5-3|5-3]]**: _[[Anger]] (3) · [[Perception]] (3) · [[Metta]] (7) · [[Mind]] (3) · [[Romantic love]] · [[Mind state]] · [[Mindfulness]]_</span>
 
 ```ad-quote
 Mind always has some mind state. So with [mindfulness](app://obsidian.md/mindfulness), there's always _some_ degree of something on the range from complete unconditioned bliss of loving-kindness to rage. The mind will be somewhere along that spectrum. It _has_ to be.
@@ -156,7 +156,7 @@ Mind always has some mind state. So with [mindfulness](app://obsidian.md/mindful
 
 ---
 ##### There's a spectrum, and the mind is always somewhere on that spectrum, so what is "real"?
-<span class="counts">**[[0204 Love and Emptiness#^5-4|5-4]]**: _[[Mindfulness]] · [[Metta]] (2) · [[Love]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^5-4|5-4]]**: _[[Mindfulness]] · [[Metta]] (2) · [[Mind]] · [[Love]]_</span>
 
 ---
 ##### Things make less impression on consciousness when there's a lot of equanimity
@@ -178,11 +178,11 @@ Mind always has some mind state. So with [mindfulness](app://obsidian.md/mindful
 
 ---
 ##### Even oneness is not how things really are, it's also dependend on conditions
-<span class="counts">**[[0204 Love and Emptiness#^7-1|7-1]]**: _[[Emptiness]] (2) · [[Oneness]] (4) · [[Insight]] · [[Perception]] · [[Love]] (2)_</span>
+<span class="counts">**[[0204 Love and Emptiness#^7-1|7-1]]**: _[[Emptiness]] (2) · [[Oneness]] (4) · [[Mind]] · [[Insight]] · [[Perception]] · [[Love]] (2)_</span>
 
 ---
 ##### But don't be in a hurry, as the power of those kinds of perceptions transforms heart and mind
-<span class="counts">**[[0204 Love and Emptiness#^7-2|7-2]]**: _[[Emptiness]] · [[Oneness]] (2) · [[Love]] (2) · [[Perception]] (4) · [[Experience]] · [[Fabrication]] · [[Consciousness]] · [[Ways of Looking]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^7-2|7-2]]**: _[[Emptiness]] · [[Oneness]] (2) · [[Love]] (2) · [[Perception]] (4) · [[Experience]] · [[Mind]] · [[Fabrication]] · [[Consciousness]] · [[Ways of Looking]]_</span>
 
 ```ad-quote
 Human consciousness is programmed incredibly strongly to go to that default mode. What we begin to see in practice is that default way of seeing is not the reality. If we throw out what I would call the deeper senses of oneness, of an infinite love, whatever you want to call it, if we throw that out too quickly, we just go back to the default, and in a way, we're not challenging that default mode enough.
@@ -204,11 +204,11 @@ Human consciousness is programmed incredibly strongly to go to that default mode
 
 ---
 ##### Example: "What I want" colouring the meditation practice
-<span class="counts">**[[0204 Love and Emptiness#^8-2|8-2]]**: _[[Gaia House]] · [[Samadhi]] · [[Retreat]] · [[Meditation]] · [[Metta]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^8-2|8-2]]**: _[[Gaia House]] · [[Samadhi]] · [[Mind]] · [[Retreat]] · [[Meditation]] · [[Metta]]_</span>
 
 ---
 ##### Changing the perception can make the irritability go away from the situation
-<span class="counts">**[[0204 Love and Emptiness#^8-3|8-3]]**: _[[Samadhi]] · [[Love]] (2) · [[Perception]] · [[Metta]] · [[Compassion]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^8-3|8-3]]**: _[[Samadhi]] · [[Love]] (2) · [[Perception]] · [[Mind]] (2) · [[Metta]] · [[Compassion]]_</span>
 
 ```ad-quote
 So what we notice is, if we change the view, the perception changes. The irritability goes from the situation. How we see the situation and how we see a person depends on what the mind is bringing to it - mettā, compassion, irritability, what I want, whatever it is. And the mind's always bringing something.
@@ -216,13 +216,13 @@ So what we notice is, if we change the view, the perception changes. The irritab
 
 ---
 ##### Fear is not existing independently, but also dependend on the reaction to it
-<span class="counts">**[[0204 Love and Emptiness#^8-4|8-4]]**: _[[Fear]] (7) · [[Anger]] · [[Perception]] (2)_</span>
+<span class="counts">**[[0204 Love and Emptiness#^8-4|8-4]]**: _[[Fear]] (7) · [[Mind]] · [[Anger]] · [[Perception]] (2)_</span>
 
 ![[20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=40:29]]
 
 ---
 ##### If I believe in the present as something real, independent of the mind, there will be fear of the future
-<span class="counts">**[[0204 Love and Emptiness#^8-5|8-5]]**: _[[Fear]] (4) · [[Present Moment]] · [[Buddha]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^8-5|8-5]]**: _[[Fear]] (4) · [[Present Moment]] · [[Mind]] (2) · [[Buddha]]_</span>
 
 ---
 ##### Past, present and future are empty
@@ -264,7 +264,7 @@ So, you know, the analogy of, there's the mountain, and there's the peak of the 
 
 ---
 ##### The appearance of something depends on the grasping
-<span class="counts">**[[0204 Love and Emptiness#^10-2|10-2]]**: _[[Metta]] · [[Craving]] (3) · [[Emptiness]] · [[Perception]] · [[Clinging]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^10-2|10-2]]**: _[[Metta]] · [[Craving]] (3) · [[Emptiness]] · [[Perception]] · [[Clinging]] · [[Mind]]_</span>
 
 ![[20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3#t=49:00]]
 
@@ -326,7 +326,7 @@ So experiment. What I think I'm interested in is beginning to see this relations
 
 ---
 ##### Yogi: Considering conditions making thoughts or trees happening
-<span class="counts">**[[0204 Love and Emptiness#^12-1|12-1]]**: _[[Emptiness]] · [[Phenomenon]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^12-1|12-1]]**: _[[Emptiness]] · [[Phenomenon]] · [[Mind]]_</span>
 
 ---
 ##### Yogi: What are we giving metta to when it's something that's transient and impermanent?
@@ -370,7 +370,7 @@ when I say, "If I'm loving myself, what am I?", one level of looking at it in te
 
 ---
 #####  Rob: For now, do not mix pure metta and pure compassion practice
-<span class="counts">**[[0204 Love and Emptiness#^13-10|13-10]]**: _[[Metta]] (5) · [[Compassion]] (5) · [[Experience]] · [[Acceptance]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^13-10|13-10]]**: _[[Metta]] (5) · [[Compassion]] (5) · [[Mind]] · [[Experience]] · [[Acceptance]]_</span>
 
 **"new practice"**: [[Love and Emptiness#Yogi 2 practices sending metta to persons and to dharmas ("new")]] below
    
@@ -481,7 +481,7 @@ In [[Phenomenology]] (the branch of Continental Philosophy), consciousness is al
 
 ---
 ##### Yogi: 2 practices: sending metta to persons and to dharmas ("new")
-<span class="counts">**[[0204 Love and Emptiness#^17-2|17-2]]**: _[[Metta]] (3) · [[Compassion]] (2) · [[Awareness]] · [[Perception]] · [[Pain]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^17-2|17-2]]**: _[[Metta]] (3) · [[Compassion]] (2) · [[Awareness]] · [[Perception]] · [[Mind]] · [[Pain]]_</span>
 
 ---
 ##### Rob: You can switch in a sitting, but be clear which one you're doing
