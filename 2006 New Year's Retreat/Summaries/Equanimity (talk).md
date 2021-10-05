@@ -41,10 +41,10 @@ Most of the talk summaries starts with an index. This is the collection of index
 ## Paragraphs
 
 ```ad-info
-Each paragraph in the transcript has a descriptive one-liner. You'll find the bare list of those one-liners when following the "bare list" below.
+Each paragraph in the transcript has a descriptive one-liner. You'll find the plain list of those one-liners when following the "plain list" below.
 ```
 
-[[Equanimity (talk) -|bare list]]
+[[Equanimity (talk) -|plain list]]
 
 ```ad-info
 On the the summary pages like this one, paragraph descriptions are often grouped by headers. Some of those groupings come from the Transcription Project (i.e. are shown in the PDF), sometimes we added further headers to make the structure of the talk more evident.

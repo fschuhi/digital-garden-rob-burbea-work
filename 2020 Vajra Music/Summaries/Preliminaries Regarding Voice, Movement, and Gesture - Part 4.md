@@ -44,7 +44,7 @@ E5 --- E5-4[Rosa Parks]
 - [[Voice, Movement, and the Possibilities of Soul]]
 
 ## Paragraphs
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4 -|bare list]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4 -|plain list]]
 
 ### 🟡 Excercises 4.2 revisited
 _keywords: _

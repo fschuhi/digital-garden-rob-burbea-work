@@ -43,7 +43,7 @@ E2 --- E4-2[no meaning]
 - [[The Image of Ethics]]
 
 ## Paragraphs
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3 -|bare list]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3 -|plain list]]
 
 ### "Centring"
 ##### Fourth excercise with two parts, but first intro into terminology

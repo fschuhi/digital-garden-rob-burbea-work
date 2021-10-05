@@ -99,7 +99,7 @@ But something else happens. It's actually quite significant, as we go now, talki
 ###### 12-3
 So let's backtrack a little bit. When we talk about [[mindfulness]], we often talk about: is it possible to "be with" something, as I said, I think the first morning, just in a very bare way, just really meet the [[experience]] as it is, and not overlay it with a whole bunch... ^12-3
 ###### 12-4
-(audio cut off for about 20 seconds] ^12-4
+(audio cut off for about 20 seconds) ^12-4
 ###### 12-5
 Just doing that, just being present, just being [[Mindfulness|mindful]], [[letting go]] of papañca, letting go of this [[Papanca|proliferation]], this tendency to sort of get over-entangled and blow things up. The more we can just meet things with a very, very simple, basic, beautiful mindfulness, just there, what we find - and this is a very common [[experience]], as many of you will know, and others will probably discover as the days go by - what we find is, our experience begins to brighten. So literally, people say, "The grass seems more green. The sky seems more blue. I'm just hearing more clearly. I'm seeing more clearly." There's a kind of radiance that begins to come into one's experience, the more that we're able to meet it in a very direct, very simple, bare way - mindfulness and [[Attention|bare attention]]. ^12-5
 ###### 13-1

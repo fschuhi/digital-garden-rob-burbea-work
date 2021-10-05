@@ -15,7 +15,7 @@
 ##### [[2021-09-29_Wed]]
 - supports different ways to work with the material
 	- transcript only (but can create lists of links to paragraphs, or point others directly to paragraphs and their context)
-	- use the bare list of paragraphs to gain a quick overview about the themes
+	- use the plain list of paragraphs to gain a quick overview about the themes
 	-  summary shows how the talk is embeddedin the overall semantic network
 	- use practice guides (which point to transcripts and summaries)
 	- explore concepts like [[Energy Body]], following the links into the transcripts where it is used
