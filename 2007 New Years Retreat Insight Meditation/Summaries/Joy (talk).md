@@ -14,25 +14,27 @@ Transcript PDF: [[2007_1231 Joy (talk).pdf]]
 ![[20071231-Rob_Burbea-GAIA-joy-11971.mp3]]
 
 ```ad-danger
-Work in Progress
+Under Construction 🛠️
 ```
 
 ```sh
-runHAFScript reindexTranscripts --retreatName "2007 New Years Retreat Insight Meditation"
+transcripts reindexTranscripts --retreatName "2007 New Years Retreat Insight Meditation"
 ```
 ```sh
-runHAFScript updateSummary --talkName "Joy (talk)"
+summaries updateSummary --talkName "Joy (talk)"
 ```
 ```sh
-runHAFScript unspanSummary --talkName "Joy (talk)"
+summaries unspanSummary --talkName "Joy (talk)"
 ```
 ```sh
-runHAFScript addMissingSummaryCards --retreatName "2007 New Years Retreat Insight Meditation"
+summaries addMissingSummaryCards --retreatName "2007 New Years Retreat Insight Meditation"
 ```
-
+```sh
+summaries updateParagraphsLists
+```
 
 ## Index
-<span class="counts">_[[some keyword]] (99)_</span><br/>
+<span class="counts">_[[Happiness]] (198) · [[Buddha]] (19) · [[Mind]] (19) · [[Dharma]] (16) · [[Attention]] (15) · [[Letting go]] (13) · [[Metta]] (12) · [[Mudita]] (11) · [[Cultivation]] (9) · [[Wonder]] (9) · [[Aversion]] (8) · [[Beauty]] (8) · [[Equanimity]] (8) · [[Impermanence]] (8) · [[Embodiment]] (7) · [[Habit]] (7) · [[Hindrances]] (7) · [[Mindfulness]] (7) · [[Compassion]] (6) · [[Brahmaviharas]] (5) · [[Energy]] (5) · [[Perception]] (5) · [[Appreciation]] (4) · [[Clinging]] (4) · [[Experience]] (4) · [[Freedom]] (4) · [[Generosity]] (4) · [[Love]] (4) · [[The Self]] (4) · [[Awareness]] (3) · [[Dana]] (3) · [[Death]] (3) · [[Retreat]] (3) · [[Thanissaro Bhikkhu]] (3) · [[Centre]] (2) · [[Desire]] (2) · [[Dukkha]] (2) · [[Emptiness]] (2) · [[Gaia House]] (2) · [[Gratitude]] (2) · [[Meditation]] (2) · [[Music]] (2) · [[Pleasantness]] (2) · [[Reconditioning]] (2) · [[Samadhi]] (2) · [[Three characteristics]] (2) · [[Acceptance]] · [[Anatta]] · [[Devotion]] · [[Dominant Culture]] · [[Ethics]] · [[Fear]] · [[Image]] · [[Insight]] · [[Ludwig van Beethoven]] · [[Mahayana]] · [[Mind state]] · [[Mother Teresa]] · [[Piti]] · [[Poetry]] · [[Romantic love]] · [[Rumi]] · [[Sangha]] · [[Sila]] · [[Spaciousness]] · [[Spiritual circles]] · [[Steadiness]] · [[Vedana]] · [[William Blake]]_</span>
 
 ### Paragraphs
 
