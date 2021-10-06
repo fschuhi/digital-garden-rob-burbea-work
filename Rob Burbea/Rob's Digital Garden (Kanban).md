@@ -16,6 +16,9 @@ kanban-plugin: basic
 
 ## Pending
 
+- [ ] reorg help
+- [ ] explain spine, what happens in certain circumstances
+- [ ] "reading guide", start w/ audio and pdf (Shannon)
 
 
 ## Working on it
