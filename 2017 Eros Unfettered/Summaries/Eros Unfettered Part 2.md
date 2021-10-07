@@ -12,7 +12,7 @@ Transcript: [[0124 Eros Unfettered Part 2]]
 Transcript PDF: [[2017_0124 Eros Unfettered Part 2.pdf]]
 
 ## Index
-<span class="counts">_[[Eros]] (98) · [[Image]] (81) · [[Imaginal]] (78) · [[The Self]] (57) · [[Love]] (56) · [[Cosmology]] (53) · [[Divinity]] (40) · [[Desire]] (35) · [[Perception]] (33) · [[Soulmaking Dynamic]] (28) · [[Dimensionality]] (27) · [[Embodiment]] (24) · [[Logos]] (13) · [[Soul]] (13) · [[Beauty]] (12) · [[Energy]] (10) · [[Soulmaking]] (9) · [[Energy Body]] (8) · [[Mind]] (8) · [[Psyche]] (8) · [[Ways of Looking]] (8) · [[Awareness]] (5) · [[Experience]] (5) · [[Meditation]] (5) · [[Metta]] (4) · [[Personhood]] (4) · [[Samadhi]] (4) · [[Buddha-nature]] (3) · [[Craving]] (3) · [[Dogma]] (3) · [[Insight]] (3) · [[Manifestations]] (3) · [[Vedana]] (3) · [[Awakening]] (2) · [[Birth]] (2) · [[Centre]] (2) · [[Clinging]] (2) · [[Hell]] (2) · [[Infinity]] (2) · [[Mindfulness]] (2) · [[Oneness]] (2) · [[Retreat]] (2) · [[Anatta]] · [[Appreciation]] · [[Archtetype]] · [[Attention]] · [[Cultivation]] · [[Delineations]] · [[Dharma]] · [[Emotions]] · [[Happiness]] · [[Henry Corbin]] · [[Jhanas]] · [[Middle Way]] · [[Modernism]] · [[Papanca]] · [[Passion]] · [[Phenomenology]] · [[Pleasantness]] · [[Skandhas]] · [[Tantra]] · [[William Blake]]_</span>
+<span class="counts">_[[Eros]] (98) · [[Image]] (81) · [[Imaginal]] (78) · [[The Self]] (57) · [[Love]] (56) · [[Cosmology]] (53) · [[Divinity]] (40) · [[Desire]] (35) · [[Perception]] (33) · [[Soulmaking Dynamic]] (28) · [[Dimensionality]] (27) · [[Embodiment]] (24) · [[Logos]] (13) · [[Soul]] (13) · [[Beauty]] (12) · [[Energy]] (10) · [[Soulmaking]] (9) · [[Energy Body]] (8) · [[Mind]] (8) · [[Psyche]] (8) · [[Ways of Looking]] (8) · [[Awareness]] (5) · [[Experience]] (5) · [[Meditation]] (5) · [[Metta]] (4) · [[Personhood]] (4) · [[Samadhi]] (4) · [[Buddha-nature]] (3) · [[Craving]] (3) · [[Dogma]] (3) · [[Insight]] (3) · [[Manifestations]] (3) · [[Vedana]] (3) · [[Awakening]] (2) · [[Birth]] (2) · [[Centre]] (2) · [[Clinging]] (2) · [[Hell]] (2) · [[Infinity]] (2) · [[Mindfulness]] (2) · [[Oneness]] (2) · [[Retreat]] (2) · [[Anatta]] · [[Appreciation]] · [[Archetype]] · [[Attention]] · [[Cultivation]] · [[Delineations]] · [[Dharma]] · [[Emotions]] · [[Happiness]] · [[Henry Corbin]] · [[Jhanas]] · [[Middle Way]] · [[Modernism]] · [[Papanca]] · [[Passion]] · [[Phenomenology]] · [[Pleasantness]] · [[Skandhas]] · [[Tantra]] · [[William Blake]]_</span>
 <br/>
 
 ## Paragraphs
@@ -60,7 +60,7 @@ Transcript PDF: [[2017_0124 Eros Unfettered Part 2.pdf]]
 <span class="counts">**[[0124 Eros Unfettered Part 2#^3-4|3-4]]**: _[[Eros]] · [[Imaginal]] · [[Image]] (2) · [[Desire]] (10) · [[The Self]] (6) · [[Dharma]] · [[Anatta]] · [[Mindfulness]] · [[Energy Body]]_</span>
 
 ##### ...
-<span class="counts">**[[0124 Eros Unfettered Part 2#^4-1|4-1]]**: _[[Personhood]] · [[Desire]] (5) · [[Imaginal]] (2) · [[Divinity]] · [[William Blake]] · [[Archtetype]] · [[The Self]] · [[Ways of Looking]] · [[Perception]] · [[Craving]] · [[Clinging]]_</span>
+<span class="counts">**[[0124 Eros Unfettered Part 2#^4-1|4-1]]**: _[[Personhood]] · [[Desire]] (5) · [[Imaginal]] (2) · [[Divinity]] · [[William Blake]] · [[Archetype]] · [[The Self]] · [[Ways of Looking]] · [[Perception]] · [[Craving]] · [[Clinging]]_</span>
 
 ##### ...
 <span class="counts">**[[0124 Eros Unfettered Part 2#^4-2|4-2]]**: _[[Ways of Looking]]_</span>

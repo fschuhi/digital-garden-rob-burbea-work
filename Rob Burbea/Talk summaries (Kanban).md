@@ -11,8 +11,7 @@ kanban-plugin: basic
 
 ## Working on it
 
-- [ ] additional headers for [[What is Insight]]
-- [ ] [[Joy (talk)]] (18)
+- [ ] [[Joy (talk)]] (12)
 
 
 ## Done

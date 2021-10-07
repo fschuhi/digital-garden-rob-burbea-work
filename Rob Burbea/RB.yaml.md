@@ -563,7 +563,7 @@ Philosophy:
 
 Psychology:
   - Anxiety
-  - Archtetype:
+  - Archetype:
       - archetypal
       - primordial archetype
   - Child Development
