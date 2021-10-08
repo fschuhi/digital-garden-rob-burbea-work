@@ -6,7 +6,7 @@
 - "block id" => "paragraph id"
 - kind of same problem w/ "markdown line", "snippet" - - maybe **"line"**?
 - transcript
-- (transcript) summary
+- talk
 - index entry (or "keyword"?)
 - index
 
@@ -20,10 +20,10 @@
 - supports different ways to work with the material
 	- transcript only (but can create lists of links to paragraphs, or point others directly to paragraphs and their context)
 	- use the plain list of paragraphs to gain a quick overview about the themes
-	-  summary shows how the talk is embeddedin the overall semantic network
+	-  talk page shows how the talk is embeddedin the overall semantic network
 	- use practice guides (which point to transcripts and summaries)
 	- explore concepts like [[Energy Body]], following the links into the transcripts where it is used
-- Transcript is the main artifact, can be used standalone, no visual cluttering by showing links to other places (except the keywords and fullstops for summary backlinks, see [[Add manual backlinks to transcript paragraphs]])
+- Transcript is the main artifact, can be used standalone, no visual cluttering by showing links to other places (except the keywords and fullstops for talk backlinks, see [[Add manual backlinks to transcript paragraphs]])
 
 ##### [[2021-09-26_Sun]]
 - Warum überhaupt ein Digital Garden?
@@ -56,17 +56,17 @@
 - And when I did, I heard Rob calling me to action, right in the first talk.
 
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Condensing|"Condensing"]]
-- Let's jump to a summary of that first talk
+- Let's jump to the talk
 - ==Is it ok if I play a clip from the talk?==
 - The question for me was, how to do that, in a skillful way? How to _think_ about listing more actively?
 - The Digital Garden I'm showing you right now and what I'm explaining a bit more in depth is a possible answer to this question.
 
 Let's look at what we are seeing here
 - The "4-3" tells us that it's on page 4 of the transcript PDF, the 3rd paragraph
-- I've added a very short summary for each paragraph. You can see and browse the overall outline of the talk on the right.
+- I've added a very short description for each paragraph. You can see and browse the overall outline of the talk on the right.
 - By hoving over the 4-3 we see the actual text, coming from the transcript compiled by Shannon.
-- A bit lower in the summary for 5-1 you see a bit longer paragraph. In the preview, some words are underlined. Those are index entries, also conveniently summaries in the list next to the 5-1.
-- Inertia actually appears 5 times in the paragraph, so just by looking at the summary we understand that this is probably an important in that paragraph.
+- A bit lower on the talk page, at 5-1 you see a bit longer paragraph. In the preview, some words are underlined. Those are index entries, also conveniently summaries in the list next to the 5-1.
+- Inertia actually appears 5 times in the paragraph, so just by looking at the talk page we understand that this is probably an important in that paragraph.
 - The "WARNING", like the Quote box and the IMPORTANT box are my comments. The idea is to really engage with the content of the talk, maybe also adding additional thoughts and references to other talks.
 
 Let me click on the 5-1 to go to the transcript
@@ -90,7 +90,7 @@ Let's now revisit Padraig's [[Vajra Music Excercises (Pádraig)]]:
 - Looking back to the Google Doc, I've just copied his texts.
 - In addition to that, though, I've added links to the relevant transcript positions.
 - You can also jump directly to the positions in the audio files, letting Rob personally explain the excercises.
-- The ease of moving between the summary, transcript and Rob's spoken words adds another dimension to Padraig's guide.
+- The ease of moving between the talk, transcript and Rob's spoken words adds another dimension to Padraig's guide.
 - It's not something different, but it is certainly more useful and also more exciting than just reading a doc.
 - Some of us yogis like to have visuals. That's easy to add, take a look at [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 

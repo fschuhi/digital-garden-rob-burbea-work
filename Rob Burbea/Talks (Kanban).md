@@ -11,12 +11,12 @@ kanban-plugin: basic
 
 ## Working on it
 
-- [ ] [[Joy (talk)]] (12)
 
 
 ## Done
 
 **Complete**
+- [x] [[Joy (talk)]] (ok)
 - [x] [[What is Insight]] (ok)
 - [x] [[Equanimity in Compassion]] (ok)
 - [x] [[Love and Emptiness]] (ok)
