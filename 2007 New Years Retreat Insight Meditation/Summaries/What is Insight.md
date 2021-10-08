@@ -305,7 +305,7 @@ So some people always want to just "be," and just let things arise, and some peo
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=34:57]]
 
 ---
-#### (1) Impermance
+#### (1) Impermanence
 ##### Impermanence is an obvious fact, but are we seeing it in a way that makes a difference?
 <span class="counts">**[[1229 What is Insight#^8-1|8-1]]**: _[[Impermanence]] (3) · [[Insight]] (2) · [[Mindfulness]] (2) · [[Attention]] · [[Beauty]]_</span>
 
