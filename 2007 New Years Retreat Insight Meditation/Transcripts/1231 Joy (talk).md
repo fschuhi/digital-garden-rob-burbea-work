@@ -4,7 +4,7 @@ audio-decorations-time: 27
 ---
 #Transcript
 
-Summary: [[Joy (talk) (new)]]
+[[Joy (talk) (new)]]
 
 ---
 <br/>

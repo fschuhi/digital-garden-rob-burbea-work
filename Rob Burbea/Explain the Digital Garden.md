@@ -9,7 +9,11 @@
 - (transcript) summary
 - index entry (or "keyword"?)
 - index
-- 
+
+## TODO
+- reorg help
+- explain spine, what happens in certain circumstances
+- "reading guide", start w/ audio and pdf (Shannon)
 
 ## Themen, die ich ansprechen sollte
 ##### [[2021-09-29_Wed]]

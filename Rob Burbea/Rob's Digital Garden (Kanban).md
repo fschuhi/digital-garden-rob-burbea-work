@@ -16,14 +16,11 @@ kanban-plugin: basic
 
 ## Pending
 
-- [ ] reorg help
-- [ ] [[Explain the Digital Garden]], including terminology
-- [ ] explain spine, what happens in certain circumstances
-- [ ] "reading guide", start w/ audio and pdf (Shannon)
 
 
 ## Working on it
 
+- [ ] [[Explain the Digital Garden]]
 
 
 ## Done
