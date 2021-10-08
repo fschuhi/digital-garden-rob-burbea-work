@@ -12,7 +12,7 @@ Transcript: [[0202 Logos in the Garden of Souls Part 1]]
 Transcript PDF: [[2017_0202 Logos in the Garden of Souls Part 1.pdf]]
 
 ## Index
-<span class="counts">_[[Conceptual Framework]] (89) · [[Experience]] (46) · [[Fabrication]] (26) · [[Ways of Looking]] (25) · [[Embodiment]] (22) · [[Perception]] (22) · [[Soulmaking]] (22) · [[The Self]] (22) · [[Eros]] (21) · [[History]] (20) · [[Divinity]] (19) · [[Logos]] (19) · [[Death]] (17) · [[Cosmology]] (13) · [[Jesus]] (12) · [[Soulmaking Dynamic]] (12) · [[Image]] (11) · [[Beauty]] (10) · [[Dharma]] (8) · [[Emptiness]] (8) · [[Imaginal]] (8) · [[Love]] (7) · [[Mindfulness]] (7) · [[Modernism]] (7) · [[Vessel]] (7) · [[Dimensionality]] (6) · [[Dominant Culture]] (6) · [[Attention]] (5) · [[Dependent Origination]] (5) · [[Personhood]] (5) · [[Soul]] (5) · [[St. Paul]] (5) · [[Mary]] (4) · [[Anatta]] (3) · [[Fantasy]] (3) · [[Materialism]] (3) · [[Mind]] (3) · [[Monotheism]] (3) · [[Retreat]] (3) · [[Alchemy]] (2) · [[Awareness]] (2) · [[Create-Discover]] (2) · [[Epistemology#Epistemicide]] (2) · [[Human Relationship]] (2) · [[Insight]] (2) · [[Jhanas]] (2) · [[Meditation]] (2) · [[Metaphysics]] (2) · [[Neuroscience]] (2) · [[Old Testament]] (2) · [[Present Moment]] (2) · [[Psyche]] (2) · [[Rebirth]] (2) · [[Ultimate Truth]] (2) · [[Unfabricated]] (2) · [[Archetype]] · [[Brahman]] · [[Buddha]] · [[Carl Gustav Jung]] · [[Child Development]] · [[Christianity]] · [[Christianity#New Testament]] · [[Clinging]] · [[Desire]] · [[Dogma]] · [[Dzogchen]] · [[Epistemology]] · [[Habit]] · [[Heaven]] · [[Hell]] · [[Hermeneutics#Overview]] · [[Ignorance]] · [[Impermanence]] · [[Judaism]] · [[Kabbala]] · [[Messianism]] · [[Oneness]] · [[Ontology]] · [[Phenomenology]] · [[Poetry]] · [[Psychology of a Person]] · [[Relationships]] · [[Sexuality]] · [[Skandhas]]_</span>
+<span class="counts">_[[Conceptual Framework]] (89) · [[Experience]] (46) · [[Fabrication]] (26) · [[Ways of Looking]] (25) · [[Embodiment]] (22) · [[Perception]] (22) · [[Soulmaking]] (22) · [[The Self]] (22) · [[Eros]] (21) · [[History]] (20) · [[Divinity]] (19) · [[Logos]] (19) · [[Death]] (17) · [[Cosmology]] (13) · [[Jesus]] (12) · [[Soulmaking Dynamic]] (12) · [[Image]] (11) · [[Beauty]] (10) · [[Dharma]] (8) · [[Emptiness]] (8) · [[Imaginal]] (8) · [[Love]] (7) · [[Mindfulness]] (7) · [[Modernism]] (7) · [[Vessel]] (7) · [[Archetype]] (6) · [[Dimensionality]] (6) · [[Dominant Culture]] (6) · [[Attention]] (5) · [[Dependent Origination]] (5) · [[Personhood]] (5) · [[Soul]] (5) · [[St. Paul]] (5) · [[Mary]] (4) · [[Anatta]] (3) · [[Fantasy]] (3) · [[Materialism]] (3) · [[Mind]] (3) · [[Monotheism]] (3) · [[Retreat]] (3) · [[Alchemy]] (2) · [[Awareness]] (2) · [[Create-Discover]] (2) · [[Epistemology#Epistemicide]] (2) · [[Human Relationship]] (2) · [[Insight]] (2) · [[Jhanas]] (2) · [[Meditation]] (2) · [[Metaphysics]] (2) · [[Neuroscience]] (2) · [[Old Testament]] (2) · [[Present Moment]] (2) · [[Psyche]] (2) · [[Rebirth]] (2) · [[Ultimate Truth]] (2) · [[Unfabricated]] (2) · [[Brahman]] · [[Buddha]] · [[Carl Gustav Jung]] · [[Child Development]] · [[Christianity]] · [[Christianity#New Testament]] · [[Clinging]] · [[Desire]] · [[Dogma]] · [[Dzogchen]] · [[Epistemology]] · [[Habit]] · [[Heaven]] · [[Hell]] · [[Hermeneutics#Overview]] · [[Ignorance]] · [[Impermanence]] · [[Judaism]] · [[Kabbala]] · [[Messianism]] · [[Oneness]] · [[Ontology]] · [[Phenomenology]] · [[Poetry]] · [[Psychology of a Person]] · [[Relationships]] · [[Sexuality]] · [[Skandhas]]_</span>
 <br/>
 
 ## Paragraphs
@@ -134,7 +134,7 @@ Transcript PDF: [[2017_0202 Logos in the Garden of Souls Part 1.pdf]]
 
 ---
 ##### ...
-<span class="counts">**[[0202 Logos in the Garden of Souls Part 1#^8-1|8-1]]**: _[[Jesus]] (3) · [[Dominant Culture]] (2) · [[Image]] (2) · [[Beauty]] · [[Poetry]] · [[Experience]] (3) · [[Psyche]] · [[History]] · [[Christianity]] · [[Mary]] · [[Death]] · [[Divinity]] · [[Soulmaking]] · [[Love]] · [[Carl Gustav Jung]]_</span>
+<span class="counts">**[[0202 Logos in the Garden of Souls Part 1#^8-1|8-1]]**: _[[Jesus]] (3) · [[Dominant Culture]] (2) · [[Image]] (2) · [[Beauty]] · [[Poetry]] · [[Experience]] (3) · [[Psyche]] · [[History]] · [[Christianity]] · [[Mary]] · [[Archetype]] (4) · [[Death]] · [[Divinity]] · [[Soulmaking]] · [[Love]] · [[Carl Gustav Jung]]_</span>
 
 ---
 ##### ...
@@ -142,7 +142,7 @@ Transcript PDF: [[2017_0202 Logos in the Garden of Souls Part 1.pdf]]
 
 ---
 ##### ...
-<span class="counts">**[[0202 Logos in the Garden of Souls Part 1#^8-3|8-3]]**: _[[Archetype]] · [[Soulmaking Dynamic]] (3) · [[Cosmology]] (4) · [[Jesus]] · [[Logos]] · [[Old Testament]] · [[History]] (2) · [[Messianism]] · [[Judaism]] · [[Alchemy]] · [[Retreat]] · [[Dominant Culture]]_</span>
+<span class="counts">**[[0202 Logos in the Garden of Souls Part 1#^8-3|8-3]]**: _[[Archetype]] (2) · [[Soulmaking Dynamic]] (3) · [[Cosmology]] (4) · [[Jesus]] · [[Logos]] · [[Old Testament]] · [[History]] (2) · [[Messianism]] · [[Judaism]] · [[Alchemy]] · [[Retreat]] · [[Dominant Culture]]_</span>
 
 ---
 ##### ...

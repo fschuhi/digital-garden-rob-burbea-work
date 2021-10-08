@@ -29,7 +29,7 @@ Transcript PDF: [[2017_0115 The Way of Non-Clinging Part 1.pdf]]
 => Be wary of teachings with limited depth and breath
 
 ## Index
-<span class="counts">_[[Craving]] (85) · [[Clinging]] (66) · [[Mind]] (30) · [[Dukkha]] (28) · [[Impermanence]] (23) · [[Letting go]] (23) · [[Experience]] (21) · [[Desire]] (19) · [[Attention]] (18) · [[Buddha]] (18) · [[The Self]] (18) · [[Hindrances]] (15) · [[Mindfulness]] (15) · [[Ignorance]] (13) · [[Insight]] (13) · [[Awakening]] (12) · [[Papanca]] (12) · [[Dependent Origination]] (11) · [[Dharma]] (11) · [[Habit]] (11) · [[Embodiment]] (10) · [[Perception]] (10) · [[Delineations]] (9) · [[Passion]] (9) · [[Unfabricated]] (9) · [[Contraction]] (8) · [[Vedana]] (8) · [[Avijja]] (7) · [[Fabrication]] (7) · [[Meditation]] (7) · [[Consciousness]] (6) · [[Fetters]] (6) · [[Pain]] (6) · [[Pleasantness]] (6) · [[Sankhara]] (6) · [[Aversion]] (5) · [[Chanda]] (5) · [[Death]] (5) · [[Freedom]] (5) · [[Conceptual Framework]] (4) · [[Retreat]] (4) · [[Stories]] (4) · [[Beauty]] (3) · [[Birth]] (3) · [[Pali Canon]] (3) · [[Rebirth]] (3) · [[Emptiness]] (2) · [[Energy Body]] (2) · [[Kusala]] (2) · [[Mystical opening]] (2) · [[Vedic]] (2) · [[Alchemy]] · [[Anxiety]] · [[Asavas]] · [[Divinity]] · [[Eros]] · [[History]] · [[Image]] · [[Jhanas]] · [[Love]] · [[Manifestations]] · [[Metta]] · [[Mode of mind]] · [[Payutto]] · [[Personhood]] · [[Phenomenon]] · [[Sariputta]] · [[Seeing That Frees]] · [[Spaciousness]]_</span>
+<span class="counts">_[[Craving]] (85) · [[Clinging]] (66) · [[Mind]] (30) · [[Dukkha]] (28) · [[Impermanence]] (23) · [[Letting go]] (23) · [[Experience]] (21) · [[Desire]] (19) · [[Attention]] (18) · [[Buddha]] (18) · [[The Self]] (18) · [[Hindrances]] (15) · [[Mindfulness]] (15) · [[Ignorance]] (13) · [[Insight]] (13) · [[Awakening]] (12) · [[Papanca]] (12) · [[Dependent Origination]] (11) · [[Dharma]] (11) · [[Habit]] (11) · [[Embodiment]] (10) · [[Perception]] (10) · [[Delineations]] (9) · [[Passion]] (9) · [[Unfabricated]] (9) · [[Contraction]] (8) · [[Vedana]] (8) · [[Avijja]] (7) · [[Fabrication]] (7) · [[Meditation]] (7) · [[Consciousness]] (6) · [[Fetters]] (6) · [[Pain]] (6) · [[Pleasantness]] (6) · [[Sankhara]] (6) · [[Aversion]] (5) · [[Chanda]] (5) · [[Death]] (5) · [[Freedom]] (5) · [[Conceptual Framework]] (4) · [[Retreat]] (4) · [[Stories]] (4) · [[Beauty]] (3) · [[Birth]] (3) · [[Pali Canon]] (3) · [[Rebirth]] (3) · [[Emptiness]] (2) · [[Energy Body]] (2) · [[Kusala]] (2) · [[Mystical opening]] (2) · [[Vedic]] (2) · [[Alchemy]] · [[Anxiety]] · [[Asavas]] · [[Divinity]] · [[Eros]] · [[History]] · [[Image]] · [[Jhanas]] · [[Love]] · [[Manifestations]] · [[Metta]] · [[Mode of mind]] · [[Payutto]] · [[Personhood]] · [[Phenomenon]] · [[Samsara]] · [[Sariputta]] · [[Seeing That Frees]] · [[Spaciousness]]_</span>
 <br/>
 
 ## Paragraphs
@@ -109,7 +109,7 @@ pdf: [[2017_0115 The Way of Non-Clinging Part 1.pdf#page=3]]
 
 ---
 ##### Process gets reinforced
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^4-3|4-3]]**: _[[Dukkha]] (2) · [[Habit]] (2) · [[Sankhara]] · [[Mind]] · [[Embodiment]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^4-3|4-3]]**: _[[Dukkha]] (2) · [[Samsara]] · [[Habit]] (2) · [[Sankhara]] · [[Mind]] · [[Embodiment]]_</span>
 
 ---
 ##### Another example: ==dating==
