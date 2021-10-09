@@ -1,7 +1,8 @@
 [[AirTable]]
 
 ==Terminology==
-- paragraph
+- paragraph (on transcript page)
+- paragraph info (on talk page)
 	- should be reserved for a paragraph on the PDF, i.e. the block id
 - "block id" => "paragraph id"
 - kind of same problem w/ "markdown line", "snippet" - - maybe **"line"**?
@@ -9,6 +10,8 @@
 - talk
 - index entry (or "keyword"?)
 - index
+
+<hr class="dashed-gray">
 
 ## TODO
 - reorg help
