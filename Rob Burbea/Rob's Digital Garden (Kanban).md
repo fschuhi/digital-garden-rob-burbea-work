@@ -16,6 +16,7 @@ kanban-plugin: basic
 
 ## Pending
 
+- [ ] Eros Unfettered zusätzliche Headers
 
 
 ## Working on it
