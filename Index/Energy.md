@@ -12,12 +12,12 @@ talk | count | series
 [[From Insight to Love]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 4 | [[2020 Vajra Music]]
-[[Equanimity in Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 2]] | 4 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
 [[Samadhi in Metta Practice#1 Piti is a kind of energy\|1. Piti is a kind of energy]] | 5 | [[Samadhi in Metta Practice]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#We are often held back or holding in of our energy\|We are often held back or holding in of our energy]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
-[[Joy (talk)#Mindfulness ie the its energy brings joy\|Mindfulness (i.e. the its energy) brings joy]] | 4 | [[Joy (talk)]]
+[[Joy (talk)#Mindfulness i e the its energy brings joy\|Mindfulness (i.e. the its energy) brings joy]] | 4 | [[Joy (talk)]]
 

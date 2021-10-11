@@ -11,12 +11,10 @@ kanban-plugin: basic
 - [ ] [[Qualifying pages with trailing (...)]]
 - [ ] [[Folgezettel mechanism]]
 - [ ] [[Number headings]]
-- [ ] [[Transcripts have hr page breaks]]
 
 
 ## Pending
 
-- [ ] Eros Unfettered zusätzliche Headers
 
 
 ## Working on it
@@ -26,6 +24,7 @@ kanban-plugin: basic
 
 ## Done
 
+- [ ] [[Transcripts have hr page breaks]]
 - [ ] [[Force preview mode]]
 - [ ] [[Publish to GitHub]]
 - [ ] [[Breadcrumbs on top of summary]]

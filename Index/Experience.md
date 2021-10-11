@@ -7,12 +7,12 @@ talk | count | series
 [[What is Insight]] | 29 | [[2007 New Years Retreat Insight Meditation]]
 [[Love and Emptiness]] | 22 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 1]] | 21 | [[2017 Eros Unfettered]]
+[[Dilemmas and Delineations - How did we get here Part 2]] | 18 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 14 | [[2020 Vajra Music]]
 [[Guided meditation - Metta to phenomena]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 12 | [[2006 New Year's Retreat]]
 [[From Insight to Love]] | 9 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 8 | [[2017 Eros Unfettered]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 7 | [[2020 Vajra Music]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -27,5 +27,5 @@ description | count | talk
 [[What is Insight#Just take the way of seeing as a lens and use deepen consolidate it\|Just take the way of seeing as a lens and use, deepen, consolidate it]] | 4 | [[What is Insight]]
 [[What is Insight# the more we let go of papanca the more our experience begins to brighten\|... the more we let go of papanca, the more our experience begins to brighten]] | 4 | [[What is Insight]]
 [[Love and Emptiness#The fleeting nature of experience deserves our compassion\|The fleeting nature of experience deserves our compassion]] | 4 | [[Love and Emptiness]]
-[[Equanimity (talk)#The experience actually is not the important thing What's important though this is the understanding\|The experience actually is not the important thing. What's important though this is the understanding.]] | 4 | [[Equanimity (talk)]]
+[[Equanimity (talk)#The experience actually is not the important thing What's important though this is the understanding \|The experience actually is not the important thing. What's important though this is the understanding.]] | 4 | [[Equanimity (talk)]]
 

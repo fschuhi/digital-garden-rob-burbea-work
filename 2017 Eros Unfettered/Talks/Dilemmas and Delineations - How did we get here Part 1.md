@@ -5,7 +5,7 @@ obsidianUIMode: preview
 ---
 #Talk
 
-[[The Way of Non-Clinging Part 3|The Way of Non-Clinging Part 3 🡄]] | [[2017 Eros Unfettered|🡅]] | 
+[[The Way of Non-Clinging Part 3|The Way of Non-Clinging Part 3 🡄]] | [[2017 Eros Unfettered|🡅]] | [[Dilemmas and Delineations - How did we get here Part 2|🡆 Dilemmas and Delineations - How did we get here Part 2]]
 
 Series: [[2017 Eros Unfettered]]
 Transcript: [[0118 Dilemmas and Delineations - How did we get here Part 1]]
