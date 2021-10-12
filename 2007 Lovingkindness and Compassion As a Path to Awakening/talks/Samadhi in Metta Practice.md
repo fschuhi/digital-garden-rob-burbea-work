@@ -299,7 +299,7 @@ TODO: x points to y
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=38:16]]
 
 ---
-#### Thinking
+### Thinking
 ##### Dwelling in a lovely space
 <span class="counts">**[[0122 Samadhi in Metta Practice#^8-3|8-3]]**: _[[Buddha]] · [[Love]] (2) · [[Compassion]] (2) · [[Metta]] · [[Brahmaviharas]] · [[Personhood]] · [[Samadhi]] (3) · [[Mind]] (4) · [[Steadiness]] · [[Pleasantness]]_</span>
 
