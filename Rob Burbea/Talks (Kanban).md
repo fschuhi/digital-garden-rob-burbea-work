@@ -14,12 +14,12 @@ kanban-plugin: basic
 
 ## Working on it
 
-- [ ] [[Exploring the World of Loving Kindness]] (15)
 
 
 ## Done
 
 **Complete**
+- [x] [[Exploring the World of Loving Kindness]] (ok)
 - [x] [[The Place of Samadhi in Metta Practice]] (ok)
 - [x] [[Dilemmas and Delineations - How did we get here Part 2]] (ok)
 - [x] [[The Way of Non-Clinging Part 3]] (ok)

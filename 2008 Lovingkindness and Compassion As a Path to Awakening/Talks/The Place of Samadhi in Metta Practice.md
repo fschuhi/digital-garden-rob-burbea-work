@@ -81,8 +81,10 @@ Transcript PDF: [[2008_0129 The Place of Samadhi in Metta Practice.pdf]]
 ![[20080129-Rob_Burbea-GAIA-the_place_of_samadhi_in_metta_practice-11955.mp3#t=07:22]]
 
 ---
-##### 08:53[Usually we keep the mind on one object, but one could also have a very open kind of vipassa practice
+##### Usually we keep the mind on one object, but one could also have a very open kind of vipassa practice
 <span class="counts">**[[0129 The Place of Samadhi in Metta Practice#^2-6|2-6]]**: _[[Samadhi]] (8) · [[Mind]] · [[Metta]] · [[Compassion]] · [[Brahmaviharas]] · [[Breath]]_</span>
+
+![[20080129-Rob_Burbea-GAIA-the_place_of_samadhi_in_metta_practice-11955.mp3#t=08:53]]
 
 ---
 ##### Samadhi is state of non-entanglement.
@@ -121,7 +123,7 @@ Transcript PDF: [[2008_0129 The Place of Samadhi in Metta Practice.pdf]]
 ![[20080129-Rob_Burbea-GAIA-the_place_of_samadhi_in_metta_practice-11955.mp3#t=14:16]]
 
 ---
-##### Samadhi gets into the being on some very sellular level
+##### Samadhi gets into the being on some very cellular level
 <span class="counts">**[[0129 The Place of Samadhi in Metta Practice#^4-2|4-2]]**: _[[Retreat]] · [[Samadhi]] (6) · [[Mind]] (5) · [[Metta]] (5) · [[Insight]] · [[Compassion]]_</span>
 
 ![[20080129-Rob_Burbea-GAIA-the_place_of_samadhi_in_metta_practice-11955.mp3#t=15:03]]
