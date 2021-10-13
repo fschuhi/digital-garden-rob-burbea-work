@@ -14,7 +14,7 @@ Transcript PDF: [[2008_0129 The Place of Samadhi in Metta Practice.pdf]]
 ![[20080129-Rob_Burbea-GAIA-the_place_of_samadhi_in_metta_practice-11955.mp3]]
 
 ## Index
-<span class="counts">_[[Samadhi]] (123) · [[Metta]] (63) · [[Mind]] (62) · [[Retreat]] (38) · [[Embodiment]] (28) · [[Love]] (18) · [[Consciousness]] (16) · [[Contraction]] (16) · [[Happiness]] (16) · [[Meditation]] (16) · [[Steadiness]] (16) · [[Energy]] (14) · [[Fear]] (13) · [[Insight]] (13) · [[Piti]] (12) · [[The Self]] (12) · [[Compassion]] (10) · [[Experience]] (10) · [[Pleasantness]] (10) · [[Anger]] (9) · [[Dharma]] (9) · [[Letting go]] (9) · [[Aversion]] (7) · [[Awareness]] (7) · [[Emptiness]] (7) · [[Hindrances]] (7) · [[Nondualism]] (6) · [[Appreciation]] (5) · [[Awakening]] (5) · [[Buddha]] (5) · [[Emotions]] (5) · [[Mind state]] (5) · [[Receptivity]] (5) · [[Spaciousness]] (5) · [[Stories]] (5) · [[Beauty]] (4) · [[Brahmaviharas]] (4) · [[Breath]] (4) · [[Catherine McGee]] (4) · [[Cultivation]] (4) · [[Gratitude]] (4) · [[Healing]] (4) · [[Mindfulness]] (4) · [[Perception]] (4) · [[Attention]] (3) · [[Image]] (3) · [[Personhood]] (3) · [[Present Moment]] (3) · [[Anxiety]] (2) · [[Craving]] (2) · [[David Beckham]] (2) · [[Death]] (2) · [[Fantasy]] (2) · [[Jhanas]] (2) · [[Psyche]] (2) · [[Tiredness]] (2) · [[Commentaries]] · [[Equanimity]] · [[Feelings]] · [[Freedom]] · [[Gaia House]] · [[Habit]] · [[Impermanence]] · [[Music]] · [[Reactivity]] · [[Ways of Looking]] · [[Wonder]]_</span>
+<span class="counts">_[[Samadhi]] (123) · [[Metta]] (62) · [[Mind]] (62) · [[Retreat]] (38) · [[Embodiment]] (28) · [[Love]] (18) · [[Consciousness]] (16) · [[Contraction]] (16) · [[Happiness]] (16) · [[Meditation]] (16) · [[Steadiness]] (16) · [[Energy]] (14) · [[Fear]] (13) · [[Insight]] (13) · [[Piti]] (12) · [[The Self]] (12) · [[Compassion]] (10) · [[Experience]] (10) · [[Pleasantness]] (10) · [[Anger]] (9) · [[Dharma]] (9) · [[Letting go]] (9) · [[Aversion]] (7) · [[Awareness]] (7) · [[Emptiness]] (7) · [[Hindrances]] (7) · [[Nondualism]] (6) · [[Appreciation]] (5) · [[Awakening]] (5) · [[Buddha]] (5) · [[Emotions]] (5) · [[Mind state]] (5) · [[Receptivity]] (5) · [[Spaciousness]] (5) · [[Stories]] (5) · [[Beauty]] (4) · [[Brahmaviharas]] (4) · [[Breath]] (4) · [[Catherine McGee]] (4) · [[Cultivation]] (4) · [[Gratitude]] (4) · [[Healing]] (4) · [[Mindfulness]] (4) · [[Perception]] (4) · [[Attention]] (3) · [[Image]] (3) · [[Personhood]] (3) · [[Present Moment]] (3) · [[Anxiety]] (2) · [[Craving]] (2) · [[David Beckham]] (2) · [[Death]] (2) · [[Fantasy]] (2) · [[Jhanas]] (2) · [[Psyche]] (2) · [[Tiredness]] (2) · [[Commentaries]] · [[Equanimity]] · [[Feelings]] · [[Freedom]] · [[Gaia House]] · [[Habit]] · [[Impermanence]] · [[Music]] · [[Reactivity]] · [[Ways of Looking]] · [[Wonder]]_</span>
 <br/>
 
 ## Paragraphs
@@ -40,7 +40,7 @@ Transcript PDF: [[2008_0129 The Place of Samadhi in Metta Practice.pdf]]
 
 ---
 ##### It's good to develop loving-kindness and compassion, and that practice leads to concentration
-<span class="counts">**[[0129 The Place of Samadhi in Metta Practice#^1-4|1-4]]**: _[[Metta]] (3) · [[Commentaries]] · [[Compassion]] (2) · [[Samadhi]] · [[Awakening]] · [[Retreat]]_</span>
+<span class="counts">**[[0129 The Place of Samadhi in Metta Practice#^1-4|1-4]]**: _[[Commentaries]] · [[Metta]] (2) · [[Compassion]] (2) · [[Samadhi]] · [[Awakening]] · [[Retreat]]_</span>
 
 ![[20080129-Rob_Burbea-GAIA-the_place_of_samadhi_in_metta_practice-11955.mp3#t=03:00]]
 

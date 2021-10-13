@@ -14,7 +14,7 @@ Transcript PDF: [[2008_0130 Exploring the World of Loving Kindness.pdf]]
 ![[20080130-Rob_Burbea-GAIA-exploring_the_world_of_loving_kindness-11951.mp3]]
 
 ## Index
-<span class="counts">_[[Metta]] (58) · [[Love]] (44) · [[Anger]] (37) · [[The Self]] (21) · [[Embodiment]] (15) · [[Retreat]] (11) · [[Perception]] (10) · [[Relationships]] (10) · [[Clinging]] (8) · [[Compassion]] (7) · [[Near enemy]] (7) · [[Attention]] (6) · [[Consciousness]] (6) · [[Energy]] (6) · [[Fear]] (6) · [[Oneness]] (6) · [[Dukkha]] (5) · [[Feelings]] (5) · [[Habit]] (5) · [[Mind]] (5) · [[Pain]] (5) · [[Ways of Looking]] (5) · [[Anatta]] (4) · [[Appreciation]] (4) · [[Buddha]] (4) · [[Depression]] (4) · [[Experience]] (4) · [[Meditation]] (4) · [[Dharma]] (3) · [[Emptiness]] (3) · [[Avalokiteshvara]] (2) · [[Aversion]] (2) · [[Avijja]] (2) · [[Happiness]] (2) · [[Kahlil Gibran]] (2) · [[Precepts]] (2) · [[Skandhas]] (2) · [[Acceptance]] · [[Archetype]] · [[Awakening]] · [[Beauty]] · [[Bodhisattva]] · [[Breath]] · [[Craving]] · [[Cultivation]] · [[Dependent Origination]] · [[Desire]] · [[Devotion]] · [[Dimensionality]] · [[Fabrication]] · [[Freedom]] · [[Image]] · [[Insight]] · [[Jesus]] · [[Jiddu Krishnamurti]] · [[Letting go]] · [[Manifestations]] · [[Mañjuśrī]] · [[Music]] · [[Nondualism]] · [[Pablo Neruda]] · [[Personhood]] · [[Shame]] · [[Sutta]] · [[Ultimate Truth]]_</span>
+<span class="counts">_[[Metta]] (58) · [[Love]] (44) · [[Anger]] (37) · [[The Self]] (21) · [[Embodiment]] (15) · [[Retreat]] (11) · [[Perception]] (10) · [[Relationships]] (10) · [[Clinging]] (8) · [[Compassion]] (7) · [[Near enemy]] (7) · [[Attention]] (6) · [[Consciousness]] (6) · [[Energy]] (6) · [[Fear]] (6) · [[Oneness]] (6) · [[Dukkha]] (5) · [[Feelings]] (5) · [[Habit]] (5) · [[Mind]] (5) · [[Pain]] (5) · [[Ways of Looking]] (5) · [[Anatta]] (4) · [[Appreciation]] (4) · [[Buddha]] (4) · [[Depression]] (4) · [[Experience]] (4) · [[Meditation]] (4) · [[Dharma]] (3) · [[Emptiness]] (3) · [[Avalokiteshvara]] (2) · [[Aversion]] (2) · [[Avijja]] (2) · [[Happiness]] (2) · [[Precepts]] (2) · [[Skandhas]] (2) · [[Acceptance]] · [[Archetype]] · [[Awakening]] · [[Beauty]] · [[Bodhisattva]] · [[Breath]] · [[Craving]] · [[Cultivation]] · [[Dependent Origination]] · [[Desire]] · [[Devotion]] · [[Dimensionality]] · [[Fabrication]] · [[Freedom]] · [[Image]] · [[Insight]] · [[Jesus]] · [[Jiddu Krishnamurti]] · [[Kahlil Gibran]] · [[Letting go]] · [[Manifestations]] · [[Mañjuśrī]] · [[Music]] · [[Nondualism]] · [[Pablo Neruda]] · [[Personhood]] · [[Shame]] · [[Sutta]] · [[Ultimate Truth]]_</span>
 <br/>
 
 ## Paragraphs
@@ -248,7 +248,7 @@ So part of what 'practise' means is playing with ways of looking, shaking things
 
 ---
 ##### Kahlil Gibran: "The Prophet"
-<span class="counts">**[[0130 Exploring the World of Loving Kindness#^5-4|5-4]]**: _[[Kahlil Gibran]] (2)_</span>
+<span class="counts">**[[0130 Exploring the World of Loving Kindness#^5-4|5-4]]**: _[[Kahlil Gibran]]_</span>
 
 ![[20080130-Rob_Burbea-GAIA-exploring_the_world_of_loving_kindness-11951.mp3#t=22:32]]
 
