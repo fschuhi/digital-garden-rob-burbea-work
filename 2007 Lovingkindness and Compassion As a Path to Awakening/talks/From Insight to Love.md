@@ -14,7 +14,7 @@ Transcript PDF: [[2007_0127 From Insight to Love.pdf]]
 ![[20070127-Rob_Burbea-GAIA-from_insight_to_love-12291.mp3]]
 
 ## Index
-<span class="counts">_[[Fear]] (128) · [[Metta]] (73) · [[Love]] (46) · [[Clinging]] (40) · [[Impermanence]] (32) · [[Insight]] (32) · [[Anatta]] (30) · [[Mind]] (25) · [[Death]] (23) · [[Dukkha]] (23) · [[Aversion]] (19) · [[Freedom]] (17) · [[The Self]] (17) · [[Habit]] (15) · [[Awareness]] (14) · [[Compassion]] (13) · [[Embodiment]] (13) · [[Buddha]] (12) · [[Perception]] (11) · [[Consciousness]] (10) · [[Ways of Looking]] (10) · [[Anxiety]] (9) · [[Experience]] (9) · [[Pleasantness]] (8) · [[Happiness]] (7) · [[Three characteristics]] (7) · [[Cultivation]] (6) · [[Nondualism]] (6) · [[Retreat]] (6) · [[Awakening]] (5) · [[Constriction]] (5) · [[Energy]] (5) · [[Oneness]] (5) · [[Contraction]] (4) · [[Music]] (4) · [[Spaciousness]] (4) · [[Centre]] (3) · [[Craving]] (3) · [[Emptiness]] (3) · [[Fabrication]] (3) · [[Ignorance]] (3) · [[Kusala]] (3) · [[Mahatma Gandhi]] (3) · [[Mindfulness]] (3) · [[Acceptance]] (2) · [[Anger]] (2) · [[Beauty]] (2) · [[Commentaries]] (2) · [[Future thinking]] (2) · [[Image]] (2) · [[Letting go]] (2) · [[Meditation]] (2) · [[Relationships]] (2) · [[Samadhi]] (2) · [[Skandhas]] (2) · [[Steadiness]] (2) · [[Attention]] · [[Baba Amte]] · [[Equanimity]] · [[Healing]] · [[Hell]] · [[Hindrances]] · [[Jhanas]] · [[Judaism]] · [[Metaphysics]] · [[Papanca]] · [[Phenomenon]] · [[Present Moment]] · [[Wonder]]_</span>
+<span class="counts">_[[Fear]] (128) · [[Metta]] (73) · [[Love]] (46) · [[Clinging]] (40) · [[Impermanence]] (32) · [[Insight]] (32) · [[Anatta]] (30) · [[Mind]] (25) · [[Death]] (23) · [[Dukkha]] (23) · [[Aversion]] (19) · [[Freedom]] (17) · [[The Self]] (17) · [[Habit]] (15) · [[Awareness]] (14) · [[Compassion]] (13) · [[Embodiment]] (13) · [[Buddha]] (12) · [[Perception]] (11) · [[Consciousness]] (10) · [[Ways of Looking]] (10) · [[Anxiety]] (9) · [[Experience]] (9) · [[Pleasantness]] (8) · [[Happiness]] (7) · [[Three characteristics]] (7) · [[Cultivation]] (6) · [[Nondualism]] (6) · [[Retreat]] (6) · [[Awakening]] (5) · [[Constriction]] (5) · [[Energy]] (5) · [[Oneness]] (5) · [[Contraction]] (4) · [[Music]] (4) · [[Nature]] (4) · [[Spaciousness]] (4) · [[Centre]] (3) · [[Craving]] (3) · [[Emptiness]] (3) · [[Fabrication]] (3) · [[Ignorance]] (3) · [[Kusala]] (3) · [[Mahatma Gandhi]] (3) · [[Mindfulness]] (3) · [[Acceptance]] (2) · [[Anger]] (2) · [[Beauty]] (2) · [[Commentaries]] (2) · [[Future thinking]] (2) · [[Image]] (2) · [[Letting go]] (2) · [[Meditation]] (2) · [[Relationships]] (2) · [[Samadhi]] (2) · [[Skandhas]] (2) · [[Steadiness]] (2) · [[Attention]] · [[Baba Amte]] · [[Equanimity]] · [[Healing]] · [[Hell]] · [[Hindrances]] · [[Jhanas]] · [[Judaism]] · [[Metaphysics]] · [[Papanca]] · [[Phenomenon]] · [[Present Moment]] · [[Wonder]]_</span>
 <br/>
 
 ## Paragraphs
@@ -27,7 +27,7 @@ Transcript PDF: [[2007_0127 From Insight to Love.pdf]]
 
 ---
 ##### Metta is fabricated, but it's also the natural state
-<span class="counts">**[[0127 From Insight to Love#^1-2|1-2]]**: _[[Metta]] (6) · [[Love]] (4) · [[Fabrication]] (3) · [[Compassion]] (2) · [[Mind]] · [[Consciousness]] · [[Clinging]] (2) · [[Ignorance]] (2) · [[The Self]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^1-2|1-2]]**: _[[Metta]] (6) · [[Love]] (4) · [[Fabrication]] (3) · [[Compassion]] (2) · [[Mind]] · [[Consciousness]] · [[Clinging]] (2) · [[Ignorance]] (2) · [[Nature]] (3) · [[The Self]]_</span>
 
 ---
 ##### Insight is that which releases clinging
@@ -253,7 +253,7 @@ TODO: "the dukkha angle into anatta" => the 2 characteristics impermanence and a
 
 ---
 ##### "Just unhook" is not a metaphysical statement
-<span class="counts">**[[0127 From Insight to Love#^10-3|10-3]]**: _[[Buddha]] · [[Present Moment]] · [[Experience]] · [[Embodiment]] · [[Metaphysics]] · [[Anatta]] · [[Freedom]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^10-3|10-3]]**: _[[Buddha]] · [[Present Moment]] · [[Experience]] · [[Embodiment]] · [[Metaphysics]] · [[Nature]] · [[Anatta]] · [[Freedom]]_</span>
 
 ---
 ##### The comparing, judging mind

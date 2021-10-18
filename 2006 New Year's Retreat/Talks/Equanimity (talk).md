@@ -14,7 +14,7 @@ Transcript PDF: [[2006_1228 Equanimity (talk).pdf]]
 ![[20061228-Rob_Burbea-GAIA-equanimity-12307.mp3]]
 
 ## Index
-<span class="counts">_[[Equanimity]] (40) · [[Happiness]] (28) · [[Metta]] (22) · [[Pain]] (22) · [[Cultivation]] (19) · [[Mind]] (17) · [[Insight]] (14) · [[Wonder]] (13) · [[Experience]] (12) · [[Impermanence]] (12) · [[Steadiness]] (12) · [[Buddha]] (11) · [[Craving]] (11) · [[The Self]] (11) · [[Mudita]] (10) · [[Dharma]] (8) · [[Compassion]] (5) · [[Death]] (5) · [[Embodiment]] (5) · [[Infinity]] (5) · [[Mindfulness]] (5) · [[Retreat]] (5) · [[Spaciousness]] (5) · [[Attention]] (4) · [[Awareness]] (4) · [[Beauty]] (4) · [[Immeasurability]] (4) · [[Personality structure]] (4) · [[Dukkha]] (3) · [[Eight worldly conditions]] (3) · [[Emptiness]] (3) · [[Fear]] (3) · [[Meditation]] (3) · [[Perception]] (3) · [[Receptivity]] (3) · [[Right speech]] (3) · [[Aversion]] (2) · [[Dominant Culture]] (2) · [[Freedom]] (2) · [[Healing]] (2) · [[Jesus]] (2) · [[Jiddu Krishnamurti]] (2) · [[Juiciness]] (2) · [[Love]] (2) · [[Music]] (2) · [[Near enemy]] (2) · [[Personhood]] (2) · [[Pleasantness]] (2) · [[Reactivity]] (2) · [[Anger]] · [[Breath]] · [[Clinging]] · [[Dalai Lama]] · [[Depression]] · [[Energy]] · [[Hindrances]] · [[Mahatma Gandhi]] · [[Mother Teresa]] · [[Nondualism]] · [[Samadhi]] · [[Sangha]] · [[Thanissaro Bhikkhu]]_</span>
+<span class="counts">_[[Equanimity]] (40) · [[Happiness]] (28) · [[Metta]] (22) · [[Pain]] (22) · [[Cultivation]] (19) · [[Mind]] (17) · [[Insight]] (14) · [[Wonder]] (13) · [[Experience]] (12) · [[Impermanence]] (12) · [[Steadiness]] (12) · [[Buddha]] (11) · [[Craving]] (11) · [[The Self]] (11) · [[Mudita]] (10) · [[Dharma]] (8) · [[Compassion]] (5) · [[Death]] (5) · [[Embodiment]] (5) · [[Infinity]] (5) · [[Mindfulness]] (5) · [[Retreat]] (5) · [[Spaciousness]] (5) · [[Attention]] (4) · [[Awareness]] (4) · [[Beauty]] (4) · [[Immeasurability]] (4) · [[Personality structure]] (4) · [[Dukkha]] (3) · [[Eight worldly conditions]] (3) · [[Emptiness]] (3) · [[Fear]] (3) · [[Meditation]] (3) · [[Nature]] (3) · [[Perception]] (3) · [[Receptivity]] (3) · [[Right speech]] (3) · [[Aversion]] (2) · [[Dominant Culture]] (2) · [[Freedom]] (2) · [[Healing]] (2) · [[Jesus]] (2) · [[Jiddu Krishnamurti]] (2) · [[Juiciness]] (2) · [[Love]] (2) · [[Music]] (2) · [[Near enemy]] (2) · [[Personhood]] (2) · [[Pleasantness]] (2) · [[Reactivity]] (2) · [[Anger]] · [[Breath]] · [[Clinging]] · [[Dalai Lama]] · [[Depression]] · [[Energy]] · [[Hindrances]] · [[Mahatma Gandhi]] · [[Mother Teresa]] · [[Nondualism]] · [[Samadhi]] · [[Sangha]] · [[Thanissaro Bhikkhu]]_</span>
 
 ## Paragraphs
 [[Equanimity (talk) -|plain list]]
@@ -30,7 +30,7 @@ Transcript PDF: [[2006_1228 Equanimity (talk).pdf]]
 
 ---
 ##### Equanimity in relation to the eight worldly conditions
-<span class="counts">**[[1228 Equanimity (talk)#^2-1|2-1]]**: _[[Buddha]] (2) · [[Equanimity]] (2) · [[Eight worldly conditions]] · [[Pain]] (3) · [[Experience]] · [[Jesus]] · [[Mahatma Gandhi]] · [[Mother Teresa]] · [[Mind]] · [[Pleasantness]] (2)_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^2-1|2-1]]**: _[[Buddha]] (2) · [[Equanimity]] (2) · [[Eight worldly conditions]] · [[Pain]] (3) · [[Experience]] · [[Jesus]] · [[Mahatma Gandhi]] · [[Mother Teresa]] · [[Nature]] · [[Mind]] · [[Pleasantness]] (2)_</span>
 
 ![[20061228-Rob_Burbea-GAIA-equanimity-12307.mp3#t=03:32]]
 
@@ -98,7 +98,7 @@ Weird mention of "you are probably a dog" (really a Buddha quote?)
 
 ---
 ##### Anicca means impermanence and uncertainty
-<span class="counts">**[[1228 Equanimity (talk)#^5-1|5-1]]**: _[[Buddha]] (2) · [[Impermanence]] (4) · [[Embodiment]] · [[Death]] · [[Mind]] · [[Mindfulness]]_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^5-1|5-1]]**: _[[Buddha]] (2) · [[Impermanence]] (4) · [[Embodiment]] · [[Death]] · [[Nature]] · [[Mind]] · [[Mindfulness]]_</span>
 
 ---
 ##### This moment is in the context of vast time and the vast unknown of death
@@ -174,7 +174,7 @@ A spiritual joy, doesn't have so much to do with the self. So one aspect of spir
 
 ---
 ##### Nature, art, music can touch us and feed that wonder
-<span class="counts">**[[1228 Equanimity (talk)#^8-5|8-5]]**: _[[Wonder]] (3) · [[Music]] (2) · [[Receptivity]]_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^8-5|8-5]]**: _[[Nature]] · [[Wonder]] (3) · [[Music]] (2) · [[Receptivity]]_</span>
 
 ---
 ##### The more our intentionality goes towards sense pleasure and security, the less the wonder

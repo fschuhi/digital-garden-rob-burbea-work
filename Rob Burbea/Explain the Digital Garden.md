@@ -1,11 +1,22 @@
 [[AirTable]]
 
-==Terminology==
+## Help videos
+### What you see when you start browsing the Digital Garden
+- you can always go back to the front door, a fresh start
+- in the middle
+	- ...
+- on the left
+	- somewhat advanced way to navigate
+	- alphabetically orderd
+	- expand and collapse
+- on the right
+	- interactive graph
+	- table of contents - - shows different headers, will be more sensible and useful when browsing the actual talks
+
+## Terminology
 - paragraph (on transcript page)
 - paragraph info (on talk page)
-	- should be reserved for a paragraph on the PDF, i.e. the block id
 - "block id" => "paragraph id"
-- kind of same problem w/ "markdown line", "snippet" - - maybe **"line"**?
 - transcript
 - talk
 - index entry (or "keyword"?)

@@ -14,7 +14,7 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3]]
 
 ## Index
-<span class="counts">_[[Samadhi]] (92) · [[Mind]] (65) · [[Metta]] (43) · [[Love]] (30) · [[Embodiment]] (27) · [[Contraction]] (20) · [[Piti]] (18) · [[Pleasantness]] (17) · [[Steadiness]] (16) · [[Retreat]] (15) · [[Insight]] (14) · [[Meditation]] (12) · [[Buddha]] (11) · [[Anger]] (10) · [[Aversion]] (10) · [[Fear]] (9) · [[Happiness]] (9) · [[Awareness]] (8) · [[Dharma]] (7) · [[Experience]] (7) · [[Nondualism]] (7) · [[Receptivity]] (7) · [[Breath]] (6) · [[Energy]] (6) · [[Consciousness]] (5) · [[Mindfulness]] (5) · [[The Self]] (5) · [[Freedom]] (4) · [[Gratitude]] (4) · [[Hindrances]] (4) · [[Anatta]] (3) · [[Awakening]] (3) · [[Beauty]] (3) · [[Compassion]] (3) · [[Cultivation]] (3) · [[Emotions]] (3) · [[Emptiness]] (3) · [[Habit]] (3) · [[Personhood]] (3) · [[Ways of Looking]] (3) · [[Acceptance]] (2) · [[Appreciation]] (2) · [[Centre]] (2) · [[Perception]] (2) · [[Bodhi Tree]] · [[Brahmaviharas]] · [[Buddhism]] · [[Catherine McGee]] · [[Craving]] · [[Death]] · [[Gaia House]] · [[Guinness Book of Records]] · [[Healing]] · [[Hell]] · [[Image]] · [[Impermanence]] · [[Mind state]] · [[Psyche]] · [[Tiredness]] · [[Wonder]]_</span>
+<span class="counts">_[[Samadhi]] (92) · [[Mind]] (65) · [[Metta]] (43) · [[Love]] (30) · [[Embodiment]] (27) · [[Contraction]] (20) · [[Piti]] (18) · [[Pleasantness]] (17) · [[Steadiness]] (16) · [[Retreat]] (15) · [[Insight]] (14) · [[Meditation]] (12) · [[Buddha]] (11) · [[Anger]] (10) · [[Aversion]] (10) · [[Fear]] (9) · [[Happiness]] (9) · [[Awareness]] (8) · [[Dharma]] (7) · [[Experience]] (7) · [[Nature]] (7) · [[Nondualism]] (7) · [[Receptivity]] (7) · [[Breath]] (6) · [[Energy]] (6) · [[Consciousness]] (5) · [[Mindfulness]] (5) · [[The Self]] (5) · [[Freedom]] (4) · [[Gratitude]] (4) · [[Hindrances]] (4) · [[Anatta]] (3) · [[Awakening]] (3) · [[Beauty]] (3) · [[Compassion]] (3) · [[Cultivation]] (3) · [[Emotions]] (3) · [[Emptiness]] (3) · [[Habit]] (3) · [[Personhood]] (3) · [[Ways of Looking]] (3) · [[Acceptance]] (2) · [[Appreciation]] (2) · [[Centre]] (2) · [[Perception]] (2) · [[Bodhi Tree]] · [[Brahmaviharas]] · [[Buddhism]] · [[Catherine McGee]] · [[Craving]] · [[Death]] · [[Gaia House]] · [[Guinness Book of Records]] · [[Healing]] · [[Hell]] · [[Image]] · [[Impermanence]] · [[Mind state]] · [[Psyche]] · [[Tiredness]] · [[Wonder]]_</span>
 <br/>
 
 ## Paragraphs
@@ -171,7 +171,7 @@ Transcript PDF: [[2007_0122 Samadhi in Metta Practice.pdf]]
 
 ---
 ##### Nature
-<span class="counts">**[[0122 Samadhi in Metta Practice#^5-1|5-1]]**: _[[Happiness]] · [[Samadhi]] · [[Beauty]] (2)_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^5-1|5-1]]**: _[[Nature]] (2) · [[Happiness]] · [[Samadhi]] · [[Beauty]] (2)_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=20:18]]
 
@@ -313,7 +313,7 @@ TODO: x points to y
 
 ---
 ##### Samadhi is an acquired taste
-<span class="counts">**[[0122 Samadhi in Metta Practice#^9-1|9-1]]**: _[[Mind]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^9-1|9-1]]**: _[[Nature]] · [[Mind]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=42:44]]
 
@@ -369,7 +369,7 @@ TODO: x points to y
 
 ---
 ##### 3. Openess of being
-<span class="counts">**[[0122 Samadhi in Metta Practice#^10-4|10-4]]**: _[[Piti]] (2) · [[Energy]] · [[Receptivity]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^10-4|10-4]]**: _[[Piti]] (2) · [[Energy]] · [[Receptivity]] · [[Nature]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=50:51]]
 
@@ -412,13 +412,13 @@ TODO: x points to y
 
 ---
 ##### Samadhi should have love in it
-<span class="counts">**[[0122 Samadhi in Metta Practice#^11-5|11-5]]**: _[[The Self]] · [[Love]] (9) · [[Nondualism]] · [[Samadhi]] · [[Mind]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^11-5|11-5]]**: _[[The Self]] · [[Love]] (9) · [[Nondualism]] · [[Samadhi]] · [[Mind]] · [[Nature]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=56:06]]
 
 ---
 ##### Receptivity and an openess to some kind of wonder in being
-<span class="counts">**[[0122 Samadhi in Metta Practice#^11-6|11-6]]**: _[[Receptivity]] (4) · [[Wonder]] · [[Mind]] · [[Love]] (4) · [[Samadhi]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^11-6|11-6]]**: _[[Receptivity]] (4) · [[Wonder]] · [[Mind]] · [[Love]] (4) · [[Nature]] · [[Samadhi]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=57:00]]
 
@@ -455,7 +455,7 @@ TODO: x points to y
 
 ---
 ##### Things that we create cause barriers, and with metta samadhi we are creating less
-<span class="counts">**[[0122 Samadhi in Metta Practice#^13-1|13-1]]**: _[[Love]] (3) · [[Metta]] (2) · [[Samadhi]]_</span>
+<span class="counts">**[[0122 Samadhi in Metta Practice#^13-1|13-1]]**: _[[Nature]] · [[Love]] (3) · [[Metta]] (2) · [[Samadhi]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=01:03:18]]
 

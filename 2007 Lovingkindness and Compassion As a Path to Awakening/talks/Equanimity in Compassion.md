@@ -14,7 +14,7 @@ Transcript PDF: [[2007_0208 Equanimity in Compassion.pdf]]
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3]]
 
 ## Index
-<span class="counts">_[[Equanimity]] (75) · [[Compassion]] (63) · [[Dukkha]] (50) · [[Samadhi]] (23) · [[Happiness]] (22) · [[Craving]] (21) · [[Mind]] (21) · [[The Self]] (18) · [[Insight]] (17) · [[Steadiness]] (17) · [[Emptiness]] (15) · [[Metta]] (15) · [[Spaciousness]] (14) · [[Impermanence]] (12) · [[Aversion]] (10) · [[Love]] (10) · [[Letting go]] (9) · [[Future thinking]] (8) · [[Mudita]] (8) · [[Buddha]] (7) · [[Freedom]] (7) · [[Perception]] (7) · [[Awareness]] (6) · [[Experience]] (6) · [[Consciousness]] (5) · [[Dependent Origination]] (5) · [[Dharma]] (5) · [[Immeasurability]] (5) · [[Samatha]] (5) · [[Wonder]] (5) · [[Beauty]] (4) · [[Brahmaviharas]] (4) · [[Devotion]] (4) · [[Grief]] (4) · [[Healing]] (4) · [[Nondualism]] (4) · [[Retreat]] (4) · [[Contraction]] (3) · [[Fabrication]] (3) · [[Ignorance]] (3) · [[Pain]] (3) · [[Pleasantness]] (3) · [[Anatta]] (2) · [[Attention]] (2) · [[Clinging]] (2) · [[Commentaries]] (2) · [[Cultivation]] (2) · [[Eight worldly conditions]] (2) · [[Embodiment]] (2) · [[Energy]] (2) · [[Energy Body]] (2) · [[Hindrances]] (2) · [[Karma]] (2) · [[Meditation]] (2) · [[Mind state]] (2) · [[Near enemy]] (2) · [[Nihilism]] (2) · [[Acceptance]] · [[Breath]] · [[Catherine McGee]] · [[David Beckham]] · [[Death]] · [[Depression]] · [[Desire]] · [[Empathy]] · [[History]] · [[Jesus]] · [[Juiciness]] · [[Mahatma Gandhi]] · [[Mother Teresa]] · [[Music]] · [[Piti]] · [[Receptivity]] · [[Relationships]] · [[Spiritual circles]]_</span>
+<span class="counts">_[[Equanimity]] (75) · [[Compassion]] (63) · [[Dukkha]] (50) · [[Samadhi]] (23) · [[Happiness]] (22) · [[Craving]] (21) · [[Mind]] (21) · [[The Self]] (18) · [[Insight]] (17) · [[Steadiness]] (17) · [[Emptiness]] (15) · [[Metta]] (15) · [[Spaciousness]] (14) · [[Impermanence]] (12) · [[Aversion]] (10) · [[Love]] (10) · [[Letting go]] (9) · [[Future thinking]] (8) · [[Mudita]] (8) · [[Buddha]] (7) · [[Freedom]] (7) · [[Perception]] (7) · [[Awareness]] (6) · [[Experience]] (6) · [[Consciousness]] (5) · [[Dependent Origination]] (5) · [[Dharma]] (5) · [[Immeasurability]] (5) · [[Samatha]] (5) · [[Wonder]] (5) · [[Beauty]] (4) · [[Brahmaviharas]] (4) · [[Devotion]] (4) · [[Grief]] (4) · [[Healing]] (4) · [[Nondualism]] (4) · [[Retreat]] (4) · [[Contraction]] (3) · [[Fabrication]] (3) · [[Ignorance]] (3) · [[Nature]] (3) · [[Pain]] (3) · [[Pleasantness]] (3) · [[Anatta]] (2) · [[Attention]] (2) · [[Clinging]] (2) · [[Commentaries]] (2) · [[Cultivation]] (2) · [[Eight worldly conditions]] (2) · [[Embodiment]] (2) · [[Energy]] (2) · [[Energy Body]] (2) · [[Hindrances]] (2) · [[Karma]] (2) · [[Meditation]] (2) · [[Mind state]] (2) · [[Near enemy]] (2) · [[Nihilism]] (2) · [[Acceptance]] · [[Breath]] · [[Catherine McGee]] · [[David Beckham]] · [[Death]] · [[Depression]] · [[Desire]] · [[Empathy]] · [[History]] · [[Jesus]] · [[Juiciness]] · [[Mahatma Gandhi]] · [[Mother Teresa]] · [[Music]] · [[Piti]] · [[Receptivity]] · [[Relationships]] · [[Spiritual circles]]_</span>
 <br/>
 
 ## Paragraphs
@@ -34,7 +34,7 @@ Transcript PDF: [[2007_0208 Equanimity in Compassion.pdf]]
 
 ---
 ##### Mudita is a kind of joy that's not so based on the ego
-<span class="counts">**[[0208 Equanimity in Compassion#^1-3|1-3]]**: _[[Commentaries]] · [[Buddha]] · [[Mudita]] (3) · [[Happiness]] (4) · [[Wonder]] (2) · [[Receptivity]] · [[Beauty]]_</span>
+<span class="counts">**[[0208 Equanimity in Compassion#^1-3|1-3]]**: _[[Commentaries]] · [[Buddha]] · [[Mudita]] (3) · [[Happiness]] (4) · [[Wonder]] (2) · [[Nature]] · [[Receptivity]] · [[Beauty]]_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=01:44]]
 
@@ -407,7 +407,7 @@ So it has a certain feeling-tone, equanimity, to it, a certain peacefulness, a c
 
 ---
 ##### When feel like we have enough, external circumstances make less of an impact
-<span class="counts">**[[0208 Equanimity in Compassion#^10-6|10-6]]**: _[[Mudita]] · [[Happiness]] (8) · [[Equanimity]] (2) · [[Pleasantness]] · [[Cultivation]] · [[Samadhi]] · [[Wonder]] · [[Music]] · [[Metta]] · [[Compassion]]_</span>
+<span class="counts">**[[0208 Equanimity in Compassion#^10-6|10-6]]**: _[[Mudita]] · [[Happiness]] (8) · [[Equanimity]] (2) · [[Pleasantness]] · [[Cultivation]] · [[Samadhi]] · [[Wonder]] · [[Music]] · [[Nature]] · [[Metta]] · [[Compassion]]_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=49:42]]
 
@@ -493,7 +493,7 @@ How a thing appears depends on my relationship to it. Whether it appears at all 
 
 ---
 ##### The true nature of all things is immeasurable
-<span class="counts">**[[0208 Equanimity in Compassion#^12-5|12-5]]**: _[[Experience]] · [[Immeasurability]] (3) · [[Insight]] (4) · [[Equanimity]] (3) · [[Love]] · [[Compassion]] (2) · [[Consciousness]] (4) · [[Perception]] · [[Craving]]_</span>
+<span class="counts">**[[0208 Equanimity in Compassion#^12-5|12-5]]**: _[[Experience]] · [[Immeasurability]] (3) · [[Nature]] · [[Insight]] (4) · [[Equanimity]] (3) · [[Love]] · [[Compassion]] (2) · [[Consciousness]] (4) · [[Perception]] · [[Craving]]_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=01:00:24]]
 

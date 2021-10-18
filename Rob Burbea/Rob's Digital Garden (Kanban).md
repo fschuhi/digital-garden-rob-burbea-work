@@ -15,6 +15,7 @@ kanban-plugin: basic
 
 ## Pending
 
+- [ ] Frank's suggestion how to consume a talk.
 
 
 ## Working on it

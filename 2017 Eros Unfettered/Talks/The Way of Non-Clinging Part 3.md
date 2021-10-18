@@ -14,7 +14,7 @@ Transcript PDF: [[2017_0117 The Way of Non-Clinging Part 3.pdf]]
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3]]
 
 ## Index
-<span class="counts">_[[Desire]] (60) · [[Clinging]] (57) · [[Eros]] (41) · [[Craving]] (39) · [[Fantasy]] (30) · [[Dharma]] (28) · [[Passion]] (23) · [[Letting go]] (20) · [[Soul]] (15) · [[Dukkha]] (14) · [[Insight]] (13) · [[Mindfulness]] (13) · [[Discrepancy-based Processing]] (12) · [[Love]] (12) · [[Avijja]] (11) · [[Hindrances]] (11) · [[Romantic love]] (11) · [[Conceptual Framework]] (10) · [[Fabrication]] (10) · [[Perception]] (10) · [[Activism]] (9) · [[Metta]] (9) · [[Beauty]] (8) · [[Emptiness]] (8) · [[Kusala]] (8) · [[Mind]] (8) · [[Constriction]] (7) · [[Dependent Origination]] (7) · [[Psyche]] (7) · [[Retreat]] (7) · [[Sexuality]] (7) · [[The Self]] (7) · [[Freedom]] (6) · [[Image]] (6) · [[Soulmaking]] (6) · [[Attention]] (5) · [[Awakening]] (5) · [[Delineations]] (5) · [[Experience]] (5) · [[Personhood]] (5) · [[Poetry]] (5) · [[Cultivation]] (4) · [[Dimensionality]] (4) · [[Divinity]] (4) · [[Habit]] (4) · [[Imaginal]] (4) · [[Mode of mind]] (4) · [[Papanca]] (4) · [[Relationships]] (4) · [[Spiritual friendship]] (4) · [[Ways of Looking]] (4) · [[Zen]] (4) · [[Buddha]] (3) · [[Happiness]] (3) · [[Vedana]] (3) · [[Bodhisattva]] (2) · [[Chanda]] (2) · [[Hermeneutics#Overview]] (2) · [[Kalyanamittata]] (2) · [[Meditation]] (2) · [[Music]] (2) · [[Allen Ginsberg]] · [[Artificial intelligence]] · [[Brahmaviharas]] · [[Chogyam Trungpa]] · [[Cosmology]] · [[Embodiment]] · [[Ethics]] · [[Global warming]] · [[Hermit]] · [[Ignorance]] · [[Impermanence]] · [[Mahayana]] · [[Meaningfulness]] · [[Music#Jazz]] · [[Pain]] · [[Realism]] · [[Sangha]] · [[Simplification]] · [[Spirituality]] · [[Steadiness]] · [[Thich Nhat Hanh]] · [[Unfabricated]]_</span>
+<span class="counts">_[[Desire]] (60) · [[Clinging]] (57) · [[Eros]] (41) · [[Craving]] (39) · [[Fantasy]] (30) · [[Dharma]] (28) · [[Passion]] (23) · [[Letting go]] (20) · [[Soul]] (15) · [[Dukkha]] (14) · [[Insight]] (13) · [[Mindfulness]] (13) · [[Discrepancy-based Processing]] (12) · [[Love]] (12) · [[Avijja]] (11) · [[Hindrances]] (11) · [[Romantic love]] (11) · [[Conceptual Framework]] (10) · [[Fabrication]] (10) · [[Perception]] (10) · [[Activism]] (9) · [[Metta]] (9) · [[Beauty]] (8) · [[Emptiness]] (8) · [[Kusala]] (8) · [[Mind]] (8) · [[Constriction]] (7) · [[Dependent Origination]] (7) · [[Psyche]] (7) · [[Retreat]] (7) · [[Sexuality]] (7) · [[The Self]] (7) · [[Freedom]] (6) · [[Image]] (6) · [[Soulmaking]] (6) · [[Attention]] (5) · [[Awakening]] (5) · [[Delineations]] (5) · [[Experience]] (5) · [[Personhood]] (5) · [[Poetry]] (5) · [[Cultivation]] (4) · [[Dimensionality]] (4) · [[Divinity]] (4) · [[Habit]] (4) · [[Imaginal]] (4) · [[Mode of mind]] (4) · [[Papanca]] (4) · [[Relationships]] (4) · [[Spiritual friendship]] (4) · [[Ways of Looking]] (4) · [[Zen]] (4) · [[Buddha]] (3) · [[Happiness]] (3) · [[Nature]] (3) · [[Vedana]] (3) · [[Bodhisattva]] (2) · [[Chanda]] (2) · [[Hermeneutics#Overview]] (2) · [[Kalyanamittata]] (2) · [[Meditation]] (2) · [[Music]] (2) · [[Allen Ginsberg]] · [[Artificial intelligence]] · [[Brahmaviharas]] · [[Chogyam Trungpa]] · [[Cosmology]] · [[Embodiment]] · [[Ethics]] · [[Global warming]] · [[Hermit]] · [[Ignorance]] · [[Impermanence]] · [[Mahayana]] · [[Meaningfulness]] · [[Music#Jazz]] · [[Pain]] · [[Realism]] · [[Sangha]] · [[Simplification]] · [[Spirituality]] · [[Steadiness]] · [[Thich Nhat Hanh]] · [[Unfabricated]]_</span>
 <br/>
 
 ## Paragraphs
@@ -96,7 +96,7 @@ There's a constrainment of the idea of what's allowed in terms of desire, and al
 
 ---
 ##### The problem is when fantasy is regarded as a problem
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^3-4|3-4]]**: _[[Fantasy]] (10) · [[Letting go]] (3) · [[Conceptual Framework]] · [[Image]] (4) · [[Hermit]] · [[Love]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^3-4|3-4]]**: _[[Fantasy]] (10) · [[Letting go]] (3) · [[Conceptual Framework]] · [[Image]] (4) · [[Hermit]] · [[Nature]] · [[Love]]_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=15:38]]
 
@@ -134,7 +134,7 @@ Can I have a conceptual framework, can I form, can I open to a conceptual framew
 
 ---
 ##### 2. spectrum of fabrication (emptiness)
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^4-5|4-5]]**: _[[Clinging]] (7) · [[Craving]] · [[Desire]] · [[Perception]] (2) · [[Fabrication]] · [[Ignorance]] · [[Ways of Looking]] · [[Avijja]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^4-5|4-5]]**: _[[Clinging]] (7) · [[Craving]] · [[Desire]] · [[Nature]] · [[Perception]] (2) · [[Fabrication]] · [[Ignorance]] · [[Ways of Looking]] · [[Avijja]]_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=21:54]]
 
@@ -144,7 +144,7 @@ _avijjā_ is clinging, this belief in the reality of something existing independ
 
 ---
 ##### 3. movement of eros (soulmaking)
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^5-1|5-1]]**: _[[Eros]] (3) · [[Soul]] (2) · [[Passion]] (5) · [[Love]] · [[Activism]] · [[Hindrances]] · [[Clinging]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^5-1|5-1]]**: _[[Eros]] (3) · [[Soul]] (2) · [[Passion]] (5) · [[Love]] · [[Activism]] · [[Hindrances]] · [[Clinging]] · [[Nature]]_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=23:08]]
 

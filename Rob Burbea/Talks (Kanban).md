@@ -10,6 +10,9 @@ kanban-plugin: basic
 - [ ] headers for [[Dilemmas and Delineations - How did we get here Part 1]]
 - [ ] headers for [[Dilemmas and Delineations - How did we get here Part 2]]
 - [ ] check keywords for [[2017 Eros Unfettered]]
+- [ ] [[Questioning Awakening]] headers, review keywords
+- [ ] [[Orienting to This Jhana Retreat]] headers, review keywords
+- [ ] [[Using Insight to Deepen Love and Compassion]] headers, review keywords
 
 
 ## Working on it
@@ -19,6 +22,7 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+- [x] [[Using Insight to Deepen Love and Compassion]] (ok)
 - [x] [[Exploring the World of Loving Kindness]] (ok)
 - [x] [[The Place of Samadhi in Metta Practice]] (ok)
 - [x] [[Dilemmas and Delineations - How did we get here Part 2]] (ok)

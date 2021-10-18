@@ -35,7 +35,7 @@ E5 --- E5-4[Rosa Parks]
 ```
 
 ## Index
-<span class="counts">_[[Soul]] (136) · [[Image]] (62) · [[Embodiment]] (61) · [[Soulmaking]] (40) · [[Imaginal]] (37) · [[Daimon]] (33) · [[Blessing]] (32) · [[Energy Body]] (31) · [[Buddha]] (26) · [[The Self]] (24) · [[Compassion]] (13) · [[Dyad]] (13) · [[Dimensionality]] (11) · [[Fear]] (11) · [[Sabbath]] (11) · [[Abraham]] (10) · [[Metta]] (10) · [[Fullness of Intention]] (9) · [[Mind]] (9) · [[Attention]] (8) · [[Christianity]] (8) · [[Habit]] (8) · [[Death]] (7) · [[Duty]] (7) · [[Meditation]] (7) · [[Personhood]] (7) · [[Telos]] (7) · [[Awakening]] (6) · [[Devotion]] (6) · [[History]] (6) · [[Mantra Practice]] (6) · [[Anxiety]] (5) · [[Awareness]] (5) · [[Contraction]] (5) · [[Insight]] (5) · [[Old Testament]] (5) · [[Perception]] (5) · [[Preliminaries]] (5) · [[Rosa Parks]] (5) · [[Dharmakaya]] (4) · [[Dukkha]] (4) · [[Emmett Till]] (4) · [[Energy]] (4) · [[Experience]] (4) · [[Mudra]] (4) · [[Temenos]] (4) · [[The Serpent]] (4) · [[Via Dolorosa]] (4) · [[Avalokiteshvara]] (3) · [[Beauty]] (3) · [[Buddhism]] (3) · [[Divinity]] (3) · [[Mindfulness]] (3) · [[Music]] (3) · [[Passion]] (3) · [[Unfathomability]] (3) · [[Art and Dharma]] (2) · [[Consciousness]] (2) · [[Create-Discover]] (2) · [[Desire]] (2) · [[Dzogchen]] (2) · [[Emotions]] (2) · [[Emptiness]] (2) · [[Emptiness#Suchness]] (2) · [[Eros]] (2) · [[Ethics]] (2) · [[Mahayana]] (2) · [[Mara]] (2) · [[Materialism]] (2) · [[Receptivity]] (2) · [[Sangha]] (2) · [[Thunderclap]] (2) · [[Tibetan Buddhism]] (2) · [[Vajra]] (2) · [[Ways of Looking]] (2) · [[Bhumi]] · [[Borne Aloft By Angels]] · [[Buddha-nature]] · [[Catherine McGee]] · [[Dominant Culture]] · [[Eros Unfettered]] · [[Gestalt Psychology]] · [[Grief]] · [[Guhyasamaja Tantra]] · [[Jhanas]] · [[Mahamudra]] · [[Near enemy]] · [[Ngöndro]] · [[Nobility]] · [[Om mani padme hum]] · [[Papanca]] · [[Pontius Pilate]] · [[Relationships]] · [[Retreat]] · [[Seed Syllables]] · [[Sociology]] · [[Tantra]] · [[The Hospitality to the Angels]] · [[Ultimate Truth]] · [[Vajrayana]] · [[Voice, Movement, and the Possibilities of Soul]]_</span>
+<span class="counts">_[[Soul]] (136) · [[Image]] (62) · [[Embodiment]] (61) · [[Soulmaking]] (40) · [[Imaginal]] (37) · [[Daimon]] (33) · [[Blessing]] (32) · [[Energy Body]] (31) · [[Buddha]] (26) · [[The Self]] (24) · [[Compassion]] (13) · [[Dyad]] (13) · [[Dimensionality]] (11) · [[Fear]] (11) · [[Sabbath]] (11) · [[Abraham]] (10) · [[Metta]] (10) · [[Fullness of Intention]] (9) · [[Mind]] (9) · [[Attention]] (8) · [[Christianity]] (8) · [[Habit]] (8) · [[Death]] (7) · [[Duty]] (7) · [[Meditation]] (7) · [[Personhood]] (7) · [[Telos]] (7) · [[Awakening]] (6) · [[Devotion]] (6) · [[History]] (6) · [[Mantra Practice]] (6) · [[Anxiety]] (5) · [[Awareness]] (5) · [[Contraction]] (5) · [[Insight]] (5) · [[Old Testament]] (5) · [[Perception]] (5) · [[Preliminaries]] (5) · [[Rosa Parks]] (5) · [[Dharmakaya]] (4) · [[Dukkha]] (4) · [[Emmett Till]] (4) · [[Energy]] (4) · [[Experience]] (4) · [[Mudra]] (4) · [[Temenos]] (4) · [[The Serpent]] (4) · [[Via Dolorosa]] (4) · [[Avalokiteshvara]] (3) · [[Beauty]] (3) · [[Buddhism]] (3) · [[Divinity]] (3) · [[Mindfulness]] (3) · [[Music]] (3) · [[Nature]] (3) · [[Passion]] (3) · [[Unfathomability]] (3) · [[Art and Dharma]] (2) · [[Consciousness]] (2) · [[Create-Discover]] (2) · [[Desire]] (2) · [[Dzogchen]] (2) · [[Emotions]] (2) · [[Emptiness]] (2) · [[Emptiness#Suchness]] (2) · [[Eros]] (2) · [[Ethics]] (2) · [[Mahayana]] (2) · [[Mara]] (2) · [[Materialism]] (2) · [[Receptivity]] (2) · [[Sangha]] (2) · [[Thunderclap]] (2) · [[Tibetan Buddhism]] (2) · [[Vajra]] (2) · [[Ways of Looking]] (2) · [[Bhumi]] · [[Borne Aloft By Angels]] · [[Buddha-nature]] · [[Catherine McGee]] · [[Dominant Culture]] · [[Eros Unfettered]] · [[Gestalt Psychology]] · [[Grief]] · [[Guhyasamaja Tantra]] · [[Jhanas]] · [[Mahamudra]] · [[Near enemy]] · [[Ngöndro]] · [[Nobility]] · [[Om mani padme hum]] · [[Papanca]] · [[Pontius Pilate]] · [[Relationships]] · [[Retreat]] · [[Seed Syllables]] · [[Sociology]] · [[Tantra]] · [[The Hospitality to the Angels]] · [[Ultimate Truth]] · [[Vajrayana]] · [[Voice, Movement, and the Possibilities of Soul]]_</span>
 <br/>
 
 ## Referenced talks
@@ -188,7 +188,7 @@ The mindfulness expands to include that: "Oh, okay. There's self-consciousness g
 
 ---
 ##### Opening up counteracts the contraction that's inherent in self-consciousness
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-1|7-1]]**: _[[The Self]] (6) · [[Contraction]] (4) · [[Attention]] (6) · [[Consciousness]] · [[Awareness]] (3) · [[Anxiety]] · [[Energy Body]]_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^7-1|7-1]]**: _[[The Self]] (6) · [[Nature]] · [[Contraction]] (4) · [[Attention]] (6) · [[Consciousness]] · [[Awareness]] (3) · [[Anxiety]] · [[Energy Body]]_</span>
 
 ---
 ##### Set up the temenos in the beginning and include metta
@@ -276,7 +276,7 @@ So we really want to keep that range of things, the more subtle range, open, and
 
 ---
 ##### Some soul-secrets might be for the ears of the angel only (Reason 4)
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^10-6|10-6]]**: _[[Personhood]] (2) · [[Image]] · [[Imaginal]] · [[Soul]] (5) · [[Daimon]] (6) · [[Soulmaking]] (2) · [[Materialism]] (2) · [[Dimensionality]]_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^10-6|10-6]]**: _[[Personhood]] (2) · [[Image]] · [[Imaginal]] · [[Soul]] (5) · [[Daimon]] (6) · [[Soulmaking]] (2) · [[Materialism]] (2) · [[Dimensionality]] · [[Nature]]_</span>
 
 ---
 ##### Remember: we are not seeking information
@@ -502,7 +502,7 @@ Now, okay, so here's a certain personality, a certain kind of style of expressio
 
 ---
 ##### They are also path dependend, in response to different students that I've been working with
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^19-4|19-4]]**: _[[Sangha]]_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^19-4|19-4]]**: _[[Nature]] · [[Sangha]]_</span>
 
 ---
 ##### The principle is to make one body and soul

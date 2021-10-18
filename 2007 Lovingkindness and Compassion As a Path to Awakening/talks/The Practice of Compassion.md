@@ -14,7 +14,7 @@ Transcript PDF: [[2007_0201 The Practice of Compassion.pdf]]
 ![[20070201-Rob_Burbea-GAIA-the_practice_of_compassion-12295.mp3]]
 
 ## Index
-<span class="counts">_[[Compassion]] (155) · [[Dukkha]] (118) · [[Insight]] (35) · [[Metta]] (31) · [[Mind]] (26) · [[The Self]] (18) · [[Fear]] (14) · [[Grief]] (14) · [[Happiness]] (13) · [[Emptiness]] (12) · [[Anger]] (11) · [[Dependent Origination]] (11) · [[Embodiment]] (10) · [[Energy]] (10) · [[Healing]] (10) · [[Ignorance]] (10) · [[Near enemy]] (10) · [[Pity]] (9) · [[Buddha]] (8) · [[Equanimity]] (8) · [[Love]] (8) · [[Oneness]] (8) · [[Perception]] (7) · [[Pleasantness]] (7) · [[Awareness]] (6) · [[Cultivation]] (6) · [[Freedom]] (6) · [[Pain]] (6) · [[Samadhi]] (6) · [[Anatta]] (5) · [[Aversion]] (5) · [[Contraction]] (5) · [[Empathy]] (4) · [[Jesus]] (4) · [[Retreat]] (4) · [[Avalokiteshvara]] (3) · [[Avijja]] (3) · [[Bodhisattva]] (3) · [[Centre]] (3) · [[Experience]] (3) · [[Breath]] (2) · [[Clinging]] (2) · [[Consciousness]] (2) · [[Death]] (2) · [[Hindrances]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Karma]] (2) · [[Letting go]] (2) · [[Nobility]] (2) · [[Present Moment]] (2) · [[Spaciousness]] (2) · [[Tiredness]] (2) · [[Ways of Looking]] (2) · [[Acceptance]] · [[Attention]] · [[Awakening]] · [[Beauty]] · [[Christianity]] · [[Constriction]] · [[Cosmology]] · [[Craving]] · [[Dalai Lama]] · [[Depression]] · [[Desire]] · [[Gertrude Stein]] · [[Habit]] · [[Image]] · [[Julian of Norwich]] · [[Meditation]] · [[Naomi Shihab Nye]] · [[Nihilism]] · [[Nondualism]] · [[Reconditioning]] · [[Steadiness]] · [[Stephen Batchelor]] · [[Supernova]] · [[Thich Nhat Hanh]] · [[Tibetan Buddhism]] · [[Tonglen]] · [[Walt Whitman]]_</span>
+<span class="counts">_[[Compassion]] (155) · [[Dukkha]] (118) · [[Insight]] (35) · [[Metta]] (31) · [[Mind]] (26) · [[The Self]] (18) · [[Fear]] (14) · [[Grief]] (14) · [[Happiness]] (13) · [[Emptiness]] (12) · [[Anger]] (11) · [[Dependent Origination]] (11) · [[Embodiment]] (10) · [[Energy]] (10) · [[Healing]] (10) · [[Ignorance]] (10) · [[Near enemy]] (10) · [[Pity]] (9) · [[Buddha]] (8) · [[Equanimity]] (8) · [[Love]] (8) · [[Oneness]] (8) · [[Perception]] (7) · [[Pleasantness]] (7) · [[Awareness]] (6) · [[Cultivation]] (6) · [[Freedom]] (6) · [[Pain]] (6) · [[Samadhi]] (6) · [[Anatta]] (5) · [[Aversion]] (5) · [[Contraction]] (5) · [[Empathy]] (4) · [[Jesus]] (4) · [[Nature]] (4) · [[Retreat]] (4) · [[Avalokiteshvara]] (3) · [[Avijja]] (3) · [[Bodhisattva]] (3) · [[Centre]] (3) · [[Experience]] (3) · [[Breath]] (2) · [[Clinging]] (2) · [[Consciousness]] (2) · [[Death]] (2) · [[Hindrances]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Karma]] (2) · [[Letting go]] (2) · [[Nobility]] (2) · [[Present Moment]] (2) · [[Spaciousness]] (2) · [[Tiredness]] (2) · [[Ways of Looking]] (2) · [[Acceptance]] · [[Attention]] · [[Awakening]] · [[Beauty]] · [[Christianity]] · [[Constriction]] · [[Cosmology]] · [[Craving]] · [[Dalai Lama]] · [[Depression]] · [[Desire]] · [[Gertrude Stein]] · [[Habit]] · [[Image]] · [[Julian of Norwich]] · [[Meditation]] · [[Naomi Shihab Nye]] · [[Nihilism]] · [[Nondualism]] · [[Reconditioning]] · [[Steadiness]] · [[Stephen Batchelor]] · [[Supernova]] · [[Thich Nhat Hanh]] · [[Tibetan Buddhism]] · [[Tonglen]] · [[Walt Whitman]]_</span>
 <br/>
 
 ## Paragraphs
@@ -214,7 +214,7 @@ when the [compassion](https://publish.obsidian.md/rob-burbea/Index/Compassion) h
 
 ---
 ##### "Love is without beginning"
-<span class="counts">**[[0201 The Practice of Compassion#^9-2|9-2]]**: _[[Awareness]] · [[Cosmology]] · [[Energy]] (2) · [[Bodhisattva]] (2) · [[Avalokiteshvara]] · [[Compassion]] · [[Jesus]] (2) · [[Christianity]] · [[Julian of Norwich]] · [[Love]]_</span>
+<span class="counts">**[[0201 The Practice of Compassion#^9-2|9-2]]**: _[[Nature]] (3) · [[Awareness]] · [[Cosmology]] · [[Energy]] (2) · [[Bodhisattva]] (2) · [[Avalokiteshvara]] · [[Compassion]] · [[Jesus]] (2) · [[Christianity]] · [[Julian of Norwich]] · [[Love]]_</span>
 
 ---
 ##### When there's metta and compassion for oneself, the ego can take its rightful place in the scheme of things
@@ -303,7 +303,7 @@ https://www.youtube.com/watch?v=8UF3NolGSHg
 ---
 ### Emptiness
 ##### A way of regarding a person as empty is to say they are infinite
-<span class="counts">**[[0201 The Practice of Compassion#^12-3|12-3]]**: _[[Emptiness]] (2) · [[Compassion]] · [[Nihilism]]_</span>
+<span class="counts">**[[0201 The Practice of Compassion#^12-3|12-3]]**: _[[Emptiness]] (2) · [[Compassion]] · [[Nihilism]] · [[Nature]]_</span>
 
 ---
 ##### We were all borne from the same supernova

@@ -14,7 +14,7 @@ Transcript PDF: [[2007_0204 Love and Emptiness.pdf]]
 ![[20070204-Rob_Burbea-GAIA-love_and_emptiness-12293.mp3]]
 
 ## Index
-<span class="counts">_[[Metta]] (85) · [[Compassion]] (63) · [[Love]] (63) · [[Emptiness]] (47) · [[Craving]] (38) · [[Perception]] (31) · [[Mind]] (28) · [[Experience]] (22) · [[Dukkha]] (17) · [[Insight]] (16) · [[Acceptance]] (14) · [[Consciousness]] (14) · [[Awareness]] (12) · [[Fear]] (12) · [[Mindfulness]] (12) · [[Awakening]] (11) · [[Buddha]] (11) · [[Cultivation]] (10) · [[Meditation]] (10) · [[Oneness]] (10) · [[Clinging]] (9) · [[Attention]] (8) · [[Freedom]] (8) · [[Kusala]] (8) · [[Dharma]] (7) · [[Equanimity]] (7) · [[Reconditioning]] (7) · [[Retreat]] (7) · [[Unfabricated]] (7) · [[Embodiment]] (6) · [[Anger]] (5) · [[Dependent Origination]] (5) · [[Emotions]] (4) · [[Mahayana]] (4) · [[Mind state]] (4) · [[Samadhi]] (4) · [[Ways of Looking]] (4) · [[Aksayamati Sutra]] (3) · [[Anatta]] (3) · [[Aversion]] (3) · [[Nondualism]] (3) · [[Phenomenon]] (3) · [[Present Moment]] (3) · [[Blessing]] (2) · [[Chanda]] (2) · [[Fabrication]] (2) · [[Impermanence]] (2) · [[Nihilism]] (2) · [[Sutra]] (2) · [[The Self]] (2) · [[Activism]] · [[Breath]] · [[Dimensionality]] · [[Feelings]] · [[Gaia House]] · [[Habit]] · [[Happiness]] · [[Healing]] · [[Heaven]] · [[Image]] · [[Letting go]] · [[Lotus Sutra]] · [[Middle Way]] · [[Pain]] · [[Ram Dass]] · [[Relationships]] · [[Romantic love]] · [[Rumi]] · [[Sankhara]] · [[Stories]] · [[Sutta]] · [[Thanissaro Bhikkhu]] · [[Tibetan Buddhism]] · [[Vajrayana]] · [[Wonder]]_</span>
+<span class="counts">_[[Metta]] (85) · [[Compassion]] (63) · [[Love]] (63) · [[Emptiness]] (47) · [[Craving]] (38) · [[Perception]] (31) · [[Mind]] (28) · [[Experience]] (22) · [[Dukkha]] (17) · [[Insight]] (16) · [[Acceptance]] (14) · [[Consciousness]] (14) · [[Awareness]] (12) · [[Fear]] (12) · [[Mindfulness]] (12) · [[Awakening]] (11) · [[Buddha]] (11) · [[Cultivation]] (10) · [[Meditation]] (10) · [[Oneness]] (10) · [[Clinging]] (9) · [[Attention]] (8) · [[Freedom]] (8) · [[Kusala]] (8) · [[Dharma]] (7) · [[Equanimity]] (7) · [[Reconditioning]] (7) · [[Retreat]] (7) · [[Unfabricated]] (7) · [[Embodiment]] (6) · [[Anger]] (5) · [[Dependent Origination]] (5) · [[Emotions]] (4) · [[Mahayana]] (4) · [[Mind state]] (4) · [[Samadhi]] (4) · [[Ways of Looking]] (4) · [[Aksayamati Sutra]] (3) · [[Anatta]] (3) · [[Aversion]] (3) · [[Nature]] (3) · [[Nondualism]] (3) · [[Phenomenon]] (3) · [[Present Moment]] (3) · [[Blessing]] (2) · [[Chanda]] (2) · [[Fabrication]] (2) · [[Impermanence]] (2) · [[Nihilism]] (2) · [[Sutra]] (2) · [[The Self]] (2) · [[Activism]] · [[Breath]] · [[Dimensionality]] · [[Feelings]] · [[Gaia House]] · [[Habit]] · [[Happiness]] · [[Healing]] · [[Heaven]] · [[Image]] · [[Letting go]] · [[Lotus Sutra]] · [[Middle Way]] · [[Pain]] · [[Ram Dass]] · [[Relationships]] · [[Romantic love]] · [[Rumi]] · [[Sankhara]] · [[Stories]] · [[Sutta]] · [[Thanissaro Bhikkhu]] · [[Tibetan Buddhism]] · [[Vajrayana]] · [[Wonder]]_</span>
 <br/>
 
 ## Paragraphs
@@ -124,7 +124,7 @@ There's nowhere outside of acceptance. There's nowhere outside of love. So if we
 ---
 ####  Emptiness
 ##### The fleeting nature of experience deserves our compassion
-<span class="counts">**[[0204 Love and Emptiness#^4-3|4-3]]**: _[[Experience]] (4) · [[Compassion]] (2)_</span>
+<span class="counts">**[[0204 Love and Emptiness#^4-3|4-3]]**: _[[Experience]] (4) · [[Nature]] · [[Compassion]] (2)_</span>
 
 ---
 ##### Experience begin to fade
@@ -296,7 +296,7 @@ Seeing emptiness leads to love and compassion, because it's kind of done away wi
 
 ---
 ##### A continuum of love
-<span class="counts">**[[0204 Love and Emptiness#^11-1|11-1]]**: _[[Love]] (7) · [[Consciousness]] (3) · [[Metta]] · [[Compassion]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^11-1|11-1]]**: _[[Love]] (7) · [[Consciousness]] (3) · [[Nature]] · [[Metta]] · [[Compassion]]_</span>
 
 ```ad-quote
 It's not that we're always going to stay in one state or another. It's something about being human, the amazing range of human consciousness. It's staggering, the capacity of the range of human consciousness to move along that whole spectrum. And somehow in that, and in accepting that movement, that's where our humanity is and our humility is.
@@ -326,7 +326,7 @@ So experiment. What I think I'm interested in is beginning to see this relations
 
 ---
 ##### Yogi: Considering conditions making thoughts or trees happening
-<span class="counts">**[[0204 Love and Emptiness#^12-1|12-1]]**: _[[Emptiness]] · [[Phenomenon]] · [[Mind]]_</span>
+<span class="counts">**[[0204 Love and Emptiness#^12-1|12-1]]**: _[[Emptiness]] · [[Phenomenon]] · [[Mind]] · [[Nature]]_</span>
 
 ---
 ##### Yogi: What are we giving metta to when it's something that's transient and impermanent?
