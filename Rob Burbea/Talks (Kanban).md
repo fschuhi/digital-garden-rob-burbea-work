@@ -1,11 +1,7 @@
 ---
-
 kanban-plugin: basic
-
 ---
-
 ## Pending
-
 - [ ] [[Samadhi in Metta Practice]]  causes of happiness 4-3
 - [ ] headers for [[Dilemmas and Delineations - How did we get here Part 1]]
 - [ ] headers for [[Dilemmas and Delineations - How did we get here Part 2]]
@@ -13,14 +9,9 @@ kanban-plugin: basic
 - [ ] [[Questioning Awakening]] headers, review keywords
 - [ ] [[Orienting to This Jhana Retreat]] headers, review keywords
 - [ ] [[Using Insight to Deepen Love and Compassion]] headers, review keywords
-
-
+- [ ] [[Dilemmas and Delineations - How did we get here Part 3]] (15)
 ## Working on it
-
-
-
 ## Done
-
 **Complete**
 - [x] [[Using Insight to Deepen Love and Compassion]] (ok)
 - [x] [[Exploring the World of Loving Kindness]] (ok)
@@ -38,5 +29,3 @@ kanban-plugin: basic
 - [x] [[From Insight to Love]] (ok)
 - [x] [[Expressions of Metta]] (ok)
 - [x] [[Samadhi in Metta Practice]] (ok)
-
-

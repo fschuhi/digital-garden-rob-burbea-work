@@ -7,6 +7,7 @@ talk | count | series
 [[The Way of Non-Clinging Part 1]] | 4 | [[2017 Eros Unfettered]]
 [[Orienting to This Jhana Retreat]] | 3 | [[2019 Practising the Jhanas]]
 [[The Place of Samadhi in Metta Practice]] | 3 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 1 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 

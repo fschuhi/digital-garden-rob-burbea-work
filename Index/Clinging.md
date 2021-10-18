@@ -11,8 +11,8 @@ talk | count | series
 [[Expressions of Metta]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 9 | [[2017 Eros Unfettered]]
 [[Exploring the World of Loving Kindness]] | 8 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 7 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 7 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[What is Insight]] | 4 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

@@ -6,6 +6,7 @@ talk | count | series
 [[The Way of Non-Clinging Part 1]] | 5 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 3]] | 2 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

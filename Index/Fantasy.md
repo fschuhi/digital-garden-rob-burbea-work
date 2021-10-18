@@ -7,6 +7,7 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 17 | [[2020 Vajra Music]]
 [[Questioning Awakening]] | 12 | [[2014 November Solitary - Questioning Awakening]]
 [[Orienting to This Jhana Retreat]] | 9 | [[2019 Practising the Jhanas]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 8 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 4 | [[2017 Eros Unfettered]]
 [[The Place of Samadhi in Metta Practice]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 1 | [[2020 Vajra Music]]

@@ -6,6 +6,7 @@ talk | count | series
 [[The Way of Non-Clinging Part 2]] | 8 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 2 | [[2020 Vajra Music]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 2 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 1 | [[2020 Vajra Music]]
 [[The Way of Non-Clinging Part 3]] | 1 | [[2017 Eros Unfettered]]
 [[Questioning Awakening]] | 1 | [[2014 November Solitary - Questioning Awakening]]

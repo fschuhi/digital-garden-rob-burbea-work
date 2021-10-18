@@ -15,8 +15,8 @@ talk | count | series
 [[Equanimity in Compassion]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 12 | [[2006 New Year's Retreat]]
 [[Joy (talk)]] | 7 | [[2007 New Years Retreat Insight Meditation]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 3 | [[2017 Eros Unfettered]]
 [[Questioning Awakening]] | 3 | [[2014 November Solitary - Questioning Awakening]]
-[[Love and Emptiness]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

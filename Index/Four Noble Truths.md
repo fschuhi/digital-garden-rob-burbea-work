@@ -8,6 +8,7 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 2 | [[2020 Vajra Music]]
 [[The Way of Non-Clinging Part 2]] | 2 | [[2017 Eros Unfettered]]
 [[What is Insight]] | 2 | [[2007 New Years Retreat Insight Meditation]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 1 | [[2017 Eros Unfettered]]
 [[Using Insight to Deepen Love and Compassion]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions

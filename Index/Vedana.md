@@ -6,6 +6,7 @@ talk | count | series
 [[The Way of Non-Clinging Part 1]] | 8 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 2]] | 7 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 3]] | 3 | [[2017 Eros Unfettered]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 1 | [[2017 Eros Unfettered]]
 [[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions

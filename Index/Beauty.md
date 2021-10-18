@@ -4,12 +4,12 @@
 talk | count | series
 :- | - |: -
 [[Orienting to This Jhana Retreat]] | 10 | [[2019 Practising the Jhanas]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 8 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 3]] | 8 | [[2017 Eros Unfettered]]
 [[Joy (talk)]] | 8 | [[2007 New Years Retreat Insight Meditation]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 7 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 5 | [[2020 Vajra Music]]
 [[The Way of Non-Clinging Part 2]] | 5 | [[2017 Eros Unfettered]]
-[[The Place of Samadhi in Metta Practice]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 4 | [[2007 New Years Retreat Insight Meditation]]
 [[Equanimity in Compassion]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 4 | [[2006 New Year's Retreat]]

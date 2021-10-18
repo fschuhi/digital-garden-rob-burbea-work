@@ -5,7 +5,7 @@ obsidianUIMode: preview
 ---
 #Talk
 
-[[Dilemmas and Delineations - How did we get here Part 1|Dilemmas and Delineations - How did we get here Part 1 🡄]] | [[2017 Eros Unfettered|🡅]] | 
+[[Dilemmas and Delineations - How did we get here Part 1|Dilemmas and Delineations - How did we get here Part 1 🡄]] | [[2017 Eros Unfettered|🡅]] | [[Dilemmas and Delineations - How did we get here Part 3|🡆 Dilemmas and Delineations - How did we get here Part 3]]
 
 Series: [[2017 Eros Unfettered]]
 Transcript: [[0119 Dilemmas and Delineations - How did we get here Part 2]]

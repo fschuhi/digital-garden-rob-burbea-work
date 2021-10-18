@@ -11,8 +11,8 @@ talk | count | series
 [[Samadhi in Metta Practice]] | 30 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Place of Samadhi in Metta Practice]] | 18 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 14 | [[2020 Vajra Music]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 13 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 3]] | 12 | [[2017 Eros Unfettered]]
-[[Equanimity in Compassion]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

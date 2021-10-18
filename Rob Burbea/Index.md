@@ -17,7 +17,7 @@ Each index entry has a page in the "Index entries" folder. Use backlinks (shown 
 ---
 ^A
 ##### A
-[[Abraham]] &nbsp;·&nbsp; [[Acceptance]] &nbsp;·&nbsp; [[Active listening]] &nbsp;·&nbsp; [[Activism]] &nbsp;·&nbsp; [[Ajahn Dhammadharo]] &nbsp;·&nbsp; [[Aksayamati Sutra]] &nbsp;·&nbsp; [[Alchemy]] &nbsp;·&nbsp; [[Anatta]] &nbsp;·&nbsp; [[Anger]] &nbsp;·&nbsp; [[Anthropology]] &nbsp;·&nbsp; [[Antinomy]] &nbsp;·&nbsp; [[Anxiety]] &nbsp;·&nbsp; [[Appreciation]] &nbsp;·&nbsp; [[Archetype]] &nbsp;·&nbsp; [[Art and Dharma]] &nbsp;·&nbsp; [[Asavas]] &nbsp;·&nbsp; [[Attention]] &nbsp;·&nbsp; [[Avalokiteshvara]] &nbsp;·&nbsp; [[Aversion]] &nbsp;·&nbsp; [[Avijja]] &nbsp;·&nbsp; [[Awakening]] &nbsp;·&nbsp; [[Awareness]]
+[[Abraham]] &nbsp;·&nbsp; [[Acceptance]] &nbsp;·&nbsp; [[Active listening]] &nbsp;·&nbsp; [[Activism]] &nbsp;·&nbsp; [[Ajahn Dhammadharo]] &nbsp;·&nbsp; [[Aksayamati Sutra]] &nbsp;·&nbsp; [[Alchemy]] &nbsp;·&nbsp; [[Anatta]] &nbsp;·&nbsp; [[Anger]] &nbsp;·&nbsp; [[Anthropology]] &nbsp;·&nbsp; [[Antinomy]] &nbsp;·&nbsp; [[Anxiety]] &nbsp;·&nbsp; [[Appreciation]] &nbsp;·&nbsp; [[Archetype]] &nbsp;·&nbsp; [[Art and Dharma]] &nbsp;·&nbsp; [[Artificial intelligence]] &nbsp;·&nbsp; [[Aruparaga]] &nbsp;·&nbsp; [[Asavas]] &nbsp;·&nbsp; [[Attention]] &nbsp;·&nbsp; [[Avalokiteshvara]] &nbsp;·&nbsp; [[Aversion]] &nbsp;·&nbsp; [[Avijja]] &nbsp;·&nbsp; [[Awakening]] &nbsp;·&nbsp; [[Awareness]]
 
 ---
 ^B
@@ -27,17 +27,17 @@ Each index entry has a page in the "Index entries" folder. Use backlinks (shown 
 ---
 ^C
 ##### C
-[[Centre]] &nbsp;·&nbsp; [[Chanda]] &nbsp;·&nbsp; [[Child Development]] &nbsp;·&nbsp; [[Chogyam Trungpa]] &nbsp;·&nbsp; [[Christianity]] &nbsp;·&nbsp; [[Circuits]] &nbsp;·&nbsp; [[Citta]] &nbsp;·&nbsp; [[Clinging]] &nbsp;·&nbsp; [[Commentaries]] &nbsp;·&nbsp; [[Compassion]] &nbsp;·&nbsp; [[Conceptual Framework]] &nbsp;·&nbsp; [[Consciousness]] &nbsp;·&nbsp; [[Constriction]] &nbsp;·&nbsp; [[Contraction]] &nbsp;·&nbsp; [[Conventional reality]] &nbsp;·&nbsp; [[Henry Corbin|Corbin, Henry]] &nbsp;·&nbsp; [[Cosmology]] &nbsp;·&nbsp; [[Craving]] &nbsp;·&nbsp; [[Create-Discover]] &nbsp;·&nbsp; [[Cultivation]]
+[[Centre]] &nbsp;·&nbsp; [[Chanda]] &nbsp;·&nbsp; [[Chandaraga]] &nbsp;·&nbsp; [[Chandrakirti]] &nbsp;·&nbsp; [[Child Development]] &nbsp;·&nbsp; [[Chogyam Trungpa]] &nbsp;·&nbsp; [[Christianity]] &nbsp;·&nbsp; [[Circuits]] &nbsp;·&nbsp; [[Citta]] &nbsp;·&nbsp; [[Clinging]] &nbsp;·&nbsp; [[Commentaries]] &nbsp;·&nbsp; [[Compassion]] &nbsp;·&nbsp; [[Conceptual Framework]] &nbsp;·&nbsp; [[Consciousness]] &nbsp;·&nbsp; [[Constriction]] &nbsp;·&nbsp; [[Contraction]] &nbsp;·&nbsp; [[Conventional reality]] &nbsp;·&nbsp; [[Henry Corbin|Corbin, Henry]] &nbsp;·&nbsp; [[Cosmology]] &nbsp;·&nbsp; [[Craving]] &nbsp;·&nbsp; [[Create-Discover]] &nbsp;·&nbsp; [[Cultivation]]
 
 ---
 ^D
 ##### D
-[[Daimon]] &nbsp;·&nbsp; [[Daimon, Refracted]] &nbsp;·&nbsp; [[Dakini]] &nbsp;·&nbsp; [[Dalai Lama]] &nbsp;·&nbsp; [[Dana]] &nbsp;·&nbsp; [[Death]] &nbsp;·&nbsp; [[Delineations]] &nbsp;·&nbsp; [[Dependent Origination]] &nbsp;·&nbsp; [[Depression]] &nbsp;·&nbsp; [[Desire]] &nbsp;·&nbsp; [[Devotion]] &nbsp;·&nbsp; [[Dharma]] &nbsp;·&nbsp; [[Dharma Seed]] &nbsp;·&nbsp; [[Dharmakaya]] &nbsp;·&nbsp; [[Diamond Approach]] &nbsp;·&nbsp; [[Dimensionality]] &nbsp;·&nbsp; [[Discrepancy-based Processing]] &nbsp;·&nbsp; [[Divinity]] &nbsp;·&nbsp; [[Dogma]] &nbsp;·&nbsp; [[Dominant Culture]] &nbsp;·&nbsp; [[Dukkha]] &nbsp;·&nbsp; [[Duty]] &nbsp;·&nbsp; [[Dyad]] &nbsp;·&nbsp; [[Dzogchen]]
+[[Daimon]] &nbsp;·&nbsp; [[Daimon, Refracted]] &nbsp;·&nbsp; [[Dakini]] &nbsp;·&nbsp; [[Dalai Lama]] &nbsp;·&nbsp; [[Dana]] &nbsp;·&nbsp; [[Death]] &nbsp;·&nbsp; [[Delineations]] &nbsp;·&nbsp; [[Dependent Origination]] &nbsp;·&nbsp; [[Depression]] &nbsp;·&nbsp; [[Desire]] &nbsp;·&nbsp; [[Devotion]] &nbsp;·&nbsp; [[Dharma]] &nbsp;·&nbsp; [[Dharma Seed]] &nbsp;·&nbsp; [[Dharmakaya]] &nbsp;·&nbsp; [[Diamond Approach]] &nbsp;·&nbsp; [[Dimensionality]] &nbsp;·&nbsp; [[Dionysius the Areopagite]] &nbsp;·&nbsp; [[Discrepancy-based Processing]] &nbsp;·&nbsp; [[Divinity]] &nbsp;·&nbsp; [[Dogma]] &nbsp;·&nbsp; [[Dominant Culture]] &nbsp;·&nbsp; [[Dukkha]] &nbsp;·&nbsp; [[Duty]] &nbsp;·&nbsp; [[Dyad]] &nbsp;·&nbsp; [[Dzogchen]]
 
 ---
 ^E
 ##### E
-[[Eight worldly conditions]] &nbsp;·&nbsp; [[Albert Einstein|Einstein, Albert]] &nbsp;·&nbsp; [[Dwight Eisenhower|Eisenhower, Dwight]] &nbsp;·&nbsp; [[Elitism]] &nbsp;·&nbsp; [[Embodiment]] &nbsp;·&nbsp; [[Emotions]] &nbsp;·&nbsp; [[Empathy]] &nbsp;·&nbsp; [[Empiricism]] &nbsp;·&nbsp; [[Emptiness]] &nbsp;·&nbsp; [[Energy]] &nbsp;·&nbsp; [[Energy Body]] &nbsp;·&nbsp; [[Engagement and Activism]] &nbsp;·&nbsp; [[Epistemology]] &nbsp;·&nbsp; [[Equanimity]] &nbsp;·&nbsp; [[Eros]] &nbsp;·&nbsp; [[Eros Unfettered]] &nbsp;·&nbsp; [[Eternality]] &nbsp;·&nbsp; [[Ethics]] &nbsp;·&nbsp; [[Experience]]
+[[Eclecticism]] &nbsp;·&nbsp; [[Eight worldly conditions]] &nbsp;·&nbsp; [[Albert Einstein|Einstein, Albert]] &nbsp;·&nbsp; [[Dwight Eisenhower|Eisenhower, Dwight]] &nbsp;·&nbsp; [[Elitism]] &nbsp;·&nbsp; [[Embodiment]] &nbsp;·&nbsp; [[Emotions]] &nbsp;·&nbsp; [[Empathy]] &nbsp;·&nbsp; [[Empiricism]] &nbsp;·&nbsp; [[Emptiness]] &nbsp;·&nbsp; [[Energy]] &nbsp;·&nbsp; [[Energy Body]] &nbsp;·&nbsp; [[Engagement and Activism]] &nbsp;·&nbsp; [[Epistemology]] &nbsp;·&nbsp; [[Equanimity]] &nbsp;·&nbsp; [[Eros]] &nbsp;·&nbsp; [[Eros Unfettered]] &nbsp;·&nbsp; [[Eternality]] &nbsp;·&nbsp; [[Ethics]] &nbsp;·&nbsp; [[Experience]]
 
 ---
 ^F
@@ -47,12 +47,12 @@ Each index entry has a page in the "Index entries" folder. Use backlinks (shown 
 ---
 ^G
 ##### G
-[[Hans Georg Gadamer|Gadamer, Hans Georg]] &nbsp;·&nbsp; [[Gaia House]] &nbsp;·&nbsp; [[Mahatma Gandhi|Gandhi, Mahatma]] &nbsp;·&nbsp; [[Generosity]] &nbsp;·&nbsp; [[Gestalt Psychology]] &nbsp;·&nbsp; [[Allen Ginsberg|Ginsberg, Allen]] &nbsp;·&nbsp; [[Global warming]] &nbsp;·&nbsp; [[Goenka]] &nbsp;·&nbsp; [[Gratitude]] &nbsp;·&nbsp; [[Grief]] &nbsp;·&nbsp; [[Guhyasamaja Tantra]] &nbsp;·&nbsp; [[Guinness Book of Records]]
+[[Hans Georg Gadamer|Gadamer, Hans Georg]] &nbsp;·&nbsp; [[Gaia House]] &nbsp;·&nbsp; [[Mahatma Gandhi|Gandhi, Mahatma]] &nbsp;·&nbsp; [[Generosity]] &nbsp;·&nbsp; [[Gestalt Psychology]] &nbsp;·&nbsp; [[Kahlil Gibran|Gibran, Kahlil]] &nbsp;·&nbsp; [[Allen Ginsberg|Ginsberg, Allen]] &nbsp;·&nbsp; [[Global warming]] &nbsp;·&nbsp; [[Goenka]] &nbsp;·&nbsp; [[Gratitude]] &nbsp;·&nbsp; [[Grief]] &nbsp;·&nbsp; [[Guhyasamaja Tantra]] &nbsp;·&nbsp; [[Guinness Book of Records]]
 
 ---
 ^H
 ##### H
-[[Habit]] &nbsp;·&nbsp; [[Happiness]] &nbsp;·&nbsp; [[Healing]] &nbsp;·&nbsp; [[Hearing All Sounds as Mantra]] &nbsp;·&nbsp; [[Heat and the Material]] &nbsp;·&nbsp; [[Heaven]] &nbsp;·&nbsp; [[Hell]] &nbsp;·&nbsp; [[Hermeneutics]] &nbsp;·&nbsp; [[Hermit]] &nbsp;·&nbsp; [[Hindrances]] &nbsp;·&nbsp; [[History]] &nbsp;·&nbsp; [[Human Relationship]] &nbsp;·&nbsp; [[Humanism]]
+[[Habit]] &nbsp;·&nbsp; [[Happiness]] &nbsp;·&nbsp; [[Healing]] &nbsp;·&nbsp; [[Hearing All Sounds as Mantra]] &nbsp;·&nbsp; [[Heat and the Material]] &nbsp;·&nbsp; [[Heaven]] &nbsp;·&nbsp; [[Werner Heisenberg|Heisenberg, Werner]] &nbsp;·&nbsp; [[Hell]] &nbsp;·&nbsp; [[Hermeneutics]] &nbsp;·&nbsp; [[Hermit]] &nbsp;·&nbsp; [[Hindrances]] &nbsp;·&nbsp; [[History]] &nbsp;·&nbsp; [[Human Relationship]] &nbsp;·&nbsp; [[Humanism]]
 
 ---
 ^I
@@ -67,7 +67,7 @@ Each index entry has a page in the "Index entries" folder. Use backlinks (shown 
 ---
 ^K
 ##### K
-[[Kabbala]] &nbsp;·&nbsp; [[Kaccayana]] &nbsp;·&nbsp; [[Karma]] &nbsp;·&nbsp; [[Jeffrey J Kripal|Kripal, Jeffrey J]] &nbsp;·&nbsp; [[Jiddu Krishnamurti|Krishnamurti, Juddi]] &nbsp;·&nbsp; [[Kusala]]
+[[Kabbala]] &nbsp;·&nbsp; [[Kaccayana]] &nbsp;·&nbsp; [[Kalyanamittata]] &nbsp;·&nbsp; [[Kama]] &nbsp;·&nbsp; [[Kamacchanda]] &nbsp;·&nbsp; [[Kameti]] &nbsp;·&nbsp; [[Karma]] &nbsp;·&nbsp; [[Jeffrey J Kripal|Kripal, Jeffrey J]] &nbsp;·&nbsp; [[Jiddu Krishnamurti|Krishnamurti, Juddi]] &nbsp;·&nbsp; [[Kusala]]
 
 ---
 ^L
@@ -77,17 +77,17 @@ Each index entry has a page in the "Index entries" folder. Use backlinks (shown 
 ---
 ^M
 ##### M
-[[Mahamudra]] &nbsp;·&nbsp; [[Mahasi Sayadaw]] &nbsp;·&nbsp; [[Mahayana]] &nbsp;·&nbsp; [[Manifestations]] &nbsp;·&nbsp; [[Mantra Practice]] &nbsp;·&nbsp; [[Mara]] &nbsp;·&nbsp; [[Mary]] &nbsp;·&nbsp; [[Materialism]] &nbsp;·&nbsp; [[Catherine McGee|McGee, Catherine]] &nbsp;·&nbsp; [[Meaningfulness]] &nbsp;·&nbsp; [[Meditation]] &nbsp;·&nbsp; [[Messianism]] &nbsp;·&nbsp; [[Metaphysics]] &nbsp;·&nbsp; [[Metta]] &nbsp;·&nbsp; [[Middle Way]] &nbsp;·&nbsp; [[Mind]] &nbsp;·&nbsp; [[Mind state]] &nbsp;·&nbsp; [[Mindfulness]] &nbsp;·&nbsp; [[Mode of mind]] &nbsp;·&nbsp; [[Modernism]] &nbsp;·&nbsp; [[Monotheism]] &nbsp;·&nbsp; [[Mother Teresa]] &nbsp;·&nbsp; [[Mudita]] &nbsp;·&nbsp; [[Mudra]] &nbsp;·&nbsp; [[Music]] &nbsp;·&nbsp; [[Mystical opening]]
+[[Mahamudra]] &nbsp;·&nbsp; [[Mahasi Sayadaw]] &nbsp;·&nbsp; [[Mahayana]] &nbsp;·&nbsp; [[Manifestations]] &nbsp;·&nbsp; [[Manjushri]] &nbsp;·&nbsp; [[Mantra Practice]] &nbsp;·&nbsp; [[Mara]] &nbsp;·&nbsp; [[Mary]] &nbsp;·&nbsp; [[Materialism]] &nbsp;·&nbsp; [[Catherine McGee|McGee, Catherine]] &nbsp;·&nbsp; [[Meaningfulness]] &nbsp;·&nbsp; [[Meditation]] &nbsp;·&nbsp; [[Messianism]] &nbsp;·&nbsp; [[Metaphysics]] &nbsp;·&nbsp; [[Metta]] &nbsp;·&nbsp; [[Middle Way]] &nbsp;·&nbsp; [[Mind]] &nbsp;·&nbsp; [[Mind state]] &nbsp;·&nbsp; [[Mindfulness]] &nbsp;·&nbsp; [[Mode of mind]] &nbsp;·&nbsp; [[Modernism]] &nbsp;·&nbsp; [[Monotheism]] &nbsp;·&nbsp; [[Mother Teresa]] &nbsp;·&nbsp; [[Mudita]] &nbsp;·&nbsp; [[Mudra]] &nbsp;·&nbsp; [[Music]] &nbsp;·&nbsp; [[Mystical opening]]
 
 ---
 ^N
 ##### N
-[[Near enemy]] &nbsp;·&nbsp; [[Neuroscience]] &nbsp;·&nbsp; [[Ngöndro]] &nbsp;·&nbsp; [[Nihilism]] &nbsp;·&nbsp; [[Nobility]] &nbsp;·&nbsp; [[Nondualism]] &nbsp;·&nbsp; [[Naomi Shihab Nye|Nye, Naomi Shibab]]
+[[Nagarjuna]] &nbsp;·&nbsp; [[Nature]] &nbsp;·&nbsp; [[Near enemy]] &nbsp;·&nbsp; [[Pablo Neruda|Neruda, Pablo]] &nbsp;·&nbsp; [[Neuroscience]] &nbsp;·&nbsp; [[Ngöndro]] &nbsp;·&nbsp; [[Nihilism]] &nbsp;·&nbsp; [[Nobility]] &nbsp;·&nbsp; [[Nondualism]] &nbsp;·&nbsp; [[Naomi Shihab Nye|Nye, Naomi Shibab]]
 
 ---
 ^O
 ##### O
-[[Old Testament]] &nbsp;·&nbsp; [[Om mani padme hum]] &nbsp;·&nbsp; [[Oneness]] &nbsp;·&nbsp; [[Ontology]] &nbsp;·&nbsp; [[Orienting to This Jhana Retreat]]
+[[Old Testament]] &nbsp;·&nbsp; [[Om mani padme hum]] &nbsp;·&nbsp; [[Oneness]] &nbsp;·&nbsp; [[Ontology]] &nbsp;·&nbsp; [[Orienting to This Jhana Retreat]] &nbsp;·&nbsp; [[Jose Ortega y Gasset|Ortega y Gasset, José]]
 
 ---
 ^P
@@ -102,12 +102,12 @@ Each index entry has a page in the "Index entries" folder. Use backlinks (shown 
 ---
 ^R
 ##### R
-[[Ram Dass]] &nbsp;·&nbsp; [[Rationalism]] &nbsp;·&nbsp; [[Re-enchanting the Cosmos]] &nbsp;·&nbsp; [[Reactivity]] &nbsp;·&nbsp; [[Realism]] &nbsp;·&nbsp; [[Rebirth]] &nbsp;·&nbsp; [[Receptivity]] &nbsp;·&nbsp; [[Reconditioning]] &nbsp;·&nbsp; [[Reductionism]] &nbsp;·&nbsp; [[Relationships]] &nbsp;·&nbsp; [[Retreat]] &nbsp;·&nbsp; [[Right speech]] &nbsp;·&nbsp; [[Romantic love]] &nbsp;·&nbsp; [[Richard Rorty|Rorty, Richard]] &nbsp;·&nbsp; [[Rumi]]
+[[Ram Dass]] &nbsp;·&nbsp; [[Rationalism]] &nbsp;·&nbsp; [[Re-enchanting the Cosmos]] &nbsp;·&nbsp; [[Reactivity]] &nbsp;·&nbsp; [[Realism]] &nbsp;·&nbsp; [[Rebirth]] &nbsp;·&nbsp; [[Receptivity]] &nbsp;·&nbsp; [[Reconditioning]] &nbsp;·&nbsp; [[Reductionism]] &nbsp;·&nbsp; [[Relationships]] &nbsp;·&nbsp; [[Retreat]] &nbsp;·&nbsp; [[Right speech]] &nbsp;·&nbsp; [[Romantic love]] &nbsp;·&nbsp; [[Richard Rorty|Rorty, Richard]] &nbsp;·&nbsp; [[Rumi]] &nbsp;·&nbsp; [[Rupa]]
 
 ---
 ^S
 ##### S
-[[Sabbath]] &nbsp;·&nbsp; [[Samadhi]] &nbsp;·&nbsp; [[Samatha]] &nbsp;·&nbsp; [[Sangha]] &nbsp;·&nbsp; [[Sankhara]] &nbsp;·&nbsp; [[Sariputta]] &nbsp;·&nbsp; [[Satipatthana Sutta]] &nbsp;·&nbsp; [[Scientific method]] &nbsp;·&nbsp; [[Scientific research]] &nbsp;·&nbsp; [[Scientific revolution]] &nbsp;·&nbsp; [[Seed Syllables]] &nbsp;·&nbsp; [[Seeing That Frees]] &nbsp;·&nbsp; [[Wilfrid Sellars|Sellars, Wilfrid]] &nbsp;·&nbsp; [[Sensing the other as angel]] &nbsp;·&nbsp; [[Sexuality]] &nbsp;·&nbsp; [[Shame]] &nbsp;·&nbsp; [[Shingon]] &nbsp;·&nbsp; [[Sila]] &nbsp;·&nbsp; [[Sila and Soul]] &nbsp;·&nbsp; [[Simplification]] &nbsp;·&nbsp; [[Skandhas]] &nbsp;·&nbsp; [[Sociology]] &nbsp;·&nbsp; [[Soul]] &nbsp;·&nbsp; [[Soulmaking]] &nbsp;·&nbsp; [[Soulmaking Dynamic]] &nbsp;·&nbsp; [[Spaciousness]] &nbsp;·&nbsp; [[Spiritual circles]] &nbsp;·&nbsp; [[Spiritual friendship]] &nbsp;·&nbsp; [[Spirituality]] &nbsp;·&nbsp; [[St. Paul]] &nbsp;·&nbsp; [[Steadiness]] &nbsp;·&nbsp; [[Gertrude Stein|Stein, Gertrude]] &nbsp;·&nbsp; [[Stories]] &nbsp;·&nbsp; [[Supernova]] &nbsp;·&nbsp; [[Sutra]] &nbsp;·&nbsp; [[Sutta]]
+[[Sabbath]] &nbsp;·&nbsp; [[Samadhi]] &nbsp;·&nbsp; [[Samatha]] &nbsp;·&nbsp; [[Samsara]] &nbsp;·&nbsp; [[Samyutta Nikaya]] &nbsp;·&nbsp; [[Sangha]] &nbsp;·&nbsp; [[Sankhara]] &nbsp;·&nbsp; [[Sariputta]] &nbsp;·&nbsp; [[Satipatthana Sutta]] &nbsp;·&nbsp; [[Scientific method]] &nbsp;·&nbsp; [[Scientific research]] &nbsp;·&nbsp; [[Scientific revolution]] &nbsp;·&nbsp; [[Seed Syllables]] &nbsp;·&nbsp; [[Seeing That Frees]] &nbsp;·&nbsp; [[Wilfrid Sellars|Sellars, Wilfrid]] &nbsp;·&nbsp; [[Sensing the other as angel]] &nbsp;·&nbsp; [[Sexuality]] &nbsp;·&nbsp; [[Shame]] &nbsp;·&nbsp; [[Shantideva]] &nbsp;·&nbsp; [[Shingon]] &nbsp;·&nbsp; [[Sila]] &nbsp;·&nbsp; [[Sila and Soul]] &nbsp;·&nbsp; [[Simplification]] &nbsp;·&nbsp; [[Skandhas]] &nbsp;·&nbsp; [[Sociology]] &nbsp;·&nbsp; [[Soul]] &nbsp;·&nbsp; [[Soulmaking]] &nbsp;·&nbsp; [[Soulmaking Dynamic]] &nbsp;·&nbsp; [[Spaciousness]] &nbsp;·&nbsp; [[Spiritual circles]] &nbsp;·&nbsp; [[Spiritual friendship]] &nbsp;·&nbsp; [[Spirituality]] &nbsp;·&nbsp; [[St. Paul]] &nbsp;·&nbsp; [[Steadiness]] &nbsp;·&nbsp; [[Gertrude Stein|Stein, Gertrude]] &nbsp;·&nbsp; [[Stories]] &nbsp;·&nbsp; [[Supernova]] &nbsp;·&nbsp; [[Sutra]] &nbsp;·&nbsp; [[Sutta]]
 
 ---
 ^T

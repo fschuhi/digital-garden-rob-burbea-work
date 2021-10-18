@@ -11,8 +11,8 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 1]] | 12 | [[2017 Eros Unfettered]]
 [[Equanimity (talk)]] | 11 | [[2006 New Year's Retreat]]
 [[Using Insight to Deepen Love and Compassion]] | 10 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 9 | [[2017 Eros Unfettered]]
 [[What is Insight]] | 9 | [[2007 New Years Retreat Insight Meditation]]
-[[From Insight to Love]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

@@ -4,6 +4,7 @@
 talk | count | series
 :- | - |: -
 [[The Way of Non-Clinging Part 2]] | 73 | [[2017 Eros Unfettered]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 51 | [[2017 Eros Unfettered]]
 [[Using Insight to Deepen Love and Compassion]] | 22 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 17 | [[2007 New Years Retreat Insight Meditation]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 11 | [[2017 Eros Unfettered]]
@@ -12,7 +13,6 @@ talk | count | series
 [[Exploring the World of Loving Kindness]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 3]] | 4 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Expressions of Metta]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

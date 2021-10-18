@@ -6,13 +6,13 @@ talk | count | series
 [[Using Insight to Deepen Love and Compassion]] | 39 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 2]] | 32 | [[2017 Eros Unfettered]]
 [[What is Insight]] | 29 | [[2007 New Years Retreat Insight Meditation]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 27 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 22 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 1]] | 21 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 2]] | 18 | [[2017 Eros Unfettered]]
 [[Questioning Awakening]] | 16 | [[2014 November Solitary - Questioning Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 14 | [[2020 Vajra Music]]
 [[Guided meditation - Metta to phenomena]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Equanimity (talk)]] | 12 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

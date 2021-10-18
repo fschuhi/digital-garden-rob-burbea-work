@@ -7,12 +7,12 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 15 | [[2020 Vajra Music]]
 [[Counting Within the Breath - Guided Meditation]] | 14 | [[2019 Practising the Jhanas]]
 [[From Insight to Love]] | 14 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 12 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 2]] | 12 | [[2017 Eros Unfettered]]
 [[Questioning Awakening]] | 12 | [[2014 November Solitary - Questioning Awakening]]
 [[Love and Emptiness]] | 11 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 8 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Place of Samadhi in Metta Practice]] | 7 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[Equanimity in Compassion]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

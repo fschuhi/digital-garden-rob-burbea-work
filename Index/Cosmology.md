@@ -3,6 +3,7 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
+[[Dilemmas and Delineations - How did we get here Part 3]] | 24 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 7 | [[2017 Eros Unfettered]]
 [[Questioning Awakening]] | 7 | [[2014 November Solitary - Questioning Awakening]]
 [[The Way of Non-Clinging Part 3]] | 1 | [[2017 Eros Unfettered]]

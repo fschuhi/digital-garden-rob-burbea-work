@@ -3,6 +3,7 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
+[[Dilemmas and Delineations - How did we get here Part 3]] | 6 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 2 | [[2020 Vajra Music]]
 [[Counting Within the Breath - Guided Meditation]] | 2 | [[2019 Practising the Jhanas]]
 

@@ -6,13 +6,13 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 136 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 88 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 70 | [[2020 Vajra Music]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 49 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 21 | [[2020 Vajra Music]]
 [[The Way of Non-Clinging Part 3]] | 15 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 9 | [[2017 Eros Unfettered]]
 [[Orienting to This Jhana Retreat]] | 7 | [[2019 Practising the Jhanas]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] | 6 | [[2020 Vajra Music]]
 [[Questioning Awakening]] | 5 | [[2014 November Solitary - Questioning Awakening]]
-[[Dilemmas and Delineations - How did we get here Part 2]] | 4 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

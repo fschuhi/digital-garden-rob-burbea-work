@@ -11,7 +11,7 @@ _PLEASE NOTE: This series of talks is intended for experienced practitioners who
 <br/>
 
 ```ad-danger
-under construction
+🛠️ under construction
 ```
 
 ### Talks
@@ -21,3 +21,4 @@ under construction
 
 ✔️ [[Dilemmas and Delineations - How did we get here Part 1]]
 ✔️ [[Dilemmas and Delineations - How did we get here Part 2]]
+🛠️ [[Dilemmas and Delineations - How did we get here Part 3]]

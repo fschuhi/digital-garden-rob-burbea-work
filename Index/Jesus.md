@@ -6,6 +6,7 @@ talk | count | series
 [[The Practice of Compassion]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Perfection and Christ's Blessing]] | 3 | [[2020 Vajra Music]]
 [[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 1 | [[2017 Eros Unfettered]]
 [[Exploring the World of Loving Kindness]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]

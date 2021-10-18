@@ -11,7 +11,7 @@ talk | count | series
 [[The Practice of Compassion]] | 18 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 1]] | 17 | [[2017 Eros Unfettered]]
 [[From Insight to Love]] | 17 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[The Place of Samadhi in Metta Practice]] | 12 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 3]] | 14 | [[2017 Eros Unfettered]]
 [[Expressions of Metta]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
