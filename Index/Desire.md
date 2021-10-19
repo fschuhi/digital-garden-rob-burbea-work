@@ -20,6 +20,7 @@ description | count | talk
 [[Dilemmas and Delineations - How did we get here Part 1#Desire is one of the Four Bases\|Desire is one of the Four Bases]] | 14 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[Dilemmas and Delineations - How did we get here Part 1#Some equated eros with desire\|Some equated eros with desire]] | 8 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Liberation of sustained desire is needed to a goal\|(Liberation of) sustained desire is needed to a goal]] | 7 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Dilemmas and Delineations - How did we get here Part 3#10 Desire\|(10) Desire]] | 7 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 1#Practice allowing dukkha without acting on it\|Practice: allowing dukkha, without acting on it]] | 6 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[The Way of Non-Clinging Part 3#1 desire for sense pleasures mindfulness\|1. desire for sense pleasures (mindfulness)]] | 6 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 3#Nourishment life structure vision opening doors\|Nourishment, life, structure, vision, opening doors]] | 5 | [[The Way of Non-Clinging Part 3]]

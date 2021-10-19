@@ -18,10 +18,10 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Exercise 5 4 _Rosa Parks_\|🟡 Exercise 5.4: _Rosa Parks_]] | 3 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Dilemmas and Delineations - How did we get here Part 3#I can keep uncovering truths about them but I can't reduce them\|I can keep uncovering truths about them, but I can't reduce them]] | 3 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 2#The semantic network of juiciness and libido\|The semantic network of juiciness and libido]] | 2 | [[Dilemmas and Delineations - How did we get here Part 2]]
 [[Questioning Awakening#Is the five-ear-old me more real than such a figure\|Is the five-ear-old me more real than such a figure?]] | 2 | [[Questioning Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#This is a beginning which should be developed\|This is a beginning which should be developed]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Actively extract larger principles\|==Actively extract larger principles==]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[The Way of Non-Clinging Part 2#If I really let go of everything self world time do not appear\|If I really let go of everything, self, world, time do not appear]] | 1 | [[The Way of Non-Clinging Part 2]]
 [[Equanimity in Compassion#Eight worldly conditions\|Eight worldly conditions]] | 1 | [[Equanimity in Compassion]]
 [[The Practice of Compassion#Example A friend's heart closes down when she's depressed\|Example: A friend's heart closes down when she's depressed]] | 1 | [[The Practice of Compassion]]

@@ -20,6 +20,7 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#The "why" images and fantasies will always have consequences\|The "why" (images and fantasies) will always have consequences]] | 8 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[The Way of Non-Clinging Part 3#Fantasy of the Buddhist path\|Fantasy of the Buddhist path]] | 8 | [[The Way of Non-Clinging Part 3]]
 [[Orienting to This Jhana Retreat#You need a fantasy of the retreat\|You need a fantasy of the retreat]] | 7 | [[Orienting to This Jhana Retreat]]
+[[Dilemmas and Delineations - How did we get here Part 3#The imaginal and images also relate to how we perceive the world\|The imaginal and images also relate to how we perceive the world]] | 5 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Questioning Awakening#There is mythos wrapped up in what is important for us as the path\|There is mythos wrapped up in what is important for us as the path]] | 5 | [[Questioning Awakening]]
 [[The Way of Non-Clinging Part 3#Sometimes our fantasies about the Dharma are inadquate e g what it says about romantic love\|Sometimes our fantasies about the Dharma are inadquate, e.g. what it says about romantic love]] | 4 | [[The Way of Non-Clinging Part 3]]
 

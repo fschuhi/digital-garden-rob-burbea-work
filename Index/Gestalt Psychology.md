@@ -10,6 +10,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+[[Dilemmas and Delineations - How did we get here Part 3#Soulmaking is recognized through its resonances\|Soulmaking is recognized through its resonances]] | 2 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Embodying reflecting refracting\|Embodying, reflecting, refracting]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Where do I end\|Where do I end?]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 

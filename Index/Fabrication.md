@@ -18,9 +18,11 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[The Way of Non-Clinging Part 2#Bare sensations etc is not ultimate reality\|Bare sensations etc. is not ultimate reality]] | 12 | [[The Way of Non-Clinging Part 2]]
+[[Dilemmas and Delineations - How did we get here Part 3#3 Fabrication\|(3) Fabrication]] | 11 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 2#States of mind and experiences are just ways of looking\|States of mind and experiences are just ways of looking]] | 7 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#The jhanas as deep states of unfabricating\|The jhanas as deep states of unfabricating]] | 7 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#I'm free to play with different degress of craving in may ways of looking; misunderstanding "suchness"\|I'm free to play with different degress of craving in may ways of looking; misunderstanding "suchness"]] | 6 | [[The Way of Non-Clinging Part 2]]
+[[Dilemmas and Delineations - How did we get here Part 3#Emptiness is a radical pervasive concept\|Emptiness is a radical, pervasive concept]] | 5 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 2#Dependent arisings are empty fabricated illusiory\|Dependent arisings are empty, fabricated, illusiory]] | 5 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#Emptiness practice results in an even deeper level of fading\|Emptiness practice results in an even deeper level of fading]] | 5 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#Any appearing is empty so I can shape this appearing in different ways\|Any appearing is empty, so I can shape this appearing in different ways]] | 5 | [[The Way of Non-Clinging Part 2]]

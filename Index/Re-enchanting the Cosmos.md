@@ -10,4 +10,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+[[Dilemmas and Delineations - How did we get here Part 3#18 Theophany - an appearance of the divine\|(18) Theophany - an appearance of the divine]] | 1 | [[Dilemmas and Delineations - How did we get here Part 3]]
 

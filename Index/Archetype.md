@@ -10,6 +10,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+[[Dilemmas and Delineations - How did we get here Part 3#5 Imaginal image imaginal image\|(5) Imaginal, image, imaginal image]] | 1 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 1#Another equates Eros with life\|Another equates Eros with life]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[Exploring the World of Loving Kindness#It's not always that metta feels it's coming from the self\|It's not always that metta feels it's coming from the self]] | 1 | [[Exploring the World of Loving Kindness]]
 

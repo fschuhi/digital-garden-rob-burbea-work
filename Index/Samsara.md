@@ -7,7 +7,6 @@ talk | count | series
 [[Questioning Awakening]] | 1 | [[2014 November Solitary - Questioning Awakening]]
 [[What is Insight]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 
-
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-

@@ -14,7 +14,7 @@ Transcript PDF: [[2017_0119 Dilemmas and Delineations - How did we get here Part
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3]]
 
 ## Index
-<span class="counts">_[[Eros]] (92) · [[Soulmaking]] (20) · [[Experience]] (18) · [[Energy Body]] (14) · [[Conceptual Framework]] (10) · [[Desire]] (10) · [[Dharma]] (9) · [[Imaginal]] (9) · [[Divinity]] (8) · [[Juiciness]] (8) · [[Oneness]] (8) · [[Retreat]] (7) · [[Insight]] (6) · [[Mind]] (6) · [[Mind state]] (6) · [[Sexuality]] (6) · [[Buddha]] (4) · [[Dionysius the Areopagite]] (4) · [[Energy]] (4) · [[Mindfulness]] (4) · [[Soul]] (4) · [[Awakening]] (3) · [[Craving]] (3) · [[Delineations]] (3) · [[Image]] (3) · [[Jhanas]] (3) · [[Psyche]] (3) · [[Soulmaking Dynamic]] (3) · [[Awareness]] (2) · [[Beauty]] (2) · [[Dimensionality]] (2) · [[Embodiment]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Love]] (2) · [[Passion]] (2) · [[Phenomenology]] (2) · [[Pleasantness]] (2) · [[Samadhi]] (2) · [[The Self]] (2) · [[Alchemy]] · [[Clinging]] · [[Consciousness]] · [[Death]] · [[Emptiness]] · [[Feelings]] · [[Happiness]] · [[Hermeneutics#Overview]] · [[Hindrances]] · [[Metta]] · [[Nature]] · [[Papanca]] · [[Piti]] · [[Relationships]] · [[Romantic love]] · [[Tantra]] · [[Unfabricated]]_</span>
+<span class="counts">_[[Eros]] (92) · [[Soulmaking]] (20) · [[Experience]] (18) · [[Energy Body]] (14) · [[Conceptual Framework]] (10) · [[Desire]] (10) · [[Dharma]] (9) · [[Imaginal]] (9) · [[Divinity]] (8) · [[Juiciness]] (8) · [[Oneness]] (8) · [[Retreat]] (7) · [[Insight]] (6) · [[Mind]] (6) · [[Mind state]] (6) · [[Sexuality]] (6) · [[Buddha]] (4) · [[Dionysius the Areopagite]] (4) · [[Energy]] (4) · [[Mindfulness]] (4) · [[Soul]] (4) · [[Awakening]] (3) · [[Craving]] (3) · [[Delineations]] (3) · [[Image]] (3) · [[Jhanas]] (3) · [[Psyche]] (3) · [[Soulmaking Dynamic]] (3) · [[Awareness]] (2) · [[Beauty]] (2) · [[Dimensionality]] (2) · [[Embodiment]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Love]] (2) · [[Passion]] (2) · [[Phenomenology]] (2) · [[Pleasantness]] (2) · [[Samadhi]] (2) · [[Sigmund Freud]] (2) · [[The Self]] (2) · [[Alchemy]] · [[Clinging]] · [[Consciousness]] · [[Death]] · [[Emptiness]] · [[Feelings]] · [[Happiness]] · [[Hermeneutics#Overview]] · [[Hindrances]] · [[James Hillman]] · [[Metta]] · [[Nature]] · [[Papanca]] · [[Piti]] · [[Relationships]] · [[Romantic love]] · [[Tantra]] · [[Unfabricated]]_</span>
 <br/>
 
 ## Paragraphs
@@ -126,7 +126,7 @@ Eros always goes along with - I think he's another god called Pothos. Pothos is 
 
 ---
 ##### Eros is not limited to sexuality (see above), nor does it equal life force
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^4-2|4-2]]**: _[[Eros]] (6) · [[Sexuality]] (2) · [[Energy]] (2) · [[Buddha]] · [[Craving]] · [[Clinging]] · [[Death]] · [[Love]]_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^4-2|4-2]]**: _[[Eros]] (6) · [[Sexuality]] (2) · [[Energy]] (2) · [[Sigmund Freud]] (2) · [[Buddha]] · [[Craving]] · [[Clinging]] · [[Death]] · [[Love]]_</span>
 
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=18:05]]
 
@@ -190,7 +190,7 @@ There's an element in eros, if you like, that preserves the otherness, and there
 
 ---
 ##### The semantic network of juiciness and libido
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^6-2|6-2]]**: _[[Oneness]] · [[Eros]] (4) · [[Juiciness]] · [[History]] (2) · [[Love]]_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^6-2|6-2]]**: _[[Oneness]] · [[Eros]] (4) · [[Juiciness]] · [[James Hillman]] · [[History]] (2) · [[Love]]_</span>
 
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=29:44]]
 

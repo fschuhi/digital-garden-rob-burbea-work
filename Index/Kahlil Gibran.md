@@ -6,7 +6,6 @@ talk | count | series
 [[Exploring the World of Loving Kindness]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
-
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-

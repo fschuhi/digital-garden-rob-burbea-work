@@ -5,7 +5,6 @@ talk | count | series
 :- | - |: -
 [[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
 
-
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-

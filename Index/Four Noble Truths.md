@@ -20,6 +20,7 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#The legacy of the Four Noble Truths\|The legacy of the Four Noble Truths]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#"Suffering" is not universally applicable to everyone and everything\|"Suffering" is not universally applicable to everyone and everything]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[What is Insight#The Four Noble Truths\|The Four Noble Truths]] | 2 | [[What is Insight]]
+[[Dilemmas and Delineations - How did we get here Part 3#The concept of ways of looking is compatible with the Four Noble Truths but can also points beyond it\|The concept of ways of looking is compatible with the Four Noble Truths, but can also points beyond it]] | 1 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 2#Simile Castle map and adjustable wrench\|Simile: Castle, map, and adjustable wrench]] | 1 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#Any appearing is empty so I can shape this appearing in different ways\|Any appearing is empty, so I can shape this appearing in different ways]] | 1 | [[The Way of Non-Clinging Part 2]]
 [[Using Insight to Deepen Love and Compassion#e Just to realize suffering is part of life - we are all in the same boat\|e) Just to realize: suffering is part of life - we are all in the same boat]] | 1 | [[Using Insight to Deepen Love and Compassion]]

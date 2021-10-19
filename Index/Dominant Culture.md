@@ -16,8 +16,8 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+[[Dilemmas and Delineations - How did we get here Part 3#Ideas about divinity are historically and culturally contingent\|Ideas about divinity are historically and culturally contingent]] | 2 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#The dukkha of soullessness\|The dukkha of soullessness]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Words from other conceptual frameworks might turn out to be useful like words from psychology\|Words from other conceptual frameworks might turn out to be useful, like words from psychology]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#We are often held back or holding in of our energy\|We are often held back or holding in of our energy]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Then I assess it the teacher\|Then I assess it (the teacher)]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Orienting to This Jhana Retreat#Open your intention\|Open your intention]] | 1 | [[Orienting to This Jhana Retreat]]

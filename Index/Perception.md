@@ -18,6 +18,7 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Using Insight to Deepen Love and Compassion#Those perceptions are not separate from the universe from the world\|Those perceptions are not separate from the universe, from the world]] | 15 | [[Using Insight to Deepen Love and Compassion]]
+[[Dilemmas and Delineations - How did we get here Part 3#1 Phenomenological approach\|(1) Phenomenological approach]] | 13 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[From Insight to Love#All I see are moments of perception that are both part of the world and part of me\|All I see are moments of perception that are both part of the world and part of me]] | 11 | [[From Insight to Love]]
 [[The Way of Non-Clinging Part 1#Can there be more\|Can there be more?]] | 8 | [[The Way of Non-Clinging Part 1]]
 [[Exploring the World of Loving Kindness#Perceptions are changing\|Perceptions are changing]] | 6 | [[Exploring the World of Loving Kindness]]
@@ -27,6 +28,8 @@ description | count | talk
 [[The Way of Non-Clinging Part 2#Playing with walking a tightrope of keeping appearances around but knowing them as empty\|Playing with walking a tightrope of keeping appearances around but knowing them as empty]] | 5 | [[The Way of Non-Clinging Part 2]]
 [[Questioning Awakening#"There is nothing beyond this" - what do you mean with "this"\|"There is nothing beyond this" - what do you mean with "this"?]] | 5 | [[Questioning Awakening]]
 [[Equanimity in Compassion#Practice seeing things as just perceptions\|Practice: seeing things as just perceptions]] | 5 | [[Equanimity in Compassion]]
+[[Dilemmas and Delineations - How did we get here Part 3#It's a powerful way into understanding emptiness and the imaginal\|It's a powerful way into understanding emptiness and the imaginal]] | 4 | [[Dilemmas and Delineations - How did we get here Part 3]]
+[[Dilemmas and Delineations - How did we get here Part 3#3 Fabrication\|(3) Fabrication]] | 4 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Love and Emptiness#But don't be in a hurry as the power of those kinds of perceptions transforms heart and mind\|But don't be in a hurry, as the power of those kinds of perceptions transforms heart and mind]] | 4 | [[Love and Emptiness]]
 [[Love and Emptiness#Rob attention is kind of like prongs\|Rob: attention is kind of like prongs]] | 4 | [[Love and Emptiness]]
 [[Expressions of Metta#A sense of merging begins to question our taken-for-granted perception of separation\|A sense of merging begins to question our taken-for-granted perception of separation]] | 4 | [[Expressions of Metta]]

@@ -17,13 +17,18 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+[[Dilemmas and Delineations - How did we get here Part 3#2 Ways of looking - including the relationship of what I'm perceiving\|(2) Ways of looking - including the relationship of what I'm perceiving]] | 13 | [[Dilemmas and Delineations - How did we get here Part 3]]
+[[Dilemmas and Delineations - How did we get here Part 3#Emptiness is a radical pervasive concept\|Emptiness is a radical, pervasive concept]] | 8 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 2#Does Mahasi-style meditation on impermance disclose reality\|Does Mahasi-style meditation on impermance disclose reality?]] | 8 | [[The Way of Non-Clinging Part 2]]
+[[Dilemmas and Delineations - How did we get here Part 3#The concept of ways of looking is compatible with the Four Noble Truths but can also points beyond it\|The concept of ways of looking is compatible with the Four Noble Truths, but can also points beyond it]] | 6 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 1#Dharma concepts aim towards less papanca\|Dharma concepts aim towards less papanca]] | 6 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[The Way of Non-Clinging Part 2#There is always a way of looking with more or less clinging\|There is always a way of looking, with more or less clinging]] | 6 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#Practice "empty empty empty"\|Practice: "empty, empty, empty"]] | 6 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#"Just being and receiving" is still a way of looking\|"Just being and receiving" is still a way of looking]] | 6 | [[The Way of Non-Clinging Part 2]]
+[[Dilemmas and Delineations - How did we get here Part 3#4 Emptiness\|(4) Emptiness]] | 5 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 2#Everybody knows what papanca is\|Everybody knows what papanca is]] | 5 | [[The Way of Non-Clinging Part 2]]
 [[Using Insight to Deepen Love and Compassion#Maturity in practice comes from being able to move between different ways of seeing\|Maturity in practice comes from being able to move between different ways of seeing]] | 5 | [[Using Insight to Deepen Love and Compassion]]
+[[Dilemmas and Delineations - How did we get here Part 3#3 Fabrication\|(3) Fabrication]] | 4 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 1#The different ways of looking for am non-realist basis for explanations and explorations\|The different ways of looking for am non-realist basis for explanations and explorations]] | 4 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[The Way of Non-Clinging Part 2#Anatta practice whatever comes up is not self not me not mine\|Anatta practice: whatever comes up is not self, not me, not mine]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#Simile Climing the rungs of a ladder\|Simile: Climing the rungs of a ladder]] | 4 | [[The Way of Non-Clinging Part 2]]

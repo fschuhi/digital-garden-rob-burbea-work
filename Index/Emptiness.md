@@ -22,6 +22,8 @@ description | count | talk
 [[The Way of Non-Clinging Part 2#Playing with walking a tightrope of keeping appearances around but knowing them as empty\|Playing with walking a tightrope of keeping appearances around but knowing them as empty]] | 7 | [[The Way of Non-Clinging Part 2]]
 [[Equanimity in Compassion#Paradoxically we become even more devoted with seeing the emptiness of everything\|Paradoxically, we become even more devoted with seeing the emptiness of everything]] | 7 | [[Equanimity in Compassion]]
 [[Love and Emptiness#The indicator for emptiness is love and freedom\|The indicator for emptiness is love and freedom]] | 6 | [[Love and Emptiness]]
+[[Dilemmas and Delineations - How did we get here Part 3#Buddha-nature according to Shentong\|Buddha-nature according to Shentong]] | 5 | [[Dilemmas and Delineations - How did we get here Part 3]]
+[[Dilemmas and Delineations - How did we get here Part 3#4 Emptiness\|(4) Emptiness]] | 4 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 2#Appearences fade because I'm releasing the clinging\|Appearences fade because I'm releasing the clinging]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#The links of dependent origination are not real either\|The links of dependent origination are not real either]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[Using Insight to Deepen Love and Compassion#Maturity in practice comes from being able to move between different ways of seeing\|Maturity in practice comes from being able to move between different ways of seeing]] | 4 | [[Using Insight to Deepen Love and Compassion]]

@@ -14,6 +14,7 @@ description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Rinpoches spend most of their time doing Ngöndro what are basically preliminary excercises\|Rinpoches spend most of their time doing Ngöndro, what are basically preliminary excercises]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#"Études" Preliminaries"\|"Études", Preliminaries"]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Dilemmas and Delineations - How did we get here Part 3#Buddha-nature according to Shentong\|Buddha-nature according to Shentong]] | 1 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Love and Emptiness#Rob Maybe only Buddhas can see emptiness and not bump into things\|Rob: Maybe only Buddhas can see emptiness and not bump into things]] | 1 | [[Love and Emptiness]]
 [[The Practice of Compassion#Different practices for compassion\|Different practices for compassion]] | 1 | [[The Practice of Compassion]]
 

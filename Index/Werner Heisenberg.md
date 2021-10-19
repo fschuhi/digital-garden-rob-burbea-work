@@ -5,7 +5,6 @@ talk | count | series
 :- | - |: -
 [[Questioning Awakening]] | 1 | [[2014 November Solitary - Questioning Awakening]]
 
-
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-

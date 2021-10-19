@@ -13,6 +13,7 @@ description | count | talk
 :- | : - | :-
 [[The Way of Non-Clinging Part 1#Chanda is impulse intention will\|Chanda is impulse, intention, will]] | 4 | [[The Way of Non-Clinging Part 1]]
 [[Love and Emptiness#Chanda noble aspiration\|Chanda = noble aspiration]] | 2 | [[Love and Emptiness]]
+[[Dilemmas and Delineations - How did we get here Part 3#10 Desire\|(10) Desire]] | 1 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 3#"Some of it is delusion and the rest can be fit into concepts" really\|"Some of it is delusion and the rest can be fit into concepts", really?]] | 1 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 3#Soulmaking is important for and to the soul so don't let go of it\|Soulmaking is important for and to the soul, so don't let go of it]] | 1 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 1#Clinging supports suffering\|Clinging supports suffering]] | 1 | [[The Way of Non-Clinging Part 1]]

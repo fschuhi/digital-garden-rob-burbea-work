@@ -16,10 +16,10 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[What is Insight#Moving towards the Unfabracticated\|Moving towards the Unfabracticated]] | 3 | [[What is Insight]]
+[[Dilemmas and Delineations - How did we get here Part 3#1 Phenomenological approach\|(1) Phenomenological approach]] | 2 | [[Dilemmas and Delineations - How did we get here Part 3]]
+[[Dilemmas and Delineations - How did we get here Part 3#It's a powerful way into understanding emptiness and the imaginal\|It's a powerful way into understanding emptiness and the imaginal]] | 2 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Using Insight to Deepen Love and Compassion#c moment-to-moment impermanence\|c) moment-to-moment impermanence]] | 2 | [[Using Insight to Deepen Love and Compassion]]
-[[Using Insight to Deepen Love and Compassion#Three Characteristics\|Three Characteristics]] | 1 | [[Using Insight to Deepen Love and Compassion]]
 [[What is Insight#Satipatthana Sutta\|Satipatthana Sutta]] | 1 | [[What is Insight]]
-[[What is Insight#Kaccayana and Dependent Origination\|Kaccayana and Dependent Origination]] | 1 | [[What is Insight]]
 [[Guided meditation - Metta to phenomena#Just noticing if anything in experience is standing out\|Just noticing if anything in experience is standing out]] | 1 | [[Guided meditation - Metta to phenomena]]
 [[Love and Emptiness#The practice is not about being in the present moment but rather feeding what's beautiful and investigation\|The practice is not about being in the present moment, but rather feeding what's beautiful and investigation]] | 1 | [[Love and Emptiness]]
 [[Love and Emptiness#Yogi When one is walking should you be including the trees the clouds as phenomena\|Yogi: When one is walking, should you be including the trees, the clouds, as phenomena?]] | 1 | [[Love and Emptiness]]

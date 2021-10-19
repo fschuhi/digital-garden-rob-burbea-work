@@ -18,7 +18,9 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Dilemmas and Delineations - How did we get here Part 2#The "delight" of soulmaking\|The "delight" of soulmaking]] | 7 | [[Dilemmas and Delineations - How did we get here Part 2]]
+[[Dilemmas and Delineations - How did we get here Part 3#7 Soul - either a way of looking which gives rise to soulmaking or an entity\|(7) Soul - either a way of looking which gives rise to soulmaking, or an entity]] | 6 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#There is hope that practice opens possibilities\|There is hope that practice opens possibilities]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Dilemmas and Delineations - How did we get here Part 3#Soulmaking is recognized through its resonances\|Soulmaking is recognized through its resonances]] | 5 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 2#The "bliss" of soulmaking"\|The "bliss" of soulmaking"]] | 5 | [[Dilemmas and Delineations - How did we get here Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The soulmaking poise has a range is elastic with soft edges\|The soulmaking poise has a range, is elastic with soft edges]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#This affects the whole psyche heart relation to others\|This affects the whole psyche, heart, relation to others]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]

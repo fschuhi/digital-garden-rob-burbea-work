@@ -16,7 +16,7 @@ description | count | talk
 :- | : - | :-
 [[Perfection and Christ's Blessing#Jesus's blessing is on everything\|Jesus's blessing is on everything]] | 2 | [[Perfection and Christ's Blessing]]
 [[The Practice of Compassion#"Love is without beginning"\|"Love is without beginning"]] | 2 | [[The Practice of Compassion]]
-[[Perfection and Christ's Blessing#Theodicy\|Theodicy]] | 1 | [[Perfection and Christ's Blessing]]
+[[Dilemmas and Delineations - How did we get here Part 3#5 Imaginal image imaginal image\|(5) Imaginal, image, imaginal image]] | 1 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Exploring the World of Loving Kindness#It's not always that metta feels it's coming from the self\|It's not always that metta feels it's coming from the self]] | 1 | [[Exploring the World of Loving Kindness]]
 [[Equanimity in Compassion#Eight worldly conditions\|Eight worldly conditions]] | 1 | [[Equanimity in Compassion]]
 [[The Practice of Compassion#Different practices for compassion\|Different practices for compassion]] | 1 | [[The Practice of Compassion]]

@@ -20,6 +20,7 @@ description | count | talk
 [[The Way of Non-Clinging Part 1#Huge range of what contitutes craving\|Huge range of what contitutes craving]] | 9 | [[The Way of Non-Clinging Part 1]]
 [[The Way of Non-Clinging Part 2#Less craving less self gets fabricated - - fading\|Less craving, less self gets fabricated - - fading]] | 8 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 1#Craving for extinction\|Craving for extinction]] | 7 | [[The Way of Non-Clinging Part 1]]
+[[Dilemmas and Delineations - How did we get here Part 3#11 Craving\|(11) Craving]] | 6 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 3#Some do not have a deep calling to explore desire more fully\|Some do not have a deep calling to explore desire more fully]] | 6 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 2#"End of craving" does not mean that I am living in some way without craving\|"End of craving" does not mean that I am living in some way without craving]] | 6 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 1#"Is she going to call"\|"Is she going to call?"]] | 6 | [[The Way of Non-Clinging Part 1]]

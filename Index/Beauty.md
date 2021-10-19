@@ -17,6 +17,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+[[Dilemmas and Delineations - How did we get here Part 3#Beauty and sacredness are a feature of image and imaginal practice\|Beauty and sacredness are a feature of image and imaginal practice]] | 5 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 3#Wrapped up in the movement of eros is beauty\|Wrapped up in the movement of eros is beauty]] | 4 | [[The Way of Non-Clinging Part 3]]
 [[Equanimity (talk)#There is nothing really to be equanimous about\|There is nothing really to be equanimous about]] | 4 | [[Equanimity (talk)]]
 

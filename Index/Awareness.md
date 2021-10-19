@@ -21,5 +21,6 @@ description | count | talk
 [[Counting Within the Breath - Guided Meditation#Slow down to retain whole-body awareness\|Slow down, to retain whole-body awareness]] | 5 | [[Counting Within the Breath - Guided Meditation]]
 [[The Place of Samadhi in Metta Practice#ad 2 tightness\|ad 2. tightness]] | 5 | [[The Place of Samadhi in Metta Practice]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 2 4 hear the space filled with sound\|🟡 Excercise 2.4: hear the space filled with sound]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Dilemmas and Delineations - How did we get here Part 3#There are infinite possibilities for cosmopoesis\|There are infinite possibilities for cosmopoesis]] | 4 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 2#States of mind and experiences are just ways of looking\|States of mind and experiences are just ways of looking]] | 4 | [[The Way of Non-Clinging Part 2]]
 

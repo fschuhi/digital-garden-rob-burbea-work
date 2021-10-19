@@ -28,6 +28,7 @@ description | count | talk
 [[The Way of Non-Clinging Part 2#I cannot live without clinging because it is a part of perceiving\|I cannot live without clinging because it is a part of perceiving]] | 7 | [[The Way of Non-Clinging Part 2]]
 [[Using Insight to Deepen Love and Compassion#f feel energetically the opening and closing of the heart centre\|f) feel energetically the opening and closing of the heart centre]] | 7 | [[Using Insight to Deepen Love and Compassion]]
 [[From Insight to Love#When there's clinging the heart closes when the clinging goes the heart centre opens\|When there's clinging, the heart closes, when the clinging goes, the heart centre opens]] | 7 | [[From Insight to Love]]
+[[Dilemmas and Delineations - How did we get here Part 3#12 Clinging\|(12) Clinging]] | 6 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 2#There is always a way of looking with more or less clinging\|There is always a way of looking, with more or less clinging]] | 6 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#Cling to an insight to be able to let go at a deeper level\|Cling to an insight to be able to let go at a deeper level]] | 6 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 1#The Buddha on clinging\|The Buddha on clinging]] | 6 | [[The Way of Non-Clinging Part 1]]

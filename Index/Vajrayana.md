@@ -14,6 +14,7 @@ description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#All the Tathāgatas\|All the Tathāgatas]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Even Vajrayana with seeing the aggregates as holy misses the person\|Even Vajrayana (with seeing the aggregates as holy) misses the person]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
+[[Dilemmas and Delineations - How did we get here Part 3#Mahayana and Vajrayana brought an even greater exploration and categorization of those experiences\|Mahayana and Vajrayana brought an even greater exploration and categorization of those experiences]] | 1 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 2#Playing with walking a tightrope of keeping appearances around but knowing them as empty\|Playing with walking a tightrope of keeping appearances around but knowing them as empty]] | 1 | [[The Way of Non-Clinging Part 2]]
 [[Love and Emptiness#"Compassion without any object of reference" in the traditions\|"Compassion without any object of reference" in the traditions]] | 1 | [[Love and Emptiness]]
 

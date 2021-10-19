@@ -15,14 +15,5 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Way of Non-Clinging Part 3#Provision definition of "eros"\|Provision definition of "eros"]] | 3 | [[The Way of Non-Clinging Part 3]]
-[[Dilemmas and Delineations - How did we get here Part 1#The soul wants disentangling but also something else\|The soul wants disentangling, but also something else]] | 2 | [[Dilemmas and Delineations - How did we get here Part 1]]
-[[Dilemmas and Delineations - How did we get here Part 2#Eros is a wanting to penetrate the erotic object more\|Eros is a wanting to penetrate the erotic object more]] | 1 | [[Dilemmas and Delineations - How did we get here Part 2]]
-[[Dilemmas and Delineations - How did we get here Part 2#"Dont' proceed until all things have been made liquid"\|"Dont' proceed until all things have been made liquid"]] | 1 | [[Dilemmas and Delineations - How did we get here Part 2]]
-[[Dilemmas and Delineations - How did we get here Part 2#We are attracted to the dynamic complex of image idea and eros itself\|We are attracted to the dynamic complex of image, idea, and eros itself]] | 1 | [[Dilemmas and Delineations - How did we get here Part 2]]
-[[The Way of Non-Clinging Part 3#Sometimes our fantasies about the Dharma are inadquate e g what it says about romantic love\|Sometimes our fantasies about the Dharma are inadquate, e.g. what it says about romantic love]] | 1 | [[The Way of Non-Clinging Part 3]]
-[[Questioning Awakening#Is simple mindfulness rich enough as a philosophy or as a psychology\|Is simple mindfulness rich enough as a philosophy or as a psychology?]] | 1 | [[Questioning Awakening]]
-[[The Place of Samadhi in Metta Practice#4 Suppression\|4. Suppression]] | 1 | [[The Place of Samadhi in Metta Practice]]
-[[The Place of Samadhi in Metta Practice#ad 4 suppression\|ad 4. suppression]] | 1 | [[The Place of Samadhi in Metta Practice]]
-[[Samadhi in Metta Practice#Example story because of samadhi there weren't the conditions there for anger\|Example story: because of samadhi there weren't the conditions there for anger]] | 1 | [[Samadhi in Metta Practice]]
+[[Dilemmas and Delineations - How did we get here Part 3#14 Psyche - the totality of the mind; organ of imaginal perception; totality of imaginal perceptions\|(14) Psyche - the totality of the mind; organ of imaginal perception; totality of imaginal perceptions]] | 6 | [[Dilemmas and Delineations - How did we get here Part 3]]
 

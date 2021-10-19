@@ -14,7 +14,6 @@ talk | count | series
 [[Love and Emptiness]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 3 | [[2006 New Year's Retreat]]
 
-
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-

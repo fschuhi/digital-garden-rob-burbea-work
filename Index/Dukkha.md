@@ -22,6 +22,7 @@ description | count | talk
 [[What is Insight#The Four Noble Truths\|The Four Noble Truths]] | 9 | [[What is Insight]]
 [[What is Insight#Whenever there is dukkha the unawakened mind does something unnecessary to itself\|Whenever there is dukkha, the unawakened mind does something unnecessary to itself]] | 9 | [[What is Insight]]
 [[The Practice of Compassion#When metta meets suffering it transformsinto compassion\|When metta meets suffering, it transformsinto compassion]] | 9 | [[The Practice of Compassion]]
+[[Dilemmas and Delineations - How did we get here Part 3#The concept of ways of looking is compatible with the Four Noble Truths but can also points beyond it\|The concept of ways of looking is compatible with the Four Noble Truths, but can also points beyond it]] | 8 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 1#Huge range of what contitutes craving\|Huge range of what contitutes craving]] | 8 | [[The Way of Non-Clinging Part 1]]
 [[What is Insight#General definition of insight that which brings lessening of suffering\|General definition of insight: that which brings lessening of suffering]] | 7 | [[What is Insight]]
 [[Equanimity in Compassion#Equanimity makes the compassion steady in the face of suffering\|Equanimity makes the compassion steady in the face of suffering]] | 7 | [[Equanimity in Compassion]]
