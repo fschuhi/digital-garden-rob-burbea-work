@@ -27,7 +27,7 @@ Each index entry has a page in the "Index entries" folder. Use backlinks (shown 
 ---
 ^C
 ##### C
-[[Centre]] &nbsp;·&nbsp; [[Chanda]] &nbsp;·&nbsp; [[Chandaraga]] &nbsp;·&nbsp; [[Chandrakirti]] &nbsp;·&nbsp; [[Child Development]] &nbsp;·&nbsp; [[Chogyam Trungpa]] &nbsp;·&nbsp; [[Christianity]] &nbsp;·&nbsp; [[Circuits]] &nbsp;·&nbsp; [[Citta]] &nbsp;·&nbsp; [[Clinging]] &nbsp;·&nbsp; [[Commentaries]] &nbsp;·&nbsp; [[Compassion]] &nbsp;·&nbsp; [[Conceptual Framework]] &nbsp;·&nbsp; [[Consciousness]] &nbsp;·&nbsp; [[Constriction]] &nbsp;·&nbsp; [[Contraction]] &nbsp;·&nbsp; [[Conventional reality]] &nbsp;·&nbsp; [[Henry Corbin|Corbin, Henry]] &nbsp;·&nbsp; [[Cosmology]] &nbsp;·&nbsp; [[Craving]] &nbsp;·&nbsp; [[Create-Discover]] &nbsp;·&nbsp; [[Cultivation]]
+[[Centre]] &nbsp;·&nbsp; [[Chanda]] &nbsp;·&nbsp; [[Chandaraga]] &nbsp;·&nbsp; [[Chandrakirti]] &nbsp;·&nbsp; [[Child development]] &nbsp;·&nbsp; [[Chogyam Trungpa]] &nbsp;·&nbsp; [[Christianity]] &nbsp;·&nbsp; [[Circuits]] &nbsp;·&nbsp; [[Citta]] &nbsp;·&nbsp; [[Clinging]] &nbsp;·&nbsp; [[Commentaries]] &nbsp;·&nbsp; [[Compassion]] &nbsp;·&nbsp; [[Conceptual Framework]] &nbsp;·&nbsp; [[Consciousness]] &nbsp;·&nbsp; [[Constriction]] &nbsp;·&nbsp; [[Contraction]] &nbsp;·&nbsp; [[Conventional reality]] &nbsp;·&nbsp; [[Henry Corbin|Corbin, Henry]] &nbsp;·&nbsp; [[Cosmology]] &nbsp;·&nbsp; [[Craving]] &nbsp;·&nbsp; [[Create-Discover]] &nbsp;·&nbsp; [[Cultivation]]
 
 ---
 ^D

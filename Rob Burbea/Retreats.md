@@ -4,7 +4,7 @@ obsidianUIMode: preview
 # The Garden of the Soul: Rob Burbea's Teachings
 ```ad-danger
 title: Thank you!
-This Digital Garden presents selected talks of <b>Rob Burbea</b>. Thank you, Rob, for those wonderful teachings!
+This Digital Garden presents selected talks of **[[Rob Burbea]]**. Thank you, Rob, for those wonderful teachings!
 
 And thank you, dear visitor, for your interest! Be invited to browse what Rob has to say, about meditation practice, the Buddhist path, emptiness, and its application to a Soulmaking Dharma, among many other topics of heart, mind and soul.
 
@@ -13,8 +13,6 @@ The transcripts of the talks have been adapted from the <b>"Rob Burbea Transcrip
 Curating this Digital Garden falls under the purview of the <b>Hermes Amāra Foundation</b>, which works towards maintaining Rob's work. Thank you, Custodians and the other Circles, for supporting this project!
 
 ```
-
-You find a short bio of Rob [[Rob Burbea|here]].
 
 The [[Rob Burbea Transcription Project]] has transcribed the talks from the recordings on [[Using Dharma Seed|Dharma Seed]]. The transcript PDFs are translated to web pages in this Digital Garden and amended with keywords, crossreferences, summaries, quotes, notes and further information derived from the talks.
 
@@ -35,8 +33,8 @@ If you have been here before you might want to check out the [[Changelog]] for n
 
 <span style="color:darkgray">
 	 ✔️completed (for now)<br/>
-	🛠️ Work in Progress<br/ >
-	⏸️ on hold<br/ >
+	🛠️ work in progress (adding more talks, more structure etc.)<br/ >
+	⏸️ currently not working on it<br/ >
 </span>
 </br>
 
