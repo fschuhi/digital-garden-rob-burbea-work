@@ -12,7 +12,7 @@ talk | count | series
 [[The Way of Non-Clinging Part 1]] | 5 | [[2017 Eros Unfettered]]
 [[The Place of Samadhi in Metta Practice]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
+[[Dilemmas and Delineations - How did we get here Part 4]] | 4 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -25,4 +25,6 @@ description | count | talk
 [[Equanimity in Compassion#Rob two ways to see samatha collectedness vs calming the agitation of the being\|Rob: two ways to see samatha: collectedness vs calming the agitation of the being]] | 4 | [[Equanimity in Compassion]]
 [[From Insight to Love#Fleeing from fear makes the fear increase\|Fleeing from fear makes the fear increase]] | 4 | [[From Insight to Love]]
 [[From Insight to Love#The aversion to fear is part of the fear itself\|The aversion to fear is part of the fear itself]] | 4 | [[From Insight to Love]]
+[[Equanimity in Compassion#Rob feeling the suffering is important because there's a lot insight in this approach\|Rob: feeling the suffering is important because there's a lot insight in this approach]] | 3 | [[Equanimity in Compassion]]
+[[Samadhi in Metta Practice#Aversion\|Aversion]] | 3 | [[Samadhi in Metta Practice]]
 

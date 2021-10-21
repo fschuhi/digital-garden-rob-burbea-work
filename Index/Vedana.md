@@ -5,6 +5,7 @@ talk | count | series
 :- | - |: -
 [[The Way of Non-Clinging Part 1]] | 8 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 2]] | 7 | [[2017 Eros Unfettered]]
+[[Dilemmas and Delineations - How did we get here Part 4]] | 4 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 3]] | 3 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 3]] | 1 | [[2017 Eros Unfettered]]
 [[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
@@ -13,11 +14,11 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[The Way of Non-Clinging Part 2#Even the pleasant vedana become neutral and even those neutral sensations disappear\|Even the pleasant vedana become neutral, and even those neutral sensations disappear]] | 6 | [[The Way of Non-Clinging Part 2]]
+[[Dilemmas and Delineations - How did we get here Part 4#"It's just vedana papanca" is a little bit poor as a psychology\|"It's just vedana, papanca" is a little bit poor as a psychology]] | 4 | [[Dilemmas and Delineations - How did we get here Part 4]]
 [[The Way of Non-Clinging Part 3#Some do not have a deep calling to explore desire more fully\|Some do not have a deep calling to explore desire more fully]] | 3 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 1#Clinging doesn't happen if we stay with the craving vedana\|Clinging doesn't happen if we stay with the craving (vedana)]] | 3 | [[The Way of Non-Clinging Part 1]]
 [[The Way of Non-Clinging Part 1#Technique focus on vedana\|Technique: focus on vedana]] | 2 | [[The Way of Non-Clinging Part 1]]
 [[Dilemmas and Delineations - How did we get here Part 3#12 Clinging\|(12) Clinging]] | 1 | [[Dilemmas and Delineations - How did we get here Part 3]]
-[[The Way of Non-Clinging Part 2#"Just let go of everything" might still assume the reality of what to let go of\|"Just let go of everything" might still assume the reality of what to let go of]] | 1 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 1#4 Role of vedana\|4. Role of vedana]] | 1 | [[The Way of Non-Clinging Part 1]]
 [[The Way of Non-Clinging Part 1#Impulsive energetic movement\|Impulsive, energetic movement]] | 1 | [[The Way of Non-Clinging Part 1]]
 [[The Way of Non-Clinging Part 1#I'm not selling this very well\|I'm not selling this very well]] | 1 | [[The Way of Non-Clinging Part 1]]

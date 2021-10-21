@@ -7,6 +7,7 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 2 | [[2020 Vajra Music]]
 [[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
 [[Orienting to This Jhana Retreat]] | 1 | [[2019 Practising the Jhanas]]
+[[Dilemmas and Delineations - How did we get here Part 4]] | 1 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
 [[Using Insight to Deepen Love and Compassion]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]

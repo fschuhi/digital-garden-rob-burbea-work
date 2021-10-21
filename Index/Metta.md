@@ -12,7 +12,7 @@ talk | count | series
 [[Samadhi in Metta Practice]] | 43 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 29 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Guided meditation - Metta to phenomena]] | 26 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Equanimity (talk)]] | 22 | [[2006 New Year's Retreat]]
+[[Compassion (talk)]] | 23 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

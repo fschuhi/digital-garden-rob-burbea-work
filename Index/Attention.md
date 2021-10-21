@@ -21,4 +21,10 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Opening up counteracts the contraction that's inherent in self-consciousness\|Opening up counteracts the contraction that's inherent in self-consciousness]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Exploring the World of Loving Kindness#Metta flowing through the eyes\|Metta flowing through the eyes]] | 6 | [[Exploring the World of Loving Kindness]]
 [[Love and Emptiness#Rob attention is kind of like prongs\|Rob: attention is kind of like prongs]] | 5 | [[Love and Emptiness]]
+[[Counting Within the Breath - Guided Meditation#It works because we are putting up more pegs for the attention\|It works because we are putting up more pegs for the attention]] | 3 | [[Counting Within the Breath - Guided Meditation]]
+[[Using Insight to Deepen Love and Compassion#f feel energetically the opening and closing of the heart centre\|f) feel energetically the opening and closing of the heart centre]] | 3 | [[Using Insight to Deepen Love and Compassion]]
+[[Joy (talk)#Sometimes in the West joy does not receive the same attention as other brahmaviharas\|Sometimes in the West, joy does not receive the same attention as other brahmaviharas]] | 2 | [[Joy (talk)]]
+[[Joy (talk)#Sadness and joy are dependent on the way we look\|Sadness and joy are dependent on the way we look]] | 2 | [[Joy (talk)]]
+[[Joy (talk)#Attention to joy itself feeds joy\|Attention to joy itself feeds joy]] | 2 | [[Joy (talk)]]
+[[Equanimity (talk)#We heal ourselves by giving attention to ourselves and by caring for others\|We heal ourselves by giving attention to ourselves and by caring for others]] | 2 | [[Equanimity (talk)]]
 

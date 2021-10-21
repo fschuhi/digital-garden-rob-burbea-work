@@ -7,12 +7,12 @@ talk | count | series
 [[Using Insight to Deepen Love and Compassion]] | 43 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 34 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 32 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Compassion (talk)]] | 28 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 2]] | 25 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 3]] | 17 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 16 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 15 | [[2017 Eros Unfettered]]
 [[Equanimity in Compassion]] | 15 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Equanimity (talk)]] | 14 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -21,6 +21,7 @@ description | count | talk
 [[Using Insight to Deepen Love and Compassion#Insight is any kind of understanding that releases clinging and thus suffering\|Insight is any kind of understanding that releases clinging and thus suffering]] | 10 | [[Using Insight to Deepen Love and Compassion]]
 [[The Practice of Compassion#When there's insight into suffering compassion comes automatically\|When there's insight into suffering, compassion comes automatically]] | 9 | [[The Practice of Compassion]]
 [[Questioning Awakening#Example narrow focus of Mahasi tradition\|Example: narrow focus of Mahasi tradition]] | 6 | [[Questioning Awakening]]
+[[Compassion (talk)#Compassion also includes the steadiness of equanimity and wisdom\|Compassion also includes the steadiness of equanimity, and wisdom]] | 6 | [[Compassion (talk)]]
 [[Using Insight to Deepen Love and Compassion#As we practice metta insight comes with that\|As we practice metta, insight comes with that]] | 6 | [[Using Insight to Deepen Love and Compassion]]
 [[The Practice of Compassion#There's a difference between 'judgement' and 'discernment'\|There's a difference between 'judgement' and 'discernment']] | 6 | [[The Practice of Compassion]]
 [[From Insight to Love#Insight is that which releases clinging\|Insight is that which releases clinging]] | 6 | [[From Insight to Love]]

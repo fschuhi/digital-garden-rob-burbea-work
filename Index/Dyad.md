@@ -10,4 +10,13 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Rather than actual person dyad partner is intrapsychic image\|Rather than actual person, dyad partner is intrapsychic image]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Set up the temenos in the beginning and include metta\|Set up the temenos in the beginning and include metta]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#All this emerges naturally through the process of sensing with soul\|All this emerges naturally through the process of sensing with soul]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#2 dyad excercises\|2 dyad excercises]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Excercise 4 1 One person blesses the other person receives the blessing\|Excercise 4.1: One person blesses, the other person receives the blessing]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Is it possible to let go of "oh it's silly"\|Is it possible to let go of "oh, it's silly"]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Witness is just noticing albeit by bringing the whole energy body into sensual relationship 🟢\|Witness is just noticing (albeit by bringing the whole energy body into sensual relationship) 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Also add metta in an adhoc fassion to counteract self-consciousness\|Also add metta in an adhoc fassion to counteract self-consciousness]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#The blessed one is not responding but is sensitive with the energy body\|The blessed one is not responding but is sensitive with the energy body]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Recognising soul is the main point\|Recognising soul is the main point]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 

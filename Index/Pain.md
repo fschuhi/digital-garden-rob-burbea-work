@@ -18,4 +18,13 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Equanimity (talk)#Pain and pleasure are dependent on my reaction to it - I am making things with my reaction\|Pain and pleasure are dependent on my reaction to it - I am making things with my reaction]] | 13 | [[Equanimity (talk)]]
+[[Counting Within the Breath - Guided Meditation#You can't start with working with pain\|You can't start with working with pain]] | 3 | [[Counting Within the Breath - Guided Meditation]]
+[[Dilemmas and Delineations - How did we get here Part 1#The contemplative painfully longs for awakening\|The contemplative painfully longs for awakening]] | 3 | [[Dilemmas and Delineations - How did we get here Part 1]]
+[[Exploring the World of Loving Kindness#Embrace pain lovingly\|Embrace pain lovingly]] | 3 | [[Exploring the World of Loving Kindness]]
+[[What is Insight#Just letting go of the aversion in the heart the heart opens\|Just letting go of the aversion in the heart, the heart opens]] | 3 | [[What is Insight]]
+[[Expressions of Metta#What was needed was a pure embrace of loving-kindness\|What was needed was a pure embrace of loving-kindness]] | 3 | [[Expressions of Metta]]
+[[Equanimity (talk)#Equanimity in relation to the eight worldly conditions\|Equanimity in relation to the eight worldly conditions]] | 3 | [[Equanimity (talk)]]
+[[Equanimity in Compassion#Eight worldly conditions\|Eight worldly conditions]] | 2 | [[Equanimity in Compassion]]
+[[The Practice of Compassion#Fear only compounds the suffering\|Fear only compounds the suffering]] | 2 | [[The Practice of Compassion]]
+[[The Practice of Compassion#When feeling the pain of anger coming in remember to give compassion to yourself\|When feeling the pain of anger coming in, remember to give compassion to yourself]] | 2 | [[The Practice of Compassion]]
 

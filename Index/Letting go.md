@@ -26,4 +26,5 @@ description | count | talk
 [[The Place of Samadhi in Metta Practice#Be willing to experiment with the whole range of it\|Be willing to experiment with the whole range of it]] | 4 | [[The Place of Samadhi in Metta Practice]]
 [[Joy (talk)#"Skilful attachment"\|"Skilful attachment"]] | 4 | [[Joy (talk)]]
 [[What is Insight#Seeing things as not-self\|Seeing things as not-self]] | 4 | [[What is Insight]]
+[[Equanimity in Compassion#2 Letting go of identification\|(2) Letting go of identification]] | 3 | [[Equanimity in Compassion]]
 

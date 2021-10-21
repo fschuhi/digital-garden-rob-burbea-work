@@ -24,4 +24,7 @@ description | count | talk
 [[The Way of Non-Clinging Part 1#"Don't try to repeat experiences"\|"Don't try to repeat experiences"]] | 4 | [[The Way of Non-Clinging Part 1]]
 [[Questioning Awakening#Are we free to inquire into different kinds of freedom\|Are we free to inquire into different kinds of freedom?]] | 4 | [[Questioning Awakening]]
 [[The Place of Samadhi in Metta Practice#Three major fruits from this retreat\|Three major fruits from this retreat]] | 4 | [[The Place of Samadhi in Metta Practice]]
+[[Questioning Awakening#2 trend the meaning of "awakening" has been lowered\|2. trend: the meaning of "awakening" has been lowered]] | 3 | [[Questioning Awakening]]
+[[Love and Emptiness# "By not holding to fixed views" - the liberation comes through how ways of seeing are fabricated\|..."By not holding to fixed views" - the liberation comes through how ways of seeing are fabricated]] | 3 | [[Love and Emptiness]]
+[[Love and Emptiness#Rob Maybe only Buddhas can see emptiness and not bump into things\|Rob: Maybe only Buddhas can see emptiness and not bump into things]] | 3 | [[Love and Emptiness]]
 

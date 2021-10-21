@@ -24,4 +24,7 @@ description | count | talk
 [[Joy (talk)#Oftentimes the mind inclines to the other way fault-finding\|Oftentimes, the mind inclines to the other way: fault-finding]] | 4 | [[Joy (talk)]]
 [[What is Insight#Personal insight into one's own habits of body speech and mind\|Personal insight into one's own habits of body, speech and mind]] | 4 | [[What is Insight]]
 [[Expressions of Metta#It can be a habit to not give love to ourselves\|It can be a habit to not give love to ourselves]] | 4 | [[Expressions of Metta]]
+[[Using Insight to Deepen Love and Compassion#Body sensitivity allows samadhi to go deeper\|Body sensitivity allows samadhi to go deeper]] | 3 | [[Using Insight to Deepen Love and Compassion]]
+[[Joy (talk)#Joy is helpful in the practice of reconditioning of the mind and heart\|Joy is helpful in the practice of reconditioning of the mind and heart]] | 3 | [[Joy (talk)]]
+[[From Insight to Love#The more metta the less soil fear has to establish itself as a habit\|The more metta, the less soil fear has to establish itself as a habit]] | 3 | [[From Insight to Love]]
 

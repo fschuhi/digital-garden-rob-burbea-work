@@ -11,8 +11,8 @@ talk | count | series
 [[Expressions of Metta]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 9 | [[2017 Eros Unfettered]]
 [[Exploring the World of Loving Kindness]] | 8 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 4]] | 7 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 3]] | 7 | [[2017 Eros Unfettered]]
-[[Love and Emptiness]] | 7 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -34,6 +34,7 @@ description | count | talk
 [[The Way of Non-Clinging Part 1#The Buddha on clinging\|The Buddha on clinging]] | 6 | [[The Way of Non-Clinging Part 1]]
 [[Using Insight to Deepen Love and Compassion#Insight is any kind of understanding that releases clinging and thus suffering\|Insight is any kind of understanding that releases clinging and thus suffering]] | 6 | [[Using Insight to Deepen Love and Compassion]]
 [[From Insight to Love#Insight is that which releases clinging\|Insight is that which releases clinging]] | 6 | [[From Insight to Love]]
+[[Dilemmas and Delineations - How did we get here Part 4#Clinging leads to a solidification and stagnation of perception and vice versa\|Clinging leads to a solidification and stagnation of perception, and vice versa]] | 5 | [[Dilemmas and Delineations - How did we get here Part 4]]
 [[The Way of Non-Clinging Part 3#Who would even want to live without clinging\|Who would even want to live without clinging?]] | 5 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 2#Avijja as belief in an independent reality is a form of clinging\|Avijja (as belief in an independent reality) is a form of clinging]] | 5 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#"Clinging" has a huge range of subtlelty\|"Clinging" has a huge range of subtlelty]] | 5 | [[The Way of Non-Clinging Part 2]]

@@ -7,12 +7,12 @@ talk | count | series
 [[Equanimity (talk)]] | 28 | [[2006 New Year's Retreat]]
 [[Orienting to This Jhana Retreat]] | 24 | [[2019 Practising the Jhanas]]
 [[Equanimity in Compassion]] | 22 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Compassion (talk)]] | 20 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Place of Samadhi in Metta Practice]] | 16 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Using Insight to Deepen Love and Compassion]] | 13 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 13 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 9 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 8 | [[2007 New Years Retreat Insight Meditation]]
-[[From Insight to Love]] | 7 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -32,11 +32,14 @@ description | count | talk
 [[Joy (talk)#Joy is inversely related to selfing\|Joy is inversely related to selfing]] | 6 | [[Joy (talk)]]
 [[Joy (talk)#We begin to lose the infatuation with believing that things are a certain way\|We begin to lose the infatuation with believing that things are a certain way]] | 6 | [[Joy (talk)]]
 [[Joy (talk)#Know and inquire into the whole range of joy\|Know and inquire into the whole range of joy]] | 6 | [[Joy (talk)]]
+[[Compassion (talk)#Taking care of happiness allows compassion\|Taking care of happiness allows compassion]] | 5 | [[Compassion (talk)]]
 [[Joy (talk)#The absence of aversion the absence of pushing away and wanting to get rid of brings joy\|The absence of aversion, the absence of pushing away and wanting to get rid of, brings joy]] | 5 | [[Joy (talk)]]
 [[Joy (talk)#You can't have joy all the time but you can work on nurturing it\|You can't have joy all the time, but you can work on nurturing it]] | 5 | [[Joy (talk)]]
 [[Joy (talk)#We really need to recognise joy and what there is to appreciate\|We really need to recognise joy and what there is to appreciate]] | 5 | [[Joy (talk)]]
 [[Orienting to This Jhana Retreat#Jhanas are really something remarkable that opens for a human being\|Jhanas are really something remarkable that opens for a human being]] | 4 | [[Orienting to This Jhana Retreat]]
 [[Orienting to This Jhana Retreat#Jhanas bring happiness but they also depend on it - where does the base happiness come from\|Jhanas bring happiness, but they also depend on it - where does the base happiness come from?]] | 4 | [[Orienting to This Jhana Retreat]]
+[[Compassion (talk)#We can't really be fully fulfilled pursuing happiness through self-centredness\|We can't really be fully fulfilled pursuing happiness through self-centredness]] | 4 | [[Compassion (talk)]]
+[[Compassion (talk)#Reinforced grooves of habit can close the doors for the possibility of deep happiness\|Reinforced grooves of habit can close the doors for the possibility of deep happiness]] | 4 | [[Compassion (talk)]]
 [[The Place of Samadhi in Metta Practice#One of the fruits of samadhi is steadiness study results\|One of the fruits of samadhi is steadiness (study results)]] | 4 | [[The Place of Samadhi in Metta Practice]]
 [[The Place of Samadhi in Metta Practice#It works also in the reverse the most important contributor to samadhi is happiness\|It works also in the reverse: the most important contributor to samadhi is happiness]] | 4 | [[The Place of Samadhi in Metta Practice]]
 [[Joy (talk)#What about joy\|What about joy?]] | 4 | [[Joy (talk)]]

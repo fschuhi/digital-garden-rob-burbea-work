@@ -25,4 +25,6 @@ description | count | talk
 [[The Way of Non-Clinging Part 2#The problem in Mahayana of even a Buddha needing to fabricate appearances\|The problem in Mahayana of even a Buddha needing to fabricate appearances]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#Only Buddhas can contemplate emptiness and appearance at the same time\|Only Buddhas can contemplate emptiness and appearance at the same time]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[Questioning Awakening#That's not in the Pali Canon\|That's not in the Pali Canon]] | 4 | [[Questioning Awakening]]
+[[Using Insight to Deepen Love and Compassion#Maturity in practice comes from being able to move between different ways of seeing\|Maturity in practice comes from being able to move between different ways of seeing]] | 3 | [[Using Insight to Deepen Love and Compassion]]
+[[What is Insight#Kaccayana and Dependent Origination\|Kaccayana and Dependent Origination]] | 3 | [[What is Insight]]
 

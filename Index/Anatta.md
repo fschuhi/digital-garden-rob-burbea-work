@@ -18,12 +18,12 @@ talk | count | series
 [[From Insight to Love]] | 30 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Using Insight to Deepen Love and Compassion]] | 23 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 2]] | 20 | [[2017 Eros Unfettered]]
+[[Compassion (talk)]] | 6 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 6 | [[2007 New Years Retreat Insight Meditation]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 5 | [[2020 Vajra Music]]
 [[The Practice of Compassion]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Exploring the World of Loving Kindness]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[Love and Emptiness]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ## some other stuff
@@ -36,4 +36,9 @@ description | count | talk
 [[From Insight to Love#The "three characteristics"\|The "three characteristics"]] | 5 | [[From Insight to Love]]
 [[The Way of Non-Clinging Part 2#"Self is an illusion" leads to anatta practice\|"Self is an illusion" leads to anatta practice]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[From Insight to Love#Yes it might be but we are interested in freedom rather than a certain badge\|Yes, it might be, but we are interested in freedom, rather than a certain badge]] | 4 | [[From Insight to Love]]
+[[What is Insight#Seeing things as not-self\|Seeing things as not-self]] | 3 | [[What is Insight]]
+[[From Insight to Love#3 possibilities + anatta\|3 possibilities + anatta]] | 3 | [[From Insight to Love]]
+[[From Insight to Love#We are neither aiming to dissolve the self nor merge with the One\|We are neither aiming to dissolve the self nor merge with the One]] | 3 | [[From Insight to Love]]
+[[Expressions of Metta#Relationship to Anatta\|Relationship to Anatta]] | 3 | [[Expressions of Metta]]
+[[Samadhi in Metta Practice#Maturity comes from not taking things so personal\|Maturity comes from not taking things so personal]] | 3 | [[Samadhi in Metta Practice]]
 

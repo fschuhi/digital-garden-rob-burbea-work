@@ -8,11 +8,11 @@ talk | count | series
 [[The Way of Non-Clinging Part 3]] | 39 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 36 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 20 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 4]] | 12 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 12 | [[2017 Eros Unfettered]]
 [[Equanimity (talk)]] | 11 | [[2006 New Year's Retreat]]
 [[Using Insight to Deepen Love and Compassion]] | 10 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Dilemmas and Delineations - How did we get here Part 3]] | 9 | [[2017 Eros Unfettered]]
-[[What is Insight]] | 9 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

@@ -16,4 +16,10 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Couldn't 'soul' be similarly unfamiliar at first but eventually become helpful like 'aggregate'\|Couldn't 'soul' be similarly unfamiliar at first, but eventually become helpful like 'aggregate'?]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Even Vajrayana with seeing the aggregates as holy misses the person\|Even Vajrayana (with seeing the aggregates as holy) misses the person]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#"Well do you really relate to the word 'aggregate'"\|"Well, do you really relate to the word 'aggregate'"]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#But the notion of the aggregates and the notion of soul are divergent directions when making sense of a person\|But: the notion of the aggregates and the notion of soul are divergent directions when making sense of a person]] | 3 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Words from other conceptual frameworks might turn out to be useful like words from psychology\|Words from other conceptual frameworks might turn out to be useful, like words from psychology]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
+[[Exploring the World of Loving Kindness#The squeaky clean metta machine\|The squeaky clean metta machine]] | 2 | [[Exploring the World of Loving Kindness]]
+[[What is Insight#Moving towards the Unfabracticated\|Moving towards the Unfabracticated]] | 2 | [[What is Insight]]
+[[From Insight to Love#Others' experience is also "no me not mine"\|Others' experience is also "no me, not mine"]] | 2 | [[From Insight to Love]]
+[[Using Insight to Deepen Love and Compassion#g Aggregates are not me not mine\|g) Aggregates are not me, not mine]] | 1 | [[Using Insight to Deepen Love and Compassion]]
 

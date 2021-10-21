@@ -4,6 +4,7 @@
 talk | count | series
 :- | - |: -
 [[The Practice of Compassion]] | 150 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Compassion (talk)]] | 144 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 63 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 59 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Using Insight to Deepen Love and Compassion]] | 20 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
@@ -12,15 +13,23 @@ talk | count | series
 [[The Place of Samadhi in Metta Practice]] | 10 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Guided meditation - Metta to phenomena]] | 9 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Exploring the World of Loving Kindness]] | 7 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[Joy (talk)]] | 6 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+[[Compassion (talk)#Compassion has kindness in it and acceptance and listening and a quality of opening and happiness and faith\|Compassion has kindness in it, and acceptance, and listening, and a quality of opening, and happiness, and faith]] | 10 | [[Compassion (talk)]]
+[[Compassion (talk)#Compassion needs to become a current in our life\|Compassion needs to become a current in our life]] | 8 | [[Compassion (talk)]]
+[[Compassion (talk)#Remaining percipient of what's beautiful; redirect compassion towards ourselves\|Remaining percipient of what's beautiful; redirect compassion towards ourselves]] | 8 | [[Compassion (talk)]]
+[[Compassion (talk)#Compassion also includes the steadiness of equanimity and wisdom\|Compassion also includes the steadiness of equanimity, and wisdom]] | 7 | [[Compassion (talk)]]
 [[The Practice of Compassion#Giving compassion to mind moments\|Giving compassion to mind moments]] | 7 | [[The Practice of Compassion]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Also add metta in an adhoc fassion to counteract self-consciousness\|Also add metta in an adhoc fassion to counteract self-consciousness]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Compassion (talk)#Taking care of happiness allows compassion\|Taking care of happiness allows compassion]] | 6 | [[Compassion (talk)]]
 [[The Practice of Compassion#A space radiating compassion\|A space radiating compassion]] | 6 | [[The Practice of Compassion]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Mantras also don't necessarily have particular meaning either\|Mantras also don't necessarily have particular meaning either]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Compassion (talk)#Compassion is the heart's natural response to suffering\|Compassion is the heart's natural response to suffering]] | 5 | [[Compassion (talk)]]
+[[Compassion (talk)#Through compassion we are reconnecting with our heart\|Through compassion we are reconnecting with our heart]] | 5 | [[Compassion (talk)]]
+[[Compassion (talk)#Energizing rather tiring pleasant rather than unpleasant\|Energizing rather tiring, pleasant rather than unpleasant]] | 5 | [[Compassion (talk)]]
+[[Compassion (talk)#We can get sometimes a sense of a compassion that it's not the self doing it\|We can get sometimes a sense of a compassion that it's not the self doing it]] | 5 | [[Compassion (talk)]]
 [[Equanimity in Compassion#Still the self giving compassion is a necessary aspect of our humanity\|Still, the self giving compassion is a necessary aspect of our humanity]] | 5 | [[Equanimity in Compassion]]
 [[Equanimity in Compassion#So we need to ask ourselves in those situations how we can get at least some of what we need in a healthy way\|So we need to ask ourselves in those situations how we can get at least some of what we need in a healthy way]] | 5 | [[Equanimity in Compassion]]
 [[Love and Emptiness#"Seeing all things with compassion"\|"Seeing all things with compassion"]] | 5 | [[Love and Emptiness]]
@@ -30,6 +39,13 @@ description | count | talk
 [[The Practice of Compassion#When there's metta and compassion for oneself the ego can take its rightful place in the scheme of things\|When there's metta and compassion for oneself, the ego can take its rightful place in the scheme of things]] | 5 | [[The Practice of Compassion]]
 [[The Practice of Compassion#Cultivating a climate of compassion\|Cultivating a climate of compassion]] | 5 | [[The Practice of Compassion]]
 [[The Practice of Compassion#Rob We are not completely in control of what will happen but acting out of compassion is still the best way to live\|Rob: We are not completely in control of what will happen, but acting out of compassion is still the best way to live]] | 5 | [[The Practice of Compassion]]
+[[Compassion (talk)#It's easy to see compassion as a kind of burden\|It's easy to see compassion as a kind of burden]] | 4 | [[Compassion (talk)]]
+[[Compassion (talk)#We fear that compassion will overwhelm us\|We fear that compassion will overwhelm us]] | 4 | [[Compassion (talk)]]
+[[Compassion (talk)#Cultivating compassion through Tonglen or through devotion\|Cultivating compassion through Tonglen, or through devotion]] | 4 | [[Compassion (talk)]]
+[[Compassion (talk)#Associate with the compassionate\|Associate with the compassionate]] | 4 | [[Compassion (talk)]]
+[[Compassion (talk)#Expect them it's part of humanity and how we learn\|Expect them, it's part of humanity and how we learn]] | 4 | [[Compassion (talk)]]
+[[Compassion (talk)#2 Righteous Anger\|(2) (Righteous) Anger]] | 4 | [[Compassion (talk)]]
+[[Compassion (talk)#3 Pity\|(3) Pity]] | 4 | [[Compassion (talk)]]
 [[Using Insight to Deepen Love and Compassion#As we practice metta insight comes with that\|As we practice metta, insight comes with that]] | 4 | [[Using Insight to Deepen Love and Compassion]]
 [[Exploring the World of Loving Kindness#We need to discriminate between metta and compassion\|We need to discriminate between metta and compassion]] | 4 | [[Exploring the World of Loving Kindness]]
 [[Joy (talk)#Metta and compassion bring happiness\|Metta and compassion bring happiness]] | 4 | [[Joy (talk)]]

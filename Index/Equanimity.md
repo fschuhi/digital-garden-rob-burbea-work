@@ -19,8 +19,8 @@ talk | count | series
 [[The Practice of Compassion]] | 8 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 7 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Orienting to This Jhana Retreat]] | 4 | [[2019 Practising the Jhanas]]
+[[Compassion (talk)]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Using Insight to Deepen Love and Compassion]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
 [[The Place of Samadhi in Metta Practice]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
@@ -94,4 +94,6 @@ description | count | talk
 [[Equanimity in Compassion#2 Equanimity deepens by letting go of grasping and craving\|(2) Equanimity deepens by letting go of grasping and craving]] | 4 | [[Equanimity in Compassion]]
 [[Equanimity in Compassion#Rob spaciousness and progressivly letting go\|Rob: spaciousness and progressivly letting go]] | 4 | [[Equanimity in Compassion]]
 [[Equanimity (talk)#There is nothing really to be equanimous about\|There is nothing really to be equanimous about]] | 4 | [[Equanimity (talk)]]
+[[Equanimity in Compassion#The natural progression of samadhi leads to equanimity which eventually becomes also accessible outside samadhi\|The natural progression of samadhi leads to equanimity, which eventually becomes also accessible outside samadhi]] | 3 | [[Equanimity in Compassion]]
+[[Equanimity in Compassion#Spaciousness is a prominent feature of equanimity\|Spaciousness is a prominent feature of equanimity]] | 3 | [[Equanimity in Compassion]]
 

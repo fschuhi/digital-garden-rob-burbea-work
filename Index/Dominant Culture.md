@@ -9,6 +9,7 @@ talk | count | series
 [[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 1 | [[2020 Vajra Music]]
 [[Orienting to This Jhana Retreat]] | 1 | [[2019 Practising the Jhanas]]
+[[Dilemmas and Delineations - How did we get here Part 4]] | 1 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
 [[Questioning Awakening]] | 1 | [[2014 November Solitary - Questioning Awakening]]
 [[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
@@ -17,10 +18,10 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Dilemmas and Delineations - How did we get here Part 3#Ideas about divinity are historically and culturally contingent\|Ideas about divinity are historically and culturally contingent]] | 2 | [[Dilemmas and Delineations - How did we get here Part 3]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#The dukkha of soullessness\|The dukkha of soullessness]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#We are often held back or holding in of our energy\|We are often held back or holding in of our energy]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Then I assess it the teacher\|Then I assess it (the teacher)]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Orienting to This Jhana Retreat#Open your intention\|Open your intention]] | 1 | [[Orienting to This Jhana Retreat]]
+[[Dilemmas and Delineations - How did we get here Part 4#Cultures tend to assume a universality of wants\|Cultures tend to assume a universality of wants]] | 1 | [[Dilemmas and Delineations - How did we get here Part 4]]
 [[Dilemmas and Delineations - How did we get here Part 1#The Buddha often uses "striving" etc \|The Buddha often uses "striving" etc.]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[Questioning Awakening#Someone from medieval Europe or Asia wouldn't know what that could possibly mean\|Someone from medieval Europe or Asia wouldn't know what that could possibly mean]] | 1 | [[Questioning Awakening]]
 [[Joy (talk)#Often it's not the fact that I don't have the thing but I believe I need it\|Often it's not the fact that I don't have the thing, but I believe I need it]] | 1 | [[Joy (talk)]]

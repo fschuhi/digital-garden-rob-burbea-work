@@ -4,6 +4,7 @@
 talk | count | series
 :- | - |: -
 [[The Practice of Compassion]] | 115 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Compassion (talk)]] | 94 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 55 | [[2007 New Years Retreat Insight Meditation]]
 [[Equanimity in Compassion]] | 48 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Using Insight to Deepen Love and Compassion]] | 30 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
@@ -12,7 +13,6 @@ talk | count | series
 [[Questioning Awakening]] | 23 | [[2014 November Solitary - Questioning Awakening]]
 [[From Insight to Love]] | 22 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 15 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 14 | [[2020 Vajra Music]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -24,6 +24,8 @@ description | count | talk
 [[The Practice of Compassion#When metta meets suffering it transformsinto compassion\|When metta meets suffering, it transformsinto compassion]] | 9 | [[The Practice of Compassion]]
 [[Dilemmas and Delineations - How did we get here Part 3#The concept of ways of looking is compatible with the Four Noble Truths but can also points beyond it\|The concept of ways of looking is compatible with the Four Noble Truths, but can also points beyond it]] | 8 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 1#Huge range of what contitutes craving\|Huge range of what contitutes craving]] | 8 | [[The Way of Non-Clinging Part 1]]
+[[Compassion (talk)#Reflect on that my suffering is actually not different from the suffering of others\|Reflect on that my suffering is actually not different from the suffering of others]] | 8 | [[Compassion (talk)]]
+[[Compassion (talk)#Willingness to open and touch suffering nurtures compassion\|Willingness to open and touch suffering nurtures compassion]] | 7 | [[Compassion (talk)]]
 [[What is Insight#General definition of insight that which brings lessening of suffering\|General definition of insight: that which brings lessening of suffering]] | 7 | [[What is Insight]]
 [[Equanimity in Compassion#Equanimity makes the compassion steady in the face of suffering\|Equanimity makes the compassion steady in the face of suffering]] | 7 | [[Equanimity in Compassion]]
 [[The Practice of Compassion#Fear only compounds the suffering\|Fear only compounds the suffering]] | 7 | [[The Practice of Compassion]]
@@ -34,6 +36,9 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#The dukkha of soullessness\|The dukkha of soullessness]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Questioning Awakening#When we use the Four Noble Truths just as a skeleton then this opens up a multiplicity of interpretations\|When we use the Four Noble Truths just as a skeleton, then this opens up a multiplicity of interpretations]] | 5 | [[Questioning Awakening]]
 [[Questioning Awakening#Is simple mindfulness rich enough as a philosophy or as a psychology\|Is simple mindfulness rich enough as a philosophy or as a psychology?]] | 5 | [[Questioning Awakening]]
+[[Compassion (talk)#1 Fear\|(1) Fear]] | 5 | [[Compassion (talk)]]
+[[Compassion (talk)#2 Righteous Anger\|(2) (Righteous) Anger]] | 5 | [[Compassion (talk)]]
+[[Compassion (talk)#In the realization of the humanity there's a kind of softening\|In the realization of the humanity, there's a kind of softening]] | 5 | [[Compassion (talk)]]
 [[Love and Emptiness#Rob Compassion practice tunes into suffering and the outgoing healing can feel like metta\|Rob: Compassion practice tunes into suffering, and the outgoing healing can feel like metta]] | 5 | [[Love and Emptiness]]
 [[The Practice of Compassion#Many people are wary that they might be taking on more suffering through compassion\|Many people are wary that they might be taking on more suffering through compassion]] | 5 | [[The Practice of Compassion]]
 [[The Practice of Compassion#Spaciousness is holding whatever suffering arises\|Spaciousness is holding whatever suffering arises]] | 5 | [[The Practice of Compassion]]
@@ -42,6 +47,10 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#The legacy of the Four Noble Truths\|The legacy of the Four Noble Truths]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[The Way of Non-Clinging Part 2#Relaxing the subtle dukkha\|Relaxing the subtle dukkha]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#Uncovering more subtle levels of dukkha is a lovely practice\|Uncovering more subtle levels of dukkha is a lovely practice]] | 4 | [[The Way of Non-Clinging Part 2]]
+[[Compassion (talk)#It wants to alleviate the suffering\|It wants to alleviate the suffering]] | 4 | [[Compassion (talk)]]
+[[Compassion (talk)#Compassion also includes the steadiness of equanimity and wisdom\|Compassion also includes the steadiness of equanimity, and wisdom]] | 4 | [[Compassion (talk)]]
+[[Compassion (talk)#We fear that compassion will overwhelm us\|We fear that compassion will overwhelm us]] | 4 | [[Compassion (talk)]]
+[[Compassion (talk)#Spaciousness and sweetness are marks of 1 empathy\|Spaciousness and sweetness are marks of (1) empathy]] | 4 | [[Compassion (talk)]]
 [[Using Insight to Deepen Love and Compassion#Insight is any kind of understanding that releases clinging and thus suffering\|Insight is any kind of understanding that releases clinging and thus suffering]] | 4 | [[Using Insight to Deepen Love and Compassion]]
 [[Using Insight to Deepen Love and Compassion#2 dukkha unsatisfactoriness suffering\|(2) dukkha, unsatisfactoriness, suffering]] | 4 | [[Using Insight to Deepen Love and Compassion]]
 [[Using Insight to Deepen Love and Compassion#3 Anatta not-self\|(3) Anatta, not-self]] | 4 | [[Using Insight to Deepen Love and Compassion]]

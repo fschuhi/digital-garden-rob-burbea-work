@@ -16,4 +16,13 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Joy (talk)#Joy is inversely related to selfing\|Joy is inversely related to selfing]] | 4 | [[Joy (talk)]]
+[[Joy (talk)#Piti is the physical aspect of spiritual joy not based on sense pleasure\|Piti is the physical aspect of spiritual joy, not based on sense pleasure]] | 3 | [[Joy (talk)]]
+[[Equanimity (talk)#Nature art music can touch us and feed that wonder\|Nature, art, music can touch us and feed that wonder]] | 3 | [[Equanimity (talk)]]
+[[Equanimity (talk)#The more our intentionality goes towards sense pleasure and security the less the wonder\|The more our intentionality goes towards sense pleasure and security, the less the wonder]] | 3 | [[Equanimity (talk)]]
+[[Equanimity in Compassion#Mudita is a kind of joy that's not so based on the ego\|Mudita is a kind of joy that's not so based on the ego]] | 2 | [[Equanimity in Compassion]]
+[[Equanimity (talk)#Spiritual joy\|Spiritual joy]] | 2 | [[Equanimity (talk)]]
+[[Equanimity (talk)#"We come to the infinite well of life with a thimble and so we go away thirsty"\|"We come to the infinite well of life with a thimble and so we go away thirsty"]] | 2 | [[Equanimity (talk)]]
+[[Equanimity (talk)#How does wonder get squashed\|How does wonder get squashed]] | 2 | [[Equanimity (talk)]]
+[[Equanimity in Compassion#Paradoxically we become even more devoted with seeing the emptiness of everything\|Paradoxically, we become even more devoted with seeing the emptiness of everything]] | 1 | [[Equanimity in Compassion]]
+[[Equanimity (talk)#Equanimity is neither a typical nor a particularly sexy sounding word\|Equanimity is neither a typical nor a particularly sexy sounding word]] | 1 | [[Equanimity (talk)]]
 

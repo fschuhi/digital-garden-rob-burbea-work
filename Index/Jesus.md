@@ -7,6 +7,7 @@ talk | count | series
 [[Perfection and Christ's Blessing]] | 3 | [[2020 Vajra Music]]
 [[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
 [[Dilemmas and Delineations - How did we get here Part 3]] | 1 | [[2017 Eros Unfettered]]
+[[Compassion (talk)]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Exploring the World of Loving Kindness]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
@@ -16,7 +17,7 @@ description | count | talk
 :- | : - | :-
 [[Perfection and Christ's Blessing#Jesus's blessing is on everything\|Jesus's blessing is on everything]] | 2 | [[Perfection and Christ's Blessing]]
 [[The Practice of Compassion#"Love is without beginning"\|"Love is without beginning"]] | 2 | [[The Practice of Compassion]]
-[[Dilemmas and Delineations - How did we get here Part 3#5 Imaginal image imaginal image\|(5) Imaginal, image, imaginal image]] | 1 | [[Dilemmas and Delineations - How did we get here Part 3]]
+[[Compassion (talk)#Cultivating compassion through Tonglen or through devotion\|Cultivating compassion through Tonglen, or through devotion]] | 1 | [[Compassion (talk)]]
 [[Exploring the World of Loving Kindness#It's not always that metta feels it's coming from the self\|It's not always that metta feels it's coming from the self]] | 1 | [[Exploring the World of Loving Kindness]]
 [[Equanimity in Compassion#Eight worldly conditions\|Eight worldly conditions]] | 1 | [[Equanimity in Compassion]]
 [[The Practice of Compassion#Different practices for compassion\|Different practices for compassion]] | 1 | [[The Practice of Compassion]]

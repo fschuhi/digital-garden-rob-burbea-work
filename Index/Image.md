@@ -7,12 +7,12 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 62 | [[2020 Vajra Music]]
 [[Dilemmas and Delineations - How did we get here Part 3]] | 55 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 43 | [[2020 Vajra Music]]
+[[Dilemmas and Delineations - How did we get here Part 4]] | 14 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 13 | [[2020 Vajra Music]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 7 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 3]] | 6 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] | 4 | [[2020 Vajra Music]]
 [[Dilemmas and Delineations - How did we get here Part 2]] | 3 | [[2017 Eros Unfettered]]
-[[The Place of Samadhi in Metta Practice]] | 3 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

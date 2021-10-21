@@ -5,6 +5,7 @@ talk | count | series
 :- | - |: -
 [[Dilemmas and Delineations - How did we get here Part 3]] | 1 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
+[[Compassion (talk)]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Exploring the World of Loving Kindness]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
@@ -12,5 +13,6 @@ description | count | talk
 :- | : - | :-
 [[Dilemmas and Delineations - How did we get here Part 3#5 Imaginal image imaginal image\|(5) Imaginal, image, imaginal image]] | 1 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 1#Another equates Eros with life\|Another equates Eros with life]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
+[[Compassion (talk)#Cultivating compassion through Tonglen or through devotion\|Cultivating compassion through Tonglen, or through devotion]] | 1 | [[Compassion (talk)]]
 [[Exploring the World of Loving Kindness#It's not always that metta feels it's coming from the self\|It's not always that metta feels it's coming from the self]] | 1 | [[Exploring the World of Loving Kindness]]
 

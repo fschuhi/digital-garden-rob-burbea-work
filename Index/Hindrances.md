@@ -22,4 +22,9 @@ description | count | talk
 [[Orienting to This Jhana Retreat#Hindrances as the dark rich underbelly of jhana practice\|Hindrances as the dark, rich underbelly of jhana practice]] | 4 | [[Orienting to This Jhana Retreat]]
 [[The Way of Non-Clinging Part 3#Is there something missing in the way we categorize our desires and what we seek from them\|Is there something missing in the way we categorize our desires and what we seek from them?]] | 4 | [[The Way of Non-Clinging Part 3]]
 [[Joy (talk)#Piti is the physical aspect of spiritual joy not based on sense pleasure\|Piti is the physical aspect of spiritual joy, not based on sense pleasure]] | 4 | [[Joy (talk)]]
+[[Orienting to This Jhana Retreat#All this implies something about your practice intention view\|All this implies something about your practice, intention, view]] | 3 | [[Orienting to This Jhana Retreat]]
+[[The Way of Non-Clinging Part 1#Chanda is impulse intention will\|Chanda is impulse, intention, will]] | 2 | [[The Way of Non-Clinging Part 1]]
+[[The Place of Samadhi in Metta Practice#Story metta all the day\|Story: metta all the day]] | 2 | [[The Place of Samadhi in Metta Practice]]
+[[Equanimity in Compassion#Rob depends on level of steadiness spaciousness and energy body\|Rob: depends on level of steadiness, spaciousness, and energy body]] | 2 | [[Equanimity in Compassion]]
+[[Samadhi in Metta Practice#Learn to expect and accept hindrances\|Learn to expect and accept hindrances]] | 2 | [[Samadhi in Metta Practice]]
 

@@ -40,4 +40,12 @@ description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Preliminaries" can become ensouled\|"Preliminaries" can become ensouled]] | 7 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#"Études" Preliminaries"\|"Études", Preliminaries"]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Why "preliminaries" Because it expands soulmaking\|Why "preliminaries"? Because it expands soulmaking]] | 3 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#There are a lot of variations\|There are a lot of variations]] | 3 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#I'm not really sure about the word 'preliminary'\|I'm not really sure about the word 'preliminary']] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Soulmaking is elitist\|Soulmaking is elitist]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Energy body excercises open towards relating to it as imaginal image\|Energy body excercises open towards relating to it as imaginal image]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#It's going to be about movement gesture and voice\|It's going to be about movement, gesture, and voice]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#This is a beginning which should be developed\|This is a beginning which should be developed]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#We need wings to fly in Soulmaking\|We need wings to fly in Soulmaking]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 

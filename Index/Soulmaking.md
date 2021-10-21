@@ -10,9 +10,9 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 3]] | 17 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 14 | [[2020 Vajra Music]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 13 | [[2017 Eros Unfettered]]
+[[Dilemmas and Delineations - How did we get here Part 4]] | 9 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 3]] | 6 | [[2017 Eros Unfettered]]
 [[Orienting to This Jhana Retreat]] | 4 | [[2019 Practising the Jhanas]]
-[[Counting Within the Breath - Guided Meditation]] | 2 | [[2019 Practising the Jhanas]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -26,4 +26,5 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#This affects the whole psyche heart relation to others\|This affects the whole psyche, heart, relation to others]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#When does an image need to be concretized in movement gesture voice\|When does an image need to be concretized in movement, gesture, voice?]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Dilemmas and Delineations - How did we get here Part 2#"Dont' proceed until all things have been made liquid"\|"Dont' proceed until all things have been made liquid"]] | 4 | [[Dilemmas and Delineations - How did we get here Part 2]]
+[[Dilemmas and Delineations - How did we get here Part 1#Eros is connected to divinity cosmopoesis soulmaking to be covered later\|Eros is connected to divinity, cosmopoesis, soulmaking (to be covered later)]] | 3 | [[Dilemmas and Delineations - How did we get here Part 1]]
 

@@ -22,4 +22,9 @@ description | count | talk
 [[Using Insight to Deepen Love and Compassion#A whole other wing is understanding emptiness - birds need two wings\|A whole other wing is understanding emptiness - birds need two wings]] | 4 | [[Using Insight to Deepen Love and Compassion]]
 [[Using Insight to Deepen Love and Compassion#You may have periods in your life where you're encouraging one more than another\|You may have periods in your life where you're encouraging one more than another]] | 4 | [[Using Insight to Deepen Love and Compassion]]
 [[Using Insight to Deepen Love and Compassion#Maturity in practice comes from being able to move between different ways of seeing\|Maturity in practice comes from being able to move between different ways of seeing]] | 4 | [[Using Insight to Deepen Love and Compassion]]
+[[Orienting to This Jhana Retreat#It's a temporary preferences and there is still care there\|It's a temporary preferences, and there is still care there]] | 3 | [[Orienting to This Jhana Retreat]]
+[[Using Insight to Deepen Love and Compassion#Have I been an avoider of emotions Or too wrapped up and entangled in emotions What do I need to develop\|Have I been an avoider of emotions? Or too wrapped up and entangled in emotions? What do I need to develop]] | 2 | [[Using Insight to Deepen Love and Compassion]]
+[[Using Insight to Deepen Love and Compassion#1 respect the emotion and feel it\|(1) respect the emotion and feel it]] | 2 | [[Using Insight to Deepen Love and Compassion]]
+[[The Place of Samadhi in Metta Practice#When the samadhi is around drop in a thought of what's difficult\|When the samadhi is around, drop in a thought of what's difficult]] | 2 | [[The Place of Samadhi in Metta Practice]]
+[[What is Insight#Example being more in touch with the heart vs the mind\|Example: being more in touch with the heart vs the mind]] | 2 | [[What is Insight]]
 

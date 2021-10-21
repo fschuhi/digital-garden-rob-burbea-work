@@ -21,4 +21,10 @@ description | count | talk
 [[Using Insight to Deepen Love and Compassion#a Remembering death and the unpredicatibility of life\|a) Remembering death and the unpredicatibility of life]] | 5 | [[Using Insight to Deepen Love and Compassion]]
 [[Dilemmas and Delineations - How did we get here Part 1#One was more interested in Thanatos\|One was more interested in Thanatos]] | 4 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[From Insight to Love#This moment here is in the context of death\|This moment here is in the context of death]] | 4 | [[From Insight to Love]]
+[[Questioning Awakening#Being cast into a meaningless world\|Being cast into a meaningless world]] | 3 | [[Questioning Awakening]]
+[[Joy (talk)#However good it gets it's going to end\|However good it gets, it's going to end]] | 3 | [[Joy (talk)]]
+[[Equanimity (talk)#This moment is in the context of vast time and the vast unknown of death\|This moment is in the context of vast time and the vast unknown of death]] | 3 | [[Equanimity (talk)]]
+[[The Practice of Compassion#Seeing the oneness in the commonality\|Seeing the oneness in the commonality]] | 2 | [[The Practice of Compassion]]
+[[From Insight to Love#Thinking about dying sometime centres me other times it brings up fear\|Thinking about dying sometime centres me, other times it brings up fear]] | 2 | [[From Insight to Love]]
+[[From Insight to Love#Yes sometimes centring sometimes fear\|Yes, sometimes centring, sometimes fear]] | 2 | [[From Insight to Love]]
 

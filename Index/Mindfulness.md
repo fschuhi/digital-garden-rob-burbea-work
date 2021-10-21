@@ -26,4 +26,5 @@ description | count | talk
 [[Using Insight to Deepen Love and Compassion#Example subtle aversion in mindfulness\|Example: subtle aversion in mindfulness]] | 4 | [[Using Insight to Deepen Love and Compassion]]
 [[What is Insight# the more we let go of papanca the more our experience begins to brighten\|... the more we let go of papanca, the more our experience begins to brighten]] | 4 | [[What is Insight]]
 [[Love and Emptiness#With insight meditation there is the assumption that mindfulness is neutral\|With insight meditation there is the assumption that mindfulness is neutral]] | 4 | [[Love and Emptiness]]
+[[Samadhi in Metta Practice#Emotion is reflected as a contraction in the body\|Emotion is reflected as a contraction in the body]] | 3 | [[Samadhi in Metta Practice]]
 

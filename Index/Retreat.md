@@ -22,4 +22,9 @@ description | count | talk
 [[Counting Within the Breath - Guided Meditation#On this retreat different than for vipassa and soulmaking retreats we want you to focus in the interviews on the jhana practice\|On this retreat (different than for vipassa and soulmaking retreats), we want you to focus in the interviews on the jhana practice]] | 4 | [[Counting Within the Breath - Guided Meditation]]
 [[Orienting to This Jhana Retreat#Have an attitude and openness also towards noise Gaia House renovation\|Have an attitude and openness, also towards noise (Gaia House renovation)]] | 4 | [[Orienting to This Jhana Retreat]]
 [[The Place of Samadhi in Metta Practice#One of the fruits of samadhi is steadiness study results\|One of the fruits of samadhi is steadiness (study results)]] | 4 | [[The Place of Samadhi in Metta Practice]]
+[[Exploring the World of Loving Kindness#Encourage gentleness and care that runs through the body\|Encourage gentleness and care that runs through the body]] | 3 | [[Exploring the World of Loving Kindness]]
+[[The Place of Samadhi in Metta Practice#Three major fruits from this retreat\|Three major fruits from this retreat]] | 3 | [[The Place of Samadhi in Metta Practice]]
+[[The Place of Samadhi in Metta Practice#Samadhi is the best possible soil for insights to take root in\|Samadhi is the best possible soil for insights to take root in]] | 3 | [[The Place of Samadhi in Metta Practice]]
+[[Samadhi in Metta Practice#It's a lifelong exploration\|It's a lifelong exploration]] | 3 | [[Samadhi in Metta Practice]]
+[[Equanimity (talk)#Story Right speech\|Story: Right speech]] | 3 | [[Equanimity (talk)]]
 

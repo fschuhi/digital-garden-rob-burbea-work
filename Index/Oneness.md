@@ -9,6 +9,7 @@ talk | count | series
 [[Using Insight to Deepen Love and Compassion]] | 6 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Exploring the World of Loving Kindness]] | 6 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Compassion (talk)]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 3 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
@@ -20,4 +21,10 @@ description | count | talk
 [[Exploring the World of Loving Kindness#Sensing oneness and non-separateness is a beautiful opening\|Sensing oneness and non-separateness is a beautiful opening]] | 4 | [[Exploring the World of Loving Kindness]]
 [[Love and Emptiness#Even oneness is not how things really are it's also dependend on conditions\|Even oneness is not how things really are, it's also dependend on conditions]] | 4 | [[Love and Emptiness]]
 [[From Insight to Love#Metta practice can lead to the dissolving of the boundaries between self and other\|Metta practice can lead to the dissolving of the boundaries between self and other]] | 4 | [[From Insight to Love]]
+[[Dilemmas and Delineations - How did we get here Part 2#Eros does not move towards dissolution i e it will either resurrect a twoness after unification or discover more otherness\|Eros does not move towards dissolution, i.e. it will either resurrect a twoness after unification, or discover more otherness]] | 3 | [[Dilemmas and Delineations - How did we get here Part 2]]
+[[Dilemmas and Delineations - How did we get here Part 1#We don't just want oneness etc but more than that\|We don't just want oneness etc. but more than that]] | 3 | [[Dilemmas and Delineations - How did we get here Part 1]]
+[[Compassion (talk)#Incline the mind towards oneness\|Incline the mind towards oneness]] | 3 | [[Compassion (talk)]]
+[[Using Insight to Deepen Love and Compassion#There can be a sense of oneness opening up\|There can be a sense of oneness opening up]] | 3 | [[Using Insight to Deepen Love and Compassion]]
+[[Using Insight to Deepen Love and Compassion#3 Anatta not-self\|(3) Anatta, not-self]] | 3 | [[Using Insight to Deepen Love and Compassion]]
+[[Love and Emptiness#But don't be in a hurry as the power of those kinds of perceptions transforms heart and mind\|But don't be in a hurry, as the power of those kinds of perceptions transforms heart and mind]] | 2 | [[Love and Emptiness]]
 

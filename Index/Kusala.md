@@ -14,4 +14,13 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[The Way of Non-Clinging Part 3#3 distinctions divisions directions for "clinging"\|3 distinctions, divisions, directions (for "clinging")]] | 6 | [[The Way of Non-Clinging Part 3]]
+[[Love and Emptiness#In practice wholesome nourishment and investigation support each other\|In practice, wholesome nourishment and investigation support each other]] | 3 | [[Love and Emptiness]]
+[[The Way of Non-Clinging Part 1#Teachings which are limited in depth and breath \|Teachings which are limited in depth and breath.]] | 2 | [[The Way of Non-Clinging Part 1]]
+[[Love and Emptiness#We are cultivating qualities of mind and heart but there's no self in it\|We are cultivating qualities of mind and heart, but there's no self in it]] | 2 | [[Love and Emptiness]]
+[[Love and Emptiness#The practice is not about being in the present moment but rather feeding what's beautiful and investigation\|The practice is not about being in the present moment, but rather feeding what's beautiful and investigation]] | 2 | [[Love and Emptiness]]
+[[From Insight to Love#Over time the groove of metta will be more established than the groove of measuring comparing juding\|Over time, the groove of metta will be more established than the groove of measuring, comparing, juding]] | 2 | [[From Insight to Love]]
+[[Dilemmas and Delineations - How did we get here Part 1#We need a more sophisticated Dharma psychology\|We need a more sophisticated Dharma psychology]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
+[[The Way of Non-Clinging Part 2#Cling to something more wholesome Twelve Steps\|Cling to something more wholesome (Twelve Steps)]] | 1 | [[The Way of Non-Clinging Part 2]]
+[[Love and Emptiness#The mind is conditions - there's nothing wrong with reconditioning it\|The mind is conditions - there's nothing wrong with reconditioning it]] | 1 | [[Love and Emptiness]]
+[[From Insight to Love#Much of our life is just grooves\|Much of our life is just grooves]] | 1 | [[From Insight to Love]]
 

@@ -23,4 +23,8 @@ description | count | talk
 [[Questioning Awakening#Are we free to inquire into different kinds of freedom\|Are we free to inquire into different kinds of freedom?]] | 4 | [[Questioning Awakening]]
 [[Love and Emptiness#The indicator for emptiness is love and freedom\|The indicator for emptiness is love and freedom]] | 4 | [[Love and Emptiness]]
 [[From Insight to Love#Yes it might be but we are interested in freedom rather than a certain badge\|Yes, it might be, but we are interested in freedom, rather than a certain badge]] | 4 | [[From Insight to Love]]
+[[What is Insight#You contemplate impermance in the right way it brings joy\|You contemplate impermance in the right way, it brings joy]] | 3 | [[What is Insight]]
+[[Equanimity in Compassion#Find ways of working with impermanence which brings a sense of freedom\|Find ways of working with impermanence which brings a sense of freedom]] | 3 | [[Equanimity in Compassion]]
+[[The Practice of Compassion#We feel the contraction in the climate of compassion\|We feel the contraction in the climate of compassion]] | 3 | [[The Practice of Compassion]]
+[[Samadhi in Metta Practice#The emptiness brings freedom gradually\|The emptiness brings freedom, gradually]] | 3 | [[Samadhi in Metta Practice]]
 

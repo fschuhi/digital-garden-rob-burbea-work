@@ -10,9 +10,9 @@ talk | count | series
 [[Orienting to This Jhana Retreat]] | 12 | [[2019 Practising the Jhanas]]
 [[Questioning Awakening]] | 8 | [[2014 November Solitary - Questioning Awakening]]
 [[The Practice of Compassion]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 4]] | 5 | [[2017 Eros Unfettered]]
 [[What is Insight]] | 5 | [[2007 New Years Retreat Insight Meditation]]
 [[Love and Emptiness]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Dilemmas and Delineations - How did we get here Part 2]] | 2 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -32,6 +32,7 @@ description | count | talk
 [[Samadhi in Metta Practice#Samadhi is often translated as "concentration"\|Samadhi is often translated as "concentration"]] | 5 | [[Samadhi in Metta Practice]]
 [[Samadhi in Metta Practice#Samadhi doesn't have to be with just one object\|Samadhi doesn't have to be with just one object]] | 5 | [[Samadhi in Metta Practice]]
 [[Samadhi in Metta Practice#Happiness is both fruit and cause of samadhi\|Happiness is both fruit and cause of samadhi]] | 5 | [[Samadhi in Metta Practice]]
+[[Dilemmas and Delineations - How did we get here Part 4#Eros can be steered to lead to samadhi\|Eros can be steered to lead to samadhi]] | 4 | [[Dilemmas and Delineations - How did we get here Part 4]]
 [[Questioning Awakening#Each different focus gives samadhi a different meaning\|Each different focus gives samadhi a different meaning]] | 4 | [[Questioning Awakening]]
 [[The Place of Samadhi in Metta Practice#Samadhi brings with it a tremendous of well being\|Samadhi brings with it a tremendous of well being]] | 4 | [[The Place of Samadhi in Metta Practice]]
 [[The Place of Samadhi in Metta Practice#It's going to happen in a very non-linear way\|It's going to happen in a very non-linear way]] | 4 | [[The Place of Samadhi in Metta Practice]]

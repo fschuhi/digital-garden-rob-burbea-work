@@ -19,6 +19,7 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 2]] | 8 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 3]] | 4 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 3 | [[2020 Vajra Music]]
+[[Dilemmas and Delineations - How did we get here Part 4]] | 3 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 1]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
@@ -32,4 +33,6 @@ description | count | talk
 [[Dilemmas and Delineations - How did we get here Part 3#"Divinity" is a whole range of experiences\|"Divinity" is a whole range of experiences]] | 4 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 3#Soul God divinity self are empty on many levels\|Soul, God, divinity, self, are empty on many levels]] | 4 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 1#Eros is connected to divinity cosmopoesis soulmaking to be covered later\|Eros is connected to divinity, cosmopoesis, soulmaking (to be covered later)]] | 4 | [[Dilemmas and Delineations - How did we get here Part 1]]
+[[Dilemmas and Delineations - How did we get here Part 3#Beauty and sacredness are a feature of image and imaginal practice\|Beauty and sacredness are a feature of image and imaginal practice]] | 3 | [[Dilemmas and Delineations - How did we get here Part 3]]
+[[Dilemmas and Delineations - How did we get here Part 1#This results in a more adquate concept and perceptions of self other world\|This results in a more adquate concept and perceptions of self, other, world]] | 3 | [[Dilemmas and Delineations - How did we get here Part 1]]
 

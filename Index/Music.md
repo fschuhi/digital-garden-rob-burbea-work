@@ -22,4 +22,11 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Inexhausibilities of those needs\|Inexhausibilities of those needs]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#"Elitist" means to have the desire to play at the highest deepest freest levels\|"Elitist" means to have the desire to play at the highest, deepest, freest levels]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[From Insight to Love#The more metta the less soil fear has to establish itself as a habit\|The more metta, the less soil fear has to establish itself as a habit]] | 4 | [[From Insight to Love]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The mircacle of hearing and of sound\|The mircacle of hearing and of sound]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#But imagine a musician who doesn't need to make music\|But imagine a musician who doesn't need to make music]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Example Rob playing the Jazz guitar\|Example: Rob playing the Jazz guitar]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Sudden growth of ability\|Sudden growth of ability]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Some of you will be Soulmaking musicians\|Some of you will be Soulmaking musicians]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Joy (talk)#Example "Ode to Joy"\|Example: "Ode to Joy"]] | 2 | [[Joy (talk)]]
+[[Equanimity (talk)#Nature art music can touch us and feed that wonder\|Nature, art, music can touch us and feed that wonder]] | 2 | [[Equanimity (talk)]]
 

@@ -25,4 +25,6 @@ description | count | talk
 [[Orienting to This Jhana Retreat#You'll get a lot of material some of which is not relevant for you now\|You'll get a lot of material, some of which is not relevant for you now]] | 4 | [[Orienting to This Jhana Retreat]]
 [[Orienting to This Jhana Retreat#Hindrances as the dark rich underbelly of jhana practice\|Hindrances as the dark, rich underbelly of jhana practice]] | 4 | [[Orienting to This Jhana Retreat]]
 [[The Way of Non-Clinging Part 2#The jhanas as deep states of unfabricating\|The jhanas as deep states of unfabricating]] | 4 | [[The Way of Non-Clinging Part 2]]
+[[Counting Within the Breath - Guided Meditation#You can't start with working with pain\|You can't start with working with pain]] | 3 | [[Counting Within the Breath - Guided Meditation]]
+[[Dilemmas and Delineations - How did we get here Part 2#The "bliss" of soulmaking"\|The "bliss" of soulmaking"]] | 3 | [[Dilemmas and Delineations - How did we get here Part 2]]
 

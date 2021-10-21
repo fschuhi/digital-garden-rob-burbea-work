@@ -5,6 +5,7 @@ talk | count | series
 :- | - |: -
 [[From Insight to Love]] | 119 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Using Insight to Deepen Love and Compassion]] | 97 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[Compassion (talk)]] | 18 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 14 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Place of Samadhi in Metta Practice]] | 13 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
@@ -12,7 +13,6 @@ talk | count | series
 [[Samadhi in Metta Practice]] | 9 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Exploring the World of Loving Kindness]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Equanimity (talk)]] | 3 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -20,6 +20,7 @@ description | count | talk
 [[From Insight to Love#Practice total acceptance of the physical sensations of fear\|Practice: total acceptance of the physical sensations of fear]] | 15 | [[From Insight to Love]]
 [[From Insight to Love#Don't push away fear but incline the awareness a bit towards loveliness\|Don't push away fear, but incline the awareness a bit towards loveliness]] | 12 | [[From Insight to Love]]
 [[Using Insight to Deepen Love and Compassion#We are afraid of fear but we can be with this which brings confidence\|We are afraid of fear, but we can be with this, which brings confidence]] | 11 | [[Using Insight to Deepen Love and Compassion]]
+[[Compassion (talk)#1 Fear\|(1) Fear]] | 10 | [[Compassion (talk)]]
 [[Using Insight to Deepen Love and Compassion#Fear is an aversion that blocks love\|Fear is an aversion that blocks love]] | 10 | [[Using Insight to Deepen Love and Compassion]]
 [[Using Insight to Deepen Love and Compassion#Fear is human\|Fear is human]] | 10 | [[Using Insight to Deepen Love and Compassion]]
 [[The Place of Samadhi in Metta Practice#Fear can come up\|Fear can come up]] | 10 | [[The Place of Samadhi in Metta Practice]]

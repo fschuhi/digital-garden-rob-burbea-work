@@ -9,19 +9,21 @@ talk | count | series
 [[Expressions of Metta]] | 44 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Exploring the World of Loving Kindness]] | 40 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 30 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Dilemmas and Delineations - How did we get here Part 4]] | 22 | [[2017 Eros Unfettered]]
 [[The Place of Samadhi in Metta Practice]] | 18 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 14 | [[2020 Vajra Music]]
 [[Dilemmas and Delineations - How did we get here Part 3]] | 13 | [[2017 Eros Unfettered]]
-[[The Way of Non-Clinging Part 3]] | 12 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
 [[The Place of Samadhi in Metta Practice#Love comes from doing samadhi practice\|Love comes from doing samadhi practice]] | 12 | [[The Place of Samadhi in Metta Practice]]
 [[Samadhi in Metta Practice#Samadhi should have love in it\|Samadhi should have love in it]] | 9 | [[Samadhi in Metta Practice]]
+[[Dilemmas and Delineations - How did we get here Part 4#Eros is already in imaginal practice because imaginal figures always involve love\|Eros is already in imaginal practice, because imaginal figures always involve love]] | 8 | [[Dilemmas and Delineations - How did we get here Part 4]]
 [[Using Insight to Deepen Love and Compassion#Less self less other self to give the love to can deepen the love\|Less self, less other self to give the love to, can deepen the love]] | 8 | [[Using Insight to Deepen Love and Compassion]]
 [[Love and Emptiness#A continuum of love\|A continuum of love]] | 7 | [[Love and Emptiness]]
 [[Expressions of Metta#According to the Buddha your're worthy of giving love to yourself\|According to the Buddha, your're worthy of giving love to yourself]] | 7 | [[Expressions of Metta]]
+[[Dilemmas and Delineations - How did we get here Part 4#Sex is possible with and without love care eros\|Sex is possible with and without love, care, eros]] | 6 | [[Dilemmas and Delineations - How did we get here Part 4]]
 [[Using Insight to Deepen Love and Compassion#Fear is an aversion that blocks love\|Fear is an aversion that blocks love]] | 6 | [[Using Insight to Deepen Love and Compassion]]
 [[From Insight to Love#Constrictions block our capacity to love\|Constrictions block our capacity to love]] | 6 | [[From Insight to Love]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#But imagine a musician who doesn't need to make music\|But imagine a musician who doesn't need to make music]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
@@ -31,6 +33,8 @@ description | count | talk
 [[Love and Emptiness#The indicator for emptiness is love and freedom\|The indicator for emptiness is love and freedom]] | 5 | [[Love and Emptiness]]
 [[From Insight to Love#What is going on in this retreat here how insights can lead to love\|What is going on in this retreat, here: how insights can lead to love]] | 5 | [[From Insight to Love]]
 [[From Insight to Love#Maharashtra\|Maharashtra]] | 5 | [[From Insight to Love]]
+[[Dilemmas and Delineations - How did we get here Part 4#But it's not possible to have eros without love\|But it's not possible to have eros without love]] | 4 | [[Dilemmas and Delineations - How did we get here Part 4]]
+[[Compassion (talk)#We can get sometimes a sense of a compassion that it's not the self doing it\|We can get sometimes a sense of a compassion that it's not the self doing it]] | 4 | [[Compassion (talk)]]
 [[Using Insight to Deepen Love and Compassion#Drop in "not me not mine" very lightly wanting to feel the love\|Drop in "not me, not mine" very lightly, wanting to feel the love]] | 4 | [[Using Insight to Deepen Love and Compassion]]
 [[Exploring the World of Loving Kindness#Metta flowing through the eyes\|Metta flowing through the eyes]] | 4 | [[Exploring the World of Loving Kindness]]
 [[Exploring the World of Loving Kindness#It's not always that metta feels it's coming from the self\|It's not always that metta feels it's coming from the self]] | 4 | [[Exploring the World of Loving Kindness]]
