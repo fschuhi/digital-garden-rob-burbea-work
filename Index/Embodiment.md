@@ -5,6 +5,7 @@ talk | count | series
 :- | - |: -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 95 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 60 | [[2020 Vajra Music]]
+[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] | 60 | [[2019 Practising the Jhanas]]
 [[Using Insight to Deepen Love and Compassion]] | 44 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Counting Within the Breath - Guided Meditation]] | 33 | [[2019 Practising the Jhanas]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 30 | [[2020 Vajra Music]]
@@ -12,12 +13,13 @@ talk | count | series
 [[Samadhi in Metta Practice]] | 27 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Orienting to This Jhana Retreat]] | 20 | [[2019 Practising the Jhanas]]
 [[Exploring the World of Loving Kindness]] | 15 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[From Insight to Love]] | 13 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
 [[Orienting to This Jhana Retreat#Energetic sense of resolve of devotion\|Energetic sense of resolve, of devotion]] | 11 | [[Orienting to This Jhana Retreat]]
+[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#Maybe there is a double current of energy going up and down\|Maybe there is a double current of energy, going up and down]] | 10 | [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
+[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#"Whole body" your felt sense of the physical space of the body actually a bit bigger\|"Whole body" = your felt sense of the physical space of the body (actually a bit bigger)]] | 9 | [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
 [[The Place of Samadhi in Metta Practice#As samadhi deepens the body becomes really really central\|As samadhi deepens, the body becomes really, really central]] | 9 | [[The Place of Samadhi in Metta Practice]]
 [[Samadhi in Metta Practice#Emotion is reflected as a contraction in the body\|Emotion is reflected as a contraction in the body]] | 9 | [[Samadhi in Metta Practice]]
 [[Using Insight to Deepen Love and Compassion#Body sensitivity allows samadhi to go deeper\|Body sensitivity allows samadhi to go deeper]] | 8 | [[Using Insight to Deepen Love and Compassion]]
@@ -27,6 +29,7 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#And always listen to you body adapt it if necessary\|And always listen to you body, adapt it if necessary]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Sometimes we don't let certain expressions of movement gesture voice into the body\|Sometimes we don't let certain expressions of movement/gesture/voice into the body]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#When does an image need to be concretized in movement gesture voice\|When does an image need to be concretized in movement, gesture, voice?]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#During the day aim for a whole-body awareness that is quite relaxed and open\|During the day, aim for a whole-body awareness that is quite relaxed and open]] | 5 | [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
 [[Orienting to This Jhana Retreat#Let your attention and awareness include your whole body\|Let your attention and awareness include your whole body]] | 5 | [[Orienting to This Jhana Retreat]]
 [[Dilemmas and Delineations - How did we get here Part 1#Eros involves energy embodiment the imaginal and logos\|Eros involves energy, embodiment, the imaginal, and logos]] | 5 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[Using Insight to Deepen Love and Compassion#The body sense will indicate when there's clinging around\|The body sense will indicate when there's clinging around]] | 5 | [[Using Insight to Deepen Love and Compassion]]
@@ -43,6 +46,7 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Closed circuit might lead to black-and-white thinking\|Closed circuit might lead to black-and-white thinking]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 2 1 Feel where the sound is coming from against energy body background\|🟡 Excercise 2.1: Feel where the sound is coming from, against energy body background]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 2 2 experiment with different centres of emanation\|🟡 Excercise 2.2: experiment with different centres of emanation]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#The sense of the body is integrated\|The sense of the body is integrated]] | 4 | [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
 [[Counting Within the Breath - Guided Meditation#A supportive comfortable posture is important for samadhi\|A supportive, comfortable posture is important for samadhi]] | 4 | [[Counting Within the Breath - Guided Meditation]]
 [[Using Insight to Deepen Love and Compassion#e Just to realize suffering is part of life - we are all in the same boat\|e) Just to realize: suffering is part of life - we are all in the same boat]] | 4 | [[Using Insight to Deepen Love and Compassion]]
 [[Using Insight to Deepen Love and Compassion#g Aggregates are not me not mine\|g) Aggregates are not me, not mine]] | 4 | [[Using Insight to Deepen Love and Compassion]]

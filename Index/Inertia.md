@@ -10,6 +10,7 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 24 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 8 | [[2020 Vajra Music]]
 [[Orienting to This Jhana Retreat]] | 6 | [[2019 Practising the Jhanas]]
+[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] | 4 | [[2019 Practising the Jhanas]]
 [[Counting Within the Breath - Guided Meditation]] | 2 | [[2019 Practising the Jhanas]]
 
 ### Quotes
@@ -36,7 +37,7 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Seeing That Frees is often read too fast without doing the practices\|Seeing That Frees is often read too fast, without doing the practices]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Orienting to This Jhana Retreat#Watch out for inertia\|Watch out for inertia]] | 5 | [[Orienting to This Jhana Retreat]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Why not" points to failing to discriminate discern signifiance\|"Why not?" points to failing to discriminate/discern signifiance]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Listening with blinders on\|Listening with blinders on]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#Experiment be careful of that inertia\|Experiment, be careful of that inertia]] | 1 | [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
 [[Counting Within the Breath - Guided Meditation#Beware of inertia as most people suffer from low energy\|Beware of inertia, as most people suffer from low energy]] | 1 | [[Counting Within the Breath - Guided Meditation]]
 [[Counting Within the Breath - Guided Meditation#The long breath is helpful in bringing energy - it can take you right up to the edge of the first jhana\|The long breath is helpful in bringing energy - it can take you right up to the edge of the first jhana]] | 1 | [[Counting Within the Breath - Guided Meditation]]
 [[Orienting to This Jhana Retreat#One of the fruits of jhanas is malleability of mind\|One of the fruits of jhanas is malleability of mind]] | 1 | [[Orienting to This Jhana Retreat]]

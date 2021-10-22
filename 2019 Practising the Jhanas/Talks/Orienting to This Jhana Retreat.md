@@ -5,7 +5,7 @@ obsidianUIMode: preview
 ---
 #Talk
 
-[[prev|prev 🡄]] | [[2019 Practising the Jhanas|🡅]] | [[next|🡆 next]]
+[[Counting Within the Breath - Guided Meditation|Counting Within the Breath - Guided Meditation 🡄]] | [[2019 Practising the Jhanas|🡅]] | [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation|🡆 The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
 
 Series: [[2019 Practising the Jhanas]]
 Transcript: [[1217 Orienting to This Jhana Retreat]]

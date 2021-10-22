@@ -9,6 +9,7 @@ talk | count | series
 [[Joy (talk)]] | 4 | [[2007 New Years Retreat Insight Meditation]]
 [[Expressions of Metta]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] | 1 | [[2019 Practising the Jhanas]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

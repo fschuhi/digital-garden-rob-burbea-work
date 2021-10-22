@@ -8,6 +8,7 @@ talk | count | series
 [[Equanimity (talk)]] | 3 | [[2006 New Year's Retreat]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 2 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 2 | [[2020 Vajra Music]]
+[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] | 2 | [[2019 Practising the Jhanas]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 1 | [[2020 Vajra Music]]
 [[Compassion (talk)]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]

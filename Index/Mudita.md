@@ -7,6 +7,7 @@ talk | count | series
 [[Equanimity (talk)]] | 10 | [[2006 New Year's Retreat]]
 [[Equanimity in Compassion]] | 8 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Orienting to This Jhana Retreat]] | 4 | [[2019 Practising the Jhanas]]
+[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] | 1 | [[2019 Practising the Jhanas]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

@@ -6,13 +6,13 @@ talk | count | series
 [[Compassion (talk)]] | 14 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Place of Samadhi in Metta Practice]] | 14 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 13 | [[2020 Vajra Music]]
+[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] | 11 | [[2019 Practising the Jhanas]]
 [[Counting Within the Breath - Guided Meditation]] | 10 | [[2019 Practising the Jhanas]]
 [[The Practice of Compassion]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 7 | [[2020 Vajra Music]]
 [[Using Insight to Deepen Love and Compassion]] | 7 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Joy (talk)]] | 5 | [[2007 New Years Retreat Insight Meditation]]
-[[From Insight to Love]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

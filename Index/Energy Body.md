@@ -15,12 +15,12 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 51 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 31 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 28 | [[2020 Vajra Music]]
+[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] | 17 | [[2019 Practising the Jhanas]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 14 | [[2020 Vajra Music]]
 [[Dilemmas and Delineations - How did we get here Part 2]] | 14 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 3]] | 10 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] | 4 | [[2020 Vajra Music]]
 [[The Way of Non-Clinging Part 2]] | 3 | [[2017 Eros Unfettered]]
-[[The Way of Non-Clinging Part 1]] | 2 | [[2017 Eros Unfettered]]
 [[Equanimity in Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Quotes
@@ -132,5 +132,7 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#let the energy body project to fill the space\|let the energy body project to fill the space]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 2 1 Feel where the sound is coming from against energy body background\|🟡 Excercise 2.1: Feel where the sound is coming from, against energy body background]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 2 3 mix sound and energy body\|🟡 Excercise 2.3: mix sound and energy body]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#Today more about the energy body working with the whole-body breath\|Today more about the energy body, working with the whole-body breath]] | 4 | [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
+[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#Samadhi practice is coaxing the energy body into something nice\|Samadhi practice is coaxing the energy body into something nice]] | 4 | [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
 [[Dilemmas and Delineations - How did we get here Part 2#Arousal of interest and resonances in the energy body\|Arousal of interest and resonances in the energy body]] | 4 | [[Dilemmas and Delineations - How did we get here Part 2]]
 

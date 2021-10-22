@@ -7,7 +7,7 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 2 | [[2020 Vajra Music]]
 [[Dilemmas and Delineations - How did we get here Part 3]] | 2 | [[2017 Eros Unfettered]]
 [[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 1 | [[2020 Vajra Music]]
+[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] | 1 | [[2019 Practising the Jhanas]]
 [[Orienting to This Jhana Retreat]] | 1 | [[2019 Practising the Jhanas]]
 [[Dilemmas and Delineations - How did we get here Part 4]] | 1 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
@@ -19,7 +19,7 @@ description | count | talk
 :- | : - | :-
 [[Dilemmas and Delineations - How did we get here Part 3#Ideas about divinity are historically and culturally contingent\|Ideas about divinity are historically and culturally contingent]] | 2 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#We are often held back or holding in of our energy\|We are often held back or holding in of our energy]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Then I assess it the teacher\|Then I assess it (the teacher)]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#"Energy body" is the vibration texture feeling energy of the whole body space\|"Energy body" is the vibration, texture, feeling, energy of the whole body space]] | 1 | [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
 [[Orienting to This Jhana Retreat#Open your intention\|Open your intention]] | 1 | [[Orienting to This Jhana Retreat]]
 [[Dilemmas and Delineations - How did we get here Part 4#Cultures tend to assume a universality of wants\|Cultures tend to assume a universality of wants]] | 1 | [[Dilemmas and Delineations - How did we get here Part 4]]
 [[Dilemmas and Delineations - How did we get here Part 1#The Buddha often uses "striving" etc \|The Buddha often uses "striving" etc.]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]

@@ -10,9 +10,9 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 5 | [[2020 Vajra Music]]
 [[The Practice of Compassion]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] | 3 | [[2019 Practising the Jhanas]]
 [[Dilemmas and Delineations - How did we get here Part 3]] | 3 | [[2017 Eros Unfettered]]
 [[Equanimity in Compassion]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 2 | [[2020 Vajra Music]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
