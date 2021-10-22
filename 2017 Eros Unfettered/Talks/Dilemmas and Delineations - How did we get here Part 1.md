@@ -21,6 +21,7 @@ Transcript PDF: [[2017_0118 Dilemmas and Delineations - How did we get here Part
 [[Dilemmas and Delineations - How did we get here Part 1 -|bare list]]
 
 ---
+### Why delineate?
 ##### We will gradually unfold the semantic web of "eros"
 <span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^1-1|1-1]]**: _[[Retreat]] · [[Eros]] (2) · [[Desire]] · [[Alchemy]] · [[Delineations]]_</span>
 
@@ -93,6 +94,7 @@ Transcript PDF: [[2017_0118 Dilemmas and Delineations - How did we get here Part
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=13:53]]
 
 ---
+### Relationship with desire
 ##### Desire is one of the Four Bases
 <span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^3-4|3-4]]**: _[[Eros]] (3) · [[Retreat]] · [[Desire]] (14) · [[Dharma]] · [[Buddha]] (2) · [[Awakening#Factors of Awakening]] · [[Four Bases]] (2) · [[Samadhi]] · [[Jhanas]] · [[Brahmaviharas]] · [[Awakening]] · [[Attention]] · [[Letting go]] · [[Clinging]]_</span>
 
