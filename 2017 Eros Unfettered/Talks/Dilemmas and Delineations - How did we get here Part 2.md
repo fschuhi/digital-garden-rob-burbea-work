@@ -21,7 +21,7 @@ Transcript PDF: [[2017_0119 Dilemmas and Delineations - How did we get here Part
 [[Dilemmas and Delineations - How did we get here Part 2 -|plain list]]
 
 ---
-##### Recap: Why eros, why this delineation?
+### Recap: Why eros, why this delineation?
 <span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^1-1|1-1]]**: _[[Eros]] (6) · [[Dharma]] (2) · [[Awakening]] (3) · [[Imaginal]] (2) · [[Soulmaking]] · [[Divinity]] (5) · [[Consciousness]] · [[Oneness]] · [[Unfabricated]] · [[Retreat]] (2)_</span>
 
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=00:00]]
@@ -37,6 +37,7 @@ eros involves and leads to soulmaking, and widening of the senses of sacredness 
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=01:45]]
 
 ---
+### About definitions in general
 ##### Different ways of defining eros unfold in different directions
 <span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^1-3|1-3]]**: _[[Eros]] (4) · [[Delineations]]_</span>
 
@@ -89,6 +90,7 @@ because of this contextualization and relationship, and the place that something
 ```
 
 ---
+### A first definition of eros
 ##### Eros is a kind of desire for more contact
 <span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^3-1|3-1]]**: _[[Mind]] (2) · [[Eros]] (2) · [[Desire]] (2)_</span>
 
@@ -157,7 +159,7 @@ It will resist somehow that collapse to oneness. It will preserve the twoness, t
 ```
 
 ---
-##### How do we recognize eros?
+### How do we recognize eros?
 <span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^5-1|5-1]]**: _[[Eros]] (2) · [[Experience]] · [[Relationships]] · [[Mind state]] (4) · [[Awareness]] · [[Embodiment]] (2) · [[Mind]]_</span>
 
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=24:05]]

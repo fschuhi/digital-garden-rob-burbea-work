@@ -7,8 +7,7 @@ kanban-plugin: basic
 ## Pending
 
 - [ ] [[Samadhi in Metta Practice]]  causes of happiness 4-3
-- [ ] headers for [[Dilemmas and Delineations - How did we get here Part 1]]
-- [ ] headers for [[Dilemmas and Delineations - How did we get here Part 2]]
+- [ ] headers for [[Dilemmas and Delineations - How did we get here Part 2]] - - ⚠️
 - [ ] check keywords for [[2017 Eros Unfettered]]
 - [ ] [[Questioning Awakening]] headers, review keywords
 - [ ] [[Orienting to This Jhana Retreat]] headers, review keywords

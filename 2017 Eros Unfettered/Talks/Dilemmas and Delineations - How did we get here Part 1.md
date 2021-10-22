@@ -21,7 +21,7 @@ Transcript PDF: [[2017_0118 Dilemmas and Delineations - How did we get here Part
 [[Dilemmas and Delineations - How did we get here Part 1 -|bare list]]
 
 ---
-### Why delineate?
+### We need to know what we are talking about
 ##### We will gradually unfold the semantic web of "eros"
 <span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^1-1|1-1]]**: _[[Retreat]] · [[Eros]] (2) · [[Desire]] · [[Alchemy]] · [[Delineations]]_</span>
 
@@ -181,7 +181,7 @@ Why introduce this other word, eros, when we have lots of words, as we elaborate
 ```
 
 ---
-##### Email of former Candian monk
+### Email from former Canadian monk
 <span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^6-3|6-3]]**: _[[Gaia House]] · [[Insight]] (2)_</span>
 
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=30:12]]
@@ -205,7 +205,7 @@ Why introduce this other word, eros, when we have lots of words, as we elaborate
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=33:02]]
 
 ---
-##### Perceiving oneself as a temporary vhicle for an eternal love
+##### Perceiving oneself as a temporary vehicle for an eternal love
 <span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^7-5|7-5]]**: _[[Love]] (3) · [[Desire]] · [[Stories]]_</span>
 
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=33:32]]
@@ -243,6 +243,7 @@ I'm just here as a temporary vehicle for a desire that has never begun nor cease
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=38:59]]
 
 ---
+### Desire and sexuality in the Insight Meditation tradition
 ##### In the Insight Meditation tradition, sexual energies better not arise
 <span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^8-3|8-3]]**: _[[Retreat]] (2) · [[Meditation]] (2) · [[Image]] (2) · [[Dharma]] (3) · [[Clinging]]_</span>
 
@@ -269,7 +270,8 @@ We include sexual attraction, sexual energy, etc. But it's actually much, much m
 ```
 
 ---
-##### Why delineate? 1. Because eros is already active in our life, and by delineating it we get a handle on it
+### Why delineate?
+#### 1. Because eros is already active in our life, and by delineating it we get a handle on it
 <span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^9-3|9-3]]**: _[[Eros]] (4) · [[Craving]] · [[Desire]] · [[Experience]] · [[Delineations]]_</span>
 
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=44:37]]
@@ -289,7 +291,7 @@ Setting it apart allows us to investigate it, to become interested in it, and th
 ```
 
 ---
-##### 2. Opening to the recognition of the sacredness of eros itself
+#### 2. Opening to the recognition of the sacredness of eros itself
 <span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^10-1|10-1]]**: _[[Eros]] (5) · [[Experience]] · [[Craving]] · [[Divinity]] (5) · [[Sexuality]] (3)_</span>
 
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=48:12]]
@@ -309,7 +311,7 @@ I cannot reduce a romantic love relationship or a marriage to _mettā_ . There's
 ```
 
 ---
-##### 3. Opening a direction of investigation
+#### 3. Opening a direction of investigation
 <span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^10-3|10-3]]**: _[[Sexuality]] · [[Love]] · [[Eros]] (4) · [[Dharma]] (3) · [[Divinity]] · [[Perception]] (3) · [[Dependent Origination]] · [[Ways of Looking]] · [[Fabrication]]_</span>
 
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=51:31]]
@@ -325,6 +327,7 @@ And always in Dharma inquiry, always, there's something really fundamental to se
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=53:38]]
 
 ---
+### Eros is more than sexuality
 ##### You can have an erotic connection with everything and anything
 <span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^11-2|11-2]]**: _[[Eros]] · [[Sexuality]] · [[Energy]] · [[Cosmology]] · [[Materialism]] · [[Personhood]] · [[Dharma]] · [[Fantasy]] · [[Awakening]] · [[Imaginal]]_</span>
 
@@ -389,6 +392,7 @@ eros and libido or life force _can_ be and often _is_ blocked in our lives in di
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=01:04:21]]
 
 ---
+### Eros and emptiness
 ##### It also fits with emptiness teachings
 <span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^13-1|13-1]]**: _[[Clinging]] (4) · [[Beauty]] · [[Letting go]] · [[Fabrication]] · [[Perception]] · [[The Self]] · [[Insight]] (3) · [[Dependent Origination]] · [[Experience]] · [[Unfabricated]] · [[Emptiness]] (2) · [[Freedom]]_</span>
 
@@ -403,7 +407,7 @@ that understanding of emptiness ... well, let's say this: it can provide a non-r
 ```
 
 ---
-##### The different ways of looking for am non-realist basis for explanations and explorations
+##### The different ways of looking form a non-realist basis for explanations and explorations
 <span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^13-2|13-2]]**: _[[Emptiness]] (3) · [[Insight]] (2) · [[Ways of Looking]] (4) · [[Conceptual Framework]] (4) · [[Nature]] · [[Dharma]] · [[Craving]] · [[Letting go]] · [[Dukkha]] · [[Dependent Origination]] · [[Imaginal]] · [[Tantra]] (2)_</span>
 
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=01:07:04]]
@@ -439,6 +443,7 @@ One of the immense strengths of the Buddha's teaching and Dharma teaching is tha
 ```
 
 ---
+### The soul wants more
 ##### The soul wants disentangling, but also something else
 <span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^14-2|14-2]]**: _[[Soul]] (2) · [[Psyche]] (2) · [[Fabrication]] · [[Dimensionality]] · [[Delineations]] (4) · [[Unfabricated]] · [[Meditation]] · [[Dharma]] · [[Papanca]] · [[Fantasy]] (2) · [[Image]] (2) · [[Soulmaking]] · [[Freedom]] · [[Eros]] (3) · [[Craving]] · [[Desire]] · [[Love]] · [[Brahmaviharas]]_</span>
 

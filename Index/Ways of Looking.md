@@ -29,7 +29,7 @@ description | count | talk
 [[The Way of Non-Clinging Part 2#Everybody knows what papanca is\|Everybody knows what papanca is]] | 5 | [[The Way of Non-Clinging Part 2]]
 [[Using Insight to Deepen Love and Compassion#Maturity in practice comes from being able to move between different ways of seeing\|Maturity in practice comes from being able to move between different ways of seeing]] | 5 | [[Using Insight to Deepen Love and Compassion]]
 [[Dilemmas and Delineations - How did we get here Part 3#3 Fabrication\|(3) Fabrication]] | 4 | [[Dilemmas and Delineations - How did we get here Part 3]]
-[[Dilemmas and Delineations - How did we get here Part 1#The different ways of looking for am non-realist basis for explanations and explorations\|The different ways of looking for am non-realist basis for explanations and explorations]] | 4 | [[Dilemmas and Delineations - How did we get here Part 1]]
+[[Dilemmas and Delineations - How did we get here Part 1#The different ways of looking form a non-realist basis for explanations and explorations\|The different ways of looking form a non-realist basis for explanations and explorations]] | 4 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[The Way of Non-Clinging Part 2#Anatta practice whatever comes up is not self not me not mine\|Anatta practice: whatever comes up is not self, not me, not mine]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#Simile Climing the rungs of a ladder\|Simile: Climing the rungs of a ladder]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[From Insight to Love#Insight is that which releases clinging\|Insight is that which releases clinging]] | 4 | [[From Insight to Love]]
