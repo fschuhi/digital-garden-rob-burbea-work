@@ -2,21 +2,25 @@
 obsidianUIMode: preview
 ---
 # The Garden of the Soul: Rob Burbea's Teachings
+```ad-quote
+[W]e see how clinging, craving, _saṅkhārā_, _avijjā_, attention - these notions overlap. They're all different forms of clinging...
+
+_from the talk [[The Way of Non-Clinging Part 2#Even attention is a form of clinging|The Way of Non-Clinging Part 2]]_
+```
+
 ```ad-danger
 title: Thank you!
 This Digital Garden presents selected talks of **[[Rob Burbea]]**. Thank you, Rob, for those wonderful teachings!
 
 And thank you, dear visitor, for your interest! Be invited to browse what Rob has to say, about meditation practice, the Buddhist path, emptiness, and its application to a Soulmaking Dharma, among many other topics of heart, mind and soul.
 
-The transcripts of the talks have been adapted from the <b>"Rob Burbea Transcription Project"</b>. Thank you, Shannon, Elmer, Pádraig, and others, for all the work you've done!
+The transcripts of the talks have been adapted from the **[[Rob Burbea Transcription Project]]**. Thank you, Shannon, Elmer, Pádraig, and others, for all the work you've done!
 
 Curating this Digital Garden falls under the purview of the <b>Hermes Amāra Foundation</b>, which works towards maintaining Rob's work. Thank you, Custodians and the other Circles, for supporting this project!
 
 ```
 
-The [[Rob Burbea Transcription Project]] has transcribed the talks from the recordings on [[Using Dharma Seed|Dharma Seed]]. The transcript PDFs are translated to web pages in this Digital Garden and amended with keywords, crossreferences, summaries, quotes, notes and further information derived from the talks.
-
-There is an [[Introduction]] to this Digital Garden and also **help pages** which show [[How to browse the Digital Garden|how to browse the Digital Garden]]. You might also want to check out the [[Index]] for key terms and phrases.
+There is an [[Introduction]] to this Digital Garden and also help pages which show [[How to browse the Digital Garden|how to browse the Digital Garden]]. You might also want to check out the [[Index]] for key terms and phrases. 
 
 If you have been here before you might want to check out the [[Changelog]] for new content and features. For any feedback or suggestions relating to this Digital Garden, please email frank.schuhardt@gmail.com
 \
