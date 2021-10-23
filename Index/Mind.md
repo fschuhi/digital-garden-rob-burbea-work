@@ -19,6 +19,7 @@ description | count | talk
 :- | : - | :-
 [[The Practice of Compassion#Non-separation as corrolary to the mind having perceptions\|Non-separation as corrolary to the mind having perceptions]] | 8 | [[The Practice of Compassion]]
 [[The Practice of Compassion#Giving compassion to mind moments\|Giving compassion to mind moments]] | 7 | [[The Practice of Compassion]]
+[[Compassion Part Two - Compassion for Ourselves#2 Compassion to self is compassion to mind moments\|(2) Compassion to self is compassion to mind moments]] | 6 | [[Compassion Part Two - Compassion for Ourselves]]
 [[Samadhi in Metta Practice#There can be some fear in there\|There can be some fear in there]] | 6 | [[Samadhi in Metta Practice]]
 [[The Place of Samadhi in Metta Practice#"Steadiness" "collectedness" "unification" of the body and the mind\|"Steadiness", "collectedness", "unification" of the body and the mind]] | 5 | [[The Place of Samadhi in Metta Practice]]
 [[The Place of Samadhi in Metta Practice#Samadhi gets into the being on some very cellular level\|Samadhi gets into the being on some very cellular level]] | 5 | [[The Place of Samadhi in Metta Practice]]

@@ -12,7 +12,7 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 8 | [[2020 Vajra Music]]
 [[Love and Emptiness]] | 8 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Exploring the World of Loving Kindness]] | 6 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[What is Insight]] | 5 | [[2007 New Years Retreat Insight Meditation]]
+[[Compassion Part Two - Compassion for Ourselves]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -22,9 +22,9 @@ description | count | talk
 [[Exploring the World of Loving Kindness#Metta flowing through the eyes\|Metta flowing through the eyes]] | 6 | [[Exploring the World of Loving Kindness]]
 [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#During the day aim for a whole-body awareness that is quite relaxed and open\|During the day, aim for a whole-body awareness that is quite relaxed and open]] | 5 | [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
 [[Love and Emptiness#Rob attention is kind of like prongs\|Rob: attention is kind of like prongs]] | 5 | [[Love and Emptiness]]
+[[Compassion Part Two - Compassion for Ourselves#Compassion to self does not build the ego\|Compassion to self does not build the ego]] | 4 | [[Compassion Part Two - Compassion for Ourselves]]
 [[Counting Within the Breath - Guided Meditation#It works because we are putting up more pegs for the attention\|It works because we are putting up more pegs for the attention]] | 3 | [[Counting Within the Breath - Guided Meditation]]
 [[Using Insight to Deepen Love and Compassion#f feel energetically the opening and closing of the heart centre\|f) feel energetically the opening and closing of the heart centre]] | 3 | [[Using Insight to Deepen Love and Compassion]]
 [[Joy (talk)#Sometimes in the West joy does not receive the same attention as other brahmaviharas\|Sometimes in the West, joy does not receive the same attention as other brahmaviharas]] | 2 | [[Joy (talk)]]
-[[Joy (talk)#Sadness and joy are dependent on the way we look\|Sadness and joy are dependent on the way we look]] | 2 | [[Joy (talk)]]
 [[Equanimity (talk)#We heal ourselves by giving attention to ourselves and by caring for others\|We heal ourselves by giving attention to ourselves and by caring for others]] | 2 | [[Equanimity (talk)]]
 

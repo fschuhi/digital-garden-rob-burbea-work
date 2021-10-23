@@ -5,6 +5,7 @@ talk | count | series
 :- | - |: -
 [[What is Insight]] | 5 | [[2007 New Years Retreat Insight Meditation]]
 [[Joy (talk)]] | 4 | [[2007 New Years Retreat Insight Meditation]]
+[[Guided Meditation on Gratitude and Compassion]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Compassion (talk)]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Using Insight to Deepen Love and Compassion]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
@@ -14,6 +15,7 @@ description | count | talk
 [[Joy (talk)#We really need to recognise joy and what there is to appreciate\|We really need to recognise joy and what there is to appreciate]] | 2 | [[Joy (talk)]]
 [[What is Insight#It's a good idea to practice generosity\|It's a good idea to practice generosity]] | 2 | [[What is Insight]]
 [[What is Insight#What qualities do I need to cultivate that actually lead to a lessening of suffering\|What qualities do I need to cultivate that actually lead to a lessening of suffering]] | 2 | [[What is Insight]]
+[[Guided Meditation on Gratitude and Compassion#Compassion to the parents\|Compassion to the parents]] | 1 | [[Guided Meditation on Gratitude and Compassion]]
 [[Compassion (talk)#Taking care of happiness allows compassion\|Taking care of happiness allows compassion]] | 1 | [[Compassion (talk)]]
 [[Using Insight to Deepen Love and Compassion#Cultivating beautiful qualities of the heart and mind as an "investment portfolio"\|Cultivating beautiful qualities of the heart and mind as an "investment portfolio"]] | 1 | [[Using Insight to Deepen Love and Compassion]]
 [[Joy (talk)#Attention to ethics\|Attention to ethics]] | 1 | [[Joy (talk)]]

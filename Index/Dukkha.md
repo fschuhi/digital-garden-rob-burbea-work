@@ -7,12 +7,12 @@ talk | count | series
 [[Compassion (talk)]] | 94 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 55 | [[2007 New Years Retreat Insight Meditation]]
 [[Equanimity in Compassion]] | 48 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Compassion Part Two - Compassion for Ourselves]] | 31 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Using Insight to Deepen Love and Compassion]] | 30 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 1]] | 28 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 2]] | 27 | [[2017 Eros Unfettered]]
 [[Questioning Awakening]] | 23 | [[2014 November Solitary - Questioning Awakening]]
 [[From Insight to Love]] | 22 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Love and Emptiness]] | 15 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -36,6 +36,8 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#The dukkha of soullessness\|The dukkha of soullessness]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Questioning Awakening#When we use the Four Noble Truths just as a skeleton then this opens up a multiplicity of interpretations\|When we use the Four Noble Truths just as a skeleton, then this opens up a multiplicity of interpretations]] | 5 | [[Questioning Awakening]]
 [[Questioning Awakening#Is simple mindfulness rich enough as a philosophy or as a psychology\|Is simple mindfulness rich enough as a philosophy or as a psychology?]] | 5 | [[Questioning Awakening]]
+[[Compassion Part Two - Compassion for Ourselves#This suffering here is the one we can be most intimate with\|This suffering here is the one we can be most intimate with]] | 5 | [[Compassion Part Two - Compassion for Ourselves]]
+[[Compassion Part Two - Compassion for Ourselves#1 Use the climate of compassion as a lense\|(1) Use the climate of compassion as a lense]] | 5 | [[Compassion Part Two - Compassion for Ourselves]]
 [[Compassion (talk)#1 Fear\|(1) Fear]] | 5 | [[Compassion (talk)]]
 [[Compassion (talk)#2 Righteous Anger\|(2) (Righteous) Anger]] | 5 | [[Compassion (talk)]]
 [[Compassion (talk)#In the realization of the humanity there's a kind of softening\|In the realization of the humanity, there's a kind of softening]] | 5 | [[Compassion (talk)]]
@@ -47,6 +49,8 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#The legacy of the Four Noble Truths\|The legacy of the Four Noble Truths]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[The Way of Non-Clinging Part 2#Relaxing the subtle dukkha\|Relaxing the subtle dukkha]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#Uncovering more subtle levels of dukkha is a lovely practice\|Uncovering more subtle levels of dukkha is a lovely practice]] | 4 | [[The Way of Non-Clinging Part 2]]
+[[Compassion Part Two - Compassion for Ourselves#"It seems unfair to give compassion to myself others suffer much more!"\|"It seems unfair to give compassion to myself, others suffer much more!"]] | 4 | [[Compassion Part Two - Compassion for Ourselves]]
+[[Compassion Part Two - Compassion for Ourselves#Story leprosy community in Indea\|Story: leprosy community in Indea]] | 4 | [[Compassion Part Two - Compassion for Ourselves]]
 [[Compassion (talk)#It wants to alleviate the suffering\|It wants to alleviate the suffering]] | 4 | [[Compassion (talk)]]
 [[Compassion (talk)#Compassion also includes the steadiness of equanimity and wisdom\|Compassion also includes the steadiness of equanimity, and wisdom]] | 4 | [[Compassion (talk)]]
 [[Compassion (talk)#We fear that compassion will overwhelm us\|We fear that compassion will overwhelm us]] | 4 | [[Compassion (talk)]]

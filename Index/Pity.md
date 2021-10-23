@@ -5,6 +5,7 @@ talk | count | series
 :- | - |: -
 [[Compassion (talk)]] | 13 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 9 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Compassion Part Two - Compassion for Ourselves]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -14,6 +15,8 @@ description | count | talk
 [[Compassion (talk)#Four near enemies of compassion fear anger pity grief\|Four near enemies of compassion: fear, anger, pity, grief]] | 3 | [[Compassion (talk)]]
 [[The Practice of Compassion#Pity is a stance of looking down\|Pity is a stance of looking down]] | 3 | [[The Practice of Compassion]]
 [[Compassion (talk)#All these near enemies arise when there's too much self-view\|All these near enemies arise when there's too much self-view]] | 2 | [[Compassion (talk)]]
+[[Compassion Part Two - Compassion for Ourselves#"Sympathy" in English has connotations of pity\|"Sympathy" in English has connotations of pity]] | 1 | [[Compassion Part Two - Compassion for Ourselves]]
+[[Compassion Part Two - Compassion for Ourselves#Biblical origin of "pity"\|Biblical origin of "pity"]] | 1 | [[Compassion Part Two - Compassion for Ourselves]]
 [[Compassion (talk)#4 Grief\|(4) Grief]] | 1 | [[Compassion (talk)]]
 [[The Practice of Compassion#4 near enemies fear anger pity grief\|4 near enemies: fear, anger, pity, grief]] | 1 | [[The Practice of Compassion]]
 [[The Practice of Compassion#Common denominator of the 4 near enemies too much self-view in the mix\|Common denominator of the 4 near enemies: too much self-view in the mix]] | 1 | [[The Practice of Compassion]]

@@ -3,9 +3,9 @@ obsidianUIMode: preview
 ---
 # The Garden of the Soul: Rob Burbea's Teachings
 ```ad-quote
-[W]e see how clinging, craving, _saṅkhārā_, _avijjā_, attention - these notions overlap. They're all different forms of clinging...
+So please don't be biased by _my_ biases. If you don't agree with my bias, that's completely fine. What I really want to get to is the importance of questioning, not that I want to convince you of a certain bias I have within that range. The questioning is the important thing, okay?
 
-_from the talk [[The Way of Non-Clinging Part 2#Even attention is a form of clinging|The Way of Non-Clinging Part 2]]_
+_(a quote from the talk [[Questioning Awakening#In principle we are free to believe what we want - but are we really free to inquire|Questioning Awakening]])_
 ```
 
 ```ad-danger
