@@ -14,7 +14,7 @@ Transcript PDF: [[2008_0204 Compassion (talk).pdf]]
 ![[20080204-Rob_Burbea-GAIA-compassion-11950.mp3]]
 
 ## Index
-<span class="counts">_[[Compassion]] (144) · [[Dukkha]] (94) · [[Insight]] (28) · [[Metta]] (23) · [[Happiness]] (20) · [[The Self]] (20) · [[Fear]] (18) · [[Empathy]] (17) · [[Anger]] (15) · [[Energy]] (14) · [[Pity]] (13) · [[Grief]] (11) · [[Perception]] (11) · [[Ignorance]] (10) · [[Love]] (10) · [[Avijja]] (9) · [[Embodiment]] (8) · [[Healing]] (8) · [[Consciousness]] (7) · [[Cultivation]] (7) · [[Near enemy]] (7) · [[Anatta]] (6) · [[Buddha]] (6) · [[Spaciousness]] (6) · [[Dharma]] (5) · [[Oneness]] (5) · [[Bodhisattva]] (4) · [[Centre]] (4) · [[Emptiness]] (4) · [[Mind]] (4) · [[Nature]] (4) · [[Retreat]] (4) · [[Samadhi]] (4) · [[Avalokiteshvara]] (3) · [[Big Bang]] (3) · [[Freedom]] (3) · [[Meditation]] (3) · [[Nobility]] (3) · [[Ways of Looking]] (3) · [[Acceptance]] (2) · [[Aversion]] (2) · [[Breath]] (2) · [[Dependent Origination]] (2) · [[Depression]] (2) · [[Devotion]] (2) · [[Equanimity]] (2) · [[Gertrude Stein]] (2) · [[Habit]] (2) · [[Image]] (2) · [[Pleasantness]] (2) · [[Steadiness]] (2) · [[Walt Whitman]] (2) · [[Anxiety]] · [[Archetype]] · [[Awareness]] · [[Beauty]] · [[Brahmaviharas]] · [[Commentaries]] · [[Dalai Lama]] · [[Death]] · [[Feelings]] · [[Generosity]] · [[Impermanence]] · [[Infinity]] · [[Jesus]] · [[Julian of Norwich]] · [[Mother Teresa]] · [[Naomi Shihab Nye]] · [[Narayan Helen Liebenson]] · [[Pain]] · [[Piti]] · [[Receptivity]] · [[Rupa]] · [[Stephen Batchelor]] · [[Supernova]] · [[Tiredness]] · [[Tonglen]]_</span>
+<span class="counts">_[[Compassion]] (144) · [[Dukkha]] (94) · [[Insight]] (28) · [[Metta]] (23) · [[Happiness]] (20) · [[The Self]] (20) · [[Fear]] (18) · [[Empathy]] (17) · [[Anger]] (15) · [[Energy]] (14) · [[Pity]] (13) · [[Grief]] (11) · [[Perception]] (11) · [[Ignorance]] (10) · [[Love]] (10) · [[Avijja]] (9) · [[Embodiment]] (8) · [[Healing]] (8) · [[Consciousness]] (7) · [[Cultivation]] (7) · [[Near enemy]] (7) · [[Anatta]] (6) · [[Buddha]] (6) · [[Spaciousness]] (6) · [[Dharma]] (5) · [[Oneness]] (5) · [[Bodhisattva]] (4) · [[Centre]] (4) · [[Emptiness]] (4) · [[Mind]] (4) · [[Nature]] (4) · [[Retreat]] (4) · [[Samadhi]] (4) · [[Avalokiteshvara]] (3) · [[Big Bang]] (3) · [[Freedom]] (3) · [[Meditation]] (3) · [[Nobility]] (3) · [[Ways of looking]] (3) · [[Acceptance]] (2) · [[Aversion]] (2) · [[Breath]] (2) · [[Dependent Origination]] (2) · [[Depression]] (2) · [[Devotion]] (2) · [[Equanimity]] (2) · [[Gertrude Stein]] (2) · [[Habit]] (2) · [[Image]] (2) · [[Pleasantness]] (2) · [[Steadiness]] (2) · [[Walt Whitman]] (2) · [[Anxiety]] · [[Archetype]] · [[Awareness]] · [[Beauty]] · [[Brahmaviharas]] · [[Commentaries]] · [[Dalai Lama]] · [[Death]] · [[Feelings]] · [[Generosity]] · [[Impermanence]] · [[Infinity]] · [[Jesus]] · [[Julian of Norwich]] · [[Mother Teresa]] · [[Naomi Shihab Nye]] · [[Narayan Helen Liebenson]] · [[Pain]] · [[Piti]] · [[Receptivity]] · [[Rupa]] · [[Stephen Batchelor]] · [[Supernova]] · [[Tiredness]] · [[Tonglen]]_</span>
 <br/>
 
 ## Paragraphs
@@ -28,7 +28,7 @@ Transcript PDF: [[2008_0204 Compassion (talk).pdf]]
 
 ---
 ##### Compassion is the heart's natural response to suffering
-<span class="counts">**[[0204 Compassion (talk)#^1-2|1-2]]**: _[[Compassion]] (5) · [[Brahmaviharas]] · [[Metta]] · [[Happiness]] · [[Equanimity]] · [[Dukkha]] (3) · [[The Self]] (2) · [[Ways of Looking]]_</span>
+<span class="counts">**[[0204 Compassion (talk)#^1-2|1-2]]**: _[[Compassion]] (5) · [[Brahmaviharas]] · [[Metta]] · [[Happiness]] · [[Equanimity]] · [[Dukkha]] (3) · [[The Self]] (2) · [[Ways of looking]]_</span>
 
 ![[20080204-Rob_Burbea-GAIA-compassion-11950.mp3#t=00:25]]
 
@@ -140,7 +140,7 @@ Even though we're opening ourselves to suffering, we're tuning into suffering, w
 
 ---
 ##### We can't really be fully fulfilled pursuing happiness through self-centredness
-<span class="counts">**[[0204 Compassion (talk)#^3-4|3-4]]**: _[[Insight]] (2) · [[Happiness]] (4) · [[The Self]] (3) · [[Dharma]] · [[Avijja]] · [[Ways of Looking]] · [[Compassion]] · [[Dukkha]]_</span>
+<span class="counts">**[[0204 Compassion (talk)#^3-4|3-4]]**: _[[Insight]] (2) · [[Happiness]] (4) · [[The Self]] (3) · [[Dharma]] · [[Avijja]] · [[Ways of looking]] · [[Compassion]] · [[Dukkha]]_</span>
 
 ![[20080204-Rob_Burbea-GAIA-compassion-11950.mp3#t=12:41]]
 
@@ -530,7 +530,7 @@ this body is coming - the elements in it come from elements that were generated 
 
 ---
 ##### Perception is a double-sided feature
-<span class="counts">**[[0204 Compassion (talk)#^13-8|13-8]]**: _[[Consciousness]] · [[Perception]] (10) · [[Emptiness]] (2) · [[Mind]] · [[Embodiment]] · [[Ways of Looking]]_</span>
+<span class="counts">**[[0204 Compassion (talk)#^13-8|13-8]]**: _[[Consciousness]] · [[Perception]] (10) · [[Emptiness]] (2) · [[Mind]] · [[Embodiment]] · [[Ways of looking]]_</span>
 
 ![[20080204-Rob_Burbea-GAIA-compassion-11950.mp3#t=01:07:46]]
 

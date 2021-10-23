@@ -14,7 +14,7 @@ Transcript PDF: [[2008_0130 Exploring the World of Loving Kindness.pdf]]
 ![[20080130-Rob_Burbea-GAIA-exploring_the_world_of_loving_kindness-11951.mp3]]
 
 ## Index
-<span class="counts">_[[Metta]] (58) · [[Love]] (44) · [[Anger]] (38) · [[The Self]] (21) · [[Embodiment]] (15) · [[Retreat]] (11) · [[Perception]] (10) · [[Relationships]] (10) · [[Clinging]] (8) · [[Compassion]] (7) · [[Near enemy]] (7) · [[Attention]] (6) · [[Consciousness]] (6) · [[Energy]] (6) · [[Fear]] (6) · [[Oneness]] (6) · [[Dukkha]] (5) · [[Feelings]] (5) · [[Habit]] (5) · [[Mind]] (5) · [[Pain]] (5) · [[Ways of Looking]] (5) · [[Anatta]] (4) · [[Appreciation]] (4) · [[Buddha]] (4) · [[Depression]] (4) · [[Experience]] (4) · [[Meditation]] (4) · [[Dharma]] (3) · [[Emptiness]] (3) · [[Avalokiteshvara]] (2) · [[Aversion]] (2) · [[Avijja]] (2) · [[Happiness]] (2) · [[Precepts]] (2) · [[Skandhas]] (2) · [[Acceptance]] · [[Archetype]] · [[Awakening]] · [[Beauty]] · [[Big Bang]] · [[Bodhisattva]] · [[Breath]] · [[Craving]] · [[Cultivation]] · [[Dependent Origination]] · [[Desire]] · [[Devotion]] · [[Dimensionality]] · [[Fabrication]] · [[Freedom]] · [[Image]] · [[Insight]] · [[Jesus]] · [[Jiddu Krishnamurti]] · [[Kahlil Gibran]] · [[Letting go]] · [[Manifestations]] · [[Manjushri]] · [[Music]] · [[Nature]] · [[Nondualism]] · [[Pablo Neruda]] · [[Personhood]] · [[Shame]] · [[Sutta]] · [[Ultimate Truth]]_</span>
+<span class="counts">_[[Metta]] (58) · [[Love]] (44) · [[Anger]] (38) · [[The Self]] (21) · [[Embodiment]] (15) · [[Retreat]] (11) · [[Perception]] (10) · [[Relationships]] (10) · [[Clinging]] (8) · [[Compassion]] (7) · [[Near enemy]] (7) · [[Attention]] (6) · [[Consciousness]] (6) · [[Energy]] (6) · [[Fear]] (6) · [[Oneness]] (6) · [[Dukkha]] (5) · [[Feelings]] (5) · [[Habit]] (5) · [[Mind]] (5) · [[Pain]] (5) · [[Ways of looking]] (5) · [[Anatta]] (4) · [[Appreciation]] (4) · [[Buddha]] (4) · [[Depression]] (4) · [[Experience]] (4) · [[Meditation]] (4) · [[Dharma]] (3) · [[Emptiness]] (3) · [[Avalokiteshvara]] (2) · [[Aversion]] (2) · [[Avijja]] (2) · [[Happiness]] (2) · [[Precepts]] (2) · [[Skandhas]] (2) · [[Acceptance]] · [[Archetype]] · [[Awakening]] · [[Beauty]] · [[Big Bang]] · [[Bodhisattva]] · [[Breath]] · [[Craving]] · [[Cultivation]] · [[Dependent Origination]] · [[Desire]] · [[Devotion]] · [[Dimensionality]] · [[Fabrication]] · [[Freedom]] · [[Image]] · [[Insight]] · [[Jesus]] · [[Jiddu Krishnamurti]] · [[Kahlil Gibran]] · [[Letting go]] · [[Manifestations]] · [[Manjushri]] · [[Music]] · [[Nature]] · [[Nondualism]] · [[Pablo Neruda]] · [[Personhood]] · [[Shame]] · [[Sutta]] · [[Ultimate Truth]]_</span>
 <br/>
 
 ## Paragraphs
@@ -82,7 +82,7 @@ INDEX: culture, childhood
 
 ---
 ##### Metta weakens the unhelpful habits of (not) relating to our self
-<span class="counts">**[[0130 Exploring the World of Loving Kindness#^2-3|2-3]]**: _[[Habit]] (5) · [[Metta]] · [[Ways of Looking]] · [[Dharma]]_</span>
+<span class="counts">**[[0130 Exploring the World of Loving Kindness#^2-3|2-3]]**: _[[Habit]] (5) · [[Metta]] · [[Ways of looking]] · [[Dharma]]_</span>
 
 ![[20080130-Rob_Burbea-GAIA-exploring_the_world_of_loving_kindness-11951.mp3#t=06:50]]
 
@@ -222,13 +222,13 @@ The question, Dharmically, is not that that shouldn't be there, that we shouldn'
 
 ---
 ##### My particular uniqueness is a result of an infinite web of conditions
-<span class="counts">**[[0130 Exploring the World of Loving Kindness#^5-1|5-1]]**: _[[Ways of Looking]] (2) · [[The Self]] · [[Dependent Origination]] · [[Embodiment]] (4) · [[Big Bang]]_</span>
+<span class="counts">**[[0130 Exploring the World of Loving Kindness#^5-1|5-1]]**: _[[Ways of looking]] (2) · [[The Self]] · [[Dependent Origination]] · [[Embodiment]] (4) · [[Big Bang]]_</span>
 
 ![[20080130-Rob_Burbea-GAIA-exploring_the_world_of_loving_kindness-11951.mp3#t=19:25]]
 
 ---
 ##### This individuality is bound up with everything else in the universe
-<span class="counts">**[[0130 Exploring the World of Loving Kindness#^5-2|5-2]]**: _[[Relationships]] · [[Music]] · [[The Self]] (2) · [[Avijja]] (2) · [[Ways of Looking]] · [[Freedom]] · [[Love]]_</span>
+<span class="counts">**[[0130 Exploring the World of Loving Kindness#^5-2|5-2]]**: _[[Relationships]] · [[Music]] · [[The Self]] (2) · [[Avijja]] (2) · [[Ways of looking]] · [[Freedom]] · [[Love]]_</span>
 
 ![[20080130-Rob_Burbea-GAIA-exploring_the_world_of_loving_kindness-11951.mp3#t=20:21]]
 
@@ -484,7 +484,7 @@ Walking, walking meditation, and the foot touches the earth, and actually, there
 
 ---
 ##### Metta flowing through the eyes
-<span class="counts">**[[0130 Exploring the World of Loving Kindness#^11-3|11-3]]**: _[[Metta]] (2) · [[Embodiment]] · [[Ways of Looking]] · [[Attention]] (6) · [[Love]] (4) · [[Nature]]_</span>
+<span class="counts">**[[0130 Exploring the World of Loving Kindness#^11-3|11-3]]**: _[[Metta]] (2) · [[Embodiment]] · [[Ways of looking]] · [[Attention]] (6) · [[Love]] (4) · [[Nature]]_</span>
 
 ![[20080130-Rob_Burbea-GAIA-exploring_the_world_of_loving_kindness-11951.mp3#t=50:59]]
 

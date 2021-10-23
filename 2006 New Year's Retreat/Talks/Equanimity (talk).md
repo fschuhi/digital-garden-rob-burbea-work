@@ -14,7 +14,7 @@ Transcript PDF: [[2006_1228 Equanimity (talk).pdf]]
 ![[20061228-Rob_Burbea-GAIA-equanimity-12307.mp3]]
 
 ## Index
-<span class="counts">_[[Equanimity]] (40) · [[Happiness]] (28) · [[Metta]] (22) · [[Pain]] (22) · [[Cultivation]] (19) · [[Mind]] (17) · [[Insight]] (14) · [[Wonder]] (13) · [[Experience]] (12) · [[Impermanence]] (12) · [[Steadiness]] (12) · [[Buddha]] (11) · [[Craving]] (11) · [[The Self]] (11) · [[Mudita]] (10) · [[Dharma]] (8) · [[Compassion]] (5) · [[Death]] (5) · [[Embodiment]] (5) · [[Infinity]] (5) · [[Mindfulness]] (5) · [[Retreat]] (5) · [[Spaciousness]] (5) · [[Attention]] (4) · [[Awareness]] (4) · [[Beauty]] (4) · [[Immeasurability]] (4) · [[Personality structure]] (4) · [[Dukkha]] (3) · [[Eight worldly conditions]] (3) · [[Emptiness]] (3) · [[Fear]] (3) · [[Meditation]] (3) · [[Nature]] (3) · [[Perception]] (3) · [[Receptivity]] (3) · [[Right speech]] (3) · [[Aversion]] (2) · [[Dominant Culture]] (2) · [[Freedom]] (2) · [[Healing]] (2) · [[Jesus]] (2) · [[Jiddu Krishnamurti]] (2) · [[Juiciness]] (2) · [[Love]] (2) · [[Music]] (2) · [[Near enemy]] (2) · [[Personhood]] (2) · [[Pleasantness]] (2) · [[Reactivity]] (2) · [[Anger]] · [[Breath]] · [[Clinging]] · [[Dalai Lama]] · [[Depression]] · [[Energy]] · [[Hindrances]] · [[Mahatma Gandhi]] · [[Mother Teresa]] · [[Nondualism]] · [[Samadhi]] · [[Sangha]] · [[Thanissaro Bhikkhu]]_</span>
+<span class="counts">_[[Equanimity]] (40) · [[Happiness]] (28) · [[Metta]] (22) · [[Pain]] (22) · [[Cultivation]] (19) · [[Mind]] (17) · [[Insight]] (14) · [[Wonder]] (13) · [[Experience]] (12) · [[Impermanence]] (12) · [[Steadiness]] (12) · [[Buddha]] (11) · [[Craving]] (11) · [[The Self]] (11) · [[Mudita]] (10) · [[Dharma]] (8) · [[Compassion]] (5) · [[Death]] (5) · [[Embodiment]] (5) · [[Infinity]] (5) · [[Mindfulness]] (5) · [[Retreat]] (5) · [[Spaciousness]] (5) · [[Attention]] (4) · [[Awareness]] (4) · [[Beauty]] (4) · [[Immeasurability]] (4) · [[Personality structure]] (4) · [[Dukkha]] (3) · [[Eight worldly conditions]] (3) · [[Emptiness]] (3) · [[Fear]] (3) · [[Meditation]] (3) · [[Nature]] (3) · [[Perception]] (3) · [[Receptivity]] (3) · [[Right speech]] (3) · [[Aversion]] (2) · [[Dominant culture]] (2) · [[Freedom]] (2) · [[Healing]] (2) · [[Jesus]] (2) · [[Jiddu Krishnamurti]] (2) · [[Juiciness]] (2) · [[Love]] (2) · [[Music]] (2) · [[Near enemy]] (2) · [[Personhood]] (2) · [[Pleasantness]] (2) · [[Reactivity]] (2) · [[Anger]] · [[Breath]] · [[Clinging]] · [[Dalai Lama]] · [[Depression]] · [[Energy]] · [[Hindrances]] · [[Mahatma Gandhi]] · [[Mother Teresa]] · [[Nondualism]] · [[Samadhi]] · [[Sangha]] · [[Thanissaro Bhikkhu]]_</span>
 
 ## Paragraphs
 [[Equanimity (talk) -|plain list]]
@@ -198,11 +198,11 @@ A spiritual joy, doesn't have so much to do with the self. So one aspect of spir
 
 ---
 ##### Influences from society
-<span class="counts">**[[1228 Equanimity (talk)#^10-1|10-1]]**: _[[Dominant Culture]] · [[Dharma]]_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^10-1|10-1]]**: _[[Dominant culture]] · [[Dharma]]_</span>
 
 ---
 ##### Story: Right speech
-<span class="counts">**[[1228 Equanimity (talk)#^10-2|10-2]]**: _[[Retreat]] (3) · [[Dharma]] (2) · [[Right speech]] (3) · [[Metta]] · [[Dominant Culture]]_</span>
+<span class="counts">**[[1228 Equanimity (talk)#^10-2|10-2]]**: _[[Retreat]] (3) · [[Dharma]] (2) · [[Right speech]] (3) · [[Metta]] · [[Dominant culture]]_</span>
 
 ---
 ##### We need each other to show each other what we are not seeing

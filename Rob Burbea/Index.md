@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 ---
 First quote collections:
-- [[Energy Body]]
+- [[Energy body]]
 - [[Equanimity]]
 - [[Inertia]]
 - [[Preliminaries]]
@@ -27,32 +27,32 @@ Each index entry has a page in the "Index entries" folder. Use backlinks (shown 
 ---
 ^C
 ##### C
-[[Centre]] &nbsp;·&nbsp; [[Chanda]] &nbsp;·&nbsp; [[Chandaraga]] &nbsp;·&nbsp; [[Chandrakirti]] &nbsp;·&nbsp; [[Child development]] &nbsp;·&nbsp; [[Chogyam Trungpa]] &nbsp;·&nbsp; [[Christianity]] &nbsp;·&nbsp; [[Circuits]] &nbsp;·&nbsp; [[Citta]] &nbsp;·&nbsp; [[Clinging]] &nbsp;·&nbsp; [[Commentaries]] &nbsp;·&nbsp; [[Compassion]] &nbsp;·&nbsp; [[Conceptual Framework]] &nbsp;·&nbsp; [[Consciousness]] &nbsp;·&nbsp; [[Constriction]] &nbsp;·&nbsp; [[Contraction]] &nbsp;·&nbsp; [[Conventional reality]] &nbsp;·&nbsp; [[Henry Corbin|Corbin, Henry]] &nbsp;·&nbsp; [[Cosmology]] &nbsp;·&nbsp; [[Craving]] &nbsp;·&nbsp; [[Create-Discover]] &nbsp;·&nbsp; [[Cultivation]]
+[[Centre]] &nbsp;·&nbsp; [[Chanda]] &nbsp;·&nbsp; [[Chandaraga]] &nbsp;·&nbsp; [[Chandrakirti]] &nbsp;·&nbsp; [[Child development]] &nbsp;·&nbsp; [[Chogyam Trungpa]] &nbsp;·&nbsp; [[Christianity]] &nbsp;·&nbsp; [[Circuits]] &nbsp;·&nbsp; [[Citta]] &nbsp;·&nbsp; [[Clinging]] &nbsp;·&nbsp; [[Commentaries]] &nbsp;·&nbsp; [[Compassion]] &nbsp;·&nbsp; [[Conceptual framework]] &nbsp;·&nbsp; [[Consciousness]] &nbsp;·&nbsp; [[Constriction]] &nbsp;·&nbsp; [[Contraction]] &nbsp;·&nbsp; [[Conventional reality]] &nbsp;·&nbsp; [[Henry Corbin|Corbin, Henry]] &nbsp;·&nbsp; [[Cosmology]] &nbsp;·&nbsp; [[Craving]] &nbsp;·&nbsp; [[Create-Discover]] &nbsp;·&nbsp; [[Cultivation]]
 
 ---
 ^D
 ##### D
-[[Daimon]] &nbsp;·&nbsp; [[Daimon, Refracted]] &nbsp;·&nbsp; [[Dakini]] &nbsp;·&nbsp; [[Dalai Lama]] &nbsp;·&nbsp; [[Dana]] &nbsp;·&nbsp; [[Death]] &nbsp;·&nbsp; [[Delineations]] &nbsp;·&nbsp; [[Dependent Origination]] &nbsp;·&nbsp; [[Depression]] &nbsp;·&nbsp; [[Desire]] &nbsp;·&nbsp; [[Devotion]] &nbsp;·&nbsp; [[Dharma]] &nbsp;·&nbsp; [[Dharma Seed]] &nbsp;·&nbsp; [[Dharmakaya]] &nbsp;·&nbsp; [[Diamond Approach]] &nbsp;·&nbsp; [[Dimensionality]] &nbsp;·&nbsp; [[Dionysius the Areopagite]] &nbsp;·&nbsp; [[Discrepancy-based Processing]] &nbsp;·&nbsp; [[Divinity]] &nbsp;·&nbsp; [[Dogma]] &nbsp;·&nbsp; [[Dominant Culture]] &nbsp;·&nbsp; [[Dukkha]] &nbsp;·&nbsp; [[Duty]] &nbsp;·&nbsp; [[Dyad]] &nbsp;·&nbsp; [[Dzogchen]]
+[[Daimon]] &nbsp;·&nbsp; [[Daimon, Refracted]] &nbsp;·&nbsp; [[Dakini]] &nbsp;·&nbsp; [[Dalai Lama]] &nbsp;·&nbsp; [[Dana]] &nbsp;·&nbsp; [[Death]] &nbsp;·&nbsp; [[Delineations]] &nbsp;·&nbsp; [[Dependent Origination]] &nbsp;·&nbsp; [[Depression]] &nbsp;·&nbsp; [[Desire]] &nbsp;·&nbsp; [[Devotion]] &nbsp;·&nbsp; [[Dharma]] &nbsp;·&nbsp; [[Dharma Seed]] &nbsp;·&nbsp; [[Dharmakaya]] &nbsp;·&nbsp; [[Diamond Approach]] &nbsp;·&nbsp; [[Dimensionality]] &nbsp;·&nbsp; [[Dionysius the Areopagite]] &nbsp;·&nbsp; [[Discrepancy-based processing]] &nbsp;·&nbsp; [[Divinity]] &nbsp;·&nbsp; [[Dogma]] &nbsp;·&nbsp; [[Dominant culture]] &nbsp;·&nbsp; [[Dukkha]] &nbsp;·&nbsp; [[Duty]] &nbsp;·&nbsp; [[Dyad]] &nbsp;·&nbsp; [[Dzogchen]]
 
 ---
 ^E
 ##### E
-[[Eclecticism]] &nbsp;·&nbsp; [[Eight worldly conditions]] &nbsp;·&nbsp; [[Albert Einstein|Einstein, Albert]] &nbsp;·&nbsp; [[Dwight Eisenhower|Eisenhower, Dwight]] &nbsp;·&nbsp; [[Elitism]] &nbsp;·&nbsp; [[Embodiment]] &nbsp;·&nbsp; [[Emotions]] &nbsp;·&nbsp; [[Empathy]] &nbsp;·&nbsp; [[Empiricism]] &nbsp;·&nbsp; [[Emptiness]] &nbsp;·&nbsp; [[Energy]] &nbsp;·&nbsp; [[Energy Body]] &nbsp;·&nbsp; [[Engagement and Activism]] &nbsp;·&nbsp; [[Epistemology]] &nbsp;·&nbsp; [[Equanimity]] &nbsp;·&nbsp; [[Eros]] &nbsp;·&nbsp; [[Eros Unfettered]] &nbsp;·&nbsp; [[Eternality]] &nbsp;·&nbsp; [[Ethics]] &nbsp;·&nbsp; [[Experience]]
+[[Eclecticism]] &nbsp;·&nbsp; [[Eight worldly conditions]] &nbsp;·&nbsp; [[Albert Einstein|Einstein, Albert]] &nbsp;·&nbsp; [[Dwight Eisenhower|Eisenhower, Dwight]] &nbsp;·&nbsp; [[Elitism]] &nbsp;·&nbsp; [[Embodiment]] &nbsp;·&nbsp; [[Emotions]] &nbsp;·&nbsp; [[Empathy]] &nbsp;·&nbsp; [[Empiricism]] &nbsp;·&nbsp; [[Emptiness]] &nbsp;·&nbsp; [[Energy]] &nbsp;·&nbsp; [[Energy body]] &nbsp;·&nbsp; [[Engagement and Activism]] &nbsp;·&nbsp; [[Epistemology]] &nbsp;·&nbsp; [[Equanimity]] &nbsp;·&nbsp; [[Eros]] &nbsp;·&nbsp; [[Eros Unfettered]] &nbsp;·&nbsp; [[Eternality]] &nbsp;·&nbsp; [[Ethics]] &nbsp;·&nbsp; [[Experience]]
 
 ---
 ^F
 ##### F
-[[Fabrication]] &nbsp;·&nbsp; [[Fantasy]] &nbsp;·&nbsp; [[Fear]] &nbsp;·&nbsp; [[Feelings]] &nbsp;·&nbsp; [[Fetters]] &nbsp;·&nbsp; [[Foundations of a Soulmaking Dharma]] &nbsp;·&nbsp; [[Four Bases]] &nbsp;·&nbsp; [[Four Circles, Four Parables of Stone and Light]] &nbsp;·&nbsp; [[Four Noble Truths]] &nbsp;·&nbsp; [[Freedom]] &nbsp;·&nbsp; [[Fullness of Intention]] &nbsp;·&nbsp; [[Future thinking]]
+[[Fabrication]] &nbsp;·&nbsp; [[Fantasy]] &nbsp;·&nbsp; [[Fear]] &nbsp;·&nbsp; [[Feelings]] &nbsp;·&nbsp; [[Fetters]] &nbsp;·&nbsp; [[Foundations of a Soulmaking Dharma]] &nbsp;·&nbsp; [[Four bases of power]] &nbsp;·&nbsp; [[Four Circles, Four Parables of Stone and Light]] &nbsp;·&nbsp; [[Four Noble Truths]] &nbsp;·&nbsp; [[Freedom]] &nbsp;·&nbsp; [[Fullness of intention]] &nbsp;·&nbsp; [[Future thinking]]
 
 ---
 ^G
 ##### G
-[[Hans Georg Gadamer|Gadamer, Hans Georg]] &nbsp;·&nbsp; [[Gaia House]] &nbsp;·&nbsp; [[Mahatma Gandhi|Gandhi, Mahatma]] &nbsp;·&nbsp; [[Generosity]] &nbsp;·&nbsp; [[Gestalt Psychology]] &nbsp;·&nbsp; [[Kahlil Gibran|Gibran, Kahlil]] &nbsp;·&nbsp; [[Allen Ginsberg|Ginsberg, Allen]] &nbsp;·&nbsp; [[Global warming]] &nbsp;·&nbsp; [[Goenka]] &nbsp;·&nbsp; [[Gratitude]] &nbsp;·&nbsp; [[Grief]] &nbsp;·&nbsp; [[Guhyasamaja Tantra]] &nbsp;·&nbsp; [[Guinness Book of Records]]
+[[Hans Georg Gadamer|Gadamer, Hans Georg]] &nbsp;·&nbsp; [[Gaia House]] &nbsp;·&nbsp; [[Mahatma Gandhi|Gandhi, Mahatma]] &nbsp;·&nbsp; [[Generosity]] &nbsp;·&nbsp; [[Gestalt psychology]] &nbsp;·&nbsp; [[Kahlil Gibran|Gibran, Kahlil]] &nbsp;·&nbsp; [[Allen Ginsberg|Ginsberg, Allen]] &nbsp;·&nbsp; [[Global warming]] &nbsp;·&nbsp; [[Goenka]] &nbsp;·&nbsp; [[Gratitude]] &nbsp;·&nbsp; [[Grief]] &nbsp;·&nbsp; [[Guhyasamaja Tantra]] &nbsp;·&nbsp; [[Guinness Book of Records]]
 
 ---
 ^H
 ##### H
-[[Habit]] &nbsp;·&nbsp; [[Happiness]] &nbsp;·&nbsp; [[Healing]] &nbsp;·&nbsp; [[Hearing All Sounds as Mantra]] &nbsp;·&nbsp; [[Heat and the Material]] &nbsp;·&nbsp; [[Heaven]] &nbsp;·&nbsp; [[Werner Heisenberg|Heisenberg, Werner]] &nbsp;·&nbsp; [[Hell]] &nbsp;·&nbsp; [[Hermeneutics]] &nbsp;·&nbsp; [[Hermit]] &nbsp;·&nbsp; [[Hindrances]] &nbsp;·&nbsp; [[History]] &nbsp;·&nbsp; [[Human Relationship]] &nbsp;·&nbsp; [[Humanism]]
+[[Habit]] &nbsp;·&nbsp; [[Happiness]] &nbsp;·&nbsp; [[Healing]] &nbsp;·&nbsp; [[Hearing All Sounds as Mantra]] &nbsp;·&nbsp; [[Heat and the Material]] &nbsp;·&nbsp; [[Heaven]] &nbsp;·&nbsp; [[Werner Heisenberg|Heisenberg, Werner]] &nbsp;·&nbsp; [[Hell]] &nbsp;·&nbsp; [[Hermeneutics]] &nbsp;·&nbsp; [[Hermit]] &nbsp;·&nbsp; [[Hindrances]] &nbsp;·&nbsp; [[History]] &nbsp;·&nbsp; [[Human relationship]] &nbsp;·&nbsp; [[Humanism]]
 
 ---
 ^I
@@ -92,7 +92,7 @@ Each index entry has a page in the "Index entries" folder. Use backlinks (shown 
 ---
 ^P
 ##### P
-[[Pain]] &nbsp;·&nbsp; [[Pain, as Void and as Sacrament]] &nbsp;·&nbsp; [[Pali Canon]] &nbsp;·&nbsp; [[Papanca]] &nbsp;·&nbsp; [[Rosa Parks|Parks, Rosa]] &nbsp;·&nbsp; [[Passion]] &nbsp;·&nbsp; [[Passion, Desire, and the Path]] &nbsp;·&nbsp; [[Payutto]] &nbsp;·&nbsp; [[Pedagogy]] &nbsp;·&nbsp; [[Perception]] &nbsp;·&nbsp; [[Perfection]] &nbsp;·&nbsp; [[Personality structure]] &nbsp;·&nbsp; [[Personality types]] &nbsp;·&nbsp; [[Personhood]] &nbsp;·&nbsp; [[Phenomenology]] &nbsp;·&nbsp; [[Phenomenon]] &nbsp;·&nbsp; [[Physicalism]] &nbsp;·&nbsp; [[Piti]] &nbsp;·&nbsp; [[Pity]] &nbsp;·&nbsp; [[Pleasantness]] &nbsp;·&nbsp; [[Poetry]] &nbsp;·&nbsp; [[Pontius Pilate]] &nbsp;·&nbsp; [[Postmodernism]] &nbsp;·&nbsp; [[Practicing the Jhanas (retreat)]] &nbsp;·&nbsp; [[Practicing with Death and Dying]] &nbsp;·&nbsp; [[Precepts]] &nbsp;·&nbsp; [[Preliminaries]] &nbsp;·&nbsp; [[Present Moment]] &nbsp;·&nbsp; [[Psyche]] &nbsp;·&nbsp; [[Psychological maturity]] &nbsp;·&nbsp; [[Psychology of a Person]]
+[[Pain]] &nbsp;·&nbsp; [[Pain, as Void and as Sacrament]] &nbsp;·&nbsp; [[Pali Canon]] &nbsp;·&nbsp; [[Papanca]] &nbsp;·&nbsp; [[Rosa Parks|Parks, Rosa]] &nbsp;·&nbsp; [[Passion]] &nbsp;·&nbsp; [[Passion, Desire, and the Path]] &nbsp;·&nbsp; [[Payutto]] &nbsp;·&nbsp; [[Pedagogy]] &nbsp;·&nbsp; [[Perception]] &nbsp;·&nbsp; [[Perfection]] &nbsp;·&nbsp; [[Personality structure]] &nbsp;·&nbsp; [[Personality types]] &nbsp;·&nbsp; [[Personhood]] &nbsp;·&nbsp; [[Phenomenology]] &nbsp;·&nbsp; [[Phenomenon]] &nbsp;·&nbsp; [[Physicalism]] &nbsp;·&nbsp; [[Piti]] &nbsp;·&nbsp; [[Pity]] &nbsp;·&nbsp; [[Pleasantness]] &nbsp;·&nbsp; [[Poetry]] &nbsp;·&nbsp; [[Pontius Pilate]] &nbsp;·&nbsp; [[Postmodernism]] &nbsp;·&nbsp; [[Practicing the Jhanas (retreat)]] &nbsp;·&nbsp; [[Practicing with Death and Dying]] &nbsp;·&nbsp; [[Precepts]] &nbsp;·&nbsp; [[Preliminaries]] &nbsp;·&nbsp; [[Present moment]] &nbsp;·&nbsp; [[Psyche]] &nbsp;·&nbsp; [[Psychological maturity]] &nbsp;·&nbsp; [[Psychology of a Person]]
 
 ---
 ^Q
@@ -122,12 +122,12 @@ Each index entry has a page in the "Index entries" folder. Use backlinks (shown 
 ---
 ^V
 ##### V
-[[Vajra]] &nbsp;·&nbsp; [[Vajrayana]] &nbsp;·&nbsp; [[Vedana]] &nbsp;·&nbsp; [[Vedic]] &nbsp;·&nbsp; [[Vessel]] &nbsp;·&nbsp; [[Via Dolorosa]] &nbsp;·&nbsp; [[Via Negativa]] &nbsp;·&nbsp; [[Voice, Movement, and the Possibilities of Soul]]
+[[Vajra]] &nbsp;·&nbsp; [[Vajrayana]] &nbsp;·&nbsp; [[Vedana]] &nbsp;·&nbsp; [[Vedic]] &nbsp;·&nbsp; [[Vessel]] &nbsp;·&nbsp; [[Via Dolorosa]] &nbsp;·&nbsp; [[Via negativa]] &nbsp;·&nbsp; [[Voice, Movement, and the Possibilities of Soul]]
 
 ---
 ^W
 ##### W
-[[Ways of Looking]] &nbsp;·&nbsp; [[Walt Whitman|Whitman, Walt]] &nbsp;·&nbsp; [[Wise Effort]] &nbsp;·&nbsp; [[Wise Relationship to Practice]] &nbsp;·&nbsp; [[Wonder]]
+[[Ways of looking]] &nbsp;·&nbsp; [[Walt Whitman|Whitman, Walt]] &nbsp;·&nbsp; [[Wise Effort]] &nbsp;·&nbsp; [[Wise Relationship to Practice]] &nbsp;·&nbsp; [[Wonder]]
 
 ---
 ^X

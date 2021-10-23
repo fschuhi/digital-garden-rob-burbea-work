@@ -12,7 +12,7 @@ Transcript: [[0306 Perfection and Christ's Blessing]]
 Transcript PDF: [[2020_0306 Perfection and Christ's Blessing.pdf]]
 
 ## Index
-<span class="counts">_[[Perfection]] (10) · [[Blessing]] (5) · [[Soul]] (4) · [[Dukkha]] (3) · [[Jesus]] (3) · [[Christianity]] (2) · [[Beauty]] · [[Devotion]] · [[Embodiment]] · [[Love]] · [[Ways of Looking]]_</span>
+<span class="counts">_[[Perfection]] (10) · [[Blessing]] (5) · [[Soul]] (4) · [[Dukkha]] (3) · [[Jesus]] (3) · [[Christianity]] (2) · [[Beauty]] · [[Devotion]] · [[Embodiment]] · [[Love]] · [[Ways of looking]]_</span>
 <br/>
 
 ## Paragraphs
@@ -22,7 +22,7 @@ Transcript PDF: [[2020_0306 Perfection and Christ's Blessing.pdf]]
 
 ---
 ##### Jesus's blessing is on everything
-<span class="counts">**[[0306 Perfection and Christ's Blessing#^1-2|1-2]]**: _[[Ways of Looking]] · [[Love]] · [[Perfection]] (3) · [[Jesus]] (2) · [[Blessing]] (3) · [[Soul]]_</span>
+<span class="counts">**[[0306 Perfection and Christ's Blessing#^1-2|1-2]]**: _[[Ways of looking]] · [[Love]] · [[Perfection]] (3) · [[Jesus]] (2) · [[Blessing]] (3) · [[Soul]]_</span>
 
 ---
 ##### Theodicy

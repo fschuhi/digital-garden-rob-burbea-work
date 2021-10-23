@@ -14,7 +14,7 @@ Transcript PDF: [[2008_0205 Compassion Part Two - Compassion for Ourselves.pdf]]
 ![[20080205-Rob_Burbea-GAIA-compassion_part_two_compassion_for_ourselves-11949.mp3]]
 
 ## Index
-<span class="counts">_[[Compassion]] (51) · [[Dukkha]] (31) · [[The Self]] (14) · [[Insight]] (13) · [[Mind]] (11) · [[Healing]] (7) · [[Pain]] (6) · [[Attention]] (5) · [[Empathy]] (5) · [[Spaciousness]] (4) · [[Pity]] (3) · [[Anatta]] (2) · [[Awareness]] (2) · [[Centre]] (2) · [[Craving]] (2) · [[Embodiment]] (2) · [[Energy]] (2) · [[Experience]] (2) · [[Happiness]] (2) · [[Letting go]] (2) · [[Love]] (2) · [[Metta]] (2) · [[Pleasantness]] (2) · [[Samadhi]] (2) · [[Acceptance]] · [[Beauty]] · [[Buddha]] · [[Clinging]] · [[Consciousness]] · [[Cultivation]] · [[Dharma]] · [[Emptiness]] · [[Meditation]] · [[Steadiness]] · [[Ways of Looking]]_</span>
+<span class="counts">_[[Compassion]] (51) · [[Dukkha]] (31) · [[The Self]] (14) · [[Insight]] (13) · [[Mind]] (11) · [[Healing]] (7) · [[Pain]] (6) · [[Attention]] (5) · [[Empathy]] (5) · [[Spaciousness]] (4) · [[Pity]] (3) · [[Anatta]] (2) · [[Awareness]] (2) · [[Centre]] (2) · [[Craving]] (2) · [[Embodiment]] (2) · [[Energy]] (2) · [[Experience]] (2) · [[Happiness]] (2) · [[Letting go]] (2) · [[Love]] (2) · [[Metta]] (2) · [[Pleasantness]] (2) · [[Samadhi]] (2) · [[Acceptance]] · [[Beauty]] · [[Buddha]] · [[Clinging]] · [[Consciousness]] · [[Cultivation]] · [[Dharma]] · [[Emptiness]] · [[Meditation]] · [[Steadiness]] · [[Ways of looking]]_</span>
 <br/>
 
 ## Paragraphs
@@ -45,7 +45,7 @@ sometimes where we think the suffering is isn't always where it is, in the most 
 
 ---
 ##### This suffering here is the one we can be most intimate with
-<span class="counts">**[[0205 Compassion Part Two - Compassion for Ourselves#^1-4|1-4]]**: _[[Ways of Looking]] · [[Compassion]] (3) · [[The Self]] · [[Dukkha]] (5) · [[Insight]] (3)_</span>
+<span class="counts">**[[0205 Compassion Part Two - Compassion for Ourselves#^1-4|1-4]]**: _[[Ways of looking]] · [[Compassion]] (3) · [[The Self]] · [[Dukkha]] (5) · [[Insight]] (3)_</span>
 
 ![[20080205-Rob_Burbea-GAIA-compassion_part_two_compassion_for_ourselves-11949.mp3#t=02:53]]
 

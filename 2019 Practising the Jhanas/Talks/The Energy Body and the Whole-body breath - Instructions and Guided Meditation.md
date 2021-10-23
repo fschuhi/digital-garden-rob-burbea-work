@@ -14,7 +14,7 @@ Transcript PDF: [[2019_1218 The Energy Body and the Whole-body breath - Instruct
 ![[20191218-Rob_Burbea-GAIA-the_energy_body_and_the_whole_body_breath_instructions_and_guided_meditation-60884.mp3]]
 
 ## Index
-<span class="counts">_[[Breath]] (61) · [[Embodiment]] (60) · [[Awareness]] (19) · [[Energy Body]] (17) · [[Samadhi]] (16) · [[Attention]] (15) · [[Energy]] (11) · [[Experience]] (9) · [[Meditation]] (8) · [[Citta]] (4) · [[Inertia]] (4) · [[Jhanas]] (4) · [[Mind]] (4) · [[Contraction]] (3) · [[Retreat]] (3) · [[Cultivation]] (2) · [[Image]] (2) · [[Letting go]] (2) · [[Mahasi Sayadaw]] (2) · [[Mindfulness]] (2) · [[Music]] (2) · [[Receptivity]] (2) · [[Appreciation]] · [[Beauty]] · [[Desire]] · [[Dominant Culture]] · [[Emptiness]] · [[Healing]] · [[Love]] · [[Mudita]] · [[Nobility]] · [[Personhood]] · [[Pleasantness]] · [[Soul]]_</span>
+<span class="counts">_[[Breath]] (61) · [[Embodiment]] (60) · [[Awareness]] (19) · [[Energy body]] (17) · [[Samadhi]] (16) · [[Attention]] (15) · [[Energy]] (11) · [[Experience]] (9) · [[Meditation]] (8) · [[Citta]] (4) · [[Inertia]] (4) · [[Jhanas]] (4) · [[Mind]] (4) · [[Contraction]] (3) · [[Retreat]] (3) · [[Cultivation]] (2) · [[Image]] (2) · [[Letting go]] (2) · [[Mahasi Sayadaw]] (2) · [[Mindfulness]] (2) · [[Music]] (2) · [[Receptivity]] (2) · [[Appreciation]] · [[Beauty]] · [[Desire]] · [[Dominant culture]] · [[Emptiness]] · [[Healing]] · [[Love]] · [[Mudita]] · [[Nobility]] · [[Personhood]] · [[Pleasantness]] · [[Soul]]_</span>
 <br/>
 
 ## Paragraphs
@@ -42,7 +42,7 @@ Transcript PDF: [[2019_1218 The Energy Body and the Whole-body breath - Instruct
 ---
 ### Whole body, energy body
 ##### Today more about the energy body, working with the whole-body breath
-<span class="counts">**[[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation#^1-4|1-4]]**: _[[Embodiment]] (2) · [[Awareness]] · [[Energy Body]] (4) · [[Breath]] · [[Samadhi]]_</span>
+<span class="counts">**[[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation#^1-4|1-4]]**: _[[Embodiment]] (2) · [[Awareness]] · [[Energy body]] (4) · [[Breath]] · [[Samadhi]]_</span>
 
 ![[20191218-Rob_Burbea-GAIA-the_energy_body_and_the_whole_body_breath_instructions_and_guided_meditation-60884.mp3#t=02:09]]
 
@@ -58,7 +58,7 @@ Energy body is a big subject, and it's actually quite hard to sum it up in a sor
 
 ---
 ##### "Energy body" is the vibration, texture, feeling, energy of the whole body space
-<span class="counts">**[[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation#^1-6|1-6]]**: _[[Energy Body]] · [[Energy]] (3) · [[Mahasi Sayadaw]] (2) · [[Retreat]] · [[Breath]] · [[Embodiment]] (2) · [[Mindfulness]] · [[Attention]] (2) · [[Experience]] · [[Dominant Culture]] · [[Meditation]]_</span>
+<span class="counts">**[[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation#^1-6|1-6]]**: _[[Energy body]] · [[Energy]] (3) · [[Mahasi Sayadaw]] (2) · [[Retreat]] · [[Breath]] · [[Embodiment]] (2) · [[Mindfulness]] · [[Attention]] (2) · [[Experience]] · [[Dominant culture]] · [[Meditation]]_</span>
 
 ![[20191218-Rob_Burbea-GAIA-the_energy_body_and_the_whole_body_breath_instructions_and_guided_meditation-60884.mp3#t=04:08]]
 
@@ -74,7 +74,7 @@ Certainly in our wider culture, it's like, "What do you _mean_ when you say 'vib
 
 ---
 ##### The sense of the body is integrated
-<span class="counts">**[[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation#^2-2|2-2]]**: _[[Energy Body]] (3) · [[Embodiment]] (4) · [[Samadhi]] (2) · [[Jhanas]] · [[Experience]] (2)_</span>
+<span class="counts">**[[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation#^2-2|2-2]]**: _[[Energy body]] (3) · [[Embodiment]] (4) · [[Samadhi]] (2) · [[Jhanas]] · [[Experience]] (2)_</span>
 
 ![[20191218-Rob_Burbea-GAIA-the_energy_body_and_the_whole_body_breath_instructions_and_guided_meditation-60884.mp3#t=06:30]]
 
@@ -84,7 +84,7 @@ It really feels like one body area, one realm or one texture of experience.
 
 ---
 ##### Homogeneity, of experience but also of awareness
-<span class="counts">**[[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation#^2-3|2-3]]**: _[[Experience]] (2) · [[Awareness]] (3) · [[Embodiment]] · [[Energy Body]] · [[Samadhi]]_</span>
+<span class="counts">**[[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation#^2-3|2-3]]**: _[[Experience]] (2) · [[Awareness]] (3) · [[Embodiment]] · [[Energy body]] · [[Samadhi]]_</span>
 
 ![[20191218-Rob_Burbea-GAIA-the_energy_body_and_the_whole_body_breath_instructions_and_guided_meditation-60884.mp3#t=07:26]]
 
@@ -94,7 +94,7 @@ the awareness inhabits equally, homogenously, the whole space, and even a little
 
 ---
 ##### Samadhi practice is coaxing the energy body into something nice
-<span class="counts">**[[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation#^2-4|2-4]]**: _[[Meditation]] · [[Energy Body]] (4) · [[Samadhi]] (3) · [[Cultivation]] · [[Experience]] · [[Desire]]_</span>
+<span class="counts">**[[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation#^2-4|2-4]]**: _[[Meditation]] · [[Energy body]] (4) · [[Samadhi]] (3) · [[Cultivation]] · [[Experience]] · [[Desire]]_</span>
 
 ![[20191218-Rob_Burbea-GAIA-the_energy_body_and_the_whole_body_breath_instructions_and_guided_meditation-60884.mp3#t=09:00]]
 
@@ -104,13 +104,13 @@ There's a directionality and a desire there.
 
 ---
 ##### Sensitivity to temperature
-<span class="counts">**[[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation#^3-1|3-1]]**: _[[Energy Body]] · [[Samadhi]] (2) · [[Embodiment]]_</span>
+<span class="counts">**[[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation#^3-1|3-1]]**: _[[Energy body]] · [[Samadhi]] (2) · [[Embodiment]]_</span>
 
 ![[20191218-Rob_Burbea-GAIA-the_energy_body_and_the_whole_body_breath_instructions_and_guided_meditation-60884.mp3#t=09:48]]
 
 ---
 ##### Experiment, be careful of that inertia
-<span class="counts">**[[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation#^3-2|3-2]]**: _[[Personhood]] · [[Inertia]] · [[Energy Body]]_</span>
+<span class="counts">**[[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation#^3-2|3-2]]**: _[[Personhood]] · [[Inertia]] · [[Energy body]]_</span>
 
 ![[20191218-Rob_Burbea-GAIA-the_energy_body_and_the_whole_body_breath_instructions_and_guided_meditation-60884.mp3#t=11:09]]
 
@@ -317,7 +317,7 @@ As we go on, and get more and more, and deeper and deeper, those same qualities 
 ---
 ### Outro
 ##### During the day, aim for a whole-body awareness that is quite relaxed and open
-<span class="counts">**[[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation#^7-2|7-2]]**: _[[Embodiment]] (5) · [[Awareness]] (5) · [[Energy Body]] · [[Mindfulness]] · [[Attention]] (5)_</span>
+<span class="counts">**[[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation#^7-2|7-2]]**: _[[Embodiment]] (5) · [[Awareness]] (5) · [[Energy body]] · [[Mindfulness]] · [[Attention]] (5)_</span>
 
 ![[20191218-Rob_Burbea-GAIA-the_energy_body_and_the_whole_body_breath_instructions_and_guided_meditation-60884.mp3#t=49:05]]
 
@@ -327,7 +327,7 @@ If you can get a sense, it's like the space feels relaxed. It's not heavy, inten
 
 ---
 ##### Again, the seed question: what helps?
-<span class="counts">**[[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation#^7-3|7-3]]**: _[[Energy Body]] · [[Attention]]_</span>
+<span class="counts">**[[1218 The Energy Body and the Whole-body breath - Instructions and Guided Meditation#^7-3|7-3]]**: _[[Energy body]] · [[Attention]]_</span>
 
 ![[20191218-Rob_Burbea-GAIA-the_energy_body_and_the_whole_body_breath_instructions_and_guided_meditation-60884.mp3#t=51:09]]
 

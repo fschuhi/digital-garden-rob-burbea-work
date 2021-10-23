@@ -14,7 +14,7 @@ Transcript PDF: [[2007_0127 From Insight to Love.pdf]]
 ![[20070127-Rob_Burbea-GAIA-from_insight_to_love-12291.mp3]]
 
 ## Index
-<span class="counts">_[[Fear]] (128) · [[Metta]] (73) · [[Love]] (46) · [[Clinging]] (40) · [[Impermanence]] (32) · [[Insight]] (32) · [[Anatta]] (30) · [[Mind]] (25) · [[Death]] (23) · [[Dukkha]] (23) · [[Aversion]] (19) · [[Freedom]] (17) · [[The Self]] (17) · [[Habit]] (15) · [[Awareness]] (14) · [[Compassion]] (13) · [[Embodiment]] (13) · [[Buddha]] (12) · [[Perception]] (11) · [[Consciousness]] (10) · [[Ways of Looking]] (10) · [[Anxiety]] (9) · [[Experience]] (9) · [[Pleasantness]] (8) · [[Happiness]] (7) · [[Three characteristics]] (7) · [[Cultivation]] (6) · [[Nondualism]] (6) · [[Retreat]] (6) · [[Awakening]] (5) · [[Constriction]] (5) · [[Energy]] (5) · [[Oneness]] (5) · [[Contraction]] (4) · [[Music]] (4) · [[Nature]] (4) · [[Spaciousness]] (4) · [[Centre]] (3) · [[Craving]] (3) · [[Emptiness]] (3) · [[Fabrication]] (3) · [[Ignorance]] (3) · [[Kusala]] (3) · [[Mahatma Gandhi]] (3) · [[Mindfulness]] (3) · [[Acceptance]] (2) · [[Anger]] (2) · [[Beauty]] (2) · [[Commentaries]] (2) · [[Future thinking]] (2) · [[Image]] (2) · [[Letting go]] (2) · [[Meditation]] (2) · [[Relationships]] (2) · [[Samadhi]] (2) · [[Skandhas]] (2) · [[Steadiness]] (2) · [[Attention]] · [[Baba Amte]] · [[Equanimity]] · [[Healing]] · [[Hell]] · [[Hindrances]] · [[Jhanas]] · [[Judaism]] · [[Metaphysics]] · [[Papanca]] · [[Phenomenon]] · [[Present Moment]] · [[Wonder]]_</span>
+<span class="counts">_[[Fear]] (128) · [[Metta]] (73) · [[Love]] (46) · [[Clinging]] (40) · [[Impermanence]] (32) · [[Insight]] (32) · [[Anatta]] (30) · [[Mind]] (25) · [[Death]] (23) · [[Dukkha]] (23) · [[Aversion]] (19) · [[Freedom]] (17) · [[The Self]] (17) · [[Habit]] (15) · [[Awareness]] (14) · [[Compassion]] (13) · [[Embodiment]] (13) · [[Buddha]] (12) · [[Perception]] (11) · [[Consciousness]] (10) · [[Ways of looking]] (10) · [[Anxiety]] (9) · [[Experience]] (9) · [[Pleasantness]] (8) · [[Happiness]] (7) · [[Three characteristics]] (7) · [[Cultivation]] (6) · [[Nondualism]] (6) · [[Retreat]] (6) · [[Awakening]] (5) · [[Constriction]] (5) · [[Energy]] (5) · [[Oneness]] (5) · [[Contraction]] (4) · [[Music]] (4) · [[Nature]] (4) · [[Spaciousness]] (4) · [[Centre]] (3) · [[Craving]] (3) · [[Emptiness]] (3) · [[Fabrication]] (3) · [[Ignorance]] (3) · [[Kusala]] (3) · [[Mahatma Gandhi]] (3) · [[Mindfulness]] (3) · [[Acceptance]] (2) · [[Anger]] (2) · [[Beauty]] (2) · [[Commentaries]] (2) · [[Future thinking]] (2) · [[Image]] (2) · [[Letting go]] (2) · [[Meditation]] (2) · [[Relationships]] (2) · [[Samadhi]] (2) · [[Skandhas]] (2) · [[Steadiness]] (2) · [[Attention]] · [[Baba Amte]] · [[Equanimity]] · [[Healing]] · [[Hell]] · [[Hindrances]] · [[Jhanas]] · [[Judaism]] · [[Metaphysics]] · [[Papanca]] · [[Phenomenon]] · [[Present moment]] · [[Wonder]]_</span>
 <br/>
 
 ## Paragraphs
@@ -31,7 +31,7 @@ Transcript PDF: [[2007_0127 From Insight to Love.pdf]]
 
 ---
 ##### Insight is that which releases clinging
-<span class="counts">**[[0127 From Insight to Love#^1-3|1-3]]**: _[[Insight]] (6) · [[Meditation]] · [[Clinging]] (6) · [[Dukkha]] (2) · [[Buddha]] · [[Ways of Looking]] (4) · [[Love]] (2)_</span>
+<span class="counts">**[[0127 From Insight to Love#^1-3|1-3]]**: _[[Insight]] (6) · [[Meditation]] · [[Clinging]] (6) · [[Dukkha]] (2) · [[Buddha]] · [[Ways of looking]] (4) · [[Love]] (2)_</span>
 - //insight
 - TODO: ways of how insight releases clinging
 - says of looking that bring a release = insight?
@@ -143,7 +143,7 @@ TODO: unsatisfactoriness => dukkha
 
 ---
 ##### Kinds of looking at the world through particular kinds of lenses
-<span class="counts">**[[0127 From Insight to Love#^6-3|6-3]]**: _[[Three characteristics]] · [[Ways of Looking]] (3) · [[Experience]] · [[Freedom]] (2) · [[Love]] · [[Buddha]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^6-3|6-3]]**: _[[Three characteristics]] · [[Ways of looking]] (3) · [[Experience]] · [[Freedom]] (2) · [[Love]] · [[Buddha]]_</span>
 TODO: quote
 
 ---
@@ -249,11 +249,11 @@ TODO: "the dukkha angle into anatta" => the 2 characteristics impermanence and a
 
 ---
 ##### With anatta we are working with the "me-mine" experience
-<span class="counts">**[[0127 From Insight to Love#^10-2|10-2]]**: _[[Anatta]] (2) · [[Ways of Looking]] (2) · [[Freedom]] · [[Love]] · [[Experience]] (2) · [[Embodiment]] · [[Hell]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^10-2|10-2]]**: _[[Anatta]] (2) · [[Ways of looking]] (2) · [[Freedom]] · [[Love]] · [[Experience]] (2) · [[Embodiment]] · [[Hell]]_</span>
 
 ---
 ##### "Just unhook" is not a metaphysical statement
-<span class="counts">**[[0127 From Insight to Love#^10-3|10-3]]**: _[[Buddha]] · [[Present Moment]] · [[Experience]] · [[Embodiment]] · [[Metaphysics]] · [[Nature]] · [[Anatta]] · [[Freedom]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^10-3|10-3]]**: _[[Buddha]] · [[Present moment]] · [[Experience]] · [[Embodiment]] · [[Metaphysics]] · [[Nature]] · [[Anatta]] · [[Freedom]]_</span>
 
 ---
 ##### The comparing, judging mind
@@ -265,7 +265,7 @@ TODO: "the dukkha angle into anatta" => the 2 characteristics impermanence and a
 
 ---
 ##### Over time, the groove of metta will be more established than the groove of measuring, comparing, juding
-<span class="counts">**[[0127 From Insight to Love#^11-1|11-1]]**: _[[Metta]] (7) · [[Mind]] (2) · [[Ways of Looking]] · [[Kusala]] (2) · [[Acceptance]] · [[Energy]] (3) · [[Compassion]]_</span>
+<span class="counts">**[[0127 From Insight to Love#^11-1|11-1]]**: _[[Metta]] (7) · [[Mind]] (2) · [[Ways of looking]] · [[Kusala]] (2) · [[Acceptance]] · [[Energy]] (3) · [[Compassion]]_</span>
 
 ---
 ##### Judgement thoughts are not me, not mine

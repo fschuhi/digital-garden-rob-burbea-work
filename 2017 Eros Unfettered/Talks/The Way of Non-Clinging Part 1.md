@@ -29,7 +29,7 @@ Transcript PDF: [[2017_0115 The Way of Non-Clinging Part 1.pdf]]
 => Be wary of teachings with limited depth and breath
 
 ## Index
-<span class="counts">_[[Craving]] (85) · [[Clinging]] (66) · [[Mind]] (30) · [[Dukkha]] (28) · [[Impermanence]] (22) · [[Experience]] (21) · [[Letting go]] (20) · [[Desire]] (19) · [[Attention]] (18) · [[Buddha]] (18) · [[The Self]] (18) · [[Mindfulness]] (15) · [[Ignorance]] (13) · [[Insight]] (13) · [[Awakening]] (12) · [[Papanca]] (12) · [[Dependent Origination]] (11) · [[Dharma]] (11) · [[Habit]] (11) · [[Embodiment]] (10) · [[Hindrances]] (10) · [[Perception]] (10) · [[Delineations]] (9) · [[Passion]] (9) · [[Unfabricated]] (9) · [[Contraction]] (8) · [[Fetters]] (8) · [[Vedana]] (8) · [[Avijja]] (7) · [[Fabrication]] (7) · [[Meditation]] (7) · [[Consciousness]] (6) · [[Pain]] (6) · [[Pleasantness]] (6) · [[Sankhara]] (6) · [[Aversion]] (5) · [[Chanda]] (5) · [[Death]] (5) · [[Freedom]] (5) · [[Conceptual Framework]] (4) · [[Retreat]] (4) · [[Stories]] (4) · [[Beauty]] (3) · [[Birth]] (3) · [[Kama]] (3) · [[Pali Canon]] (3) · [[Rebirth]] (3) · [[Emptiness]] (2) · [[Energy Body]] (2) · [[Kusala]] (2) · [[Vedic]] (2) · [[Alchemy]] · [[Anxiety]] · [[Aruparaga]] · [[Asavas]] · [[Chandaraga]] · [[Divinity]] · [[Eros]] · [[History]] · [[Image]] · [[Jhanas]] · [[Kamacchanda]] · [[Kameti]] · [[Love]] · [[Manifestations]] · [[Metta]] · [[Mode of mind]] · [[Mystical opening]] · [[Payutto]] · [[Personhood]] · [[Phenomenon]] · [[Samsara]] · [[Samyutta Nikaya]] · [[Sariputta]] · [[Seeing That Frees]] · [[Spaciousness]]_</span>
+<span class="counts">_[[Craving]] (85) · [[Clinging]] (66) · [[Mind]] (30) · [[Dukkha]] (28) · [[Impermanence]] (22) · [[Experience]] (21) · [[Letting go]] (20) · [[Desire]] (19) · [[Attention]] (18) · [[Buddha]] (18) · [[The Self]] (18) · [[Mindfulness]] (15) · [[Ignorance]] (13) · [[Insight]] (13) · [[Awakening]] (12) · [[Papanca]] (12) · [[Dependent Origination]] (11) · [[Dharma]] (11) · [[Habit]] (11) · [[Embodiment]] (10) · [[Hindrances]] (10) · [[Perception]] (10) · [[Delineations]] (9) · [[Passion]] (9) · [[Unfabricated]] (9) · [[Contraction]] (8) · [[Fetters]] (8) · [[Vedana]] (8) · [[Avijja]] (7) · [[Fabrication]] (7) · [[Meditation]] (7) · [[Consciousness]] (6) · [[Pain]] (6) · [[Pleasantness]] (6) · [[Sankhara]] (6) · [[Aversion]] (5) · [[Chanda]] (5) · [[Death]] (5) · [[Freedom]] (5) · [[Conceptual framework]] (4) · [[Retreat]] (4) · [[Stories]] (4) · [[Beauty]] (3) · [[Birth]] (3) · [[Kama]] (3) · [[Pali Canon]] (3) · [[Rebirth]] (3) · [[Emptiness]] (2) · [[Energy body]] (2) · [[Kusala]] (2) · [[Vedic]] (2) · [[Alchemy]] · [[Anxiety]] · [[Aruparaga]] · [[Asavas]] · [[Chandaraga]] · [[Divinity]] · [[Eros]] · [[History]] · [[Image]] · [[Jhanas]] · [[Kamacchanda]] · [[Kameti]] · [[Love]] · [[Manifestations]] · [[Metta]] · [[Mode of mind]] · [[Mystical opening]] · [[Payutto]] · [[Personhood]] · [[Phenomenon]] · [[Samsara]] · [[Samyutta Nikaya]] · [[Sariputta]] · [[Seeing That Frees]] · [[Spaciousness]]_</span>
 <br/>
 
 ## Paragraphs
@@ -37,11 +37,11 @@ Transcript PDF: [[2017_0115 The Way of Non-Clinging Part 1.pdf]]
 
 ---
 ##### Could be a standalone talk on clinging, but will set context
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^1-1|1-1]]**: _[[Clinging]] (3) · [[Alchemy]] · [[Eros]] · [[Insight]] · [[Conceptual Framework]] · [[Dharma]] (2)_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^1-1|1-1]]**: _[[Clinging]] (3) · [[Alchemy]] · [[Eros]] · [[Insight]] · [[Conceptual framework]] · [[Dharma]] (2)_</span>
 
 ---
 ##### Different conceptual frameworks, different understandings
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^1-2|1-2]]**: _[[Insight]] (3) · [[Conceptual Framework]] (3) · [[Dharma]] (2) · [[Awakening]] · [[Freedom]] · [[Beauty]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^1-2|1-2]]**: _[[Insight]] (3) · [[Conceptual framework]] (3) · [[Dharma]] (2) · [[Awakening]] · [[Freedom]] · [[Beauty]]_</span>
 
 ---
 ##### You've probably heard the teachings about non-clinging before
@@ -184,7 +184,7 @@ pdf: [[2017_0115 The Way of Non-Clinging Part 1.pdf#page=3]]
 
 ---
 ##### How to tell that craving is active in the body
-<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^9-1|9-1]]**: _[[Craving]] (3) · [[Embodiment]] (2) · [[Energy Body]] (2) · [[Contraction]] (2) · [[Mind]] (3) · [[Spaciousness]] · [[Dukkha]]_</span>
+<span class="counts">**[[0115 The Way of Non-Clinging Part 1#^9-1|9-1]]**: _[[Craving]] (3) · [[Embodiment]] (2) · [[Energy body]] (2) · [[Contraction]] (2) · [[Mind]] (3) · [[Spaciousness]] · [[Dukkha]]_</span>
 
 ---
 ##### Bodily tension/contraction

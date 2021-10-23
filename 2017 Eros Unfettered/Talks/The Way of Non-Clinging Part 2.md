@@ -14,7 +14,7 @@ Transcript PDF: [[2017_0116 The Way of Non-Clinging Part 2.pdf]]
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3]]
 
 ## Index
-<span class="counts">_[[Clinging]] (137) · [[Fabrication]] (96) · [[Ways of Looking]] (73) · [[Craving]] (57) · [[Perception]] (46) · [[Emptiness]] (41) · [[Experience]] (32) · [[The Self]] (29) · [[Dukkha]] (27) · [[Insight]] (25) · [[Letting go]] (23) · [[Mind]] (23) · [[Anatta]] (20) · [[Impermanence]] (20) · [[Attention]] (18) · [[Buddha]] (18) · [[Dependent Origination]] (16) · [[Ignorance]] (16) · [[Unfabricated]] (15) · [[Consciousness]] (13) · [[Awareness]] (12) · [[Dharma]] (11) · [[Meditation]] (11) · [[Mahayana]] (8) · [[Papanca]] (8) · [[Avijja]] (7) · [[Devotion]] (7) · [[Mindfulness]] (7) · [[Vedana]] (7) · [[Contraction]] (6) · [[Awakening]] (5) · [[Beauty]] (5) · [[Freedom]] (5) · [[Steadiness]] (5) · [[Jhanas]] (4) · [[Delineations]] (3) · [[Embodiment]] (3) · [[Emptiness#Suchness]] (3) · [[Energy Body]] (3) · [[Present Moment]] (3) · [[Sankhara]] (3) · [[Aversion]] (2) · [[Buddhism]] (2) · [[Death]] (2) · [[Energy]] (2) · [[Four Noble Truths]] (2) · [[Nagarjuna]] (2) · [[Pain]] (2) · [[Personhood]] (2) · [[Realism]] (2) · [[Reductionism]] (2) · [[Sila]] (2) · [[Tantra]] (2) · [[Ultimate Truth]] (2) · [[Ajahn Dhammadharo]] · [[Chandrakirti]] · [[Compassion]] · [[Conceptual Framework]] · [[Constriction]] · [[Goenka]] · [[History]] · [[Image]] · [[Juiciness]] · [[Kusala]] · [[Mahasi Sayadaw]] · [[Mystical opening]] · [[Nature]] · [[Oneness]] · [[Passion]] · [[Phenomenon]] · [[Retreat]] · [[Sangha]] · [[Spaciousness]] · [[Theravada]] · [[Vajrayana]]_</span>
+<span class="counts">_[[Clinging]] (137) · [[Fabrication]] (96) · [[Ways of looking]] (73) · [[Craving]] (57) · [[Perception]] (46) · [[Emptiness]] (41) · [[Experience]] (32) · [[The Self]] (29) · [[Dukkha]] (27) · [[Insight]] (25) · [[Letting go]] (23) · [[Mind]] (23) · [[Anatta]] (20) · [[Impermanence]] (20) · [[Attention]] (18) · [[Buddha]] (18) · [[Dependent Origination]] (16) · [[Ignorance]] (16) · [[Unfabricated]] (15) · [[Consciousness]] (13) · [[Awareness]] (12) · [[Dharma]] (11) · [[Meditation]] (11) · [[Mahayana]] (8) · [[Papanca]] (8) · [[Avijja]] (7) · [[Devotion]] (7) · [[Mindfulness]] (7) · [[Vedana]] (7) · [[Contraction]] (6) · [[Awakening]] (5) · [[Beauty]] (5) · [[Freedom]] (5) · [[Steadiness]] (5) · [[Jhanas]] (4) · [[Delineations]] (3) · [[Embodiment]] (3) · [[Emptiness#Suchness]] (3) · [[Energy body]] (3) · [[Present moment]] (3) · [[Sankhara]] (3) · [[Aversion]] (2) · [[Buddhism]] (2) · [[Death]] (2) · [[Energy]] (2) · [[Four Noble Truths]] (2) · [[Nagarjuna]] (2) · [[Pain]] (2) · [[Personhood]] (2) · [[Realism]] (2) · [[Reductionism]] (2) · [[Sila]] (2) · [[Tantra]] (2) · [[Ultimate Truth]] (2) · [[Ajahn Dhammadharo]] · [[Chandrakirti]] · [[Compassion]] · [[Conceptual framework]] · [[Constriction]] · [[Goenka]] · [[History]] · [[Image]] · [[Juiciness]] · [[Kusala]] · [[Mahasi Sayadaw]] · [[Mystical opening]] · [[Nature]] · [[Oneness]] · [[Passion]] · [[Phenomenon]] · [[Retreat]] · [[Sangha]] · [[Spaciousness]] · [[Theravada]] · [[Vajrayana]]_</span>
 <br/>
 
 ## Paragraphs
@@ -32,7 +32,7 @@ Transcript PDF: [[2017_0116 The Way of Non-Clinging Part 2.pdf]]
 
 ---
 ##### Relaxing the subtle dukkha
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^1-3|1-3]]**: _[[Dukkha]] (4) · [[Contraction]] (3) · [[Energy Body]] (3) · [[Mind]] · [[Energy]] (2) · [[Craving]] (3) · [[Clinging]] (2) · [[Impermanence]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^1-3|1-3]]**: _[[Dukkha]] (4) · [[Contraction]] (3) · [[Energy body]] (3) · [[Mind]] · [[Energy]] (2) · [[Craving]] (3) · [[Clinging]] (2) · [[Impermanence]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=00:25]]
 
@@ -86,13 +86,13 @@ More craving, more solid and more dense and more real, if you like, the world be
 
 ---
 ##### The tripod of subject, object, time
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^2-3|2-3]]**: _[[Insight]] · [[Ways of Looking]] (2) · [[Present Moment]] (2) · [[Consciousness]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^2-3|2-3]]**: _[[Insight]] · [[Ways of looking]] (2) · [[Present moment]] (2) · [[Consciousness]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=08:03]]
 
 ---
 ##### There is always a way of looking, with more or less clinging
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^2-4|2-4]]**: _[[Ways of Looking]] (6) · [[Passion]] · [[Clinging]] (6) · [[Mind]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^2-4|2-4]]**: _[[Ways of looking]] (6) · [[Passion]] · [[Clinging]] (6) · [[Mind]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=09:03]]
 
@@ -102,7 +102,7 @@ But always at some moment, the mind, the being, is somewhere on that spectrum of
 
 ---
 ##### Experience is dependent on the way of looking
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^3-1|3-1]]**: _[[Ways of Looking]] · [[Clinging]] (4) · [[Experience]] (4) · [[Dukkha]] (3) · [[The Self]] · [[Attention]] · [[Fabrication]] (2)_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^3-1|3-1]]**: _[[Ways of looking]] · [[Clinging]] (4) · [[Experience]] (4) · [[Dukkha]] (3) · [[The Self]] · [[Attention]] · [[Fabrication]] (2)_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=09:56]]
 
@@ -118,7 +118,7 @@ It's not really opening things out in a very deep way, to hang on, to cling, in 
 
 ---
 ##### Dependent arisings are empty, fabricated, illusiory
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^3-3|3-3]]**: _[[Dependent Origination]] (3) · [[Fabrication]] (5) · [[Experience]] · [[Ways of Looking]] · [[Mind]] (3) · [[Clinging]] (3) · [[The Self]] (2) · [[Perception]] (2)_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^3-3|3-3]]**: _[[Dependent Origination]] (3) · [[Fabrication]] (5) · [[Experience]] · [[Ways of looking]] · [[Mind]] (3) · [[Clinging]] (3) · [[The Self]] (2) · [[Perception]] (2)_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=11:44]]
 
@@ -138,7 +138,7 @@ This self-sense that seems so real, this object-sense that seems so real, this t
 
 ---
 ##### Anatta practice: whatever comes up is not self, not me, not mine
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^4-1|4-1]]**: _[[Ways of Looking]] (4) · [[Anatta]] (2)_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^4-1|4-1]]**: _[[Ways of looking]] (4) · [[Anatta]] (2)_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=14:20]]
 
@@ -158,7 +158,7 @@ They fade in the sense that they blur, they dissolve. They fade into white light
 
 ---
 ##### Even the pleasant vedana become neutral, and even those neutral sensations disappear
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^4-3|4-3]]**: _[[Attention]] (2) · [[Pain]] · [[Anatta]] (6) · [[Consciousness]] · [[Vedana]] (6) · [[Impermanence]] · [[Aversion]] · [[Ways of Looking]] (2) · [[Clinging]] · [[Unfabricated]] · [[Experience]] · [[Perception]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^4-3|4-3]]**: _[[Attention]] (2) · [[Pain]] · [[Anatta]] (6) · [[Consciousness]] · [[Vedana]] (6) · [[Impermanence]] · [[Aversion]] · [[Ways of looking]] (2) · [[Clinging]] · [[Unfabricated]] · [[Experience]] · [[Perception]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=16:28]]
 
@@ -168,7 +168,7 @@ There's no sensation there in the knee any more. I'm staring right at it. It's n
 
 ---
 ##### Not just that is not me, but it is empty
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^4-4|4-4]]**: _[[Anatta]] · [[Perception]] (2) · [[Buddha]] · [[Fabrication]] · [[Ways of Looking]] (3) · [[Attention]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^4-4|4-4]]**: _[[Anatta]] · [[Perception]] (2) · [[Buddha]] · [[Fabrication]] · [[Ways of looking]] (3) · [[Attention]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=18:04]]
 
@@ -178,13 +178,13 @@ Not just that it is not me and it is not mine, but it is, in itself, empty. It's
 
 ---
 ##### Avijja (as belief in an independent reality) is a form of clinging
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^5-1|5-1]]**: _[[Experience]] (2) · [[Ways of Looking]] (3) · [[Ignorance]] (5) · [[Avijja]] (2) · [[Mahayana]] · [[Clinging]] (5) · [[Mind]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^5-1|5-1]]**: _[[Experience]] (2) · [[Ways of looking]] (3) · [[Ignorance]] (5) · [[Avijja]] (2) · [[Mahayana]] · [[Clinging]] (5) · [[Mind]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=19:17]]
 
 ---
 ##### Practice: "empty, empty, empty"
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^5-2|5-2]]**: _[[Ways of Looking]] (6) · [[Insight]] · [[Emptiness]] (2) · [[Clinging]] (2) · [[The Self]] (2) · [[Fabrication]] (2) · [[Perception]] · [[Ignorance]] · [[Anatta]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^5-2|5-2]]**: _[[Ways of looking]] (6) · [[Insight]] · [[Emptiness]] (2) · [[Clinging]] (2) · [[The Self]] (2) · [[Fabrication]] (2) · [[Perception]] · [[Ignorance]] · [[Anatta]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=21:03]]
 
@@ -194,7 +194,7 @@ in whatever posture in practice, that just sees things, and the way of looking s
 
 ---
 ##### Emptiness practice results in an even deeper level of fading
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^5-3|5-3]]**: _[[Emptiness]] (2) · [[Consciousness]] (3) · [[Awareness]] (2) · [[Fabrication]] (5) · [[Present Moment]] · [[Spaciousness]] · [[Ignorance]] · [[Clinging]] (3) · [[Insight]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^5-3|5-3]]**: _[[Emptiness]] (2) · [[Consciousness]] (3) · [[Awareness]] (2) · [[Fabrication]] (5) · [[Present moment]] · [[Spaciousness]] · [[Ignorance]] · [[Clinging]] (3) · [[Insight]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=22:15]]
 
@@ -220,7 +220,7 @@ we see how clinging, craving, _saṅkhārā_, _avijjā_, attention - these notio
 
 ---
 ##### There can be a complete unfabrication
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^6-2|6-2]]**: _[[Clinging]] (4) · [[Ways of Looking]] (2) · [[Perception]] · [[The Self]] · [[Fabrication]] (4) · [[Dukkha]] · [[Emptiness]] · [[Experience]] · [[Unfabricated]] · [[Phenomenon]] · [[Mind]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^6-2|6-2]]**: _[[Clinging]] (4) · [[Ways of looking]] (2) · [[Perception]] · [[The Self]] · [[Fabrication]] (4) · [[Dukkha]] · [[Emptiness]] · [[Experience]] · [[Unfabricated]] · [[Phenomenon]] · [[Mind]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=26:08]]
 
@@ -230,7 +230,7 @@ language is difficult, but eventually there can be a complete unfabricating. Not
 
 ---
 ##### Everybody knows what papanca is
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^6-3|6-3]]**: _[[Ways of Looking]] (5) · [[Clinging]] · [[Fabrication]] (2) · [[Meditation]] (2) · [[Personhood]] (2) · [[Papanca]] (4) · [[Experience]] (2) · [[Consciousness]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^6-3|6-3]]**: _[[Ways of looking]] (5) · [[Clinging]] · [[Fabrication]] (2) · [[Meditation]] (2) · [[Personhood]] (2) · [[Papanca]] (4) · [[Experience]] (2) · [[Consciousness]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=27:52]]
 
@@ -248,13 +248,13 @@ language is difficult, but eventually there can be a complete unfabricating. Not
 
 ---
 ##### Does Mahasi-style meditation on impermance disclose reality?
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^7-2|7-2]]**: _[[Ways of Looking]] (8) · [[Fabrication]] (3) · [[Perception]] (2) · [[Mind]] · [[Clinging]] (2) · [[Impermanence]] (3) · [[Mahasi Sayadaw]] · [[Goenka]] · [[Ultimate Truth]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^7-2|7-2]]**: _[[Ways of looking]] (8) · [[Fabrication]] (3) · [[Perception]] (2) · [[Mind]] · [[Clinging]] (2) · [[Impermanence]] (3) · [[Mahasi Sayadaw]] · [[Goenka]] · [[Ultimate Truth]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=30:50]]
 
 ---
 ##### Bare sensations etc. is not ultimate reality
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^7-3|7-3]]**: _[[Fabrication]] (12) · [[Ways of Looking]] (3) · [[Mindfulness]] · [[Papanca]] (2) · [[Experience]] · [[Pain]] · [[Mind]] · [[Ultimate Truth]] · [[Awareness]] · [[Impermanence]] · [[Attention]] · [[Perception]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^7-3|7-3]]**: _[[Fabrication]] (12) · [[Ways of looking]] (3) · [[Mindfulness]] · [[Papanca]] (2) · [[Experience]] · [[Pain]] · [[Mind]] · [[Ultimate Truth]] · [[Awareness]] · [[Impermanence]] · [[Attention]] · [[Perception]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=32:23]]
 
@@ -264,7 +264,7 @@ Everyone seems to talk as if these things are real - bare sensations, or if I'm 
 
 ---
 ##### It's the resulting letting go of clinging that unfabricates, not contemplating rapid impermance
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^7-4|7-4]]**: _[[Impermanence]] (6) · [[Meditation]] · [[Unfabricated]] (4) · [[Clinging]] (9) · [[Mind]] (2) · [[Letting go]] (4) · [[Fabrication]] (3) · [[Ways of Looking]] · [[Dukkha]] · [[Perception]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^7-4|7-4]]**: _[[Impermanence]] (6) · [[Meditation]] · [[Unfabricated]] (4) · [[Clinging]] (9) · [[Mind]] (2) · [[Letting go]] (4) · [[Fabrication]] (3) · [[Ways of looking]] · [[Dukkha]] · [[Perception]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=34:04]]
 
@@ -280,7 +280,7 @@ If I don't practise, I won't see this. And if I don't practise in certain ways t
 
 ---
 ##### Check if you conceive in terms of "reality" rather than in terms of "ways of looking
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^8-2|8-2]]**: _[[Fabrication]] (3) · [[Ways of Looking]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^8-2|8-2]]**: _[[Fabrication]] (3) · [[Ways of looking]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=37:38]]
 
@@ -314,7 +314,7 @@ We need to see this dependent fabrication and dependent fading many, many times,
 
 ---
 ##### "Just being and receiving" is still a way of looking
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^9-4|9-4]]**: _[[Letting go]] · [[Ways of Looking]] (6) · [[Realism]] · [[Avijja]] · [[Ignorance]] · [[Reductionism]] · [[Perception]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^9-4|9-4]]**: _[[Letting go]] · [[Ways of looking]] (6) · [[Realism]] · [[Avijja]] · [[Ignorance]] · [[Reductionism]] · [[Perception]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=44:50]]
 
@@ -324,7 +324,7 @@ So if we don't understand this teaching deeply enough, some level of realism (wh
 
 ---
 ##### I cannot live without clinging because it is a part of perceiving
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^10-1|10-1]]**: _[[Clinging]] (7) · [[Letting go]] (2) · [[Dependent Origination]] · [[Fabrication]] · [[Ways of Looking]] · [[Experience]] · [[Insight]] · [[Attention]] · [[Perception]] (2)_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^10-1|10-1]]**: _[[Clinging]] (7) · [[Letting go]] (2) · [[Dependent Origination]] · [[Fabrication]] · [[Ways of looking]] · [[Experience]] · [[Insight]] · [[Attention]] · [[Perception]] (2)_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=45:45]]
 
@@ -350,7 +350,7 @@ You can experience that in meditation, and know it for a fact in meditation.
 
 ---
 ##### Only Buddhas can contemplate emptiness and appearance at the same time
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^10-4|10-4]]**: _[[Mahayana]] · [[Buddha]] (4) · [[Awakening]] (2) · [[Emptiness]] (8) · [[Perception]] (5) · [[Ways of Looking]] (2) · [[Insight]] (2) · [[Ignorance]] (2)_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^10-4|10-4]]**: _[[Mahayana]] · [[Buddha]] (4) · [[Awakening]] (2) · [[Emptiness]] (8) · [[Perception]] (5) · [[Ways of looking]] (2) · [[Insight]] (2) · [[Ignorance]] (2)_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=50:09]]
 
@@ -360,7 +360,7 @@ I cannot have a full leaning on the insight of emptiness at the same time as I h
 
 ---
 ##### Playing with walking a tightrope of keeping appearances around but knowing them as empty
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^11-1|11-1]]**: _[[Mahayana]] · [[Vajrayana]] · [[Tantra]] (2) · [[Buddha]] (2) · [[Mind]] (2) · [[Insight]] (3) · [[Emptiness]] (7) · [[Ways of Looking]] · [[Perception]] (5) · [[Clinging]] (4)_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^11-1|11-1]]**: _[[Mahayana]] · [[Vajrayana]] · [[Tantra]] (2) · [[Buddha]] (2) · [[Mind]] (2) · [[Insight]] (3) · [[Emptiness]] (7) · [[Ways of looking]] · [[Perception]] (5) · [[Clinging]] (4)_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=52:03]]
 
@@ -382,19 +382,19 @@ don't cling to non-clinging. It's empty, and it's wrapped up in perception.
 
 ---
 ##### I'm free to play with different degress of craving in may ways of looking; misunderstanding "suchness"
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^12-1|12-1]]**: _[[Insight]] · [[Mystical opening]] · [[Clinging]] · [[Craving]] (2) · [[Ways of Looking]] · [[Fabrication]] (6) · [[Unfabricated]] · [[Mindfulness]] · [[Attention]] · [[Experience]] · [[Emptiness#Suchness]] (3) · [[Emptiness]] (2)_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^12-1|12-1]]**: _[[Insight]] · [[Mystical opening]] · [[Clinging]] · [[Craving]] (2) · [[Ways of looking]] · [[Fabrication]] (6) · [[Unfabricated]] · [[Mindfulness]] · [[Attention]] · [[Experience]] · [[Emptiness#Suchness]] (3) · [[Emptiness]] (2)_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=56:40]]
 
 ---
 ##### States of mind and experiences are just ways of looking
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^12-2|12-2]]**: _[[Mind]] · [[Experience]] · [[Mindfulness]] · [[Attention]] · [[Beauty]] · [[Fabrication]] (7) · [[Awareness]] (4) · [[Impermanence]] · [[Ways of Looking]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^12-2|12-2]]**: _[[Mind]] · [[Experience]] · [[Mindfulness]] · [[Attention]] · [[Beauty]] · [[Fabrication]] (7) · [[Awareness]] (4) · [[Impermanence]] · [[Ways of looking]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=58:49]]
 
 ---
 ##### The jhanas as deep states of unfabricating
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^12-3|12-3]]**: _[[Fabrication]] (7) · [[Awareness]] · [[Jhanas]] (4) · [[Unfabricated]] (4) · [[Ways of Looking]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^12-3|12-3]]**: _[[Fabrication]] (7) · [[Awareness]] · [[Jhanas]] (4) · [[Unfabricated]] (4) · [[Ways of looking]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=59:55]]
 
@@ -404,7 +404,7 @@ I can fabricate all these different directions, and many more - actually infinit
 
 ---
 ##### The links of dependent origination are not real either
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^12-4|12-4]]**: _[[Clinging]] (2) · [[Dharma]] (2) · [[Insight]] (4) · [[Dependent Origination]] (5) · [[Emptiness]] (4) · [[Fabrication]] (2) · [[Nagarjuna]] · [[Mahayana]] · [[Experience]] (2) · [[Unfabricated]] · [[Buddha]] · [[Ways of Looking]] (3) · [[Freedom]] (2)_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^12-4|12-4]]**: _[[Clinging]] (2) · [[Dharma]] (2) · [[Insight]] (4) · [[Dependent Origination]] (5) · [[Emptiness]] (4) · [[Fabrication]] (2) · [[Nagarjuna]] · [[Mahayana]] · [[Experience]] (2) · [[Unfabricated]] · [[Buddha]] · [[Ways of looking]] (3) · [[Freedom]] (2)_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=01:01:16]]
 
@@ -418,7 +418,7 @@ This was an incredible skill of the Buddha, finding concepts that we can pick up
 
 ---
 ##### Any appearing is empty, so I can shape this appearing in different ways
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^13-1|13-1]]**: _[[Dharma]] (4) · [[Craving]] (2) · [[Clinging]] (3) · [[Impermanence]] · [[Dependent Origination]] · [[Emptiness]] · [[Fabrication]] (5) · [[Ways of Looking]] · [[Four Noble Truths]] · [[Nature]] · [[Perception]] (2) · [[The Self]] (2) · [[Awareness]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^13-1|13-1]]**: _[[Dharma]] (4) · [[Craving]] (2) · [[Clinging]] (3) · [[Impermanence]] · [[Dependent Origination]] · [[Emptiness]] · [[Fabrication]] (5) · [[Ways of looking]] · [[Four Noble Truths]] · [[Nature]] · [[Perception]] (2) · [[The Self]] (2) · [[Awareness]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=01:03:27]]
 
@@ -440,13 +440,13 @@ I can fabricate different kinds of selves, fabricate different kinds of appearan
 
 ---
 ##### Cling to an insight to be able to let go at a deeper level
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^14-1|14-1]]**: _[[Buddhism]] · [[Clinging]] (6) · [[Devotion]] (7) · [[Anatta]] (3) · [[Ways of Looking]] (3) · [[Beauty]] · [[Letting go]] · [[Insight]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^14-1|14-1]]**: _[[Buddhism]] · [[Clinging]] (6) · [[Devotion]] (7) · [[Anatta]] (3) · [[Ways of looking]] (3) · [[Beauty]] · [[Letting go]] · [[Insight]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=01:07:59]]
 
 ---
 ##### Simile: Climing the rungs of a ladder
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^14-2|14-2]]**: _[[Letting go]] (2) · [[Awareness]] · [[Ways of Looking]] (4) · [[Conceptual Framework]] · [[Clinging]] (2) · [[Ajahn Dhammadharo]] · [[Dharma]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^14-2|14-2]]**: _[[Letting go]] (2) · [[Awareness]] · [[Ways of looking]] (4) · [[Conceptual framework]] · [[Clinging]] (2) · [[Ajahn Dhammadharo]] · [[Dharma]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=01:09:17]]
 
@@ -458,7 +458,7 @@ I can fabricate different kinds of selves, fabricate different kinds of appearan
 
 ---
 ##### Much more is possible than "just let go of everything"
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^14-4|14-4]]**: _[[Ways of Looking]] · [[Clinging]] (4) · [[Letting go]] · [[Avijja]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^14-4|14-4]]**: _[[Ways of looking]] · [[Clinging]] (4) · [[Letting go]] · [[Avijja]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=01:12:00]]
 

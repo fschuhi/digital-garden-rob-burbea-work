@@ -43,7 +43,7 @@ E2 --- E2-5[be louder, or not]:::FixFont
 ```
 
 ## Index
-<span class="counts">_[[Energy Body]] (51) · [[Embodiment]] (30) · [[Meditation]] (24) · [[Soulmaking]] (23) · [[Music]] (21) · [[Soul]] (21) · [[Inertia]] (18) · [[Desire]] (17) · [[Fantasy]] (17) · [[Awareness]] (15) · [[Dharma]] (14) · [[Dukkha]] (14) · [[Love]] (14) · [[Image]] (13) · [[Preliminaries]] (12) · [[Centre]] (11) · [[Conceptual Framework]] (11) · [[Jhanas]] (11) · [[Elitism]] (10) · [[Retreat]] (10) · [[Freedom]] (9) · [[Music#Jazz]] (9) · [[Soulmaking Dynamic]] (8) · [[Energy]] (7) · [[Experience]] (7) · [[Awakening]] (6) · [[Grief]] (6) · [[Beauty]] (5) · [[Passion]] (5) · [[Steadiness]] (5) · [[Active listening]] (4) · [[Four Noble Truths]] (4) · [[History]] (4) · [[Imaginal]] (4) · [[Scientific research]] (4) · [[Emptiness]] (3) · [[Eros]] (3) · [[Conventional reality]] (2) · [[Devotion]] (2) · [[Hearing All Sounds as Mantra]] (2) · [[Mind]] (2) · [[Mindfulness]] (2) · [[Nondualism]] (2) · [[Personhood]] (2) · [[Seeing That Frees]] (2) · [[The Movement of Devotion]] (2) · [[Albert Einstein]] · [[Anatta]] · [[Anthropology]] · [[Blessing]] · [[Breath]] · [[Buddha]] · [[Compassion]] · [[Consciousness]] · [[Death]] · [[Dimensionality]] · [[Engagement and Activism]] · [[Equanimity]] · [[Gaia House]] · [[Infinity]] · [[Insight]] · [[Ludwig van Beethoven]] · [[Mahayana]] · [[Metta]] · [[Orienting to This Jhana Retreat]] · [[Practicing the Jhanas (retreat)]] · [[Rebirth]] · [[Relationships]] · [[Sangha]] · [[Satipatthana Sutta]] · [[Spirituality]] · [[Theravada]] · [[Tibetan Buddhism]] · [[Voice, Movement, and the Possibilities of Soul]]_</span>
+<span class="counts">_[[Energy body]] (51) · [[Embodiment]] (30) · [[Meditation]] (24) · [[Soulmaking]] (23) · [[Music]] (21) · [[Soul]] (21) · [[Inertia]] (18) · [[Desire]] (17) · [[Fantasy]] (17) · [[Awareness]] (15) · [[Dharma]] (14) · [[Dukkha]] (14) · [[Love]] (14) · [[Image]] (13) · [[Preliminaries]] (12) · [[Centre]] (11) · [[Conceptual framework]] (11) · [[Jhanas]] (11) · [[Elitism]] (10) · [[Retreat]] (10) · [[Freedom]] (9) · [[Music#Jazz]] (9) · [[Soulmaking Dynamic]] (8) · [[Energy]] (7) · [[Experience]] (7) · [[Awakening]] (6) · [[Grief]] (6) · [[Beauty]] (5) · [[Passion]] (5) · [[Steadiness]] (5) · [[Active listening]] (4) · [[Four Noble Truths]] (4) · [[History]] (4) · [[Imaginal]] (4) · [[Scientific research]] (4) · [[Emptiness]] (3) · [[Eros]] (3) · [[Conventional reality]] (2) · [[Devotion]] (2) · [[Hearing All Sounds as Mantra]] (2) · [[Mind]] (2) · [[Mindfulness]] (2) · [[Nondualism]] (2) · [[Personhood]] (2) · [[Seeing That Frees]] (2) · [[The Movement of Devotion]] (2) · [[Albert Einstein]] · [[Anatta]] · [[Anthropology]] · [[Blessing]] · [[Breath]] · [[Buddha]] · [[Compassion]] · [[Consciousness]] · [[Death]] · [[Dimensionality]] · [[Engagement and Activism]] · [[Equanimity]] · [[Gaia House]] · [[Infinity]] · [[Insight]] · [[Ludwig van Beethoven]] · [[Mahayana]] · [[Metta]] · [[Orienting to This Jhana Retreat]] · [[Practicing the Jhanas (retreat)]] · [[Rebirth]] · [[Relationships]] · [[Sangha]] · [[Satipatthana Sutta]] · [[Spirituality]] · [[Theravada]] · [[Tibetan Buddhism]] · [[Voice, Movement, and the Possibilities of Soul]]_</span>
 <br/>
 
 ## Referenced talks
@@ -89,7 +89,7 @@ E2 --- E2-5[be louder, or not]:::FixFont
 
 ---
 ##### I'm always in a rush! 😀
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^2-3|2-3]]**: _[[Engagement and Activism]] · [[Energy Body]] (2) · [[Devotion]] (2) · [[Meditation]] (2) · [[Breath]] · [[Jhanas]] · [[Practicing the Jhanas (retreat)]] · [[Orienting to This Jhana Retreat]] · [[Embodiment]]_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^2-3|2-3]]**: _[[Engagement and Activism]] · [[Energy body]] (2) · [[Devotion]] (2) · [[Meditation]] (2) · [[Breath]] · [[Jhanas]] · [[Practicing the Jhanas (retreat)]] · [[Orienting to This Jhana Retreat]] · [[Embodiment]]_</span>
 
 ```ad-quote
 But again, how many people will actually take that out, and extract it, and capitalize on it, and repeat it, isolate it and repeat it as something, as a practice, as a set of instructions that are developable, remains to be seen.
@@ -162,7 +162,7 @@ In which way is this relevant for the Custodians?
 
 ---
 ##### ==Actively extract larger principles==
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^4-5|4-5]]**: _[[Conceptual Framework]] · [[History]]_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^4-5|4-5]]**: _[[Conceptual framework]] · [[History]]_</span>
 
 ---
 ##### Example: the concept of "inertia"
@@ -209,7 +209,7 @@ Could that be a routine agenda topic in the HAF yogis meetings?
 
 ---
 ##### ==Structural listening==
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^7-1|7-1]]**: _[[Dharma]] (2) · [[Seeing That Frees]] · [[Conceptual Framework]] (7) · [[Insight]] · [[Soulmaking]] · [[Emptiness]] · [[Conventional reality]] (2)_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^7-1|7-1]]**: _[[Dharma]] (2) · [[Seeing That Frees]] · [[Conceptual framework]] (7) · [[Insight]] · [[Soulmaking]] · [[Emptiness]] · [[Conventional reality]] (2)_</span>
 
 ```ad-quote
 What would it be to listen or read _for_ and _from_ the whole conceptual framework? I'm listening _for_, or I'm reading _for_, to get a sense of, what is the whole conceptual framework. And then, when I think I have that, I'm listening _from_ the perspective of the whole conceptual framework. And that listening _from_ an understanding of the whole conceptual framework, holding it there, it frames my listening...
@@ -217,7 +217,7 @@ What would it be to listen or read _for_ and _from_ the whole conceptual framewo
 
 ---
 ##### Because I understand where things are and how they work, I can find them a lot easier
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^7-2|7-2]]**: _[[Conceptual Framework]] (2)_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^7-2|7-2]]**: _[[Conceptual framework]] (2)_</span>
 
 ---
 ##### Inquiry into inertia is important
@@ -301,7 +301,7 @@ Now, I would say that that inquiry into inertia, even though we're not really go
 
 ---
 ##### "Don't deal with concepts"
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^11-4|11-4]]**: _[[Nondualism]] · [[Conceptual Framework]] · [[Spirituality]]_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^11-4|11-4]]**: _[[Nondualism]] · [[Conceptual framework]] · [[Spirituality]]_</span>
 
 ```ad-quote
 Then out of that comes a kind of mode of practising - effectively a technique (although one tries to think of it as _not_ a technique, because one isn't struggling, or supposedly not struggling and doing, and not thinking, etc., and it's non-dual). The idea is that it's open, but actually, it ends up being very closed, because we've cut off a bunch of possibilities...
@@ -397,11 +397,11 @@ Unclear what he is pointing to in this paragraph
 
 #### Excercise 1
 ##### Excercise 1 can be done with the physical  or with the energy body
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^15-5|15-5]]**: _[[Embodiment]] (3) · [[Energy Body]] (3)_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^15-5|15-5]]**: _[[Embodiment]] (3) · [[Energy body]] (3)_</span>
 
 ---
 ##### Excercise 1 can be done in 4 postures
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-1|16-1]]**: _[[Energy Body]] (3) · [[Satipatthana Sutta]]_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-1|16-1]]**: _[[Energy body]] (3) · [[Satipatthana Sutta]]_</span>
 
 ---
 ##### Excercise 1 has 5 parts
@@ -411,19 +411,19 @@ Unclear what he is pointing to in this paragraph
 
 ---
 ##### 🟡 Excercise 1.1: fill the room with the energy body
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-4|16-4]]**: _[[Energy Body]] (6) · [[Embodiment]]_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-4|16-4]]**: _[[Energy body]] (6) · [[Embodiment]]_</span>
 
 ---
 ##### It's about sensitivity
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-5|16-5]]**: _[[Experience]] · [[Energy Body]] (4)_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-5|16-5]]**: _[[Experience]] · [[Energy body]] (4)_</span>
 
 ---
 ##### 🟡 Excercise 1.2: move hands and feel it in the energy body
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-6|16-6]]**: _[[Energy Body]] (2) · [[Energy]] · [[Embodiment]]_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-6|16-6]]**: _[[Energy body]] (2) · [[Energy]] · [[Embodiment]]_</span>
 
 ---
 ##### The kinaesthetic sense of energy fills the whole space
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^17-1|17-1]]**: _[[Awareness]] (5) · [[Energy Body]] (4) · [[Energy]] (3) · [[Embodiment]]_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^17-1|17-1]]**: _[[Awareness]] (5) · [[Energy body]] (4) · [[Energy]] (3) · [[Embodiment]]_</span>
 ```ad-tip
 title: Reminder
 - can be done physically or just in the imagination, but both with the energy body
@@ -455,7 +455,7 @@ the sensitivity, the imagination, the projection, the inhabiting, the filling of
 
 ---
 ##### let the energy body project to fill the space
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^17-5|17-5]]**: _[[Energy Body]] (4)_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^17-5|17-5]]**: _[[Energy body]] (4)_</span>
 
 ![[20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=1:26:37]]
 
@@ -479,7 +479,7 @@ Is this excercise compatible with a all-around-the-day practice? What would be n
 
 #### Excercise 2
 ##### Voice excercise (again: physical or imagined)
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-3|18-3]]**: _[[Energy Body]] (2) · [[Image]]_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-3|18-3]]**: _[[Energy body]] (2) · [[Image]]_</span>
 
 ![[20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=1:28:43]]
 
@@ -489,11 +489,11 @@ Is this excercise compatible with a all-around-the-day practice? What would be n
 
 ---
 ##### 🟡 Excercise 2.1: Feel where the sound is coming from, against energy body background
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-5|18-5]]**: _[[Embodiment]] (4) · [[Centre]] (5) · [[Energy Body]] (4)_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-5|18-5]]**: _[[Embodiment]] (4) · [[Centre]] (5) · [[Energy body]] (4)_</span>
 
 ---
 ##### 🟡 Excercise 2.2: experiment with different centres of emanation
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-6|18-6]]**: _[[Energy Body]] (3) · [[Embodiment]] (4) · [[Centre]] (4)_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-6|18-6]]**: _[[Energy body]] (3) · [[Embodiment]] (4) · [[Centre]] (4)_</span>
 
 ```ad-quote
 ... the whole range becomes more evenly available, that the sound that you're sounding, that the body is sounding, can emanate full-bloodedly, full-bodiedly, with full presence and full _oomph_ from any place in the body, and you're comfortable.
@@ -501,23 +501,23 @@ Is this excercise compatible with a all-around-the-day practice? What would be n
 
 ---
 ##### Energy body as centre of emanating
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^19-1|19-1]]**: _[[Hearing All Sounds as Mantra]] · [[Meditation]] · [[Energy Body]] (2) · [[Embodiment]]_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^19-1|19-1]]**: _[[Hearing All Sounds as Mantra]] · [[Meditation]] · [[Energy body]] (2) · [[Embodiment]]_</span>
 
 ---
 ##### 🟡 Excercise 2.3: mix sound and energy body
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^19-2|19-2]]**: _[[Energy Body]] (4) · [[Buddha]]_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^19-2|19-2]]**: _[[Energy body]] (4) · [[Buddha]]_</span>
 
 ---
 ##### 🟡 Excercise 2.4: hear the space filled with sound
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^19-3|19-3]]**: _[[Awareness]] (4) · [[Energy Body]] (2) · [[Energy]] · [[Imaginal]]_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^19-3|19-3]]**: _[[Awareness]] (4) · [[Energy body]] (2) · [[Energy]] · [[Imaginal]]_</span>
 
 ---
 ##### 🟡 Excercise 2.5: be louder, or not
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^19-4|19-4]]**: _[[Energy Body]]_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^19-4|19-4]]**: _[[Energy body]]_</span>
 
 ---
 ##### Summary of the excercises
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^20-1|20-1]]**: _[[Energy Body]] (5) · [[Embodiment]] (3) · [[Centre]] (2) · [[Awareness]] (3) · [[Energy]]_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^20-1|20-1]]**: _[[Energy body]] (5) · [[Embodiment]] (3) · [[Centre]] (2) · [[Awareness]] (3) · [[Energy]]_</span>
 
 ![[20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=1:39:23]]
 

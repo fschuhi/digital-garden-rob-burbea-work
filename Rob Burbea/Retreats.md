@@ -3,9 +3,9 @@ obsidianUIMode: preview
 ---
 # The Garden of the Soul: Rob Burbea's Teachings
 ```ad-quote
-So please don't be biased by _my_ biases. If you don't agree with my bias, that's completely fine. What I really want to get to is the importance of questioning, not that I want to convince you of a certain bias I have within that range. The questioning is the important thing, okay?
+What if I saw everything as unsatisfactory? Just things come into consciousness, any experience, anything at all - just regard it as unsatisfactory. It's not a loathing or an aversion. Just saying, "Ah! It can't satisfy me." What happens is there's a letting go.
 
-_(a quote from the talk [[Questioning Awakening#In principle we are free to believe what we want - but are we really free to inquire|Questioning Awakening]])_
+_(a quote from the talk [[What is Insight#Seeing things as unsatisfactory|What is Insight]])_
 ```
 
 ```ad-danger

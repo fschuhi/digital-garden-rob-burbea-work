@@ -20,7 +20,7 @@ Interesting footnote, added to the [[0120 Dilemmas and Delineations - How did we
 <br/>
 
 ## Index
-<span class="counts">_[[Image]] (55) · [[Ways of Looking]] (51) · [[Soul]] (48) · [[Imaginal]] (46) · [[Divinity]] (42) · [[Perception]] (35) · [[Experience]] (27) · [[Logos]] (26) · [[Cosmology]] (24) · [[Eros]] (20) · [[Fabrication]] (20) · [[Emptiness]] (18) · [[Insight]] (17) · [[Soulmaking]] (17) · [[The Self]] (14) · [[Conceptual Framework]] (13) · [[Desire]] (13) · [[Love]] (13) · [[Awareness]] (12) · [[Dukkha]] (12) · [[Buddha-nature]] (11) · [[Mind]] (11) · [[Phenomenology]] (11) · [[Psyche]] (11) · [[Dimensionality]] (10) · [[Energy Body]] (10) · [[Craving]] (9) · [[Embodiment]] (9) · [[Meditation]] (9) · [[Retreat]] (9) · [[Beauty]] (8) · [[Fantasy]] (8) · [[Clinging]] (7) · [[Citta]] (6) · [[Dharma]] (6) · [[Soulmaking Dynamic]] (6) · [[Buddha]] (5) · [[Ignorance]] (5) · [[Phenomenon]] (5) · [[Relationships]] (5) · [[Unfathomability]] (5) · [[Dependent Origination]] (4) · [[Dharmakaya]] (4) · [[Freedom]] (4) · [[Meaningfulness]] (4) · [[Personhood]] (4) · [[Attention]] (3) · [[Buddhism]] (3) · [[Contraction]] (3) · [[Energy]] (3) · [[History]] (3) · [[Impermanence]] (3) · [[Metaphysics]] (3) · [[Mindfulness]] (3) · [[Unfabricated]] (3) · [[Awakening]] (2) · [[Carl Gustav Jung]] (2) · [[Dominant Culture]] (2) · [[Gestalt Psychology]] (2) · [[Mahayana]] (2) · [[Sigmund Freud]] (2) · [[Telos]] (2) · [[Anatta]] · [[Archetype]] · [[Centre]] · [[Chanda]] · [[Consciousness]] · [[Four Noble Truths]] · [[James Hillman]] · [[Jesus]] · [[Metta]] · [[Neuroscience]] · [[Pleasantness]] · [[Re-enchanting the Cosmos]] · [[Ronald Fairbairn]] · [[Shentong]] · [[Stories]] · [[Tibetan Buddhism]] · [[Vajrayana]] · [[Vedana]] · [[William James]]_</span>
+<span class="counts">_[[Image]] (55) · [[Ways of looking]] (51) · [[Soul]] (48) · [[Imaginal]] (46) · [[Divinity]] (42) · [[Perception]] (35) · [[Experience]] (27) · [[Logos]] (26) · [[Cosmology]] (24) · [[Eros]] (20) · [[Fabrication]] (20) · [[Emptiness]] (18) · [[Insight]] (17) · [[Soulmaking]] (17) · [[The Self]] (14) · [[Conceptual framework]] (13) · [[Desire]] (13) · [[Love]] (13) · [[Awareness]] (12) · [[Dukkha]] (12) · [[Buddha-nature]] (11) · [[Mind]] (11) · [[Phenomenology]] (11) · [[Psyche]] (11) · [[Dimensionality]] (10) · [[Energy body]] (10) · [[Craving]] (9) · [[Embodiment]] (9) · [[Meditation]] (9) · [[Retreat]] (9) · [[Beauty]] (8) · [[Fantasy]] (8) · [[Clinging]] (7) · [[Citta]] (6) · [[Dharma]] (6) · [[Soulmaking Dynamic]] (6) · [[Buddha]] (5) · [[Ignorance]] (5) · [[Phenomenon]] (5) · [[Relationships]] (5) · [[Unfathomability]] (5) · [[Dependent Origination]] (4) · [[Dharmakaya]] (4) · [[Freedom]] (4) · [[Meaningfulness]] (4) · [[Personhood]] (4) · [[Attention]] (3) · [[Buddhism]] (3) · [[Contraction]] (3) · [[Energy]] (3) · [[History]] (3) · [[Impermanence]] (3) · [[Metaphysics]] (3) · [[Mindfulness]] (3) · [[Unfabricated]] (3) · [[Awakening]] (2) · [[Carl Gustav Jung]] (2) · [[Dominant culture]] (2) · [[Gestalt psychology]] (2) · [[Mahayana]] (2) · [[Sigmund Freud]] (2) · [[Telos]] (2) · [[Anatta]] · [[Archetype]] · [[Centre]] · [[Chanda]] · [[Consciousness]] · [[Four Noble Truths]] · [[James Hillman]] · [[Jesus]] · [[Metta]] · [[Neuroscience]] · [[Pleasantness]] · [[Re-enchanting the Cosmos]] · [[Ronald Fairbairn]] · [[Shentong]] · [[Stories]] · [[Tibetan Buddhism]] · [[Vajrayana]] · [[Vedana]] · [[William James]]_</span>
 <br/>
 
 ## Paragraphs
@@ -28,7 +28,7 @@ Interesting footnote, added to the [[0120 Dilemmas and Delineations - How did we
 
 ---
 ##### A whole web of relationships and implied meanings around "eros"
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^1-1|1-1]]**: _[[Eros]] (2) · [[Conceptual Framework]] (2) · [[Relationships]] (2)_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^1-1|1-1]]**: _[[Eros]] (2) · [[Conceptual framework]] (2) · [[Relationships]] (2)_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=00:00]]
 
@@ -50,7 +50,7 @@ I would say this body of material needs listening to, studying, practising with 
 
 ---
 ##### There is a natural evolution of the material
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^1-4|1-4]]**: _[[Insight]] · [[Phenomenology]] (2) · [[Dharma]] · [[Mindfulness]] · [[Personhood]] · [[Experience]] (2) · [[Phenomenon]] · [[Perception]] · [[Ways of Looking]] (2) · [[Fabrication]] (2)_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^1-4|1-4]]**: _[[Insight]] · [[Phenomenology]] (2) · [[Dharma]] · [[Mindfulness]] · [[Personhood]] · [[Experience]] (2) · [[Phenomenon]] · [[Perception]] · [[Ways of looking]] (2) · [[Fabrication]] (2)_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=03:51]]
 
@@ -60,7 +60,7 @@ The doors were presented one after another. The consequences, the avenues, were 
 
 ---
 ##### Very simple practices and the suspension of usual assumptions lead to the availability to look in different ways
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^2-1|2-1]]**: _[[Experience]] · [[Perception]] · [[Freedom]] · [[Conceptual Framework]] · [[Insight]] (3)_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^2-1|2-1]]**: _[[Experience]] · [[Perception]] · [[Freedom]] · [[Conceptual framework]] · [[Insight]] (3)_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=05:30]]
 
@@ -76,7 +76,7 @@ everyone uses the word self: I, you, self, etc. And everyone experiences selves.
 
 ---
 ##### Ideas about divinity are historically and culturally contingent
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^2-3|2-3]]**: _[[Divinity]] (2) · [[Soul]] (2) · [[Dominant Culture]] (2) · [[Experience]] · [[The Self]] (2) · [[Buddha]] · [[Centre]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^2-3|2-3]]**: _[[Divinity]] (2) · [[Soul]] (2) · [[Dominant culture]] (2) · [[Experience]] · [[The Self]] (2) · [[Buddha]] · [[Centre]]_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=08:12]]
 
@@ -156,7 +156,7 @@ if we go deeply enough and radically enough with this phenomenological approach,
 
 ---
 ##### (2) Ways of looking - including the relationship of what I'm perceiving
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^4-4|4-4]]**: _[[Ways of Looking]] (13) · [[Craving]] · [[Anatta]] · [[Conceptual Framework]] · [[Meditation]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^4-4|4-4]]**: _[[Ways of looking]] (13) · [[Craving]] · [[Anatta]] · [[Conceptual framework]] · [[Meditation]]_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=20:59]]
 
@@ -166,7 +166,7 @@ So the whole kind of mishmash of conditioning factors in the perceiving makes th
 
 ---
 ##### (3) Fabrication
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^5-1|5-1]]**: _[[Fabrication]] (11) · [[Ways of Looking]] (4) · [[Phenomenology]] · [[Perception]] (4) · [[The Self]] (4) · [[Contraction]] · [[Dukkha]] (3)_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^5-1|5-1]]**: _[[Fabrication]] (11) · [[Ways of looking]] (4) · [[Phenomenology]] · [[Perception]] (4) · [[The Self]] (4) · [[Contraction]] · [[Dukkha]] (3)_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=23:01]]
 
@@ -176,7 +176,7 @@ So there's a spectrum of fabrication, and different ways of looking fabricate mo
 
 ---
 ##### (4) Emptiness
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^5-2|5-2]]**: _[[Emptiness]] (4) · [[Ways of Looking]] (5) · [[Fabrication]] (2) · [[Phenomenology]] · [[Insight]] (3) · [[Mind]] · [[Perception]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^5-2|5-2]]**: _[[Emptiness]] (4) · [[Ways of looking]] (5) · [[Fabrication]] (2) · [[Phenomenology]] · [[Insight]] (3) · [[Mind]] · [[Perception]]_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=24:24]]
 
@@ -186,7 +186,7 @@ Without the way of looking, and without being _fabricated_ by the way of looking
 
 ---
 ##### Emptiness is a radical, pervasive concept
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^5-3|5-3]]**: _[[The Self]] · [[Ways of Looking]] (8) · [[Fabrication]] (5) · [[Awareness]] · [[Dependent Origination]] (2) · [[Unfabricated]] (2) · [[Emptiness]] (2) · [[Insight]] (2) · [[Freedom]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^5-3|5-3]]**: _[[The Self]] · [[Ways of looking]] (8) · [[Fabrication]] (5) · [[Awareness]] · [[Dependent Origination]] (2) · [[Unfabricated]] (2) · [[Emptiness]] (2) · [[Insight]] (2) · [[Freedom]]_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=25:31]]
 
@@ -196,13 +196,13 @@ we start with this notion of ways of looking, and we end up with this really rad
 
 ---
 ##### The concept of ways of looking is compatible with the Four Noble Truths, but can also points beyond it
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^6-1|6-1]]**: _[[Dharma]] (2) · [[Ways of Looking]] (6) · [[Dukkha]] (8) · [[Four Noble Truths]] · [[Freedom]] (2) · [[Soulmaking]] · [[Cosmology]] · [[Emptiness]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^6-1|6-1]]**: _[[Dharma]] (2) · [[Ways of looking]] (6) · [[Dukkha]] (8) · [[Four Noble Truths]] · [[Freedom]] (2) · [[Soulmaking]] · [[Cosmology]] · [[Emptiness]]_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=47:45]]
 
 ---
 ##### (5) Imaginal, image, imaginal image
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^6-2|6-2]]**: _[[Imaginal]] (5) · [[Image]] (6) · [[Ways of Looking]] · [[Jesus]] · [[Archetype]] · [[Unfathomability]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^6-2|6-2]]**: _[[Imaginal]] (5) · [[Image]] (6) · [[Ways of looking]] · [[Jesus]] · [[Archetype]] · [[Unfathomability]]_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=28:57]]
 
@@ -222,7 +222,7 @@ So 'imaginal' means not reduced.
 
 ---
 ##### An imaginal figure has a kind of otherness and autonomy
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^7-1|7-1]]**: _[[Imaginal]] (4) · [[Image]] (5) · [[Ways of Looking]] (3) · [[Unfathomability]] (2) · [[Divinity]] · [[Dimensionality]] (2)_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^7-1|7-1]]**: _[[Imaginal]] (4) · [[Image]] (5) · [[Ways of looking]] (3) · [[Unfathomability]] (2) · [[Divinity]] · [[Dimensionality]] (2)_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=32:12]]
 
@@ -262,7 +262,7 @@ But actually _any_ image, it might have an outflow into life, but often that out
 
 ---
 ##### (6) Soulmaking
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^8-1|8-1]]**: _[[Soulmaking]] (2) · [[Ways of Looking]] (2) · [[Soul]] (5) · [[Experience]] · [[Imaginal]] · [[Beauty]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^8-1|8-1]]**: _[[Soulmaking]] (2) · [[Ways of looking]] (2) · [[Soul]] (5) · [[Experience]] · [[Imaginal]] · [[Beauty]]_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=37:52]]
 
@@ -276,7 +276,7 @@ when there is soulfulness, there is a sense of importance, of deep importance. T
 
 ---
 ##### Soulmaking is recognized through its resonances
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^8-2|8-2]]**: _[[Love]] (3) · [[Soul]] (7) · [[Meaningfulness]] · [[Soulmaking]] (5) · [[Image]] (5) · [[Energy Body]] · [[Dimensionality]] · [[Fantasy]] · [[Logos]] · [[Gestalt Psychology]] (2)_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^8-2|8-2]]**: _[[Love]] (3) · [[Soul]] (7) · [[Meaningfulness]] · [[Soulmaking]] (5) · [[Image]] (5) · [[Energy body]] · [[Dimensionality]] · [[Fantasy]] · [[Logos]] · [[Gestalt psychology]] (2)_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=38:54]]
 
@@ -286,7 +286,7 @@ But soulmaking can also mean making soul, making something called soul. So not j
 
 ---
 ##### (7) Soul - either a way of looking which gives rise to soulmaking, or an entity
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^8-3|8-3]]**: _[[Soul]] (15) · [[Ways of Looking]] (3) · [[Soulmaking]] (6) · [[Citta]] (2) · [[Image]] · [[Fantasy]] · [[Meaningfulness]] (2) · [[Dimensionality]] · [[Beauty]] (2)_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^8-3|8-3]]**: _[[Soul]] (15) · [[Ways of looking]] (3) · [[Soulmaking]] (6) · [[Citta]] (2) · [[Image]] · [[Fantasy]] · [[Meaningfulness]] (2) · [[Dimensionality]] · [[Beauty]] (2)_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=40:23]]
 
@@ -300,7 +300,7 @@ Soulmaking _builds_ soul. It _makes_ soul.
 
 ---
 ##### (8) Energy body
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^8-4|8-4]]**: _[[Energy Body]] (3) · [[Experience]] (3) · [[Embodiment]] (2) · [[Ways of Looking]] · [[Phenomenology]] · [[Image]] · [[Energy]] (2)_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^8-4|8-4]]**: _[[Energy body]] (3) · [[Experience]] (3) · [[Embodiment]] (2) · [[Ways of looking]] · [[Phenomenology]] · [[Image]] · [[Energy]] (2)_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=42:34]]
 
@@ -314,7 +314,7 @@ the palpable sense of that field of vibration, texture, energy, etc.
 
 ---
 ##### The energy body refers to the whole spectrum of sensitivity
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^9-1|9-1]]**: _[[Energy Body]] (5) · [[Mindfulness]] · [[Meditation]] · [[Attention]] (2) · [[Experience]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^9-1|9-1]]**: _[[Energy body]] (5) · [[Mindfulness]] · [[Meditation]] · [[Attention]] (2) · [[Experience]]_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=43:49]]
 
@@ -344,7 +344,7 @@ It involves all the senses. And it's embodied, which doesn't mean that it needs 
 
 ---
 ##### (11) Craving
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^9-4|9-4]]**: _[[Craving]] (6) · [[Desire]] (2) · [[Soulmaking]] (2) · [[Contraction]] (2) · [[Embodiment]] · [[Energy Body]] · [[Mind]] · [[Dukkha]] · [[Eros]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^9-4|9-4]]**: _[[Craving]] (6) · [[Desire]] (2) · [[Soulmaking]] (2) · [[Contraction]] (2) · [[Embodiment]] · [[Energy body]] · [[Mind]] · [[Dukkha]] · [[Eros]]_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=47:59]]
 
@@ -386,13 +386,13 @@ I'm also thinking about using it to mean more something like libido as the embod
 
 ---
 ##### (15) Logos - any concept, idea, conceptual framework
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^11-1|11-1]]**: _[[Logos]] (7) · [[Eros]] · [[Psyche]] · [[Conceptual Framework]] (3) · [[Imaginal]] (4) · [[Dependent Origination]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^11-1|11-1]]**: _[[Logos]] (7) · [[Eros]] · [[Psyche]] · [[Conceptual framework]] (3) · [[Imaginal]] (4) · [[Dependent Origination]]_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=54:44]]
 
 ---
 ##### Any idea of causality is also a logos
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^11-2|11-2]]**: _[[Logos]] (7) · [[Telos]] (2) · [[Retreat]] (2) · [[Divinity]] · [[Eros]] · [[Neuroscience]] · [[Conceptual Framework]] (2) · [[Consciousness]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^11-2|11-2]]**: _[[Logos]] (7) · [[Telos]] (2) · [[Retreat]] (2) · [[Divinity]] · [[Eros]] · [[Neuroscience]] · [[Conceptual framework]] (2) · [[Consciousness]]_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=56:14]]
 
@@ -402,7 +402,7 @@ Telos refers to almost like causality from the future.
 
 ---
 ##### There is always a logos operating in the mind (except during an experience of the Unfabricated
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^11-3|11-3]]**: _[[Logos]] (5) · [[Mind]] · [[Experience]] · [[Unfabricated]] · [[Conceptual Framework]] (3) · [[Perception]] · [[Ways of Looking]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^11-3|11-3]]**: _[[Logos]] (5) · [[Mind]] · [[Experience]] · [[Unfabricated]] · [[Conceptual framework]] (3) · [[Perception]] · [[Ways of looking]]_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=57:21]]
 
@@ -452,13 +452,13 @@ something of the image, and something particularly of the _divinity_ of the imag
 
 ---
 ##### Our cosmos is a creation of the way of looking
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^12-4|12-4]]**: _[[Imaginal]] (2) · [[Cosmology]] (6) · [[Love]] · [[Ways of Looking]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^12-4|12-4]]**: _[[Imaginal]] (2) · [[Cosmology]] (6) · [[Love]] · [[Ways of looking]]_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=01:03:53]]
 
 ---
 ##### The soul is participating in the cosmos
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^13-1|13-1]]**: _[[Ways of Looking]] · [[Citta]] · [[Soul]] · [[Cosmology]] (4) · [[Logos]] (3) · [[Conceptual Framework]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^13-1|13-1]]**: _[[Ways of looking]] · [[Citta]] · [[Soul]] · [[Cosmology]] (4) · [[Logos]] (3) · [[Conceptual framework]]_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=01:05:31]]
 

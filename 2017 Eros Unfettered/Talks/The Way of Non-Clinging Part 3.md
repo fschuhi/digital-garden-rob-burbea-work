@@ -14,7 +14,7 @@ Transcript PDF: [[2017_0117 The Way of Non-Clinging Part 3.pdf]]
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3]]
 
 ## Index
-<span class="counts">_[[Desire]] (60) · [[Clinging]] (57) · [[Eros]] (41) · [[Craving]] (39) · [[Fantasy]] (30) · [[Dharma]] (28) · [[Passion]] (23) · [[Letting go]] (20) · [[Soul]] (15) · [[Dukkha]] (14) · [[Insight]] (13) · [[Mindfulness]] (13) · [[Discrepancy-based Processing]] (12) · [[Love]] (12) · [[Avijja]] (11) · [[Hindrances]] (11) · [[Romantic love]] (11) · [[Conceptual Framework]] (10) · [[Fabrication]] (10) · [[Perception]] (10) · [[Activism]] (9) · [[Metta]] (9) · [[Beauty]] (8) · [[Emptiness]] (8) · [[Kusala]] (8) · [[Mind]] (8) · [[Constriction]] (7) · [[Dependent Origination]] (7) · [[Psyche]] (7) · [[Retreat]] (7) · [[Sexuality]] (7) · [[The Self]] (7) · [[Freedom]] (6) · [[Image]] (6) · [[Soulmaking]] (6) · [[Attention]] (5) · [[Awakening]] (5) · [[Delineations]] (5) · [[Experience]] (5) · [[Personhood]] (5) · [[Poetry]] (5) · [[Cultivation]] (4) · [[Dimensionality]] (4) · [[Divinity]] (4) · [[Habit]] (4) · [[Imaginal]] (4) · [[Mode of mind]] (4) · [[Papanca]] (4) · [[Relationships]] (4) · [[Spiritual friendship]] (4) · [[Ways of Looking]] (4) · [[Zen]] (4) · [[Buddha]] (3) · [[Happiness]] (3) · [[Nature]] (3) · [[Vedana]] (3) · [[Bodhisattva]] (2) · [[Chanda]] (2) · [[Hermeneutics#Overview]] (2) · [[Kalyanamittata]] (2) · [[Meditation]] (2) · [[Music]] (2) · [[Allen Ginsberg]] · [[Artificial intelligence]] · [[Brahmaviharas]] · [[Chogyam Trungpa]] · [[Cosmology]] · [[Embodiment]] · [[Ethics]] · [[Global warming]] · [[Hermit]] · [[Ignorance]] · [[Impermanence]] · [[Mahayana]] · [[Meaningfulness]] · [[Music#Jazz]] · [[Pain]] · [[Realism]] · [[Sangha]] · [[Sigmund Freud]] · [[Simplification]] · [[Spirituality]] · [[Steadiness]] · [[Thich Nhat Hanh]] · [[Unfabricated]]_</span>
+<span class="counts">_[[Desire]] (60) · [[Clinging]] (57) · [[Eros]] (41) · [[Craving]] (39) · [[Fantasy]] (30) · [[Dharma]] (28) · [[Passion]] (23) · [[Letting go]] (20) · [[Soul]] (15) · [[Dukkha]] (14) · [[Insight]] (13) · [[Mindfulness]] (13) · [[Discrepancy-based processing]] (12) · [[Love]] (12) · [[Avijja]] (11) · [[Hindrances]] (11) · [[Romantic love]] (11) · [[Conceptual framework]] (10) · [[Fabrication]] (10) · [[Perception]] (10) · [[Activism]] (9) · [[Metta]] (9) · [[Beauty]] (8) · [[Emptiness]] (8) · [[Kusala]] (8) · [[Mind]] (8) · [[Constriction]] (7) · [[Dependent Origination]] (7) · [[Psyche]] (7) · [[Retreat]] (7) · [[Sexuality]] (7) · [[The Self]] (7) · [[Freedom]] (6) · [[Image]] (6) · [[Soulmaking]] (6) · [[Attention]] (5) · [[Awakening]] (5) · [[Delineations]] (5) · [[Experience]] (5) · [[Personhood]] (5) · [[Poetry]] (5) · [[Cultivation]] (4) · [[Dimensionality]] (4) · [[Divinity]] (4) · [[Habit]] (4) · [[Imaginal]] (4) · [[Mode of mind]] (4) · [[Papanca]] (4) · [[Relationships]] (4) · [[Spiritual friendship]] (4) · [[Ways of looking]] (4) · [[Zen]] (4) · [[Buddha]] (3) · [[Happiness]] (3) · [[Nature]] (3) · [[Vedana]] (3) · [[Bodhisattva]] (2) · [[Chanda]] (2) · [[Hermeneutics#Overview]] (2) · [[Kalyanamittata]] (2) · [[Meditation]] (2) · [[Music]] (2) · [[Allen Ginsberg]] · [[Artificial intelligence]] · [[Brahmaviharas]] · [[Chogyam Trungpa]] · [[Cosmology]] · [[Embodiment]] · [[Ethics]] · [[Global warming]] · [[Hermit]] · [[Ignorance]] · [[Impermanence]] · [[Mahayana]] · [[Meaningfulness]] · [[Music#Jazz]] · [[Pain]] · [[Realism]] · [[Sangha]] · [[Sigmund Freud]] · [[Simplification]] · [[Spirituality]] · [[Steadiness]] · [[Thich Nhat Hanh]] · [[Unfabricated]]_</span>
 <br/>
 
 ## Paragraphs
@@ -22,7 +22,7 @@ Transcript PDF: [[2017_0117 The Way of Non-Clinging Part 3.pdf]]
 
 ---
 ##### Summary of part 1 and 2
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^1-1|1-1]]**: _[[Clinging]] (11) · [[Experience]] · [[Fabrication]] (3) · [[Perception]] (3) · [[Dependent Origination]] · [[Ways of Looking]] · [[Craving]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^1-1|1-1]]**: _[[Clinging]] (11) · [[Experience]] · [[Fabrication]] (3) · [[Perception]] (3) · [[Dependent Origination]] · [[Ways of looking]] · [[Craving]]_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=00:00]]
 
@@ -96,7 +96,7 @@ There's a constrainment of the idea of what's allowed in terms of desire, and al
 
 ---
 ##### The problem is when fantasy is regarded as a problem
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^3-4|3-4]]**: _[[Fantasy]] (10) · [[Letting go]] (3) · [[Conceptual Framework]] · [[Image]] (4) · [[Hermit]] · [[Nature]] · [[Love]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^3-4|3-4]]**: _[[Fantasy]] (10) · [[Letting go]] (3) · [[Conceptual framework]] · [[Image]] (4) · [[Hermit]] · [[Nature]] · [[Love]]_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=15:38]]
 
@@ -112,7 +112,7 @@ There is the necessity of fantasy, the inevitability of fantasy when we care dee
 
 ---
 ##### When I stretch a limited conceptual framework over things I care deeply about, the whole structure will snap
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^4-2|4-2]]**: _[[Conceptual Framework]] (2) · [[Fantasy]] · [[Romantic love]] · [[Dharma]] · [[Cultivation]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^4-2|4-2]]**: _[[Conceptual framework]] (2) · [[Fantasy]] · [[Romantic love]] · [[Dharma]] · [[Cultivation]]_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=19:25]]
 
@@ -134,7 +134,7 @@ Can I have a conceptual framework, can I form, can I open to a conceptual framew
 
 ---
 ##### 2. spectrum of fabrication (emptiness)
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^4-5|4-5]]**: _[[Clinging]] (7) · [[Craving]] · [[Desire]] · [[Nature]] · [[Perception]] (2) · [[Fabrication]] · [[Ignorance]] · [[Ways of Looking]] · [[Avijja]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^4-5|4-5]]**: _[[Clinging]] (7) · [[Craving]] · [[Desire]] · [[Nature]] · [[Perception]] (2) · [[Fabrication]] · [[Ignorance]] · [[Ways of looking]] · [[Avijja]]_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=21:54]]
 
@@ -218,25 +218,25 @@ We want _more_ than ease and peace - certainly, probably certainly, than either 
 
 ---
 ##### Discrepancy-based processing (mindfulness-based cognitive therapy)
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^7-2|7-2]]**: _[[Mindfulness]] · [[Dharma]] · [[Discrepancy-based Processing]] (2) · [[Mind]] (2) · [[Mode of mind]] · [[Desire]] · [[Perception]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^7-2|7-2]]**: _[[Mindfulness]] · [[Dharma]] · [[Discrepancy-based processing]] (2) · [[Mind]] (2) · [[Mode of mind]] · [[Desire]] · [[Perception]]_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=37:08]]
 
 ---
 ##### There is the idea that discrepancy-based processing is the opposite of mindfulness
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^7-3|7-3]]**: _[[Discrepancy-based Processing]] (3) · [[Mindfulness]] (5) · [[Attention]] · [[Desire]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^7-3|7-3]]**: _[[Discrepancy-based processing]] (3) · [[Mindfulness]] (5) · [[Attention]] · [[Desire]]_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=38:43]]
 
 ---
 ##### Discrepancy-based processing is useful, of course
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^7-4|7-4]]**: _[[Discrepancy-based Processing]] (2)_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^7-4|7-4]]**: _[[Discrepancy-based processing]] (2)_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=39:48]]
 
 ---
 ##### The "Mode of mind" is supposed revert to a more mindful stance
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^8-1|8-1]]**: _[[Mode of mind]] (3) · [[Ways of Looking]] · [[Mindfulness]] · [[Dukkha]] · [[Discrepancy-based Processing]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^8-1|8-1]]**: _[[Mode of mind]] (3) · [[Ways of looking]] · [[Mindfulness]] · [[Dukkha]] · [[Discrepancy-based processing]]_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=40:45]]
 
@@ -252,7 +252,7 @@ the mode of mind, the gear, the circuitry, if you like, should revert to a kind 
 
 ---
 ##### Certain viewpoints cannot fan the fire
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^8-3|8-3]]**: _[[Desire]] · [[Discrepancy-based Processing]] (2) · [[Cultivation]] · [[Beauty]] (2) · [[Dimensionality]] · [[Music]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^8-3|8-3]]**: _[[Desire]] · [[Discrepancy-based processing]] (2) · [[Cultivation]] · [[Beauty]] (2) · [[Dimensionality]] · [[Music]]_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=43:04]]
 
@@ -274,7 +274,7 @@ It doesn't open that up. It doesn't nourish it. It doesn't bring water to it. It
 
 ---
 ##### Does discrepancy-based processing satisfy the depths in me?]
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^9-1|9-1]]**: _[[Desire]] · [[Discrepancy-based Processing]] (2) · [[Soulmaking]] (2) · [[Psyche]] · [[Soul]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^9-1|9-1]]**: _[[Desire]] · [[Discrepancy-based processing]] (2) · [[Soulmaking]] (2) · [[Psyche]] · [[Soul]]_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=46:51]]
 
@@ -296,7 +296,7 @@ eros, a desire, a movement of the psyche, of the being, that opens, deepens, lea
 
 ---
 ##### How can we conceive of a clinging which opens towards what is deeply important to us?
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^9-4|9-4]]**: _[[Relationships]] (3) · [[Desire]] (4) · [[Craving]] (2) · [[Clinging]] (2) · [[Eros]] (3) · [[Insight]] · [[Psyche]] · [[Conceptual Framework]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^9-4|9-4]]**: _[[Relationships]] (3) · [[Desire]] (4) · [[Craving]] (2) · [[Clinging]] (2) · [[Eros]] (3) · [[Insight]] · [[Psyche]] · [[Conceptual framework]]_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=50:21]]
 
@@ -306,19 +306,19 @@ are there ways of conceiving, conceptual frameworks, relationships and investiga
 
 ---
 ##### Having constrained views can constrain our vision
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^10-1|10-1]]**: _[[Insight]] · [[Dharma]] (2) · [[Impermanence]] · [[Clinging]] · [[Dukkha]] · [[Conceptual Framework]] · [[Experience]] · [[The Self]] · [[Desire]] · [[Eros]] · [[Cosmology]] · [[Freedom]] · [[Beauty]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^10-1|10-1]]**: _[[Insight]] · [[Dharma]] (2) · [[Impermanence]] · [[Clinging]] · [[Dukkha]] · [[Conceptual framework]] · [[Experience]] · [[The Self]] · [[Desire]] · [[Eros]] · [[Cosmology]] · [[Freedom]] · [[Beauty]]_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=52:05]]
 
 ---
 ##### We limit our experience through the ideas we are hanging on to
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^10-2|10-2]]**: _[[Conceptual Framework]] (2) · [[Hermeneutics#Overview]] (2) · [[Constriction]] (5) · [[Dependent Origination]] · [[Experience]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^10-2|10-2]]**: _[[Conceptual framework]] (2) · [[Hermeneutics#Overview]] (2) · [[Constriction]] (5) · [[Dependent Origination]] · [[Experience]]_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=53:29]]
 
 ---
 ##### Can we question our views, refine them?
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^10-3|10-3]]**: _[[Conceptual Framework]] (2) · [[Craving]] · [[Letting go]] · [[Eros]] · [[Retreat]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^10-3|10-3]]**: _[[Conceptual framework]] (2) · [[Craving]] · [[Letting go]] · [[Eros]] · [[Retreat]]_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=54:34]]
 
@@ -340,7 +340,7 @@ they can't postpone the soul-calling to include an exploration of eros fully, ri
 
 ---
 ##### There are some who cannot wait
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^11-1|11-1]]**: _[[Imaginal]] (4) · [[Papanca]] (4) · [[Letting go]] · [[Fantasy]] (2) · [[Simplification]] · [[Attention]] (2) · [[Ways of Looking]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^11-1|11-1]]**: _[[Imaginal]] (4) · [[Papanca]] (4) · [[Letting go]] · [[Fantasy]] (2) · [[Simplification]] · [[Attention]] (2) · [[Ways of looking]]_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=58:52]]
 
@@ -356,7 +356,7 @@ there are some who can't wait. They have to include and learn as they go along, 
 
 ---
 ##### Soulmaking is important for and to the soul, so don't let go of it
-<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^11-3|11-3]]**: _[[Passion]] · [[Eros]] (3) · [[Soulmaking]] · [[Soul]] · [[Conceptual Framework]] · [[Insight]] · [[Dharma]] · [[Chanda]] · [[Desire]] · [[Dukkha]] · [[Kusala]]_</span>
+<span class="counts">**[[0117 The Way of Non-Clinging Part 3#^11-3|11-3]]**: _[[Passion]] · [[Eros]] (3) · [[Soulmaking]] · [[Soul]] · [[Conceptual framework]] · [[Insight]] · [[Dharma]] · [[Chanda]] · [[Desire]] · [[Dukkha]] · [[Kusala]]_</span>
 
 ![[20170117-Rob_Burbea-GAIA-the_way_of_non_clinging_part_3-40192.mp3#t=01:01:54]]
 

@@ -14,7 +14,7 @@ Transcript PDF: [[2019_1217 Counting Within the Breath - Guided Meditation.pdf]]
 ![[20191217-Rob_Burbea-GAIA-counting_within_the_breath_guided_meditation-60863.mp3]]
 
 ## Index
-<span class="counts">_[[Breath]] (46) · [[Embodiment]] (33) · [[Attention]] (14) · [[Awareness]] (14) · [[Retreat]] (12) · [[Energy]] (10) · [[Mind]] (10) · [[Jhanas]] (8) · [[Consciousness]] (3) · [[Meditation]] (3) · [[Pain]] (3) · [[Citta]] (2) · [[Energy Body]] (2) · [[Inertia]] (2) · [[Soulmaking]] (2) · [[Beauty]] · [[Cultivation]] · [[Insight]] · [[Mahasi Sayadaw]] · [[Mindfulness]] · [[Samadhi]]_</span>
+<span class="counts">_[[Breath]] (46) · [[Embodiment]] (33) · [[Attention]] (14) · [[Awareness]] (14) · [[Retreat]] (12) · [[Energy]] (10) · [[Mind]] (10) · [[Jhanas]] (8) · [[Consciousness]] (3) · [[Meditation]] (3) · [[Pain]] (3) · [[Citta]] (2) · [[Energy body]] (2) · [[Inertia]] (2) · [[Soulmaking]] (2) · [[Beauty]] · [[Cultivation]] · [[Insight]] · [[Mahasi Sayadaw]] · [[Mindfulness]] · [[Samadhi]]_</span>
 <br/>
 
 ## Paragraphs
@@ -82,7 +82,7 @@ this balance between uprightness and alertness and energization on the one hand,
 
 ---
 ##### (2) The whole energy body
-<span class="counts">**[[1217 Counting Within the Breath - Guided Meditation#^2-4|2-4]]**: _[[Energy Body]] · [[Embodiment]] · [[Breath]]_</span>
+<span class="counts">**[[1217 Counting Within the Breath - Guided Meditation#^2-4|2-4]]**: _[[Energy body]] · [[Embodiment]] · [[Breath]]_</span>
 
 ![[20191217-Rob_Burbea-GAIA-counting_within_the_breath_guided_meditation-60863.mp3#t=08:25]]
 
@@ -132,7 +132,7 @@ But always you keep the whole body sense. Never lose that, even if it's in the b
 
 ---
 ##### Breath a little shorter, to 6
-<span class="counts">**[[1217 Counting Within the Breath - Guided Meditation#^2-9|2-9]]**: _[[Breath]] (4) · [[Energy Body]]_</span>
+<span class="counts">**[[1217 Counting Within the Breath - Guided Meditation#^2-9|2-9]]**: _[[Breath]] (4) · [[Energy body]]_</span>
 
 ![[20191217-Rob_Burbea-GAIA-counting_within_the_breath_guided_meditation-60863.mp3#t=14:25]]
 

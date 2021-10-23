@@ -14,7 +14,7 @@ Transcript PDF: [[2019_1217 Orienting to This Jhana Retreat.pdf]]
 ![[20191217-Rob_Burbea-GAIA-orienting_to_this_jhana_retreat-60865.mp3]]
 
 ## Index
-<span class="counts">_[[Jhanas]] (75) · [[Retreat]] (42) · [[Happiness]] (25) · [[Embodiment]] (21) · [[Emotions]] (19) · [[Piti]] (17) · [[Mind]] (15) · [[Hindrances]] (14) · [[Insight]] (14) · [[Samadhi]] (12) · [[Beauty]] (10) · [[Dharma]] (10) · [[Gaia House]] (10) · [[Grief]] (10) · [[Cultivation]] (9) · [[Fantasy]] (9) · [[Appreciation]] (8) · [[Breath]] (8) · [[Buddha]] (8) · [[Devotion]] (8) · [[Meditation]] (8) · [[Pleasantness]] (7) · [[Soul]] (7) · [[Inertia]] (6) · [[Nature]] (5) · [[Attention]] (4) · [[Awareness]] (4) · [[Energy]] (4) · [[Equanimity]] (4) · [[Love]] (4) · [[Metta]] (4) · [[Mudita]] (4) · [[Soulmaking]] (4) · [[Conceptual Framework]] (3) · [[Constriction]] (3) · [[Gratitude]] (3) · [[Image]] (3) · [[Spaciousness]] (3) · [[Stories]] (3) · [[The Self]] (3) · [[Ways of Looking]] (3) · [[Awakening]] (2) · [[Consciousness]] (2) · [[Death]] (2) · [[Experience]] (2) · [[Healing]] (2) · [[Passion]] (2) · [[Personhood]] (2) · [[Sexuality]] (2) · [[Vessel]] (2) · [[Activism]] · [[Anger]] · [[Blessing]] · [[Clinging]] · [[Contraction]] · [[Dominant Culture]] · [[Energy Body]] · [[Fabrication]] · [[Freedom]] · [[Habit]] · [[Hell]] · [[Imaginal]] · [[Juiciness]] · [[Letting go]] · [[Perception]] · [[Precepts]] · [[Relationships]] · [[Rupa]] · [[Seeing That Frees]] · [[Sutta]]_</span>
+<span class="counts">_[[Jhanas]] (75) · [[Retreat]] (42) · [[Happiness]] (25) · [[Embodiment]] (21) · [[Emotions]] (19) · [[Piti]] (17) · [[Mind]] (15) · [[Hindrances]] (14) · [[Insight]] (14) · [[Samadhi]] (12) · [[Beauty]] (10) · [[Dharma]] (10) · [[Gaia House]] (10) · [[Grief]] (10) · [[Cultivation]] (9) · [[Fantasy]] (9) · [[Appreciation]] (8) · [[Breath]] (8) · [[Buddha]] (8) · [[Devotion]] (8) · [[Meditation]] (8) · [[Pleasantness]] (7) · [[Soul]] (7) · [[Inertia]] (6) · [[Nature]] (5) · [[Attention]] (4) · [[Awareness]] (4) · [[Energy]] (4) · [[Equanimity]] (4) · [[Love]] (4) · [[Metta]] (4) · [[Mudita]] (4) · [[Soulmaking]] (4) · [[Conceptual framework]] (3) · [[Constriction]] (3) · [[Gratitude]] (3) · [[Image]] (3) · [[Spaciousness]] (3) · [[Stories]] (3) · [[The Self]] (3) · [[Ways of looking]] (3) · [[Awakening]] (2) · [[Consciousness]] (2) · [[Death]] (2) · [[Experience]] (2) · [[Healing]] (2) · [[Passion]] (2) · [[Personhood]] (2) · [[Sexuality]] (2) · [[Vessel]] (2) · [[Activism]] · [[Anger]] · [[Blessing]] · [[Clinging]] · [[Contraction]] · [[Dominant culture]] · [[Energy body]] · [[Fabrication]] · [[Freedom]] · [[Habit]] · [[Hell]] · [[Imaginal]] · [[Juiciness]] · [[Letting go]] · [[Perception]] · [[Precepts]] · [[Relationships]] · [[Rupa]] · [[Seeing That Frees]] · [[Sutta]]_</span>
 <br/>
 
 ## Paragraphs
@@ -78,7 +78,7 @@ We have to get the view right (the view is the platform), and the whole relation
 
 ---
 ##### Can you listen on your toes?
-<span class="counts">**[[1217 Orienting to This Jhana Retreat#^3-1|3-1]]**: _[[Conceptual Framework]] · [[Dharma]] · [[Jhanas]] · [[Happiness]]_</span>
+<span class="counts">**[[1217 Orienting to This Jhana Retreat#^3-1|3-1]]**: _[[Conceptual framework]] · [[Dharma]] · [[Jhanas]] · [[Happiness]]_</span>
 
 ---
 ##### The daily schedule is pretty open
@@ -180,13 +180,13 @@ Meaning that it doesn't really matter how that _pīti_ arises, and I would say _
 
 ---
 ##### "Base" practice, or "springboard" practice
-<span class="counts">**[[1217 Orienting to This Jhana Retreat#^6-3|6-3]]**: _[[Retreat]] (2) · [[Breath]] (2) · [[Metta]] · [[Insight]] · [[Energy Body]] · [[Jhanas]] · [[Piti]]_</span>
+<span class="counts">**[[1217 Orienting to This Jhana Retreat#^6-3|6-3]]**: _[[Retreat]] (2) · [[Breath]] (2) · [[Metta]] · [[Insight]] · [[Energy body]] · [[Jhanas]] · [[Piti]]_</span>
 
 ![[20191217-Rob_Burbea-GAIA-orienting_to_this_jhana_retreat-60865.mp3#t=27:12]]
 
 ---
 ##### Insight ways of looking can also give rise to piti
-<span class="counts">**[[1217 Orienting to This Jhana Retreat#^6-4|6-4]]**: _[[Insight]] (2) · [[Ways of Looking]] (2) · [[Piti]] · [[Seeing That Frees]]_</span>
+<span class="counts">**[[1217 Orienting to This Jhana Retreat#^6-4|6-4]]**: _[[Insight]] (2) · [[Ways of looking]] (2) · [[Piti]] · [[Seeing That Frees]]_</span>
 
 ![[20191217-Rob_Burbea-GAIA-orienting_to_this_jhana_retreat-60865.mp3#t=28:29]]
 
@@ -198,7 +198,7 @@ Meaning that it doesn't really matter how that _pīti_ arises, and I would say _
 
 ---
 ##### Stick with a practice that already works for you
-<span class="counts">**[[1217 Orienting to This Jhana Retreat#^7-2|7-2]]**: _[[Insight]] · [[Ways of Looking]] · [[Jhanas]] · [[Piti]]_</span>
+<span class="counts">**[[1217 Orienting to This Jhana Retreat#^7-2|7-2]]**: _[[Insight]] · [[Ways of looking]] · [[Jhanas]] · [[Piti]]_</span>
 
 ![[20191217-Rob_Burbea-GAIA-orienting_to_this_jhana_retreat-60865.mp3#t=29:59]]
 
@@ -208,7 +208,7 @@ If you're not sure, then try some of what we'll be gradually offering in the nex
 
 ---
 ##### I'm going to talk about the art of samadhi and how we're seeing that
-<span class="counts">**[[1217 Orienting to This Jhana Retreat#^7-3|7-3]]**: _[[Retreat]] · [[Jhanas]] (2) · [[Samadhi]] · [[Conceptual Framework]] · [[Insight]]_</span>
+<span class="counts">**[[1217 Orienting to This Jhana Retreat#^7-3|7-3]]**: _[[Retreat]] · [[Jhanas]] (2) · [[Samadhi]] · [[Conceptual framework]] · [[Insight]]_</span>
 
 ![[20191217-Rob_Burbea-GAIA-orienting_to_this_jhana_retreat-60865.mp3#t=30:49]]
 
@@ -318,7 +318,7 @@ Fantasy of the whole tradition; it's all part of it. That's part of your happine
 
 ---
 ##### Open your intention
-<span class="counts">**[[1217 Orienting to This Jhana Retreat#^9-3|9-3]]**: _[[Meditation]] · [[Dominant Culture]] · [[Soul]]_</span>
+<span class="counts">**[[1217 Orienting to This Jhana Retreat#^9-3|9-3]]**: _[[Meditation]] · [[Dominant culture]] · [[Soul]]_</span>
 
 ![[20191217-Rob_Burbea-GAIA-orienting_to_this_jhana_retreat-60865.mp3#t=40:21]]
 
@@ -358,7 +358,7 @@ You won't access _jhānas_ unless you're willing to be malleable, and you play a
 
 ---
 ##### We want firm, clear, simple intention for "jhana practice"
-<span class="counts">**[[1217 Orienting to This Jhana Retreat#^10-2|10-2]]**: _[[Jhanas]] (6) · [[Hindrances]] · [[The Self]] (2) · [[Conceptual Framework]]_</span>
+<span class="counts">**[[1217 Orienting to This Jhana Retreat#^10-2|10-2]]**: _[[Jhanas]] (6) · [[Hindrances]] · [[The Self]] (2) · [[Conceptual framework]]_</span>
 
 ![[20191217-Rob_Burbea-GAIA-orienting_to_this_jhana_retreat-60865.mp3#t=46:24]]
 

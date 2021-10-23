@@ -14,7 +14,7 @@ Transcript PDF: [[2007_0125 Expressions of Metta.pdf]]
 ![[20070125-Rob_Burbea-GAIA-expressions_of_metta-12290.mp3]]
 
 ## Index
-<span class="counts">_[[Metta]] (65) · [[Anger]] (51) · [[Love]] (48) · [[Clinging]] (12) · [[The Self]] (12) · [[Retreat]] (11) · [[Perception]] (10) · [[Embodiment]] (7) · [[Oneness]] (7) · [[Anatta]] (6) · [[Compassion]] (6) · [[Habit]] (6) · [[Relationships]] (6) · [[Consciousness]] (5) · [[Energy]] (5) · [[Appreciation]] (4) · [[Buddha]] (4) · [[Dependent Origination]] (4) · [[Depression]] (4) · [[Dukkha]] (4) · [[Fear]] (4) · [[Mind]] (4) · [[Pain]] (4) · [[Bodhisattva]] (3) · [[Emptiness]] (3) · [[Meditation]] (3) · [[Near enemy]] (3) · [[Nondualism]] (3) · [[Personhood]] (3) · [[Sutta]] (3) · [[Ways of Looking]] (3) · [[Avalokiteshvara]] (2) · [[Beauty]] (2) · [[Dimensionality]] (2) · [[Feelings]] (2) · [[Freedom]] (2) · [[Healing]] (2) · [[Hindrances]] (2) · [[Spaciousness]] (2) · [[Acceptance]] · [[Attention]] · [[Aversion]] · [[Desire]] · [[Gaia House]] · [[Happiness]] · [[History]] · [[Infinity]] · [[Insight]] · [[Jesus]] · [[Juiciness]] · [[Kahlil Gibran]] · [[Letting go]] · [[Manjushri]] · [[Music]] · [[Nature]] · [[Pablo Neruda]] · [[Pleasantness]] · [[Realism]] · [[Samadhi]] · [[Spiritual circles]] · [[Steadiness]] · [[Wonder]]_</span>
+<span class="counts">_[[Metta]] (65) · [[Anger]] (51) · [[Love]] (48) · [[Clinging]] (12) · [[The Self]] (12) · [[Retreat]] (11) · [[Perception]] (10) · [[Embodiment]] (7) · [[Oneness]] (7) · [[Anatta]] (6) · [[Compassion]] (6) · [[Habit]] (6) · [[Relationships]] (6) · [[Consciousness]] (5) · [[Energy]] (5) · [[Appreciation]] (4) · [[Buddha]] (4) · [[Dependent Origination]] (4) · [[Depression]] (4) · [[Dukkha]] (4) · [[Fear]] (4) · [[Mind]] (4) · [[Pain]] (4) · [[Bodhisattva]] (3) · [[Emptiness]] (3) · [[Meditation]] (3) · [[Near enemy]] (3) · [[Nondualism]] (3) · [[Personhood]] (3) · [[Sutta]] (3) · [[Ways of looking]] (3) · [[Avalokiteshvara]] (2) · [[Beauty]] (2) · [[Dimensionality]] (2) · [[Feelings]] (2) · [[Freedom]] (2) · [[Healing]] (2) · [[Hindrances]] (2) · [[Spaciousness]] (2) · [[Acceptance]] · [[Attention]] · [[Aversion]] · [[Desire]] · [[Gaia House]] · [[Happiness]] · [[History]] · [[Infinity]] · [[Insight]] · [[Jesus]] · [[Juiciness]] · [[Kahlil Gibran]] · [[Letting go]] · [[Manjushri]] · [[Music]] · [[Nature]] · [[Pablo Neruda]] · [[Pleasantness]] · [[Realism]] · [[Samadhi]] · [[Spiritual circles]] · [[Steadiness]] · [[Wonder]]_</span>
 <br/>
 
 ## Paragraphs
@@ -58,7 +58,7 @@ Transcript PDF: [[2007_0125 Expressions of Metta.pdf]]
 
 ---
 ##### Re-parenting ourselves
-<span class="counts">**[[0125 Expressions of Metta#^3-1|3-1]]**: _[[Appreciation]] (4) · [[Metta]] · [[Love]] · [[Ways of Looking]] (2)_</span>
+<span class="counts">**[[0125 Expressions of Metta#^3-1|3-1]]**: _[[Appreciation]] (4) · [[Metta]] · [[Love]] · [[Ways of looking]] (2)_</span>
 
 ---
 ##### Metta being unconditioned and boundless can seem a bit unreal ("metta machine")
@@ -96,7 +96,7 @@ I've cut some paragraphs here
 
 ---
 ##### The more self-sense there is, the more others are viewed as irrelevant
-<span class="counts">**[[0125 Expressions of Metta#^5-3|5-3]]**: _[[Clinging]] (4) · [[Ways of Looking]] · [[Emptiness]]_</span>
+<span class="counts">**[[0125 Expressions of Metta#^5-3|5-3]]**: _[[Clinging]] (4) · [[Ways of looking]] · [[Emptiness]]_</span>
 
 ---
 ##### "No" in the context of metta

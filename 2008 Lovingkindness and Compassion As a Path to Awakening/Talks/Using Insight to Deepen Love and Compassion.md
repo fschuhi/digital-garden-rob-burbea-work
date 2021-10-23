@@ -14,7 +14,7 @@ Transcript PDF: [[2008_0202 Using Insight to Deepen Love and Compassion.pdf]]
 ![[20080202-Rob_Burbea-GAIA-using_insight_to_deepen_love_and_compassion-11956.mp3]]
 
 ## Index
-<span class="counts">_[[Fear]] (98) · [[Metta]] (75) · [[Love]] (55) · [[Embodiment]] (45) · [[Insight]] (44) · [[Clinging]] (42) · [[Experience]] (40) · [[Dukkha]] (30) · [[Anatta]] (27) · [[Impermanence]] (27) · [[Aversion]] (26) · [[Buddha]] (25) · [[Ways of Looking]] (24) · [[Mind]] (23) · [[Perception]] (23) · [[Emptiness]] (22) · [[Compassion]] (20) · [[Emotions]] (20) · [[Retreat]] (20) · [[Awareness]] (19) · [[Samadhi]] (19) · [[The Self]] (19) · [[Consciousness]] (16) · [[Meditation]] (16) · [[Attention]] (14) · [[Freedom]] (13) · [[Happiness]] (13) · [[Mindfulness]] (12) · [[Craving]] (11) · [[Death]] (10) · [[Nature]] (9) · [[Centre]] (7) · [[Energy]] (7) · [[Dharma]] (6) · [[Oneness]] (6) · [[Pleasantness]] (6) · [[Three characteristics]] (6) · [[Cultivation]] (5) · [[Devotion]] (5) · [[Fabrication]] (5) · [[Habit]] (5) · [[Letting go]] (5) · [[Anxiety]] (3) · [[Awakening]] (3) · [[Feelings]] (3) · [[Middle Way]] (3) · [[Pain]] (3) · [[Phenomenon]] (3) · [[Skandhas]] (3) · [[Commentaries]] (2) · [[Equanimity]] (2) · [[Image]] (2) · [[Judaism]] (2) · [[Nondualism]] (2) · [[Present Moment]] (2) · [[Reconditioning]] (2) · [[Sutta]] (2) · [[Avijja]] · [[Beauty]] · [[Breath]] · [[Contraction]] · [[Cosmology]] · [[Depression]] · [[Four Noble Truths]] · [[Generosity]] · [[Hell]] · [[Juiciness]] · [[Mind state]] · [[Mudra]] · [[Personhood]] · [[Relationships]]_</span>
+<span class="counts">_[[Fear]] (98) · [[Metta]] (75) · [[Love]] (55) · [[Embodiment]] (45) · [[Insight]] (44) · [[Clinging]] (42) · [[Experience]] (40) · [[Dukkha]] (30) · [[Anatta]] (27) · [[Impermanence]] (27) · [[Aversion]] (26) · [[Buddha]] (25) · [[Ways of looking]] (24) · [[Mind]] (23) · [[Perception]] (23) · [[Emptiness]] (22) · [[Compassion]] (20) · [[Emotions]] (20) · [[Retreat]] (20) · [[Awareness]] (19) · [[Samadhi]] (19) · [[The Self]] (19) · [[Consciousness]] (16) · [[Meditation]] (16) · [[Attention]] (14) · [[Freedom]] (13) · [[Happiness]] (13) · [[Mindfulness]] (12) · [[Craving]] (11) · [[Death]] (10) · [[Nature]] (9) · [[Centre]] (7) · [[Energy]] (7) · [[Dharma]] (6) · [[Oneness]] (6) · [[Pleasantness]] (6) · [[Three characteristics]] (6) · [[Cultivation]] (5) · [[Devotion]] (5) · [[Fabrication]] (5) · [[Habit]] (5) · [[Letting go]] (5) · [[Anxiety]] (3) · [[Awakening]] (3) · [[Feelings]] (3) · [[Middle Way]] (3) · [[Pain]] (3) · [[Phenomenon]] (3) · [[Skandhas]] (3) · [[Commentaries]] (2) · [[Equanimity]] (2) · [[Image]] (2) · [[Judaism]] (2) · [[Nondualism]] (2) · [[Present moment]] (2) · [[Reconditioning]] (2) · [[Sutta]] (2) · [[Avijja]] · [[Beauty]] · [[Breath]] · [[Contraction]] · [[Cosmology]] · [[Depression]] · [[Four Noble Truths]] · [[Generosity]] · [[Hell]] · [[Juiciness]] · [[Mind state]] · [[Mudra]] · [[Personhood]] · [[Relationships]]_</span>
 <br/>
 
 ## Paragraphs
@@ -80,7 +80,7 @@ interesting parallel to rigpa
 
 ---
 ##### Insight is any kind of understanding that releases clinging and thus suffering
-<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^2-4|2-4]]**: _[[Insight]] (10) · [[Meditation]] (2) · [[Clinging]] (6) · [[Dukkha]] (4) · [[Ways of Looking]] · [[Aversion]]_</span>
+<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^2-4|2-4]]**: _[[Insight]] (10) · [[Meditation]] (2) · [[Clinging]] (6) · [[Dukkha]] (4) · [[Ways of looking]] · [[Aversion]]_</span>
 
 ![[20080202-Rob_Burbea-GAIA-using_insight_to_deepen_love_and_compassion-11956.mp3#t=07:20]]
 
@@ -92,7 +92,7 @@ interesting parallel to rigpa
 
 ---
 ##### Alternative: practice ways of looking that bring release
-<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^2-6|2-6]]**: _[[Buddha]] (2) · [[Ways of Looking]] (3) · [[Meditation]] · [[Insight]] · [[Experience]] · [[Clinging]] (3) · [[Dukkha]] (2) · [[Love]] (2)_</span>
+<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^2-6|2-6]]**: _[[Buddha]] (2) · [[Ways of looking]] (3) · [[Meditation]] · [[Insight]] · [[Experience]] · [[Clinging]] (3) · [[Dukkha]] (2) · [[Love]] (2)_</span>
 
 ![[20080202-Rob_Burbea-GAIA-using_insight_to_deepen_love_and_compassion-11956.mp3#t=09:39]]
 
@@ -102,7 +102,7 @@ So we typically look in ways that actually lead to clinging, lead to suffering. 
 
 ---
 ##### This talk is about incorporating some of those ways of looking into metta practice
-<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^3-1|3-1]]**: _[[Insight]] · [[Ways of Looking]] (2) · [[Freedom]] · [[Love]] · [[Metta]] (2) · [[Compassion]]_</span>
+<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^3-1|3-1]]**: _[[Insight]] · [[Ways of looking]] (2) · [[Freedom]] · [[Love]] · [[Metta]] (2) · [[Compassion]]_</span>
 
 ![[20080202-Rob_Burbea-GAIA-using_insight_to_deepen_love_and_compassion-11956.mp3#t=10:25]]
 
@@ -272,7 +272,7 @@ When we say that, who is the 'I' in that moment? There's fear around. Who is the
 
 ---
 ##### I disagree - the three characteristics are ways of looking that should bring freedom and love
-<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^7-5|7-5]]**: _[[Buddha]] · [[Ways of Looking]] (2) · [[Freedom]] (3) · [[Love]] (3) · [[Experience]] · [[Three characteristics]] · [[Fear]] · [[Depression]]_</span>
+<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^7-5|7-5]]**: _[[Buddha]] · [[Ways of looking]] (2) · [[Freedom]] (3) · [[Love]] (3) · [[Experience]] · [[Three characteristics]] · [[Fear]] · [[Depression]]_</span>
 
 ![[20080202-Rob_Burbea-GAIA-using_insight_to_deepen_love_and_compassion-11956.mp3#t=32:23]]
 
@@ -326,13 +326,13 @@ And you can toy with this playing of perception. Something comes: this moment, d
 
 ---
 ##### c) moment-to-moment impermanence
-<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^8-5|8-5]]**: _[[Impermanence]] (4) · [[Phenomenon]] (2) · [[Attention]] · [[Experience]] · [[Insight]] · [[Ways of Looking]] · [[Metta]] (2) · [[Awareness]]_</span>
+<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^8-5|8-5]]**: _[[Impermanence]] (4) · [[Phenomenon]] (2) · [[Attention]] · [[Experience]] · [[Insight]] · [[Ways of looking]] · [[Metta]] (2) · [[Awareness]]_</span>
 
 ![[20080202-Rob_Burbea-GAIA-using_insight_to_deepen_love_and_compassion-11956.mp3#t=39:29]]
 
 ---
 ##### All I see in the moment is change, not a lasting, fixed self
-<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^9-1|9-1]]**: _[[Impermanence]] (2) · [[Insight]] · [[Anatta]] (2) · [[The Self]] (3) · [[Experience]] · [[Present Moment]] · [[Metta]]_</span>
+<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^9-1|9-1]]**: _[[Impermanence]] (2) · [[Insight]] · [[Anatta]] (2) · [[The Self]] (3) · [[Experience]] · [[Present moment]] · [[Metta]]_</span>
 
 ![[20080202-Rob_Burbea-GAIA-using_insight_to_deepen_love_and_compassion-11956.mp3#t=40:23]]
 
@@ -466,13 +466,13 @@ Without belief in the self, there can't really be fear. Where is the fear going 
 
 ---
 ##### In that way of looking comes freedom and love
-<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^12-4|12-4]]**: _[[Buddha]] · [[The Self]] · [[Ways of Looking]] (3) · [[Freedom]] · [[Love]] · [[Meditation]]_</span>
+<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^12-4|12-4]]**: _[[Buddha]] · [[The Self]] · [[Ways of looking]] (3) · [[Freedom]] · [[Love]] · [[Meditation]]_</span>
 
 ![[20080202-Rob_Burbea-GAIA-using_insight_to_deepen_love_and_compassion-11956.mp3#t=58:11]]
 
 ---
 ##### g) Aggregates are not me, not mine
-<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^12-5|12-5]]**: _[[Anatta]] (2) · [[Ways of Looking]] (2) · [[Experience]] (4) · [[Consciousness]] (2) · [[Embodiment]] (4) · [[Skandhas]] · [[Perception]] · [[Mind state]] · [[Emotions]] · [[Awareness]]_</span>
+<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^12-5|12-5]]**: _[[Anatta]] (2) · [[Ways of looking]] (2) · [[Experience]] (4) · [[Consciousness]] (2) · [[Embodiment]] (4) · [[Skandhas]] · [[Perception]] · [[Mind state]] · [[Emotions]] · [[Awareness]]_</span>
 
 ![[20080202-Rob_Burbea-GAIA-using_insight_to_deepen_love_and_compassion-11956.mp3#t=58:47]]
 
@@ -573,7 +573,7 @@ So you kind of make them somewhat empty, but not completely empty, so you've sti
 
 ---
 ##### It's not visual imagination, because it's coming out of a contemplation of their emptiness
-<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^16-4|16-4]]**: _[[Emptiness]] · [[Nature]] (2) · [[Skandhas]] · [[Image]] · [[Ways of Looking]]_</span>
+<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^16-4|16-4]]**: _[[Emptiness]] · [[Nature]] (2) · [[Skandhas]] · [[Image]] · [[Ways of looking]]_</span>
 
 ![[20080202-Rob_Burbea-GAIA-using_insight_to_deepen_love_and_compassion-11956.mp3#t=01:12:23]]
 
@@ -783,13 +783,13 @@ they're both important in one's life, and one needs to learn how to do both. Wit
 
 ---
 #### Q11: ability to move between different ways of seeing as the mark of mature practice
-<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^22-6|22-6]]**: _[[Ways of Looking]]_</span>
+<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^22-6|22-6]]**: _[[Ways of looking]]_</span>
 
 ![[20080202-Rob_Burbea-GAIA-using_insight_to_deepen_love_and_compassion-11956.mp3#t=01:35:20]]
 
 ---
 ##### Maturity in practice comes from being able to move between different ways of seeing
-<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^22-8|22-8]]**: _[[Emptiness]] (4) · [[Emotions]] (4) · [[Consciousness]] · [[Buddha]] (3) · [[Awakening]] (2) · [[Ways of Looking]] (5) · [[Anatta]]_</span>
+<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^22-8|22-8]]**: _[[Emptiness]] (4) · [[Emotions]] (4) · [[Consciousness]] · [[Buddha]] (3) · [[Awakening]] (2) · [[Ways of looking]] (5) · [[Anatta]]_</span>
 
 ![[20080202-Rob_Burbea-GAIA-using_insight_to_deepen_love_and_compassion-11956.mp3#t=01:35:42]]
 
@@ -811,7 +811,7 @@ What certain situations need is very relative, conventional language. We need to
 
 ---
 ##### But the thing and our relationship are actually not separate
-<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^23-6|23-6]]**: _[[Insight]] (2) · [[Fear]] · [[Present Moment]]_</span>
+<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^23-6|23-6]]**: _[[Insight]] (2) · [[Fear]] · [[Present moment]]_</span>
 
 ![[20080202-Rob_Burbea-GAIA-using_insight_to_deepen_love_and_compassion-11956.mp3#t=01:38:52]]
 
@@ -881,7 +881,7 @@ So it's a different question than, "If a tree falls in the forest, and there's n
 
 ---
 ##### There is no moment of consciousness that is not shaping or creating or colouring or fabricating an experience
-<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^25-1|25-1]]**: _[[Consciousness]] (3) · [[Mind]] · [[Fabrication]] (3) · [[Experience]] · [[Mindfulness]] · [[Equanimity]] · [[Nature]] · [[Buddha]] · [[Retreat]] · [[Love]] · [[Compassion]] · [[Ways of Looking]]_</span>
+<span class="counts">**[[0202 Using Insight to Deepen Love and Compassion#^25-1|25-1]]**: _[[Consciousness]] (3) · [[Mind]] · [[Fabrication]] (3) · [[Experience]] · [[Mindfulness]] · [[Equanimity]] · [[Nature]] · [[Buddha]] · [[Retreat]] · [[Love]] · [[Compassion]] · [[Ways of looking]]_</span>
 
 ![[20080202-Rob_Burbea-GAIA-using_insight_to_deepen_love_and_compassion-11956.mp3#t=01:44:44]]
 

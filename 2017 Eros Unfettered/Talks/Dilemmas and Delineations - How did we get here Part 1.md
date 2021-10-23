@@ -14,7 +14,7 @@ Transcript PDF: [[2017_0118 Dilemmas and Delineations - How did we get here Part
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3]]
 
 ## Index
-<span class="counts">_[[Eros]] (78) · [[Desire]] (62) · [[Dharma]] (36) · [[Passion]] (29) · [[Retreat]] (19) · [[Divinity]] (17) · [[Meditation]] (17) · [[Imaginal]] (16) · [[Insight]] (16) · [[Awakening]] (15) · [[Soulmaking]] (13) · [[Craving]] (12) · [[Delineations]] (12) · [[Sexuality]] (11) · [[Ways of Looking]] (11) · [[Buddha]] (10) · [[Love]] (10) · [[Perception]] (10) · [[Clinging]] (9) · [[Soul]] (9) · [[Beauty]] (8) · [[Experience]] (8) · [[Cosmology]] (7) · [[Image]] (7) · [[Conceptual Framework]] (6) · [[Death]] (6) · [[Dukkha]] (6) · [[Fabrication]] (6) · [[Mara]] (6) · [[Unfabricated]] (6) · [[Dependent Origination]] (5) · [[Embodiment]] (5) · [[Emptiness]] (5) · [[Energy]] (5) · [[Freedom]] (5) · [[Letting go]] (5) · [[The Self]] (5) · [[Attention]] (4) · [[Fantasy]] (4) · [[Metta]] (4) · [[Middle Way]] (4) · [[Pain]] (4) · [[Pali Canon]] (4) · [[Romantic love]] (4) · [[Thanatos]] (4) · [[Dimensionality]] (3) · [[Gaia House]] (3) · [[Hindrances]] (3) · [[Oneness]] (3) · [[Tantra]] (3) · [[Alchemy]] (2) · [[Brahmaviharas]] (2) · [[Cultivation]] (2) · [[Four Bases]] (2) · [[Jhanas]] (2) · [[Meaningfulness]] (2) · [[Papanca]] (2) · [[Psyche]] (2) · [[Samadhi]] (2) · [[Soulmaking Dynamic]] (2) · [[Archetype]] · [[Awakening#Factors of Awakening]] · [[Consciousness]] · [[Devotion]] · [[Dominant Culture]] · [[Eclecticism]] · [[Emptiness#Suchness]] · [[Energy Body]] · [[Equanimity]] · [[Fear]] · [[Hermit]] · [[Juiciness]] · [[Kusala]] · [[Logos]] · [[Materialism]] · [[Nature]] · [[Passion, Desire, and the Path]] · [[Personhood]] · [[Poetry]] · [[Precepts]] · [[Relationships]] · [[Samatha]] · [[Sigmund Freud]] · [[Stories]] · [[Sutta]] · [[Wise Effort]] · [[Wise Relationship to Practice]] · [[stream-entry]]_</span>
+<span class="counts">_[[Eros]] (78) · [[Desire]] (62) · [[Dharma]] (36) · [[Passion]] (29) · [[Retreat]] (19) · [[Divinity]] (17) · [[Meditation]] (17) · [[Imaginal]] (16) · [[Insight]] (16) · [[Awakening]] (15) · [[Soulmaking]] (13) · [[Craving]] (12) · [[Delineations]] (12) · [[Sexuality]] (11) · [[Ways of looking]] (11) · [[Buddha]] (10) · [[Love]] (10) · [[Perception]] (10) · [[Clinging]] (9) · [[Soul]] (9) · [[Beauty]] (8) · [[Experience]] (8) · [[Cosmology]] (7) · [[Image]] (7) · [[Conceptual framework]] (6) · [[Death]] (6) · [[Dukkha]] (6) · [[Fabrication]] (6) · [[Mara]] (6) · [[Unfabricated]] (6) · [[Dependent Origination]] (5) · [[Embodiment]] (5) · [[Emptiness]] (5) · [[Energy]] (5) · [[Freedom]] (5) · [[Letting go]] (5) · [[The Self]] (5) · [[Attention]] (4) · [[Fantasy]] (4) · [[Metta]] (4) · [[Middle Way]] (4) · [[Pain]] (4) · [[Pali Canon]] (4) · [[Romantic love]] (4) · [[Thanatos]] (4) · [[Dimensionality]] (3) · [[Gaia House]] (3) · [[Hindrances]] (3) · [[Oneness]] (3) · [[Tantra]] (3) · [[Alchemy]] (2) · [[Brahmaviharas]] (2) · [[Cultivation]] (2) · [[Four bases of power]] (2) · [[Jhanas]] (2) · [[Meaningfulness]] (2) · [[Papanca]] (2) · [[Psyche]] (2) · [[Samadhi]] (2) · [[Soulmaking Dynamic]] (2) · [[Archetype]] · [[Awakening#Factors of Awakening]] · [[Consciousness]] · [[Devotion]] · [[Dominant culture]] · [[Eclecticism]] · [[Emptiness#Suchness]] · [[Energy body]] · [[Equanimity]] · [[Fear]] · [[Hermit]] · [[Juiciness]] · [[Kusala]] · [[Logos]] · [[Materialism]] · [[Nature]] · [[Passion, Desire, and the Path]] · [[Personhood]] · [[Poetry]] · [[Precepts]] · [[Relationships]] · [[Samatha]] · [[Sigmund Freud]] · [[Stories]] · [[Sutta]] · [[Wise Effort]] · [[Wise Relationship to Practice]] · [[stream-entry]]_</span>
 <br/>
 
 ## Paragraphs
@@ -96,13 +96,13 @@ Transcript PDF: [[2017_0118 Dilemmas and Delineations - How did we get here Part
 ---
 ### Relationship with desire
 ##### Desire is one of the Four Bases
-<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^3-4|3-4]]**: _[[Eros]] (3) · [[Retreat]] · [[Desire]] (14) · [[Dharma]] · [[Buddha]] (2) · [[Awakening#Factors of Awakening]] · [[Four Bases]] (2) · [[Samadhi]] · [[Jhanas]] · [[Brahmaviharas]] · [[Awakening]] · [[Attention]] · [[Letting go]] · [[Clinging]]_</span>
+<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^3-4|3-4]]**: _[[Eros]] (3) · [[Retreat]] · [[Desire]] (14) · [[Dharma]] · [[Buddha]] (2) · [[Awakening#Factors of Awakening]] · [[Four bases of power]] (2) · [[Samadhi]] · [[Jhanas]] · [[Brahmaviharas]] · [[Awakening]] · [[Attention]] · [[Letting go]] · [[Clinging]]_</span>
 
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=14:25]]
 
 ---
 ##### The Buddha often uses "striving" etc.
-<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^4-1|4-1]]**: _[[Pali Canon]] · [[Buddha]] · [[Desire]] (2) · [[Dominant Culture]] · [[Passion]] (3) · [[Middle Way]] (4) · [[Devotion]] · [[Awakening]]_</span>
+<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^4-1|4-1]]**: _[[Pali Canon]] · [[Buddha]] · [[Desire]] (2) · [[Dominant culture]] · [[Passion]] (3) · [[Middle Way]] (4) · [[Devotion]] · [[Awakening]]_</span>
 
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=16:22]]
 
@@ -166,7 +166,7 @@ Practising in that way, actually respecting the desire and, if you like, empower
 
 ---
 ##### Parts of the context: problems coming from wanting to live without clinging; imaginal practice
-<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^6-1|6-1]]**: _[[Clinging]] (2) · [[Craving]] · [[Letting go]] · [[Retreat]] (3) · [[Passion]] · [[Imaginal]] (3) · [[Tantra]] · [[Eros]] · [[Love]] · [[Conceptual Framework]] · [[Soulmaking Dynamic]] (2)_</span>
+<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^6-1|6-1]]**: _[[Clinging]] (2) · [[Craving]] · [[Letting go]] · [[Retreat]] (3) · [[Passion]] · [[Imaginal]] (3) · [[Tantra]] · [[Eros]] · [[Love]] · [[Conceptual framework]] · [[Soulmaking Dynamic]] (2)_</span>
 
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=27:18]]
 
@@ -312,7 +312,7 @@ I cannot reduce a romantic love relationship or a marriage to _mettā_ . There's
 
 ---
 #### 3. Opening a direction of investigation
-<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^10-3|10-3]]**: _[[Sexuality]] · [[Love]] · [[Eros]] (4) · [[Dharma]] (3) · [[Divinity]] · [[Perception]] (3) · [[Dependent Origination]] · [[Ways of Looking]] · [[Fabrication]]_</span>
+<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^10-3|10-3]]**: _[[Sexuality]] · [[Love]] · [[Eros]] (4) · [[Dharma]] (3) · [[Divinity]] · [[Perception]] (3) · [[Dependent Origination]] · [[Ways of looking]] · [[Fabrication]]_</span>
 
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=51:31]]
 
@@ -339,7 +339,7 @@ There can be and hopefully is an erotic view, an erotic connection, with the pat
 
 ---
 ##### Eros involves energy, embodiment, the imaginal, and logos
-<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^11-3|11-3]]**: _[[Eros]] (5) · [[Sexuality]] · [[Embodiment]] (5) · [[Imaginal]] (2) · [[Energy]] · [[Energy Body]] · [[Logos]] · [[Soul]] · [[Dimensionality]] · [[Beauty]] · [[Meaningfulness]] · [[Soulmaking]] (2) · [[Divinity]]_</span>
+<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^11-3|11-3]]**: _[[Eros]] (5) · [[Sexuality]] · [[Embodiment]] (5) · [[Imaginal]] (2) · [[Energy]] · [[Energy body]] · [[Logos]] · [[Soul]] · [[Dimensionality]] · [[Beauty]] · [[Meaningfulness]] · [[Soulmaking]] (2) · [[Divinity]]_</span>
 
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=56:20]]
 
@@ -381,7 +381,7 @@ eros and libido or life force _can_ be and often _is_ blocked in our lives in di
 
 ---
 ##### The sense of the holiness of desire is tricky, so help is needed
-<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^12-4|12-4]]**: _[[Dharma]] (2) · [[Insight]] · [[Desire]] (3) · [[Imaginal]] · [[Conceptual Framework]] · [[Delineations]]_</span>
+<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^12-4|12-4]]**: _[[Dharma]] (2) · [[Insight]] · [[Desire]] (3) · [[Imaginal]] · [[Conceptual framework]] · [[Delineations]]_</span>
 
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=01:03:11]]
 
@@ -408,7 +408,7 @@ that understanding of emptiness ... well, let's say this: it can provide a non-r
 
 ---
 ##### The different ways of looking form a non-realist basis for explanations and explorations
-<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^13-2|13-2]]**: _[[Emptiness]] (3) · [[Insight]] (2) · [[Ways of Looking]] (4) · [[Conceptual Framework]] (4) · [[Nature]] · [[Dharma]] · [[Craving]] · [[Letting go]] · [[Dukkha]] · [[Dependent Origination]] · [[Imaginal]] · [[Tantra]] (2)_</span>
+<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^13-2|13-2]]**: _[[Emptiness]] (3) · [[Insight]] (2) · [[Ways of looking]] (4) · [[Conceptual framework]] (4) · [[Nature]] · [[Dharma]] · [[Craving]] · [[Letting go]] · [[Dukkha]] · [[Dependent Origination]] · [[Imaginal]] · [[Tantra]] (2)_</span>
 
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=01:07:04]]
 
@@ -434,7 +434,7 @@ All that is partly what allows us to open up teachings of imaginal practice and,
 
 ---
 ##### Dharma concepts aim towards less papanca
-<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^14-1|14-1]]**: _[[Dharma]] (4) · [[Dependent Origination]] · [[Buddha]] · [[Ways of Looking]] (6) · [[Fabrication]] (3) · [[Papanca]] · [[Perception]] (2) · [[Emptiness#Suchness]] · [[Unfabricated]]_</span>
+<span class="counts">**[[0118 Dilemmas and Delineations - How did we get here Part 1#^14-1|14-1]]**: _[[Dharma]] (4) · [[Dependent Origination]] · [[Buddha]] · [[Ways of looking]] (6) · [[Fabrication]] (3) · [[Papanca]] · [[Perception]] (2) · [[Emptiness#Suchness]] · [[Unfabricated]]_</span>
 
 ![[20170118-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_1-40163.mp3#t=01:10:42]]
 

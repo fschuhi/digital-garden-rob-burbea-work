@@ -14,7 +14,7 @@ Transcript PDF: [[2017_0119 Dilemmas and Delineations - How did we get here Part
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3]]
 
 ## Index
-<span class="counts">_[[Eros]] (92) · [[Soulmaking]] (20) · [[Experience]] (18) · [[Energy Body]] (14) · [[Conceptual Framework]] (10) · [[Desire]] (10) · [[Dharma]] (9) · [[Imaginal]] (9) · [[Divinity]] (8) · [[Juiciness]] (8) · [[Oneness]] (8) · [[Retreat]] (7) · [[Insight]] (6) · [[Mind]] (6) · [[Mind state]] (6) · [[Sexuality]] (6) · [[Buddha]] (4) · [[Dionysius the Areopagite]] (4) · [[Energy]] (4) · [[Mindfulness]] (4) · [[Soul]] (4) · [[Awakening]] (3) · [[Craving]] (3) · [[Delineations]] (3) · [[Image]] (3) · [[Jhanas]] (3) · [[Psyche]] (3) · [[Soulmaking Dynamic]] (3) · [[Awareness]] (2) · [[Beauty]] (2) · [[Dimensionality]] (2) · [[Embodiment]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Love]] (2) · [[Passion]] (2) · [[Phenomenology]] (2) · [[Pleasantness]] (2) · [[Samadhi]] (2) · [[Sigmund Freud]] (2) · [[The Self]] (2) · [[Alchemy]] · [[Clinging]] · [[Consciousness]] · [[Death]] · [[Emptiness]] · [[Feelings]] · [[Happiness]] · [[Hermeneutics#Overview]] · [[Hindrances]] · [[James Hillman]] · [[Metta]] · [[Nature]] · [[Papanca]] · [[Piti]] · [[Relationships]] · [[Romantic love]] · [[Tantra]] · [[Unfabricated]]_</span>
+<span class="counts">_[[Eros]] (92) · [[Soulmaking]] (20) · [[Experience]] (18) · [[Energy body]] (14) · [[Conceptual framework]] (10) · [[Desire]] (10) · [[Dharma]] (9) · [[Imaginal]] (9) · [[Divinity]] (8) · [[Juiciness]] (8) · [[Oneness]] (8) · [[Retreat]] (7) · [[Insight]] (6) · [[Mind]] (6) · [[Mind state]] (6) · [[Sexuality]] (6) · [[Buddha]] (4) · [[Dionysius the Areopagite]] (4) · [[Energy]] (4) · [[Mindfulness]] (4) · [[Soul]] (4) · [[Awakening]] (3) · [[Craving]] (3) · [[Delineations]] (3) · [[Image]] (3) · [[Jhanas]] (3) · [[Psyche]] (3) · [[Soulmaking Dynamic]] (3) · [[Awareness]] (2) · [[Beauty]] (2) · [[Dimensionality]] (2) · [[Embodiment]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Love]] (2) · [[Passion]] (2) · [[Phenomenology]] (2) · [[Pleasantness]] (2) · [[Samadhi]] (2) · [[Sigmund Freud]] (2) · [[The Self]] (2) · [[Alchemy]] · [[Clinging]] · [[Consciousness]] · [[Death]] · [[Emptiness]] · [[Feelings]] · [[Happiness]] · [[Hermeneutics#Overview]] · [[Hindrances]] · [[James Hillman]] · [[Metta]] · [[Nature]] · [[Papanca]] · [[Piti]] · [[Relationships]] · [[Romantic love]] · [[Tantra]] · [[Unfabricated]]_</span>
 <br/>
 
 ## Paragraphs
@@ -45,7 +45,7 @@ eros involves and leads to soulmaking, and widening of the senses of sacredness 
 
 ---
 ##### This delineation of eros is based on a phenomenological approach
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^1-4|1-4]]**: _[[Eros]] (2) · [[Conceptual Framework]] (3) · [[Retreat]] · [[Phenomenology]] (2) · [[Experience]] (3) · [[Insight]] · [[Emptiness]] · [[Imaginal]] · [[Soulmaking]]_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^1-4|1-4]]**: _[[Eros]] (2) · [[Conceptual framework]] (3) · [[Retreat]] · [[Phenomenology]] (2) · [[Experience]] (3) · [[Insight]] · [[Emptiness]] · [[Imaginal]] · [[Soulmaking]]_</span>
 
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=04:05]]
 
@@ -65,7 +65,7 @@ So this word that I want to interpret in the text, the word is part of a much la
 
 ---
 ##### The conundrum of the hermeneutic circle, using the example of understanding mindfulness as part of the Dharma
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^2-1|2-1]]**: _[[Eros]] (2) · [[Insight]] (4) · [[Passion]] · [[Conceptual Framework]] · [[Imaginal]] · [[Soulmaking]] · [[Mindfulness]] (4) · [[Buddha]] (2) · [[Dharma]] (4)_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^2-1|2-1]]**: _[[Eros]] (2) · [[Insight]] (4) · [[Passion]] · [[Conceptual framework]] · [[Imaginal]] · [[Soulmaking]] · [[Mindfulness]] (4) · [[Buddha]] (2) · [[Dharma]] (4)_</span>
 
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=07:09]]
 
@@ -81,7 +81,7 @@ because of this contextualization and relationship, and the place that something
 
 ---
 ##### Eros, like the (demi-)god, is not fully capturable in concept
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^2-3|2-3]]**: _[[Eros]] (3) · [[Divinity]] (2) · [[Nature]] · [[Conceptual Framework]] (4)_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^2-3|2-3]]**: _[[Eros]] (3) · [[Divinity]] (2) · [[Nature]] · [[Conceptual framework]] (4)_</span>
 
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=10:11]]
 
@@ -166,7 +166,7 @@ It will resist somehow that collapse to oneness. It will preserve the twoness, t
 
 ---
 ##### We need to develop the sensitivity to the texture of mind states and the space of mind
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^5-2|5-2]]**: _[[Dharma]] · [[Awareness]] · [[Mind state]] (2) · [[Passion]] · [[Eros]] · [[Energy Body]] (2) · [[Mind]] (3)_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^5-2|5-2]]**: _[[Dharma]] · [[Awareness]] · [[Mind state]] (2) · [[Passion]] · [[Eros]] · [[Energy body]] (2) · [[Mind]] (3)_</span>
 
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=25:14]]
 
@@ -208,13 +208,13 @@ Eros always invokes, is involved with or involves, and stimulates the imaginal a
 
 ---
 ##### We are attracted to the dynamic complex of image, idea, and eros itself
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^6-4|6-4]]**: _[[Juiciness]] · [[Imaginal]] · [[Image]] (3) · [[Eros]] (5) · [[Retreat]] · [[Soulmaking]] · [[Papanca]] · [[Psyche]] · [[Conceptual Framework]]_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^6-4|6-4]]**: _[[Juiciness]] · [[Imaginal]] · [[Image]] (3) · [[Eros]] (5) · [[Retreat]] · [[Soulmaking]] · [[Papanca]] · [[Psyche]] · [[Conceptual framework]]_</span>
 
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=32:57]]
 
 ---
 ##### Arousal of interest and resonances in the energy body
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^7-1|7-1]]**: _[[Eros]] (3) · [[Juiciness]] · [[Experience]] · [[Energy Body]] (4) · [[Retreat]] · [[Imaginal]]_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^7-1|7-1]]**: _[[Eros]] (3) · [[Juiciness]] · [[Experience]] · [[Energy body]] (4) · [[Retreat]] · [[Imaginal]]_</span>
 
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=34:24]]
 
@@ -236,7 +236,7 @@ There's an arousal of interest. We're really interested in this beloved. Somethi
 
 ---
 ##### The "bliss" of soulmaking"
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^7-4|7-4]]**: _[[Eros]] (4) · [[Experience]] · [[Energy Body]] (5) · [[Pleasantness]] · [[Piti]] · [[Happiness]] · [[The Self]] · [[Jhanas]] (3) · [[Soulmaking]] (5)_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^7-4|7-4]]**: _[[Eros]] (4) · [[Experience]] · [[Energy body]] (5) · [[Pleasantness]] · [[Piti]] · [[Happiness]] · [[The Self]] · [[Jhanas]] (3) · [[Soulmaking]] (5)_</span>
 
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=38:37]]
 
@@ -246,13 +246,13 @@ There's an arousal of interest. We're really interested in this beloved. Somethi
 
 ---
 ##### Recap of how to recognize eros
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^8-1|8-1]]**: _[[Eros]] (3) · [[Juiciness]] · [[Experience]] (3) · [[Energy Body]] (3) · [[Pleasantness]] · [[Feelings]] · [[Retreat]]_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^8-1|8-1]]**: _[[Eros]] (3) · [[Juiciness]] · [[Experience]] (3) · [[Energy body]] (3) · [[Pleasantness]] · [[Feelings]] · [[Retreat]]_</span>
 
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=40:26]]
 
 ---
 ##### Now let's draw in some of these ideas and involve them in each other
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^8-2|8-2]]**: _[[Delineations]] · [[Conceptual Framework]]_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^8-2|8-2]]**: _[[Delineations]] · [[Conceptual framework]]_</span>
 
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=41:44]]
 
