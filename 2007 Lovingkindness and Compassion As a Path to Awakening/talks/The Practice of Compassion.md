@@ -41,7 +41,7 @@ So we see sorrow in someone, and somehow we also feel sorrow. This is, to me, a 
 <span class="counts">**[[0201 The Practice of Compassion#^1-4|1-4]]**: _[[Compassion]] (3) · [[Equanimity]] · [[Insight]] · [[Metta]] (3) · [[Acceptance]] · [[Dukkha]] · [[Happiness]] (2)_</span>
 
 ---
-##### Compassion is more than a feeeling
+##### Compassion is more than a feeling
 <span class="counts">**[[0201 The Practice of Compassion#^1-5|1-5]]**: _[[Compassion]] (2) · [[Metta]]_</span>
 
 ---

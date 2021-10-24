@@ -3,9 +3,9 @@ obsidianUIMode: preview
 ---
 # The Garden of the Soul: Rob Burbea's Teachings
 ```ad-quote
-What if I saw everything as unsatisfactory? Just things come into consciousness, any experience, anything at all - just regard it as unsatisfactory. It's not a loathing or an aversion. Just saying, "Ah! It can't satisfy me." What happens is there's a letting go.
+So sometimes it will feel like we're very much in the 'feeling the sorrow' side, where very much there's quite some sadness, or grief, or just being moved. And sometimes it can be very lovely, and there's a sweetness to it, there's a beauty to it; the heart is open and touched. And sometimes it feels like the balance is more, we're just feeling in, tuning into that energy that's going out - the lovely quality of healing, of light, the balm, the comforting.
 
-_(a quote from the talk [[What is Insight#Seeing things as unsatisfactory|What is Insight]])_
+_(a quote from the talk [[Equanimity in Compassion#2 Wanting to heal the suffering energy|Equanimity in Compassion]])_
 ```
 
 ```ad-danger
