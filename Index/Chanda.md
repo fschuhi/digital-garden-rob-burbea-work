@@ -18,3 +18,17 @@ description | count | talk
 [[The Way of Non-Clinging Part 3#Soulmaking is important for and to the soul so don't let go of it\|Soulmaking is important for and to the soul, so don't let go of it]] | 1 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 1#Clinging supports suffering\|Clinging supports suffering]] | 1 | [[The Way of Non-Clinging Part 1]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Clinging]] | 4 | <span class="counts">[[The Way of Non-Clinging Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Craving]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Love and Emptiness]] (1) · [[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Dukkha]] | 4 | <span class="counts">[[The Way of Non-Clinging Part 1]] (2) · [[Love and Emptiness]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Desire]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Buddha]] | 2 | <span class="counts">[[Love and Emptiness]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Dharma]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Eros]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Hindrances]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Metta]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Attention]] | 1 | <span class="counts">[[Love and Emptiness]] (1)</span> 
+

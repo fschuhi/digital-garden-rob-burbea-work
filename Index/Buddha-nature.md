@@ -15,3 +15,17 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The soul-duty of the dharmakāya\|The soul-duty of the dharmakāya]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Dilemmas and Delineations - How did we get here Part 3#20 Buddha-nature\|(20) Buddha-nature]] | 1 | [[Dilemmas and Delineations - How did we get here Part 3]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Dharmakaya]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Awareness]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
+[[Buddha]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
+[[Buddhism]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
+[[Emptiness]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
+[[Mind]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Perception]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
+[[Soul]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Awakening]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Cosmology]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+

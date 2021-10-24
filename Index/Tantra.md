@@ -19,3 +19,17 @@ description | count | talk
 [[Dilemmas and Delineations - How did we get here Part 1#Parts of the context problems coming from wanting to live without clinging; imaginal practice\|Parts of the context: problems coming from wanting to live without clinging; imaginal practice]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[Questioning Awakening#Different views and ideas unfold certain experiences\|Different views and ideas unfold certain experiences]] | 1 | [[Questioning Awakening]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Buddha]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1) · [[Questioning Awakening]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Clinging]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Conceptual framework]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
+[[Craving]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
+[[Emptiness]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Eros]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
+[[Imaginal]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
+[[Insight]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Letting go]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
+[[Mahayana]] | 2 | <span class="counts">[[Questioning Awakening]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+

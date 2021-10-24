@@ -19,3 +19,17 @@ description | count | talk
 [[Questioning Awakening#Is a wholly different relationship with fundamental ideas possible\|Is a wholly different relationship with fundamental ideas possible?]] | 1 | [[Questioning Awakening]]
 [[From Insight to Love#"Just unhook" is not a metaphysical statement\|"Just unhook" is not a metaphysical statement]] | 1 | [[From Insight to Love]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Experience]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[From Insight to Love]] (1) · [[Questioning Awakening]] (1)</span> 
+[[Cosmology]] | 3 | <span class="counts">[[Questioning Awakening]] (3)</span> 
+[[Perception]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Questioning Awakening]] (1)</span> 
+[[Conceptual framework]] | 2 | <span class="counts">[[Questioning Awakening]] (2)</span> 
+[[Insight]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
+[[Meaningfulness]] | 2 | <span class="counts">[[Questioning Awakening]] (2)</span> 
+[[Phenomenology]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
+[[Phenomenon]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
+[[The Self]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Questioning Awakening]] (1)</span> 
+[[Anatta]] | 1 | <span class="counts">[[From Insight to Love]] (1)</span> 
+

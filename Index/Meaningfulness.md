@@ -24,3 +24,17 @@ description | count | talk
 [[Questioning Awakening#The power and appeal of "this" and "now" comes from hidden metaphysical assumptions about reality\|The power and appeal of "this" and "now" comes from hidden metaphysical assumptions about reality]] | 1 | [[Questioning Awakening]]
 [[Questioning Awakening#There is always an assumption about metaphysics\|There is always an assumption about metaphysics]] | 1 | [[Questioning Awakening]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Soul]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Dimensionality]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Image]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
+[[Beauty]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Fantasy]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
+[[Soulmaking]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
+[[Divinity]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Eros]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Imaginal]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Cosmology]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Questioning Awakening]] (1)</span> 
+

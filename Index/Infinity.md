@@ -26,3 +26,17 @@ description | count | talk
 [[The Practice of Compassion#Seeing the oneness in the commonality\|Seeing the oneness in the commonality]] | 1 | [[The Practice of Compassion]]
 [[Expressions of Metta#It's an infinite web that has given rise to this appearence\|It's an infinite web that has given rise to this appearence]] | 1 | [[Expressions of Metta]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Soul]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Questioning Awakening]] (1)</span> 
+[[The Self]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Questioning Awakening]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Compassion]] | 2 | <span class="counts">[[The Practice of Compassion]] (2)</span> 
+[[Death]] | 2 | <span class="counts">[[Equanimity (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Dependent Origination]] | 2 | <span class="counts">[[Expressions of Metta]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Embodiment]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[Equanimity (talk)]] (1)</span> 
+[[Experience]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Equanimity (talk)]] (1)</span> 
+[[Love]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Questioning Awakening]] (1)</span> 
+[[Music]] | 2 | <span class="counts">[[Expressions of Metta]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Oneness]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+

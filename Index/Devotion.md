@@ -28,3 +28,17 @@ description | count | talk
 [[Joy (talk)#Attention to ethics\|Attention to ethics]] | 1 | [[Joy (talk)]]
 [[What is Insight#To consolidate the insight needs us to act on it\|To consolidate the insight needs us to act on it]] | 1 | [[What is Insight]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Image]] | 7 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Daimon]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Soul]] | 6 | <span class="counts">[[Orienting to This Jhana Retreat]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Embodiment]] | 5 | <span class="counts">[[Orienting to This Jhana Retreat]] (3) · [[Perfection and Christ's Blessing]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Beauty]] | 4 | <span class="counts">[[Orienting to This Jhana Retreat]] (1) · [[Perfection and Christ's Blessing]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Duty]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Happiness]] | 4 | <span class="counts">[[Compassion (talk)]] (1) · [[Equanimity in Compassion]] (1) · [[Joy (talk)]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Buddha]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Joy (talk)]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Energy body]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Imaginal]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+

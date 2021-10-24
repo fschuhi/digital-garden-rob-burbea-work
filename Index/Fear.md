@@ -46,3 +46,17 @@ description | count | talk
 [[From Insight to Love#How do I known I'm not repressing some real fear\|How do I known I'm not repressing some real fear?]] | 4 | [[From Insight to Love]]
 [[Samadhi in Metta Practice#The softening of the sense of self can be an existential fear\|The softening of the sense of self can be an existential fear]] | 4 | [[Samadhi in Metta Practice]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Metta]] | 22 | <span class="counts">[[From Insight to Love]] (8) · [[Using Insight to Deepen Love and Compassion]] (5) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Compassion (talk)]] (1)</span> 
+[[Aversion]] | 19 | <span class="counts">[[From Insight to Love]] (9) · [[Using Insight to Deepen Love and Compassion]] (8) · [[Joy (talk)]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Love]] | 19 | <span class="counts">[[From Insight to Love]] (8) · [[Using Insight to Deepen Love and Compassion]] (5) · [[Compassion (talk)]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Compassion]] | 18 | <span class="counts">[[Compassion (talk)]] (5) · [[The Practice of Compassion]] (5) · [[From Insight to Love]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Anger]] | 16 | <span class="counts">[[The Practice of Compassion]] (5) · [[Compassion (talk)]] (4) · [[Exploring the World of Loving Kindness]] (2) · [[From Insight to Love]] (2)</span> 
+[[Mind]] | 16 | <span class="counts">[[From Insight to Love]] (7) · [[Using Insight to Deepen Love and Compassion]] (4) · [[Love and Emptiness]] (2) · [[Equanimity (talk)]] (1)</span> 
+[[The Self]] | 14 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Compassion (talk)]] (2) · [[The Practice of Compassion]] (2)</span> 
+[[Buddha]] | 11 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (5) · [[From Insight to Love]] (3) · [[Love and Emptiness]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Embodiment]] | 11 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (8) · [[From Insight to Love]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Dukkha]] | 10 | <span class="counts">[[The Practice of Compassion]] (5) · [[Compassion (talk)]] (4) · [[From Insight to Love]] (1)</span> 
+

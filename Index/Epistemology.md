@@ -15,3 +15,11 @@ description | count | talk
 :- | : - | :-
 [[Questioning Awakening#There is always an assumption about metaphysics\|There is always an assumption about metaphysics]] | 3 | [[Questioning Awakening]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Cosmology]] | 1 | <span class="counts">[[Questioning Awakening]] (1)</span> 
+[[Meaningfulness]] | 1 | <span class="counts">[[Questioning Awakening]] (1)</span> 
+[[Metaphysics]] | 1 | <span class="counts">[[Questioning Awakening]] (1)</span> 
+[[Ontology]] | 1 | <span class="counts">[[Questioning Awakening]] (1)</span> 
+

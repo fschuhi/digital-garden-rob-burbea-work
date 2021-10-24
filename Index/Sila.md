@@ -15,3 +15,17 @@ description | count | talk
 [[The Way of Non-Clinging Part 2#The process of non-clinging dvelops through clinging to something else\|The process of non-clinging dvelops through clinging to something else]] | 1 | [[The Way of Non-Clinging Part 2]]
 [[Joy (talk)#Attention to ethics\|Attention to ethics]] | 1 | [[Joy (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Buddha]] | 2 | <span class="counts">[[Joy (talk)]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Clinging]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2)</span> 
+[[Ethics]] | 2 | <span class="counts">[[Joy (talk)]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Letting go]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2)</span> 
+[[Anatta]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Attention]] | 1 | <span class="counts">[[Joy (talk)]] (1)</span> 
+[[Beauty]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Buddhism]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Dana]] | 1 | <span class="counts">[[Joy (talk)]] (1)</span> 
+[[Devotion]] | 1 | <span class="counts">[[Joy (talk)]] (1)</span> 
+

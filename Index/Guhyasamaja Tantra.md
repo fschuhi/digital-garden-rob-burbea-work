@@ -10,3 +10,9 @@ description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟢sarvatathāgatakāyavākcittaguhyahṛdayavajra\|🟢sarvatathāgatakāyavākcittaguhyahṛdayavajra]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Buddha]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Eros Unfettered]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+

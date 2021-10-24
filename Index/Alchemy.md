@@ -18,3 +18,17 @@ description | count | talk
 [[Dilemmas and Delineations - How did we get here Part 1#Practice allowing dukkha without acting on it\|Practice: allowing dukkha, without acting on it]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[The Way of Non-Clinging Part 1#Could be a standalone talk on clinging but will set context\|Could be a standalone talk on clinging, but will set context]] | 1 | [[The Way of Non-Clinging Part 1]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Eros]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Experience]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Beauty]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Desire]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
+[[Dukkha]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Embodiment]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Energy body]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Image]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Retreat]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
+[[The Self]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+

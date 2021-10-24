@@ -16,3 +16,17 @@ description | count | talk
 [[The Way of Non-Clinging Part 2#Does Mahasi-style meditation on impermance disclose reality\|Does Mahasi-style meditation on impermance disclose reality?]] | 1 | [[The Way of Non-Clinging Part 2]]
 [[Questioning Awakening#Example narrow focus of Mahasi tradition\|Example: narrow focus of Mahasi tradition]] | 1 | [[Questioning Awakening]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Mindfulness]] | 3 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (1) · [[Questioning Awakening]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Embodiment]] | 2 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Energy]] | 2 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Perception]] | 2 | <span class="counts">[[Questioning Awakening]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Attention]] | 1 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Awareness]] | 1 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (1)</span> 
+[[Breath]] | 1 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Clinging]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Consciousness]] | 1 | <span class="counts">[[Questioning Awakening]] (1)</span> 
+[[Cultivation]] | 1 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (1)</span> 
+

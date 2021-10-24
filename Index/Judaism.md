@@ -14,3 +14,16 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#More on the word "angel" 🟢\|More on the word "angel" 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[From Insight to Love#The Jewish rabbi the cantor and the janitor\|The Jewish rabbi, the cantor and the janitor]] | 1 | [[From Insight to Love]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Anatta]] | 1 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Attention]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Daimon]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Energy body]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Image]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Personhood]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Receptivity]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Sabbath]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Soulmaking]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+

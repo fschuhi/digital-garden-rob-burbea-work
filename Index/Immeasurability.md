@@ -13,3 +13,17 @@ description | count | talk
 [[Equanimity in Compassion#The true nature of all things is immeasurable\|The true nature of all things is immeasurable]] | 3 | [[Equanimity in Compassion]]
 [[Equanimity in Compassion#More important than the experience is the understanding how things appearing depends on my relationship to them\|More important than the experience is the understanding how things appearing depends on my relationship to them]] | 2 | [[Equanimity in Compassion]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Craving]] | 3 | <span class="counts">[[Equanimity in Compassion]] (2) · [[Equanimity (talk)]] (1)</span> 
+[[Equanimity]] | 2 | <span class="counts">[[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Experience]] | 2 | <span class="counts">[[Equanimity in Compassion]] (2)</span> 
+[[Insight]] | 2 | <span class="counts">[[Equanimity in Compassion]] (2)</span> 
+[[Compassion]] | 1 | <span class="counts">[[Equanimity in Compassion]] (1)</span> 
+[[Consciousness]] | 1 | <span class="counts">[[Equanimity in Compassion]] (1)</span> 
+[[Cultivation]] | 1 | <span class="counts">[[Equanimity (talk)]] (1)</span> 
+[[Embodiment]] | 1 | <span class="counts">[[Equanimity (talk)]] (1)</span> 
+[[Freedom]] | 1 | <span class="counts">[[Equanimity (talk)]] (1)</span> 
+[[Love]] | 1 | <span class="counts">[[Equanimity in Compassion]] (1)</span> 
+

@@ -22,3 +22,17 @@ description | count | talk
 [[Equanimity in Compassion#1 Opening the heart to resonate with the suffering we see empathy\|(1) Opening the heart to resonate with the suffering we see (empathy)]] | 1 | [[Equanimity in Compassion]]
 [[The Practice of Compassion#If there's too much sadness we feel we will get tired and feel burdened\|If there's too much sadness we feel, we will get tired and feel burdened]] | 1 | [[The Practice of Compassion]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Compassion]] | 9 | <span class="counts">[[Compassion (talk)]] (4) · [[Compassion Part Two - Compassion for Ourselves]] (3) · [[Equanimity in Compassion]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Dukkha]] | 9 | <span class="counts">[[Compassion (talk)]] (4) · [[Compassion Part Two - Compassion for Ourselves]] (2) · [[The Practice of Compassion]] (2) · [[Equanimity in Compassion]] (1)</span> 
+[[Cultivation]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Embodiment]] | 3 | <span class="counts">[[Compassion (talk)]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1)</span> 
+[[Energy]] | 3 | <span class="counts">[[Compassion (talk)]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1)</span> 
+[[Healing]] | 3 | <span class="counts">[[Compassion (talk)]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1)</span> 
+[[Spaciousness]] | 2 | <span class="counts">[[Compassion (talk)]] (2)</span> 
+[[Awareness]] | 1 | <span class="counts">[[Compassion (talk)]] (1)</span> 
+[[Buddha]] | 1 | <span class="counts">[[The Practice of Compassion]] (1)</span> 
+[[Equanimity]] | 1 | <span class="counts">[[The Practice of Compassion]] (1)</span> 
+

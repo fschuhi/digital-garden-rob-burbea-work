@@ -42,3 +42,17 @@ description | count | talk
 [[Counting Within the Breath - Guided Meditation#The long breath is helpful in bringing energy - it can take you right up to the edge of the first jhana\|The long breath is helpful in bringing energy - it can take you right up to the edge of the first jhana]] | 1 | [[Counting Within the Breath - Guided Meditation]]
 [[Orienting to This Jhana Retreat#One of the fruits of jhanas is malleability of mind\|One of the fruits of jhanas is malleability of mind]] | 1 | [[Orienting to This Jhana Retreat]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Mind]] | 7 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (2) · [[Orienting to This Jhana Retreat]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Breath]] | 6 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (3) · [[Counting Within the Breath - Guided Meditation]] (2) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Meditation]] | 5 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Energy]] | 4 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Jhanas]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[Counting Within the Breath - Guided Meditation]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Embodiment]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[Counting Within the Breath - Guided Meditation]] (1)</span> 
+[[Dharma]] | 2 | <span class="counts">[[Orienting to This Jhana Retreat]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Energy body]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Image]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Retreat]] | 2 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+

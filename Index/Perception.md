@@ -37,3 +37,17 @@ description | count | talk
 [[Love and Emptiness#Rob attention is kind of like prongs\|Rob: attention is kind of like prongs]] | 4 | [[Love and Emptiness]]
 [[Expressions of Metta#A sense of merging begins to question our taken-for-granted perception of separation\|A sense of merging begins to question our taken-for-granted perception of separation]] | 4 | [[Expressions of Metta]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Emptiness]] | 34 | <span class="counts">[[The Way of Non-Clinging Part 2]] (10) · [[Love and Emptiness]] (9) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Experience]] | 34 | <span class="counts">[[The Way of Non-Clinging Part 2]] (9) · [[Dilemmas and Delineations - How did we get here Part 3]] (7) · [[Using Insight to Deepen Love and Compassion]] (4) · [[The Way of Non-Clinging Part 3]] (3) · [[Love and Emptiness]] (2) · [[Questioning Awakening]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
+[[Clinging]] | 32 | <span class="counts">[[The Way of Non-Clinging Part 2]] (17) · [[The Way of Non-Clinging Part 3]] (5) · [[The Way of Non-Clinging Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Insight]] | 31 | <span class="counts">[[The Way of Non-Clinging Part 2]] (9) · [[Dilemmas and Delineations - How did we get here Part 3]] (5) · [[Love and Emptiness]] (4) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (2) · [[What is Insight]] (2)</span> 
+[[Fabrication]] | 30 | <span class="counts">[[The Way of Non-Clinging Part 2]] (16) · [[The Way of Non-Clinging Part 3]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Love and Emptiness]] (2)</span> 
+[[Mind]] | 30 | <span class="counts">[[The Way of Non-Clinging Part 2]] (8) · [[Love and Emptiness]] (7) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[The Practice of Compassion]] (2)</span> 
+[[Ways of looking]] | 29 | <span class="counts">[[The Way of Non-Clinging Part 2]] (13) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Love and Emptiness]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Love]] | 25 | <span class="counts">[[Love and Emptiness]] (8) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Equanimity in Compassion]] (2) · [[Expressions of Metta]] (2)</span> 
+[[Craving]] | 24 | <span class="counts">[[The Way of Non-Clinging Part 2]] (9) · [[The Way of Non-Clinging Part 3]] (4) · [[Love and Emptiness]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2)</span> 
+[[The Self]] | 22 | <span class="counts">[[The Way of Non-Clinging Part 2]] (10) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
+

@@ -42,3 +42,17 @@ description | count | talk
 [[Expressions of Metta#Relationship to Anatta\|Relationship to Anatta]] | 3 | [[Expressions of Metta]]
 [[Samadhi in Metta Practice#Maturity comes from not taking things so personal\|Maturity comes from not taking things so personal]] | 3 | [[Samadhi in Metta Practice]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Insight]] | 20 | <span class="counts">[[From Insight to Love]] (8) · [[The Practice of Compassion]] (3) · [[The Way of Non-Clinging Part 2]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Compassion (talk)]] (2)</span> 
+[[The Self]] | 20 | <span class="counts">[[From Insight to Love]] (5) · [[Using Insight to Deepen Love and Compassion]] (4) · [[The Way of Non-Clinging Part 2]] (3) · [[Compassion (talk)]] (2)</span> 
+[[Emptiness]] | 18 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (5) · [[The Way of Non-Clinging Part 2]] (3) · [[Exploring the World of Loving Kindness]] (2) · [[The Practice of Compassion]] (2)</span> 
+[[Dukkha]] | 17 | <span class="counts">[[From Insight to Love]] (4) · [[The Practice of Compassion]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2)</span> 
+[[Impermanence]] | 14 | <span class="counts">[[From Insight to Love]] (7) · [[Using Insight to Deepen Love and Compassion]] (3) · [[What is Insight]] (2) · [[Joy (talk)]] (1)</span> 
+[[Metta]] | 13 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (4) · [[From Insight to Love]] (3) · [[Expressions of Metta]] (2) · [[Compassion (talk)]] (1)</span> 
+[[Ways of looking]] | 12 | <span class="counts">[[The Way of Non-Clinging Part 2]] (5) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Buddha]] | 11 | <span class="counts">[[The Way of Non-Clinging Part 2]] (3) · [[From Insight to Love]] (2) · [[Compassion (talk)]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Compassion]] | 10 | <span class="counts">[[The Practice of Compassion]] (3) · [[Compassion (talk)]] (2) · [[Love and Emptiness]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1)</span> 
+[[Love]] | 10 | <span class="counts">[[From Insight to Love]] (4) · [[Love and Emptiness]] (2) · [[Equanimity in Compassion]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
+

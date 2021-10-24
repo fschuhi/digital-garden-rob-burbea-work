@@ -31,3 +31,18 @@ description | count | talk
 [[What is Insight#"Insights arise" often from trusting mindfulness\|"Insights arise", often from trusting mindfulness]] | 4 | [[What is Insight]]
 [[Equanimity in Compassion#Example Dharma talk\|Example: Dharma talk]] | 4 | [[Equanimity in Compassion]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Experience]] | 30 | <span class="counts">[[What is Insight]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Love and Emptiness]] (3) · [[Questioning Awakening]] (3) · [[The Way of Non-Clinging Part 2]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Insight]] | 30 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (5) · [[The Way of Non-Clinging Part 3]] (4) · [[The Way of Non-Clinging Part 1]] (3) · [[What is Insight]] (3) · [[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[Love and Emptiness]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[The Way of Non-Clinging Part 2]] (2)</span> 
+[[Eros]] | 27 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (11) · [[Dilemmas and Delineations - How did we get here Part 4]] (6) · [[Dilemmas and Delineations - How did we get here Part 2]] (5) · [[The Way of Non-Clinging Part 3]] (3)</span> 
+[[Retreat]] | 27 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (6) · [[Orienting to This Jhana Retreat]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3) · [[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
+[[Buddha]] | 25 | <span class="counts">[[Orienting to This Jhana Retreat]] (3) · [[What is Insight]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Equanimity (talk)]] (2) · [[Joy (talk)]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Desire]] | 24 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (11) · [[The Way of Non-Clinging Part 3]] (8) · [[The Way of Non-Clinging Part 1]] (4) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
+[[Dukkha]] | 24 | <span class="counts">[[Questioning Awakening]] (6) · [[The Way of Non-Clinging Part 3]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Compassion (talk)]] (2) · [[What is Insight]] (2)</span> 
+[[Clinging]] | 22 | <span class="counts">[[The Way of Non-Clinging Part 3]] (7) · [[The Way of Non-Clinging Part 1]] (5) · [[The Way of Non-Clinging Part 2]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
+[[Awakening]] | 21 | <span class="counts">[[Questioning Awakening]] (6) · [[Dilemmas and Delineations - How did we get here Part 1]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (3) · [[The Way of Non-Clinging Part 3]] (3) · [[The Way of Non-Clinging Part 1]] (2)</span> 
+[[Happiness]] | 21 | <span class="counts">[[Joy (talk)]] (13) · [[Orienting to This Jhana Retreat]] (3) · [[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1)</span> 
+[[Love]] | 20 | <span class="counts">[[The Way of Non-Clinging Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Love and Emptiness]] (3) · [[Orienting to This Jhana Retreat]] (2) · [[Samadhi in Metta Practice]] (2)</span> 
+

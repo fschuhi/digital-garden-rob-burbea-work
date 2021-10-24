@@ -21,3 +21,17 @@ description | count | talk
 [[Equanimity in Compassion#Mudita is a kind of joy that's not so based on the ego\|Mudita is a kind of joy that's not so based on the ego]] | 1 | [[Equanimity in Compassion]]
 [[Equanimity in Compassion#Equanimity makes the compassion steady in the face of suffering\|Equanimity makes the compassion steady in the face of suffering]] | 1 | [[Equanimity in Compassion]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Buddha]] | 5 | <span class="counts">[[Compassion (talk)]] (1) · [[Equanimity in Compassion]] (1) · [[From Insight to Love]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Compassion]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Equanimity in Compassion]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Dukkha]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Equanimity in Compassion]] (1) · [[From Insight to Love]] (1)</span> 
+[[Death]] | 2 | <span class="counts">[[From Insight to Love]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Happiness]] | 2 | <span class="counts">[[Equanimity in Compassion]] (1) · [[What is Insight]] (1)</span> 
+[[Impermanence]] | 2 | <span class="counts">[[From Insight to Love]] (1) · [[What is Insight]] (1)</span> 
+[[Awakening]] | 1 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Beauty]] | 1 | <span class="counts">[[Equanimity in Compassion]] (1)</span> 
+[[Cultivation]] | 1 | <span class="counts">[[Compassion (talk)]] (1)</span> 
+[[Depression]] | 1 | <span class="counts">[[Equanimity in Compassion]] (1)</span> 
+

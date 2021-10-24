@@ -28,3 +28,17 @@ description | count | talk
 [[The Place of Samadhi in Metta Practice#When the samadhi is around drop in a thought of what's difficult\|When the samadhi is around, drop in a thought of what's difficult]] | 2 | [[The Place of Samadhi in Metta Practice]]
 [[What is Insight#Example being more in touch with the heart vs the mind\|Example: being more in touch with the heart vs the mind]] | 2 | [[What is Insight]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Embodiment]] | 14 | <span class="counts">[[Love and Emptiness]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2)</span> 
+[[Retreat]] | 12 | <span class="counts">[[Orienting to This Jhana Retreat]] (5) · [[The Place of Samadhi in Metta Practice]] (2) · [[Love and Emptiness]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] (1)</span> 
+[[Soul]] | 9 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] (2) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Buddha]] | 6 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (2) · [[Orienting to This Jhana Retreat]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Consciousness]] | 6 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (3) · [[Love and Emptiness]] (2) · [[What is Insight]] (1)</span> 
+[[Emptiness]] | 6 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (3) · [[Love and Emptiness]] (2) · [[What is Insight]] (1)</span> 
+[[Energy body]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Experience]] | 6 | <span class="counts">[[Love and Emptiness]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Samadhi in Metta Practice]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Metta]] | 6 | <span class="counts">[[Love and Emptiness]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Mind]] | 6 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (3) · [[What is Insight]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+

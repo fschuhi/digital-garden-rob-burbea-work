@@ -19,3 +19,17 @@ description | count | talk
 [[From Insight to Love#With anatta we are working with the "me-mine" experience\|With anatta we are working with the "me-mine" experience]] | 1 | [[From Insight to Love]]
 [[Samadhi in Metta Practice#Learn to expect and accept hindrances\|Learn to expect and accept hindrances]] | 1 | [[Samadhi in Metta Practice]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Freedom]] | 2 | <span class="counts">[[From Insight to Love]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Insight]] | 2 | <span class="counts">[[Orienting to This Jhana Retreat]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Love]] | 2 | <span class="counts">[[From Insight to Love]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Anatta]] | 1 | <span class="counts">[[From Insight to Love]] (1)</span> 
+[[Buddha]] | 1 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Compassion]] | 1 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Cosmology]] | 1 | <span class="counts">[[Questioning Awakening]] (1)</span> 
+[[Dominant culture]] | 1 | <span class="counts">[[Questioning Awakening]] (1)</span> 
+[[Dukkha]] | 1 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Embodiment]] | 1 | <span class="counts">[[From Insight to Love]] (1)</span> 
+

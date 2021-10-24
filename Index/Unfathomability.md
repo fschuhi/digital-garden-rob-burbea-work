@@ -19,3 +19,17 @@ description | count | talk
 [[Dilemmas and Delineations - How did we get here Part 3#I can keep uncovering truths about them but I can't reduce them\|I can keep uncovering truths about them, but I can't reduce them]] | 1 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 3#19 Divinity\|(19) Divinity]] | 1 | [[Dilemmas and Delineations - How did we get here Part 3]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Image]] | 7 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Imaginal]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2)</span> 
+[[Dimensionality]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Divinity]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Daimon]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2)</span> 
+[[Soul]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Ways of looking]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
+[[Archetype]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Experience]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Gestalt psychology]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+

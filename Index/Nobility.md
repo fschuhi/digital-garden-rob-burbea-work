@@ -18,3 +18,17 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#What's happening in Excercises 5 does not have to transfer to movement or sound at all\|What's happening in Excercises 5 does not have to transfer to movement or sound at all]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#Can you make the posture it a little bit more open\|Can you make the posture it a little bit more open?]] | 1 | [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Compassion]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Beauty]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Buddha]] | 1 | <span class="counts">[[Compassion (talk)]] (1)</span> 
+[[Citta]] | 1 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Consciousness]] | 1 | <span class="counts">[[Questioning Awakening]] (1)</span> 
+[[Constriction]] | 1 | <span class="counts">[[The Practice of Compassion]] (1)</span> 
+[[Daimon]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Devotion]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Duty]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Embodiment]] | 1 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+

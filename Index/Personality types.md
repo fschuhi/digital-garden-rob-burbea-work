@@ -12,3 +12,12 @@ description | count | talk
 [[What is Insight#Talking about the deep end of the path can feel daunting\|Talking about the deep end of the path can feel daunting]] | 1 | [[What is Insight]]
 [[What is Insight#Insight as result vs insight as a process\|Insight as result vs insight as a process]] | 1 | [[What is Insight]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Dharma]] | 2 | <span class="counts">[[What is Insight]] (2)</span> 
+[[Insight]] | 2 | <span class="counts">[[What is Insight]] (2)</span> 
+[[Conceptual framework]] | 1 | <span class="counts">[[What is Insight]] (1)</span> 
+[[Experience]] | 1 | <span class="counts">[[What is Insight]] (1)</span> 
+[[Mind]] | 1 | <span class="counts">[[What is Insight]] (1)</span> 
+

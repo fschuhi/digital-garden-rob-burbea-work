@@ -27,3 +27,17 @@ description | count | talk
 [[Equanimity (talk)#How does wonder get squashed\|How does wonder get squashed]] | 2 | [[Equanimity (talk)]]
 [[Equanimity (talk)#Equanimity is neither a typical nor a particularly sexy sounding word\|Equanimity is neither a typical nor a particularly sexy sounding word]] | 1 | [[Equanimity (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Happiness]] | 8 | <span class="counts">[[Joy (talk)]] (4) · [[Equanimity in Compassion]] (3) · [[Equanimity (talk)]] (1)</span> 
+[[Compassion]] | 5 | <span class="counts">[[Equanimity in Compassion]] (2) · [[Equanimity (talk)]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Mudita]] | 5 | <span class="counts">[[Equanimity (talk)]] (2) · [[Equanimity in Compassion]] (2) · [[Joy (talk)]] (1)</span> 
+[[Beauty]] | 4 | <span class="counts">[[Equanimity in Compassion]] (2) · [[From Insight to Love]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
+[[Buddha]] | 4 | <span class="counts">[[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1) · [[Joy (talk)]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Nature]] | 4 | <span class="counts">[[Equanimity in Compassion]] (2) · [[Equanimity (talk)]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Receptivity]] | 4 | <span class="counts">[[Equanimity (talk)]] (2) · [[Equanimity in Compassion]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[The Self]] | 4 | <span class="counts">[[Equanimity (talk)]] (2) · [[Equanimity in Compassion]] (1) · [[Joy (talk)]] (1)</span> 
+[[Cultivation]] | 3 | <span class="counts">[[Equanimity in Compassion]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1) · [[Joy (talk)]] (1)</span> 
+[[Dukkha]] | 3 | <span class="counts">[[Joy (talk)]] (2) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
+

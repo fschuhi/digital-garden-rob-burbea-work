@@ -21,3 +21,17 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#This affects the whole psyche heart relation to others\|This affects the whole psyche, heart, relation to others]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Sometimes angels reconnect the circuits and sometimes we excercise to open the circuits\|Sometimes angels reconnect the circuits, and sometimes we excercise to open the circuits]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Image]] | 9 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2)</span> 
+[[Soul]] | 8 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Daimon]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Devotion]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Embodiment]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Energy body]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Telos]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4)</span> 
+[[Circuits]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3)</span> 
+[[Soulmaking]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Beauty]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+

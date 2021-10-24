@@ -28,3 +28,17 @@ description | count | talk
 [[What is Insight#Do we give equal attention to the conventional and the ultimate\|Do we give equal attention to the conventional and the ultimate?]] | 1 | [[What is Insight]]
 [[Love and Emptiness#Experience begin to fade\|Experience begin to fade]] | 1 | [[Love and Emptiness]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Metta]] | 8 | <span class="counts">[[Exploring the World of Loving Kindness]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Compassion (talk)]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Embodiment]] | 6 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2) · [[Exploring the World of Loving Kindness]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Experience]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Love and Emptiness]] (1) · [[Questioning Awakening]] (1)</span> 
+[[Love]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Love and Emptiness]] (1) · [[Questioning Awakening]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Perception]] | 4 | <span class="counts">[[Questioning Awakening]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Compassion]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
+[[Healing]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Expressions of Metta]] (1) · [[What is Insight]] (1)</span> 
+[[Meditation]] | 3 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (1) · [[Questioning Awakening]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Consciousness]] | 2 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Conventional reality]] | 2 | <span class="counts">[[What is Insight]] (2)</span> 
+

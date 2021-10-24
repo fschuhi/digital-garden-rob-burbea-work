@@ -24,3 +24,17 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Or they don't need you and you don't need them\|Or they don't need you and you don't need them]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Diamond Approach "impeccability"\|Diamond Approach: "impeccability"]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Image]] | 27 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (13) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (11) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3)</span> 
+[[Soul]] | 22 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (10) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (7) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (5)</span> 
+[[Imaginal]] | 21 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (10) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (9) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Soulmaking]] | 11 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (5) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Embodiment]] | 9 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (5) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Personhood]] | 9 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Devotion]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Duty]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Energy body]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Death]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+

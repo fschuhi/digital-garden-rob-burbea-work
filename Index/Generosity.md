@@ -22,3 +22,17 @@ description | count | talk
 [[Joy (talk)#Worry eats away at joy\|Worry eats away at joy]] | 1 | [[Joy (talk)]]
 [[What is Insight#Insight is like a muscle if we don't use it it will atrophy\|Insight is like a muscle, if we don't use it it will atrophy]] | 1 | [[What is Insight]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Happiness]] | 7 | <span class="counts">[[Joy (talk)]] (3) · [[What is Insight]] (2) · [[Compassion (talk)]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Metta]] | 4 | <span class="counts">[[Compassion (talk)]] (1) · [[Joy (talk)]] (1) · [[Using Insight to Deepen Love and Compassion]] (1) · [[What is Insight]] (1)</span> 
+[[Buddha]] | 3 | <span class="counts">[[Joy (talk)]] (1) · [[Using Insight to Deepen Love and Compassion]] (1) · [[What is Insight]] (1)</span> 
+[[Insight]] | 3 | <span class="counts">[[What is Insight]] (3)</span> 
+[[Attention]] | 2 | <span class="counts">[[Joy (talk)]] (2)</span> 
+[[Awareness]] | 2 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (1) · [[Joy (talk)]] (1)</span> 
+[[Compassion]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Cultivation]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[What is Insight]] (1)</span> 
+[[Dukkha]] | 2 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (1) · [[What is Insight]] (1)</span> 
+[[Ethics]] | 2 | <span class="counts">[[Joy (talk)]] (1) · [[What is Insight]] (1)</span> 
+

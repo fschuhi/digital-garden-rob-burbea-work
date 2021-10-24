@@ -23,3 +23,17 @@ description | count | talk
 [[Dilemmas and Delineations - How did we get here Part 3#8 Energy body\|(8) Energy body]] | 1 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Questioning Awakening#Western Enlightenment relativity quantum mechanics - the truth\|Western Enlightenment, relativity, quantum mechanics - the truth?]] | 1 | [[Questioning Awakening]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Perception]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (5) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
+[[Ways of looking]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Questioning Awakening]] (1)</span> 
+[[Experience]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Insight]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
+[[Emptiness]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
+[[Fabrication]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3)</span> 
+[[Image]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Personhood]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Phenomenon]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3)</span> 
+[[Dharma]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Questioning Awakening]] (1)</span> 
+

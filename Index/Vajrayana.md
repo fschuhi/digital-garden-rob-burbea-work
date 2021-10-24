@@ -18,3 +18,17 @@ description | count | talk
 [[The Way of Non-Clinging Part 2#Playing with walking a tightrope of keeping appearances around but knowing them as empty\|Playing with walking a tightrope of keeping appearances around but knowing them as empty]] | 1 | [[The Way of Non-Clinging Part 2]]
 [[Love and Emptiness#"Compassion without any object of reference" in the traditions\|"Compassion without any object of reference" in the traditions]] | 1 | [[Love and Emptiness]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Buddha]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Mahayana]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Love and Emptiness]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Dharma]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Divinity]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Emptiness]] | 2 | <span class="counts">[[Love and Emptiness]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Aksayamati Sutra]] | 1 | <span class="counts">[[Love and Emptiness]] (1)</span> 
+[[Clinging]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Compassion]] | 1 | <span class="counts">[[Love and Emptiness]] (1)</span> 
+[[Dakini]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Emptiness#Suchness]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+

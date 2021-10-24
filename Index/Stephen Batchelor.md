@@ -12,3 +12,9 @@ description | count | talk
 [[Compassion (talk)#The breath we take we are permeable with the rest of the world\|The breath we take, we are permeable with the rest of the world]] | 1 | [[Compassion (talk)]]
 [[The Practice of Compassion#At what point become food us\|At what point become food us?]] | 1 | [[The Practice of Compassion]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Big Bang]] | 1 | <span class="counts">[[Compassion (talk)]] (1)</span> 
+[[Breath]] | 1 | <span class="counts">[[Compassion (talk)]] (1)</span> 
+

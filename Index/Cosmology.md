@@ -24,3 +24,17 @@ description | count | talk
 [[Questioning Awakening#There is a sense of what the human being is that is woven into our view of what practice is\|There is a sense of what the human being is that is woven into our view of what practice is]] | 2 | [[Questioning Awakening]]
 [[Questioning Awakening#Unquestioned ideas operate in us and they will keep delivering the same limited range of experiences unless they are questioned\|Unquestioned ideas operate in us, and they will keep delivering the same limited range of experiences, unless they are questioned]] | 2 | [[Questioning Awakening]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Perception]] | 7 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Questioning Awakening]] (1)</span> 
+[[Divinity]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
+[[Imaginal]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
+[[Eros]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Awareness]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[The Practice of Compassion]] (1)</span> 
+[[Conceptual framework]] | 4 | <span class="counts">[[Questioning Awakening]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Dharma]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Dukkha]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Questioning Awakening]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Experience]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Questioning Awakening]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Love]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[The Practice of Compassion]] (1)</span> 
+

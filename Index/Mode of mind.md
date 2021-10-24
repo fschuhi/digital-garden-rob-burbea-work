@@ -13,3 +13,17 @@ description | count | talk
 [[The Way of Non-Clinging Part 3#Discrepancy-based processing mindfulness-based cognitive therapy\|Discrepancy-based processing (mindfulness-based cognitive therapy)]] | 1 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 1#Bodily tension contraction\|Bodily tension/contraction]] | 1 | [[The Way of Non-Clinging Part 1]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Discrepancy-based processing]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Mind]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Mindfulness]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Attention]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Contraction]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Craving]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Desire]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Dharma]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Dukkha]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Embodiment]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 1]] (1)</span> 
+

@@ -26,3 +26,17 @@ description | count | talk
 [[Equanimity (talk)#Equanimity in relation to the eight worldly conditions\|Equanimity in relation to the eight worldly conditions]] | 1 | [[Equanimity (talk)]]
 [[Equanimity (talk)#Our inner kindness is not something that the world can take away\|Our inner kindness is not something that the world can take away]] | 1 | [[Equanimity (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Avalokiteshvara]] | 5 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Bodhisattva]] | 5 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Compassion]] | 5 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Energy]] | 4 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Love]] | 4 | <span class="counts">[[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1) · [[Perfection and Christ's Blessing]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Archetype]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
+[[Metta]] | 3 | <span class="counts">[[Equanimity (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Blessing]] | 2 | <span class="counts">[[Perfection and Christ's Blessing]] (2)</span> 
+[[Buddha]] | 2 | <span class="counts">[[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Christianity]] | 2 | <span class="counts">[[Perfection and Christ's Blessing]] (1) · [[The Practice of Compassion]] (1)</span> 
+

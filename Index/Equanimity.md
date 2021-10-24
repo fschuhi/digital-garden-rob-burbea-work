@@ -97,3 +97,17 @@ description | count | talk
 [[Equanimity in Compassion#The natural progression of samadhi leads to equanimity which eventually becomes also accessible outside samadhi\|The natural progression of samadhi leads to equanimity, which eventually becomes also accessible outside samadhi]] | 3 | [[Equanimity in Compassion]]
 [[Equanimity in Compassion#Spaciousness is a prominent feature of equanimity\|Spaciousness is a prominent feature of equanimity]] | 3 | [[Equanimity in Compassion]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Compassion]] | 30 | <span class="counts">[[Equanimity in Compassion]] (14) · [[The Practice of Compassion]] (6) · [[Compassion (talk)]] (2) · [[Equanimity (talk)]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Mind]] | 17 | <span class="counts">[[Equanimity in Compassion]] (7) · [[Equanimity (talk)]] (5) · [[Using Insight to Deepen Love and Compassion]] (2) · [[From Insight to Love]] (1)</span> 
+[[Happiness]] | 16 | <span class="counts">[[Equanimity in Compassion]] (4) · [[Joy (talk)]] (3) · [[Equanimity (talk)]] (2) · [[Orienting to This Jhana Retreat]] (2)</span> 
+[[Metta]] | 16 | <span class="counts">[[Equanimity in Compassion]] (6) · [[Equanimity (talk)]] (2) · [[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1)</span> 
+[[Buddha]] | 15 | <span class="counts">[[Equanimity (talk)]] (7) · [[Equanimity in Compassion]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Dukkha]] | 15 | <span class="counts">[[Equanimity in Compassion]] (8) · [[The Practice of Compassion]] (4) · [[Compassion (talk)]] (2) · [[Love and Emptiness]] (1)</span> 
+[[Steadiness]] | 15 | <span class="counts">[[Equanimity in Compassion]] (9) · [[Equanimity (talk)]] (5) · [[Compassion (talk)]] (1)</span> 
+[[Craving]] | 12 | <span class="counts">[[Equanimity in Compassion]] (8) · [[Equanimity (talk)]] (3) · [[Love and Emptiness]] (1)</span> 
+[[Cultivation]] | 11 | <span class="counts">[[Equanimity (talk)]] (6) · [[Equanimity in Compassion]] (2) · [[From Insight to Love]] (1) · [[Joy (talk)]] (1)</span> 
+[[Experience]] | 10 | <span class="counts">[[Equanimity (talk)]] (4) · [[Equanimity in Compassion]] (3) · [[Love and Emptiness]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+

@@ -23,3 +23,17 @@ description | count | talk
 [[From Insight to Love#Others' experience is also "no me not mine"\|Others' experience is also "no me, not mine"]] | 2 | [[From Insight to Love]]
 [[Using Insight to Deepen Love and Compassion#g Aggregates are not me not mine\|g) Aggregates are not me, not mine]] | 1 | [[Using Insight to Deepen Love and Compassion]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Soul]] | 7 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (7)</span> 
+[[Dukkha]] | 5 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (5)</span> 
+[[Anatta]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Exploring the World of Loving Kindness]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Emptiness]] | 4 | <span class="counts">[[Exploring the World of Loving Kindness]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Using Insight to Deepen Love and Compassion]] (1) · [[What is Insight]] (1)</span> 
+[[Ways of looking]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Buddha]] | 3 | <span class="counts">[[From Insight to Love]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[What is Insight]] (1)</span> 
+[[Consciousness]] | 3 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (1)</span> 
+[[Embodiment]] | 3 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (1)</span> 
+[[Emotions]] | 3 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (1)</span> 
+[[Experience]] | 3 | <span class="counts">[[From Insight to Love]] (1) · [[Using Insight to Deepen Love and Compassion]] (1) · [[What is Insight]] (1)</span> 
+

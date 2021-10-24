@@ -26,3 +26,17 @@ description | count | talk
 [[Equanimity in Compassion#Equanimity is not indifference\|Equanimity is not indifference]] | 1 | [[Equanimity in Compassion]]
 [[Samadhi in Metta Practice#Dwelling in a lovely space\|Dwelling in a lovely space]] | 1 | [[Samadhi in Metta Practice]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Compassion]] | 9 | <span class="counts">[[Equanimity in Compassion]] (2) · [[Joy (talk)]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Compassion (talk)]] (1)</span> 
+[[Metta]] | 8 | <span class="counts">[[Joy (talk)]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Compassion (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Happiness]] | 6 | <span class="counts">[[Equanimity in Compassion]] (2) · [[Joy (talk)]] (2) · [[Compassion (talk)]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Dharma]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Joy (talk)]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Equanimity]] | 5 | <span class="counts">[[Equanimity in Compassion]] (2) · [[Compassion (talk)]] (1) · [[Joy (talk)]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Love]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Equanimity in Compassion]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Samadhi]] | 5 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Desire]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Joy (talk)]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Retreat]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Joy (talk)]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Buddha]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Samadhi in Metta Practice]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+

@@ -28,3 +28,17 @@ description | count | talk
 [[From Insight to Love#Over time the groove of metta will be more established than the groove of measuring comparing juding\|Over time, the groove of metta will be more established than the groove of measuring, comparing, juding]] | 1 | [[From Insight to Love]]
 [[Expressions of Metta#What was needed was a pure embrace of loving-kindness\|What was needed was a pure embrace of loving-kindness]] | 1 | [[Expressions of Metta]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Metta]] | 14 | <span class="counts">[[Love and Emptiness]] (6) · [[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Compassion]] | 9 | <span class="counts">[[Love and Emptiness]] (4) · [[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[From Insight to Love]] (1)</span> 
+[[Love]] | 8 | <span class="counts">[[Love and Emptiness]] (5) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Guided meditation - Metta to phenomena]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Consciousness]] | 5 | <span class="counts">[[Love and Emptiness]] (3) · [[From Insight to Love]] (1) · [[Guided meditation - Metta to phenomena]] (1)</span> 
+[[Experience]] | 4 | <span class="counts">[[Love and Emptiness]] (3) · [[Guided meditation - Metta to phenomena]] (1)</span> 
+[[Mind]] | 4 | <span class="counts">[[Equanimity in Compassion]] (1) · [[From Insight to Love]] (1) · [[Love and Emptiness]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Aversion]] | 3 | <span class="counts">[[From Insight to Love]] (1) · [[Joy (talk)]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Awareness]] | 3 | <span class="counts">[[From Insight to Love]] (1) · [[Guided meditation - Metta to phenomena]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Dukkha]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Emptiness]] | 3 | <span class="counts">[[Love and Emptiness]] (2) · [[Equanimity in Compassion]] (1)</span> 
+

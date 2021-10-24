@@ -25,3 +25,17 @@ description | count | talk
 [[The Way of Non-Clinging Part 2#Any appearing is empty so I can shape this appearing in different ways\|Any appearing is empty, so I can shape this appearing in different ways]] | 1 | [[The Way of Non-Clinging Part 2]]
 [[Using Insight to Deepen Love and Compassion#e Just to realize suffering is part of life - we are all in the same boat\|e) Just to realize: suffering is part of life - we are all in the same boat]] | 1 | [[Using Insight to Deepen Love and Compassion]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Dukkha]] | 9 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[Questioning Awakening]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Dharma]] | 5 | <span class="counts">[[Questioning Awakening]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 2]] (1) · [[What is Insight]] (1)</span> 
+[[Buddha]] | 4 | <span class="counts">[[Questioning Awakening]] (1) · [[The Way of Non-Clinging Part 2]] (1) · [[Using Insight to Deepen Love and Compassion]] (1) · [[What is Insight]] (1)</span> 
+[[Dependent Origination]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2) · [[What is Insight]] (1)</span> 
+[[Freedom]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Ways of looking]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 2]] (1) · [[What is Insight]] (1)</span> 
+[[Awakening]] | 2 | <span class="counts">[[Questioning Awakening]] (2)</span> 
+[[Awareness]] | 2 | <span class="counts">[[Questioning Awakening]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Clinging]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2)</span> 
+[[Craving]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2)</span> 
+

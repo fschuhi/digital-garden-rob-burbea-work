@@ -28,3 +28,17 @@ description | count | talk
 [[Joy (talk)#Sometimes in the West joy does not receive the same attention as other brahmaviharas\|Sometimes in the West, joy does not receive the same attention as other brahmaviharas]] | 2 | [[Joy (talk)]]
 [[Equanimity (talk)#We heal ourselves by giving attention to ourselves and by caring for others\|We heal ourselves by giving attention to ourselves and by caring for others]] | 2 | [[Equanimity (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Embodiment]] | 30 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (7) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (7) · [[The Way of Non-Clinging Part 1]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Joy (talk)]] (2)</span> 
+[[Mind]] | 24 | <span class="counts">[[The Way of Non-Clinging Part 1]] (7) · [[Joy (talk)]] (5) · [[The Way of Non-Clinging Part 2]] (3) · [[Counting Within the Breath - Guided Meditation]] (2) · [[Orienting to This Jhana Retreat]] (2)</span> 
+[[Experience]] | 20 | <span class="counts">[[The Way of Non-Clinging Part 2]] (8) · [[The Way of Non-Clinging Part 1]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Mindfulness]] | 20 | <span class="counts">[[The Way of Non-Clinging Part 1]] (6) · [[The Way of Non-Clinging Part 2]] (3) · [[What is Insight]] (3) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Awareness]] | 18 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (6) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (3) · [[The Way of Non-Clinging Part 2]] (3) · [[Counting Within the Breath - Guided Meditation]] (1)</span> 
+[[Clinging]] | 18 | <span class="counts">[[The Way of Non-Clinging Part 2]] (6) · [[The Way of Non-Clinging Part 1]] (5) · [[The Way of Non-Clinging Part 3]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Craving]] | 16 | <span class="counts">[[The Way of Non-Clinging Part 1]] (7) · [[The Way of Non-Clinging Part 2]] (4) · [[Love and Emptiness]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Buddha]] | 13 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (4) · [[Joy (talk)]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Equanimity (talk)]] (1)</span> 
+[[Metta]] | 13 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (3) · [[Joy (talk)]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Retreat]] | 13 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Joy (talk)]] (2) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (2)</span> 
+

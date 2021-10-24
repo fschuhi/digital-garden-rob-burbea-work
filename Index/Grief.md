@@ -25,3 +25,17 @@ description | count | talk
 [[Compassion (talk)#Four near enemies of compassion fear anger pity grief\|Four near enemies of compassion: fear, anger, pity, grief]] | 2 | [[Compassion (talk)]]
 [[Equanimity in Compassion#There can be a lot of grief in the compassion practice about the immensity and universality of suffering\|There can be a lot of grief in the compassion practice about the immensity and universality of suffering]] | 2 | [[Equanimity in Compassion]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Compassion]] | 8 | <span class="counts">[[The Practice of Compassion]] (4) · [[Compassion (talk)]] (2) · [[Equanimity in Compassion]] (2)</span> 
+[[Dukkha]] | 6 | <span class="counts">[[Compassion (talk)]] (2) · [[Equanimity in Compassion]] (2) · [[The Practice of Compassion]] (2)</span> 
+[[Fear]] | 5 | <span class="counts">[[Compassion (talk)]] (2) · [[The Practice of Compassion]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Anger]] | 4 | <span class="counts">[[Compassion (talk)]] (2) · [[Orienting to This Jhana Retreat]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Soul]] | 4 | <span class="counts">[[Orienting to This Jhana Retreat]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Death]] | 3 | <span class="counts">[[Equanimity in Compassion]] (1) · [[Orienting to This Jhana Retreat]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Energy]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Equanimity in Compassion]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Love]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Orienting to This Jhana Retreat]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Near enemy]] | 3 | <span class="counts">[[Compassion (talk)]] (2) · [[The Practice of Compassion]] (1)</span> 
+[[Pity]] | 3 | <span class="counts">[[Compassion (talk)]] (2) · [[The Practice of Compassion]] (1)</span> 
+

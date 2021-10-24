@@ -19,3 +19,17 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#The anger can be brittle and not have depth to it\|The anger can be brittle and not have depth to it]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Something can shatter in an unhelpful way\|Something can shatter in an unhelpful way]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Embodiment]] | 9 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (9)</span> 
+[[Soul]] | 8 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (8)</span> 
+[[Image]] | 5 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (5)</span> 
+[[Soulmaking]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (4)</span> 
+[[Anger]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3)</span> 
+[[Duty]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3)</span> 
+[[Mind]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Daimon]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Devotion]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Energy]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+

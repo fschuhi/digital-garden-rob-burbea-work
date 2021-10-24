@@ -28,3 +28,17 @@ description | count | talk
 [[Samadhi in Metta Practice#Samadhi is really worth developing Guinness Book of Records\|Samadhi is really worth developing (Guinness Book of Records)]] | 2 | [[Samadhi in Metta Practice]]
 [[Equanimity (talk)#Spiritual joy\|Spiritual joy]] | 2 | [[Equanimity (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Image]] | 10 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Daimon]] | 9 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Imaginal]] | 8 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Soul]] | 8 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Embodiment]] | 7 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[The Self]] | 7 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (4) · [[Equanimity (talk)]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Centre]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (6)</span> 
+[[Clinging]] | 5 | <span class="counts">[[The Way of Non-Clinging Part 3]] (4) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Dimensionality]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Experience]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+

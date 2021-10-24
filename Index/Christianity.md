@@ -24,3 +24,17 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The soulmaking poise has a range is elastic with soft edges\|The soulmaking poise has a range, is elastic with soft edges]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[The Practice of Compassion#"Love is without beginning"\|"Love is without beginning"]] | 1 | [[The Practice of Compassion]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Image]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Abraham]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
+[[Soul]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Perfection and Christ's Blessing]] (1)</span> 
+[[Art and Dharma]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Daimon]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Death]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Imaginal]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Jesus]] | 2 | <span class="counts">[[Perfection and Christ's Blessing]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Meditation]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Avalokiteshvara]] | 1 | <span class="counts">[[The Practice of Compassion]] (1)</span> 
+

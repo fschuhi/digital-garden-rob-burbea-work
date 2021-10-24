@@ -23,3 +23,17 @@ description | count | talk
 [[Joy (talk)#Other uncharitable inner attidudes\|Other uncharitable inner attidudes]] | 1 | [[Joy (talk)]]
 [[Equanimity in Compassion#When feel like we have enough external circumstances make less of an impact\|When feel like we have enough, external circumstances make less of an impact]] | 1 | [[Equanimity in Compassion]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Happiness]] | 9 | <span class="counts">[[Equanimity in Compassion]] (3) · [[Joy (talk)]] (3) · [[Equanimity (talk)]] (2) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Wonder]] | 5 | <span class="counts">[[Equanimity (talk)]] (2) · [[Equanimity in Compassion]] (2) · [[Joy (talk)]] (1)</span> 
+[[Buddha]] | 4 | <span class="counts">[[Joy (talk)]] (2) · [[Equanimity in Compassion]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Cultivation]] | 4 | <span class="counts">[[Joy (talk)]] (2) · [[Equanimity in Compassion]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Compassion]] | 3 | <span class="counts">[[Equanimity (talk)]] (2) · [[Equanimity in Compassion]] (1)</span> 
+[[Metta]] | 3 | <span class="counts">[[Equanimity (talk)]] (2) · [[Equanimity in Compassion]] (1)</span> 
+[[Samadhi]] | 3 | <span class="counts">[[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1) · [[Joy (talk)]] (1)</span> 
+[[Appreciation]] | 2 | <span class="counts">[[Joy (talk)]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Beauty]] | 2 | <span class="counts">[[Equanimity in Compassion]] (1) · [[Joy (talk)]] (1)</span> 
+[[Dharma]] | 2 | <span class="counts">[[Joy (talk)]] (2)</span> 
+

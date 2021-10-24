@@ -28,3 +28,17 @@ description | count | talk
 [[What is Insight#It can feel that this radiance is the reality "suchness"\|It can feel that this radiance is the reality ("suchness")]] | 1 | [[What is Insight]]
 [[From Insight to Love#I'm just offering some possibilities\|I'm just offering some possibilities]] | 1 | [[From Insight to Love]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Fabrication]] | 10 | <span class="counts">[[The Way of Non-Clinging Part 1]] (4) · [[The Way of Non-Clinging Part 2]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
+[[Mindfulness]] | 9 | <span class="counts">[[The Way of Non-Clinging Part 1]] (4) · [[What is Insight]] (3) · [[The Way of Non-Clinging Part 2]] (2)</span> 
+[[Experience]] | 7 | <span class="counts">[[The Way of Non-Clinging Part 2]] (3) · [[The Way of Non-Clinging Part 1]] (2) · [[What is Insight]] (2)</span> 
+[[Attention]] | 6 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[The Way of Non-Clinging Part 2]] (1) · [[The Way of Non-Clinging Part 3]] (1) · [[What is Insight]] (1)</span> 
+[[Dharma]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Clinging]] | 5 | <span class="counts">[[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
+[[Eros]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
+[[Letting go]] | 4 | <span class="counts">[[What is Insight]] (2) · [[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Perception]] | 4 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Questioning Awakening]] (1)</span> 
+[[Ways of looking]] | 4 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+

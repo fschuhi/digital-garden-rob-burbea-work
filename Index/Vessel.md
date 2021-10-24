@@ -56,3 +56,17 @@ description | count | talk
 [[Orienting to This Jhana Retreat#How we create this container together\|How we create this container together]] | 1 | [[Orienting to This Jhana Retreat]]
 [[Orienting to This Jhana Retreat#We all are participating in this\|We all are participating in this]] | 1 | [[Orienting to This Jhana Retreat]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Soulmaking Dynamic]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Blessing]] | 1 | <span class="counts">[[Orienting to This Jhana Retreat]] (1)</span> 
+[[Dana]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Embodiment]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Experience]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Gaia House]] | 1 | <span class="counts">[[Orienting to This Jhana Retreat]] (1)</span> 
+[[Insight]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Mindfulness]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Preliminaries]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Soul]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+

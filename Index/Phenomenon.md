@@ -26,3 +26,17 @@ description | count | talk
 [[Love and Emptiness#Yogi Considering conditions making thoughts or trees happening\|Yogi: Considering conditions making thoughts or trees happening]] | 1 | [[Love and Emptiness]]
 [[From Insight to Love#The "three characteristics"\|The "three characteristics"]] | 1 | [[From Insight to Love]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Experience]] | 8 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2) · [[Guided meditation - Metta to phenomena]] (1)</span> 
+[[Buddha]] | 6 | <span class="counts">[[What is Insight]] (3) · [[From Insight to Love]] (1) · [[Love and Emptiness]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Emptiness]] | 6 | <span class="counts">[[Love and Emptiness]] (2) · [[What is Insight]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Insight]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[What is Insight]] (2) · [[From Insight to Love]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Perception]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1) · [[What is Insight]] (1)</span> 
+[[Clinging]] | 4 | <span class="counts">[[What is Insight]] (2) · [[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Consciousness]] | 4 | <span class="counts">[[What is Insight]] (2) · [[Guided meditation - Metta to phenomena]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Impermanence]] | 4 | <span class="counts">[[From Insight to Love]] (1) · [[The Way of Non-Clinging Part 1]] (1) · [[Using Insight to Deepen Love and Compassion]] (1) · [[What is Insight]] (1)</span> 
+[[Mind]] | 4 | <span class="counts">[[Love and Emptiness]] (1) · [[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1) · [[What is Insight]] (1)</span> 
+[[Ways of looking]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 2]] (1) · [[Using Insight to Deepen Love and Compassion]] (1) · [[What is Insight]] (1)</span> 
+

@@ -28,3 +28,17 @@ description | count | talk
 [[The Practice of Compassion#Karma\|Karma]] | 2 | [[The Practice of Compassion]]
 [[Expressions of Metta#It's an infinite web that has given rise to this appearence\|It's an infinite web that has given rise to this appearence]] | 2 | [[Expressions of Metta]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Clinging]] | 18 | <span class="counts">[[The Way of Non-Clinging Part 2]] (8) · [[The Way of Non-Clinging Part 1]] (3) · [[Love and Emptiness]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Insight]] | 17 | <span class="counts">[[The Practice of Compassion]] (3) · [[The Way of Non-Clinging Part 2]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Love and Emptiness]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Craving]] | 16 | <span class="counts">[[The Way of Non-Clinging Part 2]] (5) · [[Love and Emptiness]] (3) · [[The Way of Non-Clinging Part 1]] (3) · [[The Way of Non-Clinging Part 3]] (3)</span> 
+[[Dukkha]] | 16 | <span class="counts">[[The Practice of Compassion]] (4) · [[The Way of Non-Clinging Part 1]] (4) · [[Love and Emptiness]] (2) · [[What is Insight]] (2)</span> 
+[[Perception]] | 15 | <span class="counts">[[The Way of Non-Clinging Part 2]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (4) · [[The Way of Non-Clinging Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
+[[Ways of looking]] | 14 | <span class="counts">[[The Way of Non-Clinging Part 2]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[What is Insight]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Emptiness]] | 13 | <span class="counts">[[The Way of Non-Clinging Part 2]] (4) · [[The Way of Non-Clinging Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
+[[Experience]] | 13 | <span class="counts">[[The Way of Non-Clinging Part 2]] (6) · [[The Way of Non-Clinging Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Buddha]] | 12 | <span class="counts">[[The Way of Non-Clinging Part 2]] (5) · [[The Practice of Compassion]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[What is Insight]] (2)</span> 
+[[Fabrication]] | 12 | <span class="counts">[[The Way of Non-Clinging Part 2]] (6) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[The Way of Non-Clinging Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+

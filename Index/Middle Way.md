@@ -18,3 +18,17 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Second extreme spend hours and years on them before doing something else\|Second extreme: spend hours and years on them before doing something else]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Love and Emptiness#The Middle Way points to neither existence nor non-existence nor some kind of compromise\|The Middle Way points to neither existence, nor non-existence, nor some kind of compromise]] | 1 | [[Love and Emptiness]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Awakening]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Buddha]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Daimon]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Desire]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Devotion]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Dimensionality]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Divinity]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Dominant culture]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Emptiness]] | 1 | <span class="counts">[[Love and Emptiness]] (1)</span> 
+[[Image]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+

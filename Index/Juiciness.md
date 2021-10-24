@@ -28,3 +28,17 @@ description | count | talk
 [[Equanimity in Compassion#There is wonder beauty love and juiciness in equanimity practice\|There is wonder, beauty, love and juiciness in equanimity practice]] | 1 | [[Equanimity in Compassion]]
 [[Expressions of Metta#Category "friend"\|Category "friend"]] | 1 | [[Expressions of Metta]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Eros]] | 8 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (6) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
+[[Imaginal]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Retreat]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (3) · [[Orienting to This Jhana Retreat]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Beauty]] | 4 | <span class="counts">[[Equanimity in Compassion]] (1) · [[Expressions of Metta]] (1) · [[Orienting to This Jhana Retreat]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Experience]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (4)</span> 
+[[Soulmaking]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (3) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Image]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Psyche]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
+[[Craving]] | 2 | <span class="counts">[[Equanimity in Compassion]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Energy body]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (2)</span> 
+

@@ -20,3 +20,17 @@ description | count | talk
 [[The Practice of Compassion#Less doing more allowing compassion takes away from the sense of burden that we have\|Less doing, more allowing compassion takes away from the sense of burden that we have]] | 1 | [[The Practice of Compassion]]
 [[Samadhi in Metta Practice#The question of effort is connected with a sense of duality which is connected with a sense of love\|The question of effort is connected with a sense of duality, which is connected with a sense of love]] | 1 | [[Samadhi in Metta Practice]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Compassion]] | 3 | <span class="counts">[[The Practice of Compassion]] (2) · [[Guided meditation - Metta to phenomena]] (1)</span> 
+[[Anger]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[Guided meditation - Metta to phenomena]] (1)</span> 
+[[Dukkha]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Energy]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Fear]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[Guided meditation - Metta to phenomena]] (1)</span> 
+[[Grief]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Love]] | 2 | <span class="counts">[[Guided meditation - Metta to phenomena]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Acceptance]] | 1 | <span class="counts">[[Samadhi in Metta Practice]] (1)</span> 
+[[Appreciation]] | 1 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Aversion]] | 1 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (1)</span> 
+

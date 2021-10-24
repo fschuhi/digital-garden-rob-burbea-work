@@ -22,3 +22,17 @@ description | count | talk
 [[From Insight to Love#Kinds of looking at the world through particular kinds of lenses\|Kinds of looking at the world through particular kinds of lenses]] | 1 | [[From Insight to Love]]
 [[From Insight to Love#The emptiness that opens up from "not me not mine" is inbued with love\|The emptiness that opens up from "not me, not mine" is inbued with love]] | 1 | [[From Insight to Love]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Buddha]] | 7 | <span class="counts">[[From Insight to Love]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2)</span> 
+[[Dukkha]] | 5 | <span class="counts">[[From Insight to Love]] (2) · [[What is Insight]] (2) · [[Joy (talk)]] (1)</span> 
+[[Experience]] | 5 | <span class="counts">[[From Insight to Love]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (1)</span> 
+[[Love]] | 5 | <span class="counts">[[From Insight to Love]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (1)</span> 
+[[Ways of looking]] | 5 | <span class="counts">[[What is Insight]] (3) · [[From Insight to Love]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Impermanence]] | 4 | <span class="counts">[[From Insight to Love]] (2) · [[Joy (talk)]] (1) · [[What is Insight]] (1)</span> 
+[[Anatta]] | 3 | <span class="counts">[[From Insight to Love]] (1) · [[Joy (talk)]] (1) · [[What is Insight]] (1)</span> 
+[[Fear]] | 3 | <span class="counts">[[From Insight to Love]] (2) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Freedom]] | 3 | <span class="counts">[[From Insight to Love]] (2) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Letting go]] | 3 | <span class="counts">[[Joy (talk)]] (2) · [[What is Insight]] (1)</span> 
+

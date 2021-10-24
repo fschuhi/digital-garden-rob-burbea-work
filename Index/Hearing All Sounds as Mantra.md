@@ -17,3 +17,12 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Instructions then were difficult to absorb 🟢\|Instructions then were difficult to absorb 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Energy body as centre of emanating\|Energy body as centre of emanating]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Meditation]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2)</span> 
+[[Embodiment]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Energy body]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Soulmaking]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[The Movement of Devotion]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+

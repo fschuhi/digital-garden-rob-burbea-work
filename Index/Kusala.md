@@ -24,3 +24,17 @@ description | count | talk
 [[Love and Emptiness#The mind is conditions - there's nothing wrong with reconditioning it\|The mind is conditions - there's nothing wrong with reconditioning it]] | 1 | [[Love and Emptiness]]
 [[From Insight to Love#Much of our life is just grooves\|Much of our life is just grooves]] | 1 | [[From Insight to Love]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Buddha]] | 5 | <span class="counts">[[Love and Emptiness]] (3) · [[From Insight to Love]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Desire]] | 5 | <span class="counts">[[The Way of Non-Clinging Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Dukkha]] | 5 | <span class="counts">[[The Way of Non-Clinging Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Mind]] | 5 | <span class="counts">[[Love and Emptiness]] (3) · [[From Insight to Love]] (2)</span> 
+[[Craving]] | 4 | <span class="counts">[[The Way of Non-Clinging Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Cultivation]] | 4 | <span class="counts">[[Love and Emptiness]] (4)</span> 
+[[Insight]] | 4 | <span class="counts">[[Love and Emptiness]] (2) · [[From Insight to Love]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Metta]] | 4 | <span class="counts">[[From Insight to Love]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Clinging]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Compassion]] | 3 | <span class="counts">[[Love and Emptiness]] (2) · [[From Insight to Love]] (1)</span> 
+

@@ -25,3 +25,17 @@ description | count | talk
 [[Joy (talk)#Different ways spiritual joy expresses itself\|Different ways spiritual joy expresses itself]] | 1 | [[Joy (talk)]]
 [[Equanimity (talk)#We need each other to show each other what we are not seeing\|We need each other to show each other what we are not seeing]] | 1 | [[Equanimity (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Dharma]] | 3 | <span class="counts">[[Joy (talk)]] (1) · [[Questioning Awakening]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Activism]] | 2 | <span class="counts">[[Questioning Awakening]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Soul]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Appreciation]] | 1 | <span class="counts">[[Joy (talk)]] (1)</span> 
+[[Awakening]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Beauty]] | 1 | <span class="counts">[[Joy (talk)]] (1)</span> 
+[[Bodhisattva]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Clinging]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Cultivation]] | 1 | <span class="counts">[[Joy (talk)]] (1)</span> 
+[[Dukkha]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+

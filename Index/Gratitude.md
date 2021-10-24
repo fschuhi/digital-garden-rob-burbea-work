@@ -21,3 +21,17 @@ description | count | talk
 [[Joy (talk)#In the practice both is important working with the difficult and inclining the mind to the beautiful\|In the practice both is important: working with the difficult and inclining the mind to the beautiful]] | 1 | [[Joy (talk)]]
 [[Samadhi in Metta Practice#Appreciation\|Appreciation]] | 1 | [[Samadhi in Metta Practice]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Happiness]] | 4 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
+[[Mind]] | 4 | <span class="counts">[[Joy (talk)]] (2) · [[Orienting to This Jhana Retreat]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Appreciation]] | 3 | <span class="counts">[[Joy (talk)]] (1) · [[Samadhi in Metta Practice]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Cultivation]] | 2 | <span class="counts">[[Samadhi in Metta Practice]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Dharma]] | 2 | <span class="counts">[[Samadhi in Metta Practice]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Metta]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Samadhi]] | 2 | <span class="counts">[[Samadhi in Metta Practice]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Beauty]] | 1 | <span class="counts">[[Joy (talk)]] (1)</span> 
+[[Blessing]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Gaia House]] | 1 | <span class="counts">[[Samadhi in Metta Practice]] (1)</span> 
+

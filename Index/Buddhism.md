@@ -24,3 +24,17 @@ description | count | talk
 [[The Way of Non-Clinging Part 2#Cling to an insight to be able to let go at a deeper level\|Cling to an insight to be able to let go at a deeper level]] | 1 | [[The Way of Non-Clinging Part 2]]
 [[Samadhi in Metta Practice#Samadhi is often translated as "concentration"\|Samadhi is often translated as "concentration"]] | 1 | [[Samadhi in Metta Practice]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Awakening]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Buddha]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1) · [[Samadhi in Metta Practice]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Emptiness]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Experience]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Samadhi in Metta Practice]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Soul]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Anatta]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Beauty]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Buddha-nature]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
+[[Cosmology]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
+[[Craving]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+

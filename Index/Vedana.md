@@ -24,3 +24,17 @@ description | count | talk
 [[The Way of Non-Clinging Part 1#I'm not selling this very well\|I'm not selling this very well]] | 1 | [[The Way of Non-Clinging Part 1]]
 [[Joy (talk)#Sadness and joy are dependent on the way we look\|Sadness and joy are dependent on the way we look]] | 1 | [[Joy (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Clinging]] | 7 | <span class="counts">[[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
+[[Craving]] | 7 | <span class="counts">[[The Way of Non-Clinging Part 1]] (5) · [[The Way of Non-Clinging Part 2]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Attention]] | 6 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Joy (talk)]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Aversion]] | 4 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Experience]] | 4 | <span class="counts">[[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 2]] (2)</span> 
+[[Mind]] | 4 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Pain]] | 4 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Impermanence]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2) · [[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Letting go]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Consciousness]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2)</span> 
+

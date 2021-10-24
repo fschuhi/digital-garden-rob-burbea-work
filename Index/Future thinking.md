@@ -14,3 +14,15 @@ description | count | talk
 [[From Insight to Love#Fear of how to take care of the future\|Fear of how to take care of the future]] | 1 | [[From Insight to Love]]
 [[From Insight to Love#Genuinlly there is nothing to fear\|Genuinlly, there is nothing to fear]] | 1 | [[From Insight to Love]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Fear]] | 2 | <span class="counts">[[From Insight to Love]] (2)</span> 
+[[Embodiment]] | 1 | <span class="counts">[[Equanimity in Compassion]] (1)</span> 
+[[Emptiness]] | 1 | <span class="counts">[[From Insight to Love]] (1)</span> 
+[[Equanimity]] | 1 | <span class="counts">[[Equanimity in Compassion]] (1)</span> 
+[[Happiness]] | 1 | <span class="counts">[[From Insight to Love]] (1)</span> 
+[[Insight]] | 1 | <span class="counts">[[From Insight to Love]] (1)</span> 
+[[Meditation]] | 1 | <span class="counts">[[Equanimity in Compassion]] (1)</span> 
+[[Pleasantness]] | 1 | <span class="counts">[[From Insight to Love]] (1)</span> 
+

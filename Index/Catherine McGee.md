@@ -20,3 +20,17 @@ description | count | talk
 [[Equanimity in Compassion#Equanimity is the fourth of the brahmaviharas\|Equanimity is the fourth of the brahmaviharas]] | 1 | [[Equanimity in Compassion]]
 [[Samadhi in Metta Practice#Aversion\|Aversion]] | 1 | [[Samadhi in Metta Practice]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Metta]] | 4 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (2) · [[Equanimity in Compassion]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Mind]] | 3 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (2) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Experience]] | 2 | <span class="counts">[[Samadhi in Metta Practice]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Hindrances]] | 2 | <span class="counts">[[Samadhi in Metta Practice]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Image]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Love]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Soul]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Anger]] | 1 | <span class="counts">[[Samadhi in Metta Practice]] (1)</span> 
+[[Appreciation]] | 1 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Aversion]] | 1 | <span class="counts">[[Samadhi in Metta Practice]] (1)</span> 
+

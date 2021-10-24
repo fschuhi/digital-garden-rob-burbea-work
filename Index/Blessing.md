@@ -25,3 +25,17 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#It can start with metta praise doxology gratitude\|It can start with metta, praise, doxology, gratitude]] | 3 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#"Blessing" is already at the edge of meaning and Part 2 goes beyond even that\|"Blessing" is already at the edge of meaning, and Part 2 goes beyond even that]] | 3 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Soul]] | 18 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (8) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (8) · [[Perfection and Christ's Blessing]] (2)</span> 
+[[Embodiment]] | 12 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (8) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
+[[Imaginal]] | 10 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (6) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (4)</span> 
+[[Soulmaking]] | 8 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (6) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2)</span> 
+[[Image]] | 7 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
+[[Dyad]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
+[[Energy body]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
+[[Awareness]] | 5 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Dukkha]] | 3 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (1) · [[Perfection and Christ's Blessing]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Emotions]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+

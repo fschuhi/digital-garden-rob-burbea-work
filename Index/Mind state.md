@@ -26,3 +26,17 @@ description | count | talk
 [[Love and Emptiness#But the mind is coloroud with anger metta romantic love\|But the mind is coloroud with anger, metta, romantic love]] | 1 | [[Love and Emptiness]]
 [[Samadhi in Metta Practice#There can be some fear in there\|There can be some fear in there]] | 1 | [[Samadhi in Metta Practice]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Awareness]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[Guided meditation - Metta to phenomena]] (1) · [[Samadhi in Metta Practice]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Mind]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[Equanimity in Compassion]] (1) · [[Love and Emptiness]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Metta]] | 4 | <span class="counts">[[Love and Emptiness]] (2) · [[Guided meditation - Metta to phenomena]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Perception]] | 4 | <span class="counts">[[Love and Emptiness]] (2) · [[Joy (talk)]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Embodiment]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Guided meditation - Metta to phenomena]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Experience]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Guided meditation - Metta to phenomena]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Anger]] | 2 | <span class="counts">[[Love and Emptiness]] (2)</span> 
+[[Buddha]] | 2 | <span class="counts">[[Equanimity in Compassion]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Consciousness]] | 2 | <span class="counts">[[Guided meditation - Metta to phenomena]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Dharma]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Joy (talk)]] (1)</span> 
+

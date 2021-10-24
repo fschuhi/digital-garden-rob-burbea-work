@@ -24,3 +24,17 @@ description | count | talk
 [[The Practice of Compassion#Example A friend's heart closes down when she's depressed\|Example: A friend's heart closes down when she's depressed]] | 1 | [[The Practice of Compassion]]
 [[Equanimity (talk)#It's not just about letting go it's also actively nurturing qualities like equanimity\|It's not just about letting go, it's also actively nurturing qualities like equanimity]] | 1 | [[Equanimity (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Compassion]] | 4 | <span class="counts">[[Compassion (talk)]] (1) · [[Equanimity in Compassion]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Anger]] | 3 | <span class="counts">[[Equanimity (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Buddha]] | 2 | <span class="counts">[[Equanimity (talk)]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Cultivation]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[Equanimity (talk)]] (1)</span> 
+[[Dukkha]] | 2 | <span class="counts">[[Equanimity in Compassion]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Equanimity]] | 2 | <span class="counts">[[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Fear]] | 2 | <span class="counts">[[Exploring the World of Loving Kindness]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Happiness]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Love]] | 2 | <span class="counts">[[Expressions of Metta]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Metta]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
+

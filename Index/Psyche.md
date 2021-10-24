@@ -27,3 +27,17 @@ description | count | talk
 [[The Place of Samadhi in Metta Practice#ad 4 suppression\|ad 4. suppression]] | 1 | [[The Place of Samadhi in Metta Practice]]
 [[Samadhi in Metta Practice#Example story because of samadhi there weren't the conditions there for anger\|Example story: because of samadhi there weren't the conditions there for anger]] | 1 | [[Samadhi in Metta Practice]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Eros]] | 17 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (5) · [[Dilemmas and Delineations - How did we get here Part 2]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[The Way of Non-Clinging Part 3]] (3)</span> 
+[[Image]] | 10 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (5) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
+[[Imaginal]] | 10 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (5) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 2]] (2)</span> 
+[[Soul]] | 8 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[The Way of Non-Clinging Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Soulmaking]] | 8 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[The Way of Non-Clinging Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Logos]] | 7 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (4) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Desire]] | 5 | <span class="counts">[[The Way of Non-Clinging Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Dimensionality]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
+[[Soulmaking Dynamic]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Conceptual framework]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+

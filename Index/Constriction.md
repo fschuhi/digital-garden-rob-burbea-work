@@ -23,3 +23,17 @@ description | count | talk
 [[From Insight to Love#"I can accomodate this"\|"I can accomodate this"]] | 1 | [[From Insight to Love]]
 [[From Insight to Love#Dukkha depends on the struggle of the push and pull\|Dukkha depends on the struggle of the push and pull]] | 1 | [[From Insight to Love]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Clinging]] | 4 | <span class="counts">[[From Insight to Love]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Aversion]] | 3 | <span class="counts">[[From Insight to Love]] (3)</span> 
+[[Love]] | 3 | <span class="counts">[[From Insight to Love]] (2) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Activism]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Compassion]] | 2 | <span class="counts">[[From Insight to Love]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Craving]] | 2 | <span class="counts">[[From Insight to Love]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Dharma]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 2]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Embodiment]] | 2 | <span class="counts">[[From Insight to Love]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Fear]] | 2 | <span class="counts">[[From Insight to Love]] (2)</span> 
+[[Insight]] | 2 | <span class="counts">[[From Insight to Love]] (2)</span> 
+

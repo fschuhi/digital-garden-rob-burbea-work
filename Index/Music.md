@@ -30,3 +30,17 @@ description | count | talk
 [[Joy (talk)#Example "Ode to Joy"\|Example: "Ode to Joy"]] | 2 | [[Joy (talk)]]
 [[Equanimity (talk)#Nature art music can touch us and feed that wonder\|Nature, art, music can touch us and feed that wonder]] | 2 | [[Equanimity (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Love]] | 8 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (4) · [[Exploring the World of Loving Kindness]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Soul]] | 7 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Desire]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Dimensionality]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Experience]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Music#Jazz]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Beauty]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Elitism]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (3)</span> 
+[[Energy]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Eros]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+

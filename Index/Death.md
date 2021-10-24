@@ -28,3 +28,17 @@ description | count | talk
 [[From Insight to Love#Thinking about dying sometime centres me other times it brings up fear\|Thinking about dying sometime centres me, other times it brings up fear]] | 2 | [[From Insight to Love]]
 [[From Insight to Love#Yes sometimes centring sometimes fear\|Yes, sometimes centring, sometimes fear]] | 2 | [[From Insight to Love]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Buddha]] | 13 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (3) · [[From Insight to Love]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 2]] (2)</span> 
+[[Impermanence]] | 11 | <span class="counts">[[From Insight to Love]] (6) · [[Equanimity (talk)]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Questioning Awakening]] (1)</span> 
+[[The Self]] | 10 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[From Insight to Love]] (1) · [[Joy (talk)]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Dukkha]] | 7 | <span class="counts">[[Equanimity in Compassion]] (1) · [[From Insight to Love]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Experience]] | 7 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[Equanimity (talk)]] (1) · [[From Insight to Love]] (1) · [[Joy (talk)]] (1)</span> 
+[[Fear]] | 7 | <span class="counts">[[From Insight to Love]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Samadhi in Metta Practice]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Metta]] | 7 | <span class="counts">[[From Insight to Love]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Samadhi in Metta Practice]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Compassion]] | 6 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[Equanimity in Compassion]] (1) · [[From Insight to Love]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Embodiment]] | 6 | <span class="counts">[[Equanimity (talk)]] (2) · [[From Insight to Love]] (2) · [[Compassion (talk)]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Love]] | 5 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[From Insight to Love]] (1) · [[What is Insight]] (1)</span> 
+

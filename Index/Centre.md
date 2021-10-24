@@ -87,3 +87,17 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#If we do not aim for Aspect 4 we might see the face of the divine Aspect 5\|If we do not aim for Aspect 4 we might see the face of the divine (Aspect 5)]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 2 2 experiment with different centres of emanation\|🟡 Excercise 2.2: experiment with different centres of emanation]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Embodiment]] | 7 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[The Self]] | 7 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (4) · [[Compassion (talk)]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Personhood]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (6)</span> 
+[[Image]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (4)</span> 
+[[Attention]] | 3 | <span class="counts">[[Compassion Part Two - Compassion for Ourselves]] (1) · [[Joy (talk)]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Awareness]] | 3 | <span class="counts">[[From Insight to Love]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Compassion]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Death]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[From Insight to Love]] (1)</span> 
+[[Divinity]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Dukkha]] | 3 | <span class="counts">[[Compassion Part Two - Compassion for Ourselves]] (1) · [[The Practice of Compassion]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+

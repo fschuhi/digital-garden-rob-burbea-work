@@ -8,11 +8,3 @@ voller Name: "The World and More: Immanence, Tantra, and Transcendence (Part 2)"
 
 part of [[2017 Eros Unfettered]]
 - [ ] Problem: note "Eros Unfettered" exists multiple times
-### Top 10 referring talks
-talk | count | series
-:- | - |: -
-
-### Paragraphs with 4+ mentions
-description | count | talk
-:- | : - | :-
-

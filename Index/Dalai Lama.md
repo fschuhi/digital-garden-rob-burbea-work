@@ -14,3 +14,15 @@ description | count | talk
 [[The Practice of Compassion#Gradually there's a deepening commitment to love and compassion\|Gradually there's a deepening commitment to love and compassion]] | 1 | [[The Practice of Compassion]]
 [[Equanimity (talk)#"Don't get excited about anything"\|"Don't get excited about anything"]] | 1 | [[Equanimity (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Compassion]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Love]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Metta]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Centre]] | 1 | <span class="counts">[[Compassion (talk)]] (1)</span> 
+[[Consciousness]] | 1 | <span class="counts">[[Compassion (talk)]] (1)</span> 
+[[Fear]] | 1 | <span class="counts">[[Equanimity (talk)]] (1)</span> 
+[[Insight]] | 1 | <span class="counts">[[Compassion (talk)]] (1)</span> 
+[[The Self]] | 1 | <span class="counts">[[Compassion (talk)]] (1)</span> 
+

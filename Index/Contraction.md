@@ -28,3 +28,17 @@ description | count | talk
 [[Equanimity in Compassion#Rob depends on level of steadiness spaciousness and energy body\|Rob: depends on level of steadiness, spaciousness, and energy body]] | 2 | [[Equanimity in Compassion]]
 [[Samadhi in Metta Practice#Tightness can come from focus but relaxing the latter is only one way to deal with tightness\|Tightness can come from focus, but relaxing the latter is only one way to deal with tightness]] | 2 | [[Samadhi in Metta Practice]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Mind]] | 16 | <span class="counts">[[The Way of Non-Clinging Part 1]] (6) · [[Samadhi in Metta Practice]] (3) · [[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Embodiment]] | 15 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (3) · [[The Place of Samadhi in Metta Practice]] (3) · [[Samadhi in Metta Practice]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
+[[Dukkha]] | 12 | <span class="counts">[[The Practice of Compassion]] (3) · [[The Way of Non-Clinging Part 2]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
+[[Craving]] | 11 | <span class="counts">[[The Way of Non-Clinging Part 1]] (5) · [[The Way of Non-Clinging Part 2]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Awareness]] | 10 | <span class="counts">[[Samadhi in Metta Practice]] (3) · [[Equanimity in Compassion]] (1) · [[From Insight to Love]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Samadhi]] | 10 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (5) · [[Samadhi in Metta Practice]] (4) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Metta]] | 9 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (5) · [[Samadhi in Metta Practice]] (3) · [[Equanimity in Compassion]] (1)</span> 
+[[Clinging]] | 7 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2) · [[From Insight to Love]] (1) · [[Orienting to This Jhana Retreat]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Meditation]] | 7 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[The Self]] | 7 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[The Practice of Compassion]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+

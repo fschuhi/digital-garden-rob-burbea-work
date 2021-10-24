@@ -28,3 +28,17 @@ description | count | talk
 [[Love and Emptiness#With insight meditation there is the assumption that mindfulness is neutral\|With insight meditation there is the assumption that mindfulness is neutral]] | 4 | [[Love and Emptiness]]
 [[Samadhi in Metta Practice#Emotion is reflected as a contraction in the body\|Emotion is reflected as a contraction in the body]] | 3 | [[Samadhi in Metta Practice]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Experience]] | 26 | <span class="counts">[[The Way of Non-Clinging Part 1]] (5) · [[The Way of Non-Clinging Part 2]] (4) · [[Love and Emptiness]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[What is Insight]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Questioning Awakening]] (2)</span> 
+[[Attention]] | 20 | <span class="counts">[[The Way of Non-Clinging Part 1]] (6) · [[The Way of Non-Clinging Part 2]] (3) · [[What is Insight]] (3) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Insight]] | 20 | <span class="counts">[[What is Insight]] (6) · [[Love and Emptiness]] (3) · [[Questioning Awakening]] (3) · [[The Way of Non-Clinging Part 1]] (2)</span> 
+[[Mind]] | 20 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (4) · [[The Way of Non-Clinging Part 1]] (3) · [[From Insight to Love]] (2) · [[Love and Emptiness]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[What is Insight]] (2)</span> 
+[[Buddha]] | 15 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (4) · [[From Insight to Love]] (2) · [[Joy (talk)]] (2) · [[Questioning Awakening]] (2)</span> 
+[[Dharma]] | 15 | <span class="counts">[[Questioning Awakening]] (3) · [[The Way of Non-Clinging Part 3]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2)</span> 
+[[Meditation]] | 15 | <span class="counts">[[Questioning Awakening]] (4) · [[The Way of Non-Clinging Part 1]] (3) · [[The Place of Samadhi in Metta Practice]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Metta]] | 14 | <span class="counts">[[Love and Emptiness]] (6) · [[Using Insight to Deepen Love and Compassion]] (2) · [[From Insight to Love]] (1) · [[Guided meditation - Metta to phenomena]] (1)</span> 
+[[Awareness]] | 13 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[Counting Within the Breath - Guided Meditation]] (1)</span> 
+[[Embodiment]] | 13 | <span class="counts">[[Equanimity (talk)]] (2) · [[Love and Emptiness]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (2)</span> 
+

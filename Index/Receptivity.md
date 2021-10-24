@@ -27,3 +27,17 @@ description | count | talk
 [[Samadhi in Metta Practice#3 Openess of being\|3. Openess of being]] | 1 | [[Samadhi in Metta Practice]]
 [[Equanimity (talk)#Nature art music can touch us and feed that wonder\|Nature, art, music can touch us and feed that wonder]] | 1 | [[Equanimity (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Nature]] | 6 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Mind]] | 5 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Samadhi]] | 4 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
+[[Soul]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Wonder]] | 4 | <span class="counts">[[Equanimity (talk)]] (2) · [[Equanimity in Compassion]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Embodiment]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Energy body]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Attention]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Awareness]] | 2 | <span class="counts">[[Equanimity (talk)]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Beauty]] | 2 | <span class="counts">[[Equanimity in Compassion]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+

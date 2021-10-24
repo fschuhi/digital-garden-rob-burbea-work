@@ -49,3 +49,17 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#This is a beginning which should be developed\|This is a beginning which should be developed]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#We need wings to fly in Soulmaking\|We need wings to fly in Soulmaking]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Soulmaking]] | 8 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (5) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
+[[Embodiment]] | 5 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Soul]] | 5 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Dimensionality]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Energy body]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Experience]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Mindfulness]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Soulmaking Dynamic]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Tibetan Buddhism]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Anthropology]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+

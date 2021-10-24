@@ -20,3 +20,17 @@ description | count | talk
 [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#Cultivate the citta towards appreciation mudita\|Cultivate the citta towards appreciation, mudita]] | 1 | [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
 [[Dilemmas and Delineations - How did we get here Part 3#The soul is participating in the cosmos\|The soul is participating in the cosmos]] | 1 | [[Dilemmas and Delineations - How did we get here Part 3]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Soul]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Mind]] | 4 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Embodiment]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Image]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
+[[Ways of looking]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
+[[Appreciation]] | 1 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Attention]] | 1 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (1)</span> 
+[[Beauty]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Carl Gustav Jung]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Conceptual framework]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+

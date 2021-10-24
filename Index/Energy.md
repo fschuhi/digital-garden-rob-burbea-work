@@ -28,3 +28,17 @@ description | count | talk
 [[The Place of Samadhi in Metta Practice#It's an energy that one can ride and navigate\|It's an energy that one can ride and navigate]] | 3 | [[The Place of Samadhi in Metta Practice]]
 [[From Insight to Love#Over time the groove of metta will be more established than the groove of measuring comparing juding\|Over time, the groove of metta will be more established than the groove of measuring, comparing, juding]] | 3 | [[From Insight to Love]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Embodiment]] | 31 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (8) · [[Counting Within the Breath - Guided Meditation]] (4) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Compassion (talk)]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Compassion]] | 17 | <span class="counts">[[Compassion (talk)]] (7) · [[The Practice of Compassion]] (6) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Metta]] | 16 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (5) · [[Compassion (talk)]] (3) · [[Expressions of Metta]] (3) · [[Equanimity (talk)]] (1)</span> 
+[[Mind]] | 16 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3) · [[From Insight to Love]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
+[[Dukkha]] | 12 | <span class="counts">[[Compassion (talk)]] (7) · [[The Practice of Compassion]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Experience]] | 12 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[The Place of Samadhi in Metta Practice]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
+[[Awareness]] | 10 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (3) · [[The Practice of Compassion]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Counting Within the Breath - Guided Meditation]] (1)</span> 
+[[Breath]] | 10 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (6) · [[Counting Within the Breath - Guided Meditation]] (3) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Energy body]] | 10 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Eros]] | 9 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+

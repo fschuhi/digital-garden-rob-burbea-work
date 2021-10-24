@@ -26,3 +26,17 @@ description | count | talk
 [[Love and Emptiness#Emphasis was on complete acceptance\|Emphasis was on complete acceptance]] | 1 | [[Love and Emptiness]]
 [[Love and Emptiness#"Compassion without any object of reference" in the traditions\|"Compassion without any object of reference" in the traditions]] | 1 | [[Love and Emptiness]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Buddha]] | 8 | <span class="counts">[[The Way of Non-Clinging Part 2]] (4) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Love and Emptiness]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Perception]] | 6 | <span class="counts">[[The Way of Non-Clinging Part 2]] (4) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Questioning Awakening]] (1)</span> 
+[[Clinging]] | 5 | <span class="counts">[[The Way of Non-Clinging Part 2]] (5)</span> 
+[[Dharma]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Joy (talk)]] (1) · [[Love and Emptiness]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Emptiness]] | 5 | <span class="counts">[[The Way of Non-Clinging Part 2]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Experience]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[Questioning Awakening]] (1)</span> 
+[[Insight]] | 5 | <span class="counts">[[The Way of Non-Clinging Part 2]] (5)</span> 
+[[Compassion]] | 4 | <span class="counts">[[Love and Emptiness]] (3) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Vajrayana]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Love and Emptiness]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Ways of looking]] | 4 | <span class="counts">[[The Way of Non-Clinging Part 2]] (4)</span> 
+

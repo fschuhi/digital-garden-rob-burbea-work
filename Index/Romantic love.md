@@ -23,3 +23,17 @@ description | count | talk
 [[Joy (talk)#Often it's not the fact that I don't have the thing but I believe I need it\|Often it's not the fact that I don't have the thing, but I believe I need it]] | 1 | [[Joy (talk)]]
 [[Love and Emptiness#But the mind is coloroud with anger metta romantic love\|But the mind is coloroud with anger, metta, romantic love]] | 1 | [[Love and Emptiness]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Desire]] | 7 | <span class="counts">[[The Way of Non-Clinging Part 3]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
+[[Dharma]] | 7 | <span class="counts">[[The Way of Non-Clinging Part 3]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
+[[Sexuality]] | 7 | <span class="counts">[[The Way of Non-Clinging Part 3]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
+[[Clinging]] | 6 | <span class="counts">[[The Way of Non-Clinging Part 3]] (6)</span> 
+[[Metta]] | 5 | <span class="counts">[[The Way of Non-Clinging Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Love]] | 4 | <span class="counts">[[The Way of Non-Clinging Part 3]] (4)</span> 
+[[Craving]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 3]] (3)</span> 
+[[Fantasy]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 3]] (3)</span> 
+[[Letting go]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 3]] (2) · [[Joy (talk)]] (1)</span> 
+[[Passion]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+

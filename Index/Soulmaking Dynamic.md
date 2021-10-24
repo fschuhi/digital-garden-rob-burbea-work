@@ -25,3 +25,17 @@ description | count | talk
 [[Dilemmas and Delineations - How did we get here Part 2#Eros directed at eros autoeroticim\|Eros directed at eros (autoeroticim)]] | 2 | [[Dilemmas and Delineations - How did we get here Part 2]]
 [[Dilemmas and Delineations - How did we get here Part 1#Parts of the context problems coming from wanting to live without clinging; imaginal practice\|Parts of the context: problems coming from wanting to live without clinging; imaginal practice]] | 2 | [[Dilemmas and Delineations - How did we get here Part 1]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Soul]] | 10 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (5) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
+[[Eros]] | 9 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (3) · [[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Imaginal]] | 8 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Soulmaking]] | 7 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Image]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Dimensionality]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Embodiment]] | 5 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2)</span> 
+[[Experience]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Logos]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Psyche]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+

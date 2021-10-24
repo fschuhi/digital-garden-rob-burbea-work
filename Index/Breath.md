@@ -30,3 +30,17 @@ description | count | talk
 [[Counting Within the Breath - Guided Meditation#Not a lot of air but long slow comfortable smooth relatively subtle\|Not a lot of air, but long, slow, comfortable, smooth, relatively subtle]] | 4 | [[Counting Within the Breath - Guided Meditation]]
 [[Counting Within the Breath - Guided Meditation#Breath a little shorter to 6\|Breath a little shorter, to 6]] | 4 | [[Counting Within the Breath - Guided Meditation]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Embodiment]] | 27 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (14) · [[Counting Within the Breath - Guided Meditation]] (11) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Mind]] | 15 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (5) · [[The Place of Samadhi in Metta Practice]] (3) · [[Orienting to This Jhana Retreat]] (2) · [[Samadhi in Metta Practice]] (2)</span> 
+[[Samadhi]] | 13 | <span class="counts">[[Samadhi in Metta Practice]] (4) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (4) · [[The Place of Samadhi in Metta Practice]] (4) · [[What is Insight]] (1)</span> 
+[[Attention]] | 12 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (5) · [[Counting Within the Breath - Guided Meditation]] (4) · [[Orienting to This Jhana Retreat]] (2) · [[Love and Emptiness]] (1)</span> 
+[[Awareness]] | 12 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (5) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (5) · [[Samadhi in Metta Practice]] (2)</span> 
+[[Metta]] | 12 | <span class="counts">[[Orienting to This Jhana Retreat]] (4) · [[Samadhi in Metta Practice]] (3) · [[The Place of Samadhi in Metta Practice]] (3) · [[Compassion (talk)]] (1)</span> 
+[[Energy]] | 10 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (6) · [[Counting Within the Breath - Guided Meditation]] (3) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Jhanas]] | 8 | <span class="counts">[[Orienting to This Jhana Retreat]] (4) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (2) · [[Counting Within the Breath - Guided Meditation]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Experience]] | 7 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (3) · [[Equanimity in Compassion]] (1) · [[Love and Emptiness]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Retreat]] | 7 | <span class="counts">[[Orienting to This Jhana Retreat]] (3) · [[Samadhi in Metta Practice]] (2) · [[Counting Within the Breath - Guided Meditation]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+

@@ -18,3 +18,17 @@ description | count | talk
 [[Love and Emptiness#Rob Maybe only Buddhas can see emptiness and not bump into things\|Rob: Maybe only Buddhas can see emptiness and not bump into things]] | 1 | [[Love and Emptiness]]
 [[The Practice of Compassion#Different practices for compassion\|Different practices for compassion]] | 1 | [[The Practice of Compassion]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Emptiness]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Perception]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Preliminaries]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Avalokiteshvara]] | 1 | <span class="counts">[[The Practice of Compassion]] (1)</span> 
+[[Awakening]] | 1 | <span class="counts">[[Love and Emptiness]] (1)</span> 
+[[Awareness]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Bodhisattva]] | 1 | <span class="counts">[[The Practice of Compassion]] (1)</span> 
+[[Buddha]] | 1 | <span class="counts">[[Love and Emptiness]] (1)</span> 
+[[Buddha-nature]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Buddhism]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+

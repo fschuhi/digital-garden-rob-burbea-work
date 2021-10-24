@@ -36,3 +36,17 @@ description | count | talk
 [[Dilemmas and Delineations - How did we get here Part 3#Beauty and sacredness are a feature of image and imaginal practice\|Beauty and sacredness are a feature of image and imaginal practice]] | 3 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 1#This results in a more adquate concept and perceptions of self other world\|This results in a more adquate concept and perceptions of self, other, world]] | 3 | [[Dilemmas and Delineations - How did we get here Part 1]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Soul]] | 16 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (6) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Eros]] | 15 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (7) · [[Dilemmas and Delineations - How did we get here Part 2]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Imaginal]] | 14 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (7) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
+[[Experience]] | 10 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (7) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Image]] | 10 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Soulmaking]] | 9 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Perception]] | 8 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (4) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Beauty]] | 7 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Cosmology]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
+[[Dimensionality]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+

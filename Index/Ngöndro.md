@@ -10,3 +10,12 @@ description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Rinpoches spend most of their time doing Ngöndro what are basically preliminary excercises\|Rinpoches spend most of their time doing Ngöndro, what are basically preliminary excercises]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Dzogchen]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Mahamudra]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Preliminaries]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Tibetan Buddhism]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Ultimate Truth]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+

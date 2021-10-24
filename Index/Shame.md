@@ -10,3 +10,10 @@ description | count | talk
 :- | : - | :-
 [[Exploring the World of Loving Kindness#Regreat pain guilt can come to the surface\|Regreat, pain, guilt can come to the surface]] | 1 | [[Exploring the World of Loving Kindness]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Metta]] | 1 | <span class="counts">[[Exploring the World of Loving Kindness]] (1)</span> 
+[[Pain]] | 1 | <span class="counts">[[Exploring the World of Loving Kindness]] (1)</span> 
+[[Retreat]] | 1 | <span class="counts">[[Exploring the World of Loving Kindness]] (1)</span> 
+

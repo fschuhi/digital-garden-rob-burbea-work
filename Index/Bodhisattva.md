@@ -23,3 +23,17 @@ description | count | talk
 [[The Practice of Compassion#Different practices for compassion\|Different practices for compassion]] | 1 | [[The Practice of Compassion]]
 [[Expressions of Metta#Perceptions are changing and opening\|Perceptions are changing and opening]] | 1 | [[Expressions of Metta]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Compassion]] | 7 | <span class="counts">[[Compassion (talk)]] (3) · [[The Practice of Compassion]] (2) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Avalokiteshvara]] | 6 | <span class="counts">[[Compassion (talk)]] (2) · [[The Practice of Compassion]] (2) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Energy]] | 5 | <span class="counts">[[Compassion (talk)]] (2) · [[The Practice of Compassion]] (2) · [[Expressions of Metta]] (1)</span> 
+[[Jesus]] | 5 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Love]] | 5 | <span class="counts">[[Expressions of Metta]] (2) · [[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Dukkha]] | 4 | <span class="counts">[[Compassion (talk)]] (3) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[The Self]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Archetype]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
+[[Awakening]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Cultivation]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+

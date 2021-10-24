@@ -10,3 +10,9 @@ description | count | talk
 :- | : - | :-
 [[Joy (talk)#Yes don't cling\|Yes, don't cling]] | 1 | [[Joy (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Clinging]] | 1 | <span class="counts">[[Joy (talk)]] (1)</span> 
+[[Happiness]] | 1 | <span class="counts">[[Joy (talk)]] (1)</span> 
+

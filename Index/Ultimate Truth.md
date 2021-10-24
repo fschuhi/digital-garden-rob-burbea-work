@@ -23,3 +23,17 @@ description | count | talk
 [[What is Insight#Another universal insight it's a good idea to practice\|Another universal insight: it's a good idea to practice]] | 1 | [[What is Insight]]
 [[What is Insight#What qualities do I need to cultivate that actually lead to a lessening of suffering\|What qualities do I need to cultivate that actually lead to a lessening of suffering]] | 1 | [[What is Insight]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Insight]] | 5 | <span class="counts">[[What is Insight]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Dukkha]] | 3 | <span class="counts">[[What is Insight]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Impermanence]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2) · [[What is Insight]] (1)</span> 
+[[Mind]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2) · [[What is Insight]] (1)</span> 
+[[Ways of looking]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Attention]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 2]] (1) · [[What is Insight]] (1)</span> 
+[[Conventional reality]] | 2 | <span class="counts">[[What is Insight]] (2)</span> 
+[[Embodiment]] | 2 | <span class="counts">[[What is Insight]] (2)</span> 
+[[Fabrication]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2)</span> 
+[[Feelings]] | 2 | <span class="counts">[[What is Insight]] (2)</span> 
+

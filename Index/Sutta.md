@@ -21,3 +21,17 @@ description | count | talk
 [[Love and Emptiness# "By not holding to fixed views" - the liberation comes through how ways of seeing are fabricated\|..."By not holding to fixed views" - the liberation comes through how ways of seeing are fabricated]] | 1 | [[Love and Emptiness]]
 [[Expressions of Metta#Metta being unconditioned and boundless can seem a bit unreal "metta machine"\|Metta being unconditioned and boundless can seem a bit unreal ("metta machine")]] | 1 | [[Expressions of Metta]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Metta]] | 4 | <span class="counts">[[Expressions of Metta]] (2) · [[Exploring the World of Loving Kindness]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Meditation]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Expressions of Metta]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Awakening]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Beauty]] | 2 | <span class="counts">[[Expressions of Metta]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Buddha]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Anatta]] | 1 | <span class="counts">[[Exploring the World of Loving Kindness]] (1)</span> 
+[[Attention]] | 1 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Awareness]] | 1 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Consciousness]] | 1 | <span class="counts">[[Love and Emptiness]] (1)</span> 
+[[Desire]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+

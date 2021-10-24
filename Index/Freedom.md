@@ -28,3 +28,17 @@ description | count | talk
 [[The Practice of Compassion#We feel the contraction in the climate of compassion\|We feel the contraction in the climate of compassion]] | 3 | [[The Practice of Compassion]]
 [[Samadhi in Metta Practice#The emptiness brings freedom gradually\|The emptiness brings freedom, gradually]] | 3 | [[Samadhi in Metta Practice]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Insight]] | 27 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (4) · [[From Insight to Love]] (3) · [[The Way of Non-Clinging Part 3]] (3) · [[Compassion (talk)]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Equanimity in Compassion]] (2) · [[Love and Emptiness]] (2) · [[The Practice of Compassion]] (2) · [[The Way of Non-Clinging Part 2]] (2)</span> 
+[[Love]] | 22 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (7) · [[From Insight to Love]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[What is Insight]] (2)</span> 
+[[Experience]] | 19 | <span class="counts">[[From Insight to Love]] (5) · [[The Way of Non-Clinging Part 2]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Buddha]] | 16 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (5) · [[From Insight to Love]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[Compassion (talk)]] (1)</span> 
+[[Dukkha]] | 16 | <span class="counts">[[The Practice of Compassion]] (4) · [[From Insight to Love]] (2) · [[The Way of Non-Clinging Part 3]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Emptiness]] | 16 | <span class="counts">[[Love and Emptiness]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[The Self]] | 15 | <span class="counts">[[The Practice of Compassion]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[From Insight to Love]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Compassion]] | 13 | <span class="counts">[[The Practice of Compassion]] (4) · [[Compassion (talk)]] (2) · [[Equanimity in Compassion]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Dharma]] | 13 | <span class="counts">[[The Way of Non-Clinging Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Clinging]] | 11 | <span class="counts">[[The Way of Non-Clinging Part 2]] (4) · [[The Way of Non-Clinging Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[The Practice of Compassion]] (1)</span> 
+

@@ -25,3 +25,17 @@ description | count | talk
 [[Equanimity in Compassion#Paradoxically we become even more devoted with seeing the emptiness of everything\|Paradoxically, we become even more devoted with seeing the emptiness of everything]] | 1 | [[Equanimity in Compassion]]
 [[Expressions of Metta#Don't judge or push away attachment but rather learn about it\|Don't judge or push away attachment, but rather learn about it]] | 1 | [[Expressions of Metta]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Anger]] | 7 | <span class="counts">[[Compassion (talk)]] (4) · [[The Practice of Compassion]] (3)</span> 
+[[Compassion]] | 7 | <span class="counts">[[Compassion (talk)]] (3) · [[The Practice of Compassion]] (3) · [[Equanimity in Compassion]] (1)</span> 
+[[Metta]] | 7 | <span class="counts">[[Exploring the World of Loving Kindness]] (3) · [[Expressions of Metta]] (2) · [[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Fear]] | 6 | <span class="counts">[[Compassion (talk)]] (3) · [[The Practice of Compassion]] (3)</span> 
+[[Love]] | 6 | <span class="counts">[[Exploring the World of Loving Kindness]] (3) · [[Compassion (talk)]] (1) · [[Expressions of Metta]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Pity]] | 6 | <span class="counts">[[Compassion (talk)]] (3) · [[The Practice of Compassion]] (3)</span> 
+[[Dukkha]] | 5 | <span class="counts">[[The Practice of Compassion]] (3) · [[Compassion (talk)]] (2)</span> 
+[[The Self]] | 5 | <span class="counts">[[Compassion (talk)]] (1) · [[Equanimity (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Grief]] | 3 | <span class="counts">[[Compassion (talk)]] (2) · [[The Practice of Compassion]] (1)</span> 
+[[Equanimity]] | 2 | <span class="counts">[[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
+

@@ -28,3 +28,17 @@ description | count | talk
 [[Samadhi in Metta Practice#Excercise if calmness is there drop in the thought of a difficult issue\|Excercise: if calmness is there, drop in the thought of a difficult issue]] | 3 | [[Samadhi in Metta Practice]]
 [[Equanimity (talk)#That movement of not being so pulled is the beginning of steadiness\|That movement of not being so pulled is the beginning of steadiness]] | 3 | [[Equanimity (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Mind]] | 19 | <span class="counts">[[Equanimity in Compassion]] (4) · [[Samadhi in Metta Practice]] (4) · [[The Place of Samadhi in Metta Practice]] (4) · [[Equanimity (talk)]] (2)</span> 
+[[Equanimity]] | 15 | <span class="counts">[[Equanimity in Compassion]] (9) · [[Equanimity (talk)]] (5) · [[Compassion (talk)]] (1)</span> 
+[[Samadhi]] | 15 | <span class="counts">[[Samadhi in Metta Practice]] (5) · [[The Place of Samadhi in Metta Practice]] (5) · [[What is Insight]] (2) · [[Equanimity (talk)]] (1)</span> 
+[[Metta]] | 11 | <span class="counts">[[Equanimity in Compassion]] (3) · [[From Insight to Love]] (2) · [[Samadhi in Metta Practice]] (2) · [[Equanimity (talk)]] (1)</span> 
+[[Compassion]] | 9 | <span class="counts">[[Equanimity in Compassion]] (3) · [[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity (talk)]] (1)</span> 
+[[Meditation]] | 9 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (4) · [[Equanimity (talk)]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Insight]] | 7 | <span class="counts">[[What is Insight]] (3) · [[Compassion (talk)]] (1) · [[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Buddha]] | 6 | <span class="counts">[[Equanimity in Compassion]] (2) · [[Equanimity (talk)]] (1) · [[From Insight to Love]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Dukkha]] | 6 | <span class="counts">[[Equanimity in Compassion]] (2) · [[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Awareness]] | 5 | <span class="counts">[[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+

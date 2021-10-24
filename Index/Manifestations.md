@@ -16,3 +16,17 @@ description | count | talk
 [[The Way of Non-Clinging Part 1#Huge range of what contitutes craving\|Huge range of what contitutes craving]] | 1 | [[The Way of Non-Clinging Part 1]]
 [[Exploring the World of Loving Kindness#The squeaky clean metta machine\|The squeaky clean metta machine]] | 1 | [[Exploring the World of Loving Kindness]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Embodiment]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3)</span> 
+[[Image]] | 2 | <span class="counts">[[Exploring the World of Loving Kindness]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[The Self]] | 2 | <span class="counts">[[Exploring the World of Loving Kindness]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Anatta]] | 1 | <span class="counts">[[Exploring the World of Loving Kindness]] (1)</span> 
+[[Clinging]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Craving]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Dharma]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Dukkha]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Emptiness]] | 1 | <span class="counts">[[Exploring the World of Loving Kindness]] (1)</span> 
+[[Energy]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+

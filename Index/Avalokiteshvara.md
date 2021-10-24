@@ -20,3 +20,17 @@ description | count | talk
 [[Compassion (talk)#Wanting to take in all the suffering is a beautiful aspiration\|Wanting to take in all the suffering is a beautiful aspiration]] | 1 | [[Compassion (talk)]]
 [[The Practice of Compassion#"Love is without beginning"\|"Love is without beginning"]] | 1 | [[The Practice of Compassion]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Compassion]] | 7 | <span class="counts">[[Compassion (talk)]] (2) · [[The Practice of Compassion]] (2) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Bodhisattva]] | 6 | <span class="counts">[[Compassion (talk)]] (2) · [[The Practice of Compassion]] (2) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Jesus]] | 5 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Energy]] | 4 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Love]] | 3 | <span class="counts">[[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Archetype]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
+[[Cultivation]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Dukkha]] | 2 | <span class="counts">[[Compassion (talk)]] (2)</span> 
+[[Metta]] | 2 | <span class="counts">[[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[The Self]] | 2 | <span class="counts">[[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+

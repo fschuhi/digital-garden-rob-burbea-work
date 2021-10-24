@@ -25,3 +25,17 @@ description | count | talk
 [[What is Insight#No story can ever be the whole truth\|No story can ever be the whole truth]] | 1 | [[What is Insight]]
 [[Love and Emptiness#It's something that we go deeper slowly gradually in a non-linear way\|It's something that we go deeper, slowly, gradually, in a non-linear way]] | 1 | [[Love and Emptiness]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Hindrances]] | 3 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (2) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Insight]] | 3 | <span class="counts">[[Love and Emptiness]] (1) · [[Orienting to This Jhana Retreat]] (1) · [[What is Insight]] (1)</span> 
+[[Retreat]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 1]] (2) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Aversion]] | 2 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Contraction]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 1]] (2)</span> 
+[[Fantasy]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[What is Insight]] (1)</span> 
+[[Jhanas]] | 2 | <span class="counts">[[Orienting to This Jhana Retreat]] (2)</span> 
+[[Love]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Mind]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 1]] (2)</span> 
+[[Personhood]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 1]] (1) · [[What is Insight]] (1)</span> 
+

@@ -28,3 +28,17 @@ description | count | talk
 [[Samadhi in Metta Practice#We need a sense of deep nourishment\|We need a sense of deep nourishment]] | 2 | [[Samadhi in Metta Practice]]
 [[Equanimity (talk)#There is nothing really to be equanimous about\|There is nothing really to be equanimous about]] | 2 | [[Equanimity (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Compassion]] | 24 | <span class="counts">[[Compassion (talk)]] (6) · [[The Practice of Compassion]] (6) · [[Love and Emptiness]] (3) · [[Equanimity in Compassion]] (2) · [[From Insight to Love]] (2) · [[Guided Meditation on Gratitude and Compassion]] (2)</span> 
+[[Happiness]] | 22 | <span class="counts">[[Joy (talk)]] (6) · [[Compassion (talk)]] (2) · [[Equanimity (talk)]] (2) · [[Equanimity in Compassion]] (2) · [[From Insight to Love]] (2) · [[Orienting to This Jhana Retreat]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
+[[Mind]] | 17 | <span class="counts">[[Equanimity (talk)]] (4) · [[Love and Emptiness]] (3) · [[The Place of Samadhi in Metta Practice]] (2) · [[Compassion (talk)]] (1)</span> 
+[[Metta]] | 15 | <span class="counts">[[The Practice of Compassion]] (3) · [[Equanimity (talk)]] (2) · [[From Insight to Love]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Buddha]] | 12 | <span class="counts">[[Love and Emptiness]] (4) · [[Equanimity (talk)]] (2) · [[Joy (talk)]] (2) · [[The Practice of Compassion]] (2)</span> 
+[[Dukkha]] | 12 | <span class="counts">[[The Practice of Compassion]] (3) · [[Compassion (talk)]] (2) · [[Guided Meditation on Gratitude and Compassion]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1)</span> 
+[[Equanimity]] | 11 | <span class="counts">[[Equanimity (talk)]] (6) · [[Equanimity in Compassion]] (2) · [[From Insight to Love]] (1) · [[Joy (talk)]] (1)</span> 
+[[Love]] | 11 | <span class="counts">[[From Insight to Love]] (2) · [[Orienting to This Jhana Retreat]] (2) · [[The Practice of Compassion]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1)</span> 
+[[Retreat]] | 11 | <span class="counts">[[Orienting to This Jhana Retreat]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[From Insight to Love]] (1)</span> 
+[[Samadhi]] | 11 | <span class="counts">[[Compassion (talk)]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Equanimity in Compassion]] (1) · [[From Insight to Love]] (1)</span> 
+

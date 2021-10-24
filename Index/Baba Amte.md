@@ -10,3 +10,9 @@ description | count | talk
 :- | : - | :-
 [[From Insight to Love#Baba Amte\|Baba Amte]] | 1 | [[From Insight to Love]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Fear]] | 1 | <span class="counts">[[From Insight to Love]] (1)</span> 
+[[Love]] | 1 | <span class="counts">[[From Insight to Love]] (1)</span> 
+

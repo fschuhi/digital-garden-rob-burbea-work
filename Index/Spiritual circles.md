@@ -16,3 +16,17 @@ description | count | talk
 [[Equanimity in Compassion#Equanimity is not indifference\|Equanimity is not indifference]] | 1 | [[Equanimity in Compassion]]
 [[Expressions of Metta#Anger is complicated\|Anger is complicated]] | 1 | [[Expressions of Metta]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Anger]] | 1 | <span class="counts">[[Expressions of Metta]] (1)</span> 
+[[Attention]] | 1 | <span class="counts">[[What is Insight]] (1)</span> 
+[[Brahmaviharas]] | 1 | <span class="counts">[[Equanimity in Compassion]] (1)</span> 
+[[Conventional reality]] | 1 | <span class="counts">[[What is Insight]] (1)</span> 
+[[Dharma]] | 1 | <span class="counts">[[Joy (talk)]] (1)</span> 
+[[Embodiment]] | 1 | <span class="counts">[[What is Insight]] (1)</span> 
+[[Equanimity]] | 1 | <span class="counts">[[Equanimity in Compassion]] (1)</span> 
+[[Feelings]] | 1 | <span class="counts">[[What is Insight]] (1)</span> 
+[[Freedom]] | 1 | <span class="counts">[[Joy (talk)]] (1)</span> 
+[[Habit]] | 1 | <span class="counts">[[What is Insight]] (1)</span> 
+

@@ -44,3 +44,17 @@ description | count | talk
 [[Samadhi in Metta Practice#Samadhi is the soil where insights grow\|Samadhi is the soil where insights grow]] | 4 | [[Samadhi in Metta Practice]]
 [[Samadhi in Metta Practice#Example story because of samadhi there weren't the conditions there for anger\|Example story: because of samadhi there weren't the conditions there for anger]] | 4 | [[Samadhi in Metta Practice]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Mind]] | 61 | <span class="counts">[[Samadhi in Metta Practice]] (23) · [[The Place of Samadhi in Metta Practice]] (20) · [[Orienting to This Jhana Retreat]] (5) · [[Love and Emptiness]] (3) · [[Equanimity in Compassion]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Metta]] | 53 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (20) · [[Samadhi in Metta Practice]] (13) · [[Using Insight to Deepen Love and Compassion]] (5) · [[Love and Emptiness]] (4) · [[Equanimity in Compassion]] (3) · [[Compassion (talk)]] (2)</span> 
+[[Retreat]] | 43 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (17) · [[Samadhi in Metta Practice]] (9) · [[Orienting to This Jhana Retreat]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Equanimity in Compassion]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Compassion]] | 30 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (7) · [[Equanimity in Compassion]] (6) · [[Compassion (talk)]] (3) · [[Compassion Part Two - Compassion for Ourselves]] (2) · [[Love and Emptiness]] (2) · [[Samadhi in Metta Practice]] (2) · [[The Practice of Compassion]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Insight]] | 29 | <span class="counts">[[Samadhi in Metta Practice]] (8) · [[The Place of Samadhi in Metta Practice]] (6) · [[Orienting to This Jhana Retreat]] (3) · [[What is Insight]] (2)</span> 
+[[Embodiment]] | 24 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (9) · [[Samadhi in Metta Practice]] (5) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (4) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Meditation]] | 20 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (7) · [[Samadhi in Metta Practice]] (5) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Compassion (talk)]] (1)</span> 
+[[Happiness]] | 19 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (6) · [[Samadhi in Metta Practice]] (4) · [[Equanimity in Compassion]] (2) · [[Joy (talk)]] (2)</span> 
+[[Pleasantness]] | 19 | <span class="counts">[[Samadhi in Metta Practice]] (7) · [[The Place of Samadhi in Metta Practice]] (4) · [[Orienting to This Jhana Retreat]] (2) · [[The Practice of Compassion]] (2)</span> 
+[[Buddha]] | 16 | <span class="counts">[[Samadhi in Metta Practice]] (7) · [[The Place of Samadhi in Metta Practice]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Joy (talk)]] (1)</span> 
+

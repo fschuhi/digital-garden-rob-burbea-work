@@ -15,3 +15,17 @@ description | count | talk
 [[Questioning Awakening#Western Enlightenment relativity quantum mechanics - the truth\|Western Enlightenment, relativity, quantum mechanics - the truth?]] | 1 | [[Questioning Awakening]]
 [[Questioning Awakening#Ontology of materialism\|Ontology of materialism]] | 1 | [[Questioning Awakening]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Awakening]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Questioning Awakening]] (1)</span> 
+[[Dharma]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Questioning Awakening]] (1)</span> 
+[[Imaginal]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Personhood]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Cosmology]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Daimon]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Dimensionality]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Energy]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Eros]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Fantasy]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+

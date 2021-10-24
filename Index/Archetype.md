@@ -16,3 +16,17 @@ description | count | talk
 [[Compassion (talk)#Cultivating compassion through Tonglen or through devotion\|Cultivating compassion through Tonglen, or through devotion]] | 1 | [[Compassion (talk)]]
 [[Exploring the World of Loving Kindness#It's not always that metta feels it's coming from the self\|It's not always that metta feels it's coming from the self]] | 1 | [[Exploring the World of Loving Kindness]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Jesus]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
+[[Avalokiteshvara]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
+[[Bodhisattva]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
+[[Compassion]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
+[[Buddha]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Cultivation]] | 1 | <span class="counts">[[Compassion (talk)]] (1)</span> 
+[[Death]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Dukkha]] | 1 | <span class="counts">[[Compassion (talk)]] (1)</span> 
+[[Energy]] | 1 | <span class="counts">[[Compassion (talk)]] (1)</span> 
+[[Eros]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+

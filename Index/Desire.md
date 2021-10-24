@@ -30,3 +30,17 @@ description | count | talk
 [[The Way of Non-Clinging Part 3#3 distinctions divisions directions for "clinging"\|3 distinctions, divisions, directions (for "clinging")]] | 4 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 3#How can we conceive of a clinging which opens towards what is deeply important to us\|How can we conceive of a clinging which opens towards what is deeply important to us?]] | 4 | [[The Way of Non-Clinging Part 3]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Eros]] | 36 | <span class="counts">[[The Way of Non-Clinging Part 3]] (12) · [[Dilemmas and Delineations - How did we get here Part 1]] (11) · [[Dilemmas and Delineations - How did we get here Part 2]] (5) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 4]] (2)</span> 
+[[Craving]] | 31 | <span class="counts">[[The Way of Non-Clinging Part 3]] (13) · [[The Way of Non-Clinging Part 1]] (10) · [[Dilemmas and Delineations - How did we get here Part 1]] (4) · [[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
+[[Clinging]] | 27 | <span class="counts">[[The Way of Non-Clinging Part 3]] (13) · [[The Way of Non-Clinging Part 1]] (11) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Dharma]] | 24 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (11) · [[The Way of Non-Clinging Part 3]] (8) · [[The Way of Non-Clinging Part 1]] (4) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
+[[Passion]] | 20 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (8) · [[The Way of Non-Clinging Part 3]] (8) · [[The Way of Non-Clinging Part 1]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Experience]] | 16 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (5) · [[The Way of Non-Clinging Part 1]] (5) · [[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Dukkha]] | 15 | <span class="counts">[[The Way of Non-Clinging Part 3]] (6) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
+[[Retreat]] | 15 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (7) · [[The Way of Non-Clinging Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Joy (talk)]] (1)</span> 
+[[Letting go]] | 13 | <span class="counts">[[The Way of Non-Clinging Part 3]] (8) · [[The Way of Non-Clinging Part 1]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Soul]] | 13 | <span class="counts">[[The Way of Non-Clinging Part 3]] (9) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+

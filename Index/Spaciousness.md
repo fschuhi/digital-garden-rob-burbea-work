@@ -28,3 +28,17 @@ description | count | talk
 [[From Insight to Love#Practice total acceptance of the physical sensations of fear\|Practice: total acceptance of the physical sensations of fear]] | 2 | [[From Insight to Love]]
 [[Expressions of Metta#When anger is thrown at us it's difficult to not automatically go into reactive mode\|When anger is thrown at us, it's difficult to not automatically go into reactive mode]] | 2 | [[Expressions of Metta]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Dukkha]] | 11 | <span class="counts">[[Compassion (talk)]] (3) · [[Equanimity in Compassion]] (3) · [[The Practice of Compassion]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1)</span> 
+[[Compassion]] | 9 | <span class="counts">[[Equanimity in Compassion]] (3) · [[Compassion (talk)]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (2) · [[The Practice of Compassion]] (2)</span> 
+[[Awareness]] | 8 | <span class="counts">[[From Insight to Love]] (2) · [[Compassion (talk)]] (1) · [[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Equanimity]] | 8 | <span class="counts">[[Equanimity in Compassion]] (4) · [[The Practice of Compassion]] (2) · [[Equanimity (talk)]] (1) · [[Joy (talk)]] (1)</span> 
+[[Mind]] | 7 | <span class="counts">[[Equanimity in Compassion]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity (talk)]] (1) · [[From Insight to Love]] (1)</span> 
+[[Metta]] | 5 | <span class="counts">[[Equanimity in Compassion]] (3) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[From Insight to Love]] (1)</span> 
+[[Embodiment]] | 4 | <span class="counts">[[From Insight to Love]] (1) · [[Orienting to This Jhana Retreat]] (1) · [[The Place of Samadhi in Metta Practice]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
+[[The Self]] | 4 | <span class="counts">[[Compassion Part Two - Compassion for Ourselves]] (2) · [[Equanimity in Compassion]] (2)</span> 
+[[Aversion]] | 3 | <span class="counts">[[From Insight to Love]] (2) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Clinging]] | 3 | <span class="counts">[[Equanimity in Compassion]] (1) · [[From Insight to Love]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+

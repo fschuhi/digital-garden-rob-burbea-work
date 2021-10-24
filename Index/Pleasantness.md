@@ -28,3 +28,17 @@ description | count | talk
 [[Samadhi in Metta Practice#2 Interest\|2. Interest]] | 2 | [[Samadhi in Metta Practice]]
 [[Equanimity (talk)#Equanimity in relation to the eight worldly conditions\|Equanimity in relation to the eight worldly conditions]] | 2 | [[Equanimity (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Happiness]] | 19 | <span class="counts">[[The Practice of Compassion]] (4) · [[From Insight to Love]] (3) · [[Equanimity in Compassion]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Samadhi]] | 19 | <span class="counts">[[Samadhi in Metta Practice]] (7) · [[The Place of Samadhi in Metta Practice]] (4) · [[Orienting to This Jhana Retreat]] (2) · [[The Practice of Compassion]] (2)</span> 
+[[Mind]] | 17 | <span class="counts">[[Samadhi in Metta Practice]] (7) · [[The Place of Samadhi in Metta Practice]] (4) · [[Equanimity (talk)]] (1) · [[From Insight to Love]] (1)</span> 
+[[Compassion]] | 12 | <span class="counts">[[The Practice of Compassion]] (6) · [[Compassion (talk)]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Metta]] | 12 | <span class="counts">[[Samadhi in Metta Practice]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Equanimity in Compassion]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Piti]] | 11 | <span class="counts">[[Samadhi in Metta Practice]] (5) · [[Orienting to This Jhana Retreat]] (3) · [[The Place of Samadhi in Metta Practice]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
+[[Embodiment]] | 10 | <span class="counts">[[Samadhi in Metta Practice]] (3) · [[The Place of Samadhi in Metta Practice]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Buddha]] | 9 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[Compassion (talk)]] (1) · [[Equanimity (talk)]] (1)</span> 
+[[Retreat]] | 9 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (5) · [[Orienting to This Jhana Retreat]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Fear]] | 8 | <span class="counts">[[From Insight to Love]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Samadhi in Metta Practice]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+

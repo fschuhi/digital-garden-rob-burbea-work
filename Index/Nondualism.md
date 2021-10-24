@@ -28,3 +28,17 @@ description | count | talk
 [[From Insight to Love#Metta practice can lead to the dissolving of the boundaries between self and other\|Metta practice can lead to the dissolving of the boundaries between self and other]] | 1 | [[From Insight to Love]]
 [[Equanimity (talk)#The dying down of the push and the pull brings long-term nourishment for the being and it has love in it\|The dying down of the push and the pull brings long-term nourishment for the being, and it has love in it]] | 1 | [[Equanimity (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Love]] | 12 | <span class="counts">[[From Insight to Love]] (3) · [[Love and Emptiness]] (3) · [[Equanimity in Compassion]] (2) · [[Samadhi in Metta Practice]] (2)</span> 
+[[The Self]] | 7 | <span class="counts">[[From Insight to Love]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Equanimity in Compassion]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Anatta]] | 6 | <span class="counts">[[From Insight to Love]] (2) · [[Equanimity in Compassion]] (1) · [[Expressions of Metta]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Metta]] | 6 | <span class="counts">[[From Insight to Love]] (2) · [[Equanimity in Compassion]] (1) · [[Expressions of Metta]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Perception]] | 6 | <span class="counts">[[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1) · [[From Insight to Love]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Emptiness]] | 5 | <span class="counts">[[Love and Emptiness]] (2) · [[Equanimity in Compassion]] (1) · [[The Place of Samadhi in Metta Practice]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Compassion]] | 4 | <span class="counts">[[Love and Emptiness]] (2) · [[Equanimity in Compassion]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Craving]] | 4 | <span class="counts">[[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1) · [[From Insight to Love]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Insight]] | 4 | <span class="counts">[[Love and Emptiness]] (2) · [[The Place of Samadhi in Metta Practice]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Mind]] | 4 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[Equanimity in Compassion]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+

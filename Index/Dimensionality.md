@@ -28,3 +28,17 @@ description | count | talk
 [[Love and Emptiness#Yogi "awareness without an object"\|Yogi: "awareness without an object"?]] | 1 | [[Love and Emptiness]]
 [[Expressions of Metta#Metta is a constallation of feelings\|Metta is a constallation of feelings]] | 1 | [[Expressions of Metta]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Soul]] | 19 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (6) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (3)</span> 
+[[Image]] | 13 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Eros]] | 10 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Soulmaking]] | 10 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Beauty]] | 9 | <span class="counts">[[The Way of Non-Clinging Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
+[[Imaginal]] | 9 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Divinity]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Desire]] | 5 | <span class="counts">[[The Way of Non-Clinging Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
+[[Meaningfulness]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Perception]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+

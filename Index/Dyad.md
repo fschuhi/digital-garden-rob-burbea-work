@@ -20,3 +20,17 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#The blessed one is not responding but is sensitive with the energy body\|The blessed one is not responding but is sensitive with the energy body]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Recognising soul is the main point\|Recognising soul is the main point]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Blessing]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
+[[Soul]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
+[[Embodiment]] | 5 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Daimon]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[Imaginal]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4)</span> 
+[[Fear]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
+[[Personhood]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
+[[Soulmaking]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[The Self]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
+[[Compassion]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+

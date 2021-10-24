@@ -53,3 +53,17 @@ description | count | talk
 [[The Practice of Compassion#Happiness is a kind of foundation not only for samadhi but also for compassion\|Happiness is a kind of foundation, not only for samadhi but also for compassion]] | 4 | [[The Practice of Compassion]]
 [[Equanimity (talk)#Qualities like metta and equanimity develop a reservoir of happiness inside\|Qualities like metta and equanimity develop a reservoir of happiness inside]] | 4 | [[Equanimity (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Compassion]] | 29 | <span class="counts">[[Compassion (talk)]] (7) · [[The Practice of Compassion]] (7) · [[Equanimity in Compassion]] (5) · [[Equanimity (talk)]] (2) · [[Joy (talk)]] (2)</span> 
+[[Buddha]] | 27 | <span class="counts">[[Joy (talk)]] (10) · [[Orienting to This Jhana Retreat]] (4) · [[Equanimity (talk)]] (2) · [[From Insight to Love]] (2) · [[Samadhi in Metta Practice]] (2) · [[What is Insight]] (2)</span> 
+[[Metta]] | 26 | <span class="counts">[[Compassion (talk)]] (4) · [[Equanimity (talk)]] (4) · [[Joy (talk)]] (4) · [[Equanimity in Compassion]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[The Practice of Compassion]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Cultivation]] | 22 | <span class="counts">[[Joy (talk)]] (6) · [[Compassion (talk)]] (2) · [[Equanimity (talk)]] (2) · [[Equanimity in Compassion]] (2) · [[From Insight to Love]] (2) · [[Orienting to This Jhana Retreat]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
+[[Dharma]] | 21 | <span class="counts">[[Joy (talk)]] (13) · [[Orienting to This Jhana Retreat]] (3) · [[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1)</span> 
+[[Mind]] | 20 | <span class="counts">[[Joy (talk)]] (6) · [[The Place of Samadhi in Metta Practice]] (5) · [[Orienting to This Jhana Retreat]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Pleasantness]] | 19 | <span class="counts">[[The Practice of Compassion]] (4) · [[From Insight to Love]] (3) · [[Equanimity in Compassion]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Samadhi]] | 19 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (6) · [[Samadhi in Metta Practice]] (4) · [[Equanimity in Compassion]] (2) · [[Joy (talk)]] (2)</span> 
+[[Dukkha]] | 18 | <span class="counts">[[The Practice of Compassion]] (5) · [[Compassion (talk)]] (4) · [[Equanimity (talk)]] (2) · [[Joy (talk)]] (2) · [[What is Insight]] (2)</span> 
+[[Equanimity]] | 16 | <span class="counts">[[Equanimity in Compassion]] (4) · [[Joy (talk)]] (3) · [[Equanimity (talk)]] (2) · [[Orienting to This Jhana Retreat]] (2)</span> 
+

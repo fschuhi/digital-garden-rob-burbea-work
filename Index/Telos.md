@@ -16,3 +16,17 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#What's happening in Excercises 5 does not have to transfer to movement or sound at all\|What's happening in Excercises 5 does not have to transfer to movement or sound at all]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#We want the body and soul integrated together\|We want the body and soul integrated together]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Duty]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4)</span> 
+[[Daimon]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
+[[Devotion]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
+[[Image]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
+[[Soul]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
+[[Death]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Beauty]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Conceptual framework]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Consciousness]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Divinity]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+

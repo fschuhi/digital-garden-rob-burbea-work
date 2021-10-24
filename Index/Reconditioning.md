@@ -17,3 +17,17 @@ description | count | talk
 [[Love and Emptiness#In transforming the heart we're transforming our intentions in life\|In transforming the heart, we're transforming our intentions in life]] | 2 | [[Love and Emptiness]]
 [[The Practice of Compassion#Spending time with compassionate people and actually doing stuff\|Spending time with compassionate people and actually doing stuff]] | 1 | [[The Practice of Compassion]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Mind]] | 4 | <span class="counts">[[Love and Emptiness]] (2) · [[Joy (talk)]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Compassion]] | 3 | <span class="counts">[[Love and Emptiness]] (2) · [[The Practice of Compassion]] (1)</span> 
+[[Cultivation]] | 2 | <span class="counts">[[Love and Emptiness]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Habit]] | 2 | <span class="counts">[[Joy (talk)]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Insight]] | 2 | <span class="counts">[[Love and Emptiness]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Love]] | 2 | <span class="counts">[[Love and Emptiness]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Anatta]] | 1 | <span class="counts">[[The Practice of Compassion]] (1)</span> 
+[[Attention]] | 1 | <span class="counts">[[Joy (talk)]] (1)</span> 
+[[Awakening]] | 1 | <span class="counts">[[Love and Emptiness]] (1)</span> 
+[[Buddha]] | 1 | <span class="counts">[[The Practice of Compassion]] (1)</span> 
+

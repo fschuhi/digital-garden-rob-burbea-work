@@ -12,3 +12,9 @@ description | count | talk
 [[Compassion (talk)#Story Gertrude Stein on her death bed\|Story: Gertrude Stein on her death bed]] | 2 | [[Compassion (talk)]]
 [[The Practice of Compassion#Gertrude Stein "What's the question"\|Gertrude Stein: "What's the question?"]] | 1 | [[The Practice of Compassion]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Consciousness]] | 1 | <span class="counts">[[Compassion (talk)]] (1)</span> 
+[[Insight]] | 1 | <span class="counts">[[Compassion (talk)]] (1)</span> 
+

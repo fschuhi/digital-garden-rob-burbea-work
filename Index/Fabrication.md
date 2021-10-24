@@ -30,3 +30,17 @@ description | count | talk
 [[The Way of Non-Clinging Part 2#There can be a complete unfabrication\|There can be a complete unfabrication]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[The Way of Non-Clinging Part 2#The whole Dharma fits on a spectrum\|The whole Dharma fits on a spectrum]] | 4 | [[The Way of Non-Clinging Part 2]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Clinging]] | 33 | <span class="counts">[[The Way of Non-Clinging Part 2]] (21) · [[The Way of Non-Clinging Part 3]] (6) · [[The Way of Non-Clinging Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Perception]] | 30 | <span class="counts">[[The Way of Non-Clinging Part 2]] (16) · [[The Way of Non-Clinging Part 3]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Love and Emptiness]] (2)</span> 
+[[Ways of looking]] | 29 | <span class="counts">[[The Way of Non-Clinging Part 2]] (16) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Love and Emptiness]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Experience]] | 23 | <span class="counts">[[The Way of Non-Clinging Part 2]] (14) · [[The Way of Non-Clinging Part 3]] (3) · [[The Way of Non-Clinging Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Insight]] | 21 | <span class="counts">[[The Way of Non-Clinging Part 2]] (10) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[The Way of Non-Clinging Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Emptiness]] | 19 | <span class="counts">[[The Way of Non-Clinging Part 2]] (12) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Craving]] | 18 | <span class="counts">[[The Way of Non-Clinging Part 2]] (11) · [[The Way of Non-Clinging Part 3]] (4) · [[The Way of Non-Clinging Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Mind]] | 17 | <span class="counts">[[The Way of Non-Clinging Part 2]] (10) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Equanimity in Compassion]] (1) · [[From Insight to Love]] (1)</span> 
+[[The Self]] | 17 | <span class="counts">[[The Way of Non-Clinging Part 2]] (12) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[From Insight to Love]] (1)</span> 
+[[Consciousness]] | 15 | <span class="counts">[[The Way of Non-Clinging Part 2]] (8) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Love and Emptiness]] (2) · [[From Insight to Love]] (1)</span> 
+

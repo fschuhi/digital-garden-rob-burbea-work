@@ -14,3 +14,17 @@ description | count | talk
 [[Questioning Awakening#Each different focus gives samadhi a different meaning\|Each different focus gives samadhi a different meaning]] | 1 | [[Questioning Awakening]]
 [[Questioning Awakening#The notion of liberation can be boxed in but in can also be ever-expanding\|The notion of liberation can be boxed in, but in can also be ever-expanding]] | 1 | [[Questioning Awakening]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Awakening]] | 2 | <span class="counts">[[Questioning Awakening]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Dharma]] | 2 | <span class="counts">[[Questioning Awakening]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Freedom]] | 2 | <span class="counts">[[Questioning Awakening]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Activism]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Attention]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Awareness]] | 1 | <span class="counts">[[Questioning Awakening]] (1)</span> 
+[[Bodhisattva]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Clinging]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Craving]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Desire]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+

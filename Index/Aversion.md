@@ -28,3 +28,17 @@ description | count | talk
 [[Equanimity in Compassion#Rob feeling the suffering is important because there's a lot insight in this approach\|Rob: feeling the suffering is important because there's a lot insight in this approach]] | 3 | [[Equanimity in Compassion]]
 [[Samadhi in Metta Practice#Aversion\|Aversion]] | 3 | [[Samadhi in Metta Practice]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Craving]] | 19 | <span class="counts">[[The Way of Non-Clinging Part 1]] (4) · [[Equanimity in Compassion]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[From Insight to Love]] (2) · [[What is Insight]] (2)</span> 
+[[Fear]] | 19 | <span class="counts">[[From Insight to Love]] (9) · [[Using Insight to Deepen Love and Compassion]] (8) · [[Joy (talk)]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Clinging]] | 16 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (5) · [[From Insight to Love]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 2]] (2)</span> 
+[[Embodiment]] | 13 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (4) · [[From Insight to Love]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[Equanimity (talk)]] (1)</span> 
+[[Mind]] | 13 | <span class="counts">[[From Insight to Love]] (4) · [[Samadhi in Metta Practice]] (4) · [[The Way of Non-Clinging Part 1]] (3) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Experience]] | 12 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (3) · [[Equanimity in Compassion]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[What is Insight]] (2)</span> 
+[[Dukkha]] | 11 | <span class="counts">[[What is Insight]] (4) · [[Equanimity in Compassion]] (2) · [[From Insight to Love]] (2) · [[Compassion (talk)]] (1)</span> 
+[[Love]] | 11 | <span class="counts">[[From Insight to Love]] (4) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Equanimity in Compassion]] (1) · [[Joy (talk)]] (1)</span> 
+[[Metta]] | 11 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (3) · [[From Insight to Love]] (2) · [[Equanimity in Compassion]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Consciousness]] | 10 | <span class="counts">[[From Insight to Love]] (3) · [[What is Insight]] (2) · [[Equanimity in Compassion]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
+

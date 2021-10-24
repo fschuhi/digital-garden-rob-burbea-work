@@ -25,3 +25,17 @@ description | count | talk
 [[Joy (talk)#Different ways spiritual joy expresses itself\|Different ways spiritual joy expresses itself]] | 2 | [[Joy (talk)]]
 [[Samadhi in Metta Practice#Appreciation\|Appreciation]] | 2 | [[Samadhi in Metta Practice]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Happiness]] | 5 | <span class="counts">[[Joy (talk)]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Beauty]] | 4 | <span class="counts">[[Joy (talk)]] (3) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Dharma]] | 3 | <span class="counts">[[Joy (talk)]] (1) · [[Orienting to This Jhana Retreat]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Gaia House]] | 3 | <span class="counts">[[Orienting to This Jhana Retreat]] (2) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Gratitude]] | 3 | <span class="counts">[[Joy (talk)]] (1) · [[Samadhi in Metta Practice]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Mind]] | 3 | <span class="counts">[[Joy (talk)]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Cultivation]] | 2 | <span class="counts">[[Joy (talk)]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Love]] | 2 | <span class="counts">[[Expressions of Metta]] (1) · [[Joy (talk)]] (1)</span> 
+[[Metta]] | 2 | <span class="counts">[[Expressions of Metta]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Mudita]] | 2 | <span class="counts">[[Joy (talk)]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+

@@ -28,3 +28,17 @@ description | count | talk
 [[The Practice of Compassion#When there's metta and compassion for oneself the ego can take its rightful place in the scheme of things\|When there's metta and compassion for oneself, the ego can take its rightful place in the scheme of things]] | 2 | [[The Practice of Compassion]]
 [[Equanimity (talk)#We heal ourselves by giving attention to ourselves and by caring for others\|We heal ourselves by giving attention to ourselves and by caring for others]] | 2 | [[Equanimity (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Compassion]] | 19 | <span class="counts">[[The Practice of Compassion]] (7) · [[Compassion (talk)]] (4) · [[Compassion Part Two - Compassion for Ourselves]] (3) · [[Equanimity (talk)]] (1)</span> 
+[[Dukkha]] | 12 | <span class="counts">[[The Practice of Compassion]] (5) · [[Compassion (talk)]] (4) · [[Equanimity in Compassion]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
+[[Energy]] | 9 | <span class="counts">[[Compassion (talk)]] (5) · [[Equanimity in Compassion]] (1) · [[Expressions of Metta]] (1) · [[Questioning Awakening]] (1)</span> 
+[[Metta]] | 8 | <span class="counts">[[Expressions of Metta]] (2) · [[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity (talk)]] (1)</span> 
+[[Embodiment]] | 7 | <span class="counts">[[Compassion (talk)]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Insight]] | 7 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[From Insight to Love]] (1)</span> 
+[[Samadhi]] | 7 | <span class="counts">[[Compassion Part Two - Compassion for Ourselves]] (1) · [[From Insight to Love]] (1) · [[Questioning Awakening]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Cultivation]] | 6 | <span class="counts">[[Compassion (talk)]] (2) · [[Equanimity (talk)]] (1) · [[From Insight to Love]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
+[[Pleasantness]] | 6 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity in Compassion]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Mind]] | 5 | <span class="counts">[[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Samadhi in Metta Practice]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+

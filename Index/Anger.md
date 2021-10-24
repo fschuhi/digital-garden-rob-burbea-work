@@ -31,3 +31,17 @@ description | count | talk
 [[Expressions of Metta#Anger can also be blind to itself\|Anger can also be blind to itself]] | 4 | [[Expressions of Metta]]
 [[Expressions of Metta#We are not obliged to bear anyone else's angry energy\|We are not obliged to bear anyone else's angry energy]] | 4 | [[Expressions of Metta]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Fear]] | 16 | <span class="counts">[[The Practice of Compassion]] (5) · [[Compassion (talk)]] (4) · [[Exploring the World of Loving Kindness]] (2) · [[From Insight to Love]] (2)</span> 
+[[Metta]] | 15 | <span class="counts">[[Exploring the World of Loving Kindness]] (3) · [[Expressions of Metta]] (3) · [[From Insight to Love]] (2) · [[Love and Emptiness]] (2) · [[The Practice of Compassion]] (2)</span> 
+[[Compassion]] | 13 | <span class="counts">[[Compassion (talk)]] (6) · [[The Practice of Compassion]] (4) · [[Exploring the World of Loving Kindness]] (1) · [[From Insight to Love]] (1)</span> 
+[[Dukkha]] | 10 | <span class="counts">[[Compassion (talk)]] (6) · [[The Practice of Compassion]] (4)</span> 
+[[Insight]] | 9 | <span class="counts">[[Compassion (talk)]] (2) · [[The Practice of Compassion]] (2) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Love]] | 9 | <span class="counts">[[Expressions of Metta]] (4) · [[Compassion (talk)]] (1) · [[From Insight to Love]] (1) · [[Guided meditation - Metta to phenomena]] (1)</span> 
+[[Mind]] | 9 | <span class="counts">[[Exploring the World of Loving Kindness]] (2) · [[Love and Emptiness]] (2) · [[Samadhi in Metta Practice]] (2) · [[Equanimity (talk)]] (1)</span> 
+[[Near enemy]] | 7 | <span class="counts">[[Compassion (talk)]] (4) · [[The Practice of Compassion]] (3)</span> 
+[[Pity]] | 7 | <span class="counts">[[Compassion (talk)]] (4) · [[The Practice of Compassion]] (3)</span> 
+[[Buddha]] | 6 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Equanimity (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
+

@@ -14,3 +14,17 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The soulmaking poise has a range is elastic with soft edges\|The soulmaking poise has a range, is elastic with soft edges]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Any element of the whole constellation of the imaginal can become imag e g Shekhinah\|Any element of the whole constellation of the imaginal can become imag (e.g. Shekhinah)]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Image]] | 5 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (5)</span> 
+[[Imaginal]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4)</span> 
+[[Christianity]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
+[[Daimon]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
+[[Soul]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
+[[Soulmaking]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
+[[Art and Dharma]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Embodiment]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Meditation]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Old Testament]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+

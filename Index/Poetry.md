@@ -15,3 +15,17 @@ description | count | talk
 [[The Way of Non-Clinging Part 3#How would I possibly justify art when if has nothing to do with releasing suffering\|How would I possibly justify art, when if has nothing to do with releasing suffering?]] | 1 | [[The Way of Non-Clinging Part 3]]
 [[Joy (talk)#Contrast relaxed listening to an Arabic music concert\|Contrast: relaxed listening to an Arabic music concert]] | 1 | [[Joy (talk)]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Beauty]] | 2 | <span class="counts">[[Joy (talk)]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Craving]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Dukkha]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Eros]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Letting go]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Appreciation]] | 1 | <span class="counts">[[Joy (talk)]] (1)</span> 
+[[Artificial intelligence]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Cosmology]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Cultivation]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Desire]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+

@@ -16,3 +16,17 @@ description | count | talk
 [[Orienting to This Jhana Retreat#Making the Five Preceps part of our mandala here\|Making the Five Preceps part of our mandala here]] | 1 | [[Orienting to This Jhana Retreat]]
 [[Dilemmas and Delineations - How did we get here Part 1#All this is not really adequately addressed in the Dharma at present\|All this is not really adequately addressed in the Dharma at present]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Dharma]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Relationships]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
+[[Beauty]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Buddha]] | 1 | <span class="counts">[[Exploring the World of Loving Kindness]] (1)</span> 
+[[Buddhism]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Consciousness]] | 1 | <span class="counts">[[Exploring the World of Loving Kindness]] (1)</span> 
+[[Desire]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Dimensionality]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Eros]] | 1 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Ethics]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+

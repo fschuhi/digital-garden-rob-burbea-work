@@ -25,3 +25,17 @@ description | count | talk
 [[From Insight to Love#It's possible to just slip into a groove of fear\|It's possible to just slip into a groove of fear]] | 1 | [[From Insight to Love]]
 [[From Insight to Love#The more metta the less soil fear has to establish itself as a habit\|The more metta, the less soil fear has to establish itself as a habit]] | 1 | [[From Insight to Love]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Fear]] | 9 | <span class="counts">[[From Insight to Love]] (4) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[The Self]] | 5 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[The Way of Non-Clinging Part 1]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Consciousness]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[From Insight to Love]] (1)</span> 
+[[Embodiment]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Metta]] | 3 | <span class="counts">[[From Insight to Love]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Aversion]] | 2 | <span class="counts">[[From Insight to Love]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Awareness]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Compassion]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Contraction]] | 2 | <span class="counts">[[From Insight to Love]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Dharma]] | 2 | <span class="counts">[[Questioning Awakening]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+

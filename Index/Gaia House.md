@@ -28,3 +28,17 @@ description | count | talk
 [[Expressions of Metta#Slowness\|Slowness]] | 1 | [[Expressions of Metta]]
 [[Samadhi in Metta Practice#Appreciation\|Appreciation]] | 1 | [[Samadhi in Metta Practice]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Retreat]] | 12 | <span class="counts">[[Orienting to This Jhana Retreat]] (6) · [[Expressions of Metta]] (1) · [[Joy (talk)]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Samadhi]] | 7 | <span class="counts">[[Orienting to This Jhana Retreat]] (2) · [[Questioning Awakening]] (2) · [[Love and Emptiness]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Dharma]] | 5 | <span class="counts">[[Questioning Awakening]] (2) · [[Orienting to This Jhana Retreat]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Jhanas]] | 5 | <span class="counts">[[Orienting to This Jhana Retreat]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Meditation]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Love and Emptiness]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Metta]] | 5 | <span class="counts">[[Joy (talk)]] (1) · [[Love and Emptiness]] (1) · [[Orienting to This Jhana Retreat]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Mind]] | 5 | <span class="counts">[[Joy (talk)]] (1) · [[Love and Emptiness]] (1) · [[Orienting to This Jhana Retreat]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Appreciation]] | 3 | <span class="counts">[[Orienting to This Jhana Retreat]] (2) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Insight]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Orienting to This Jhana Retreat]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Happiness]] | 2 | <span class="counts">[[Joy (talk)]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+

@@ -12,3 +12,17 @@ description | count | talk
 [[Compassion (talk)#Cultivating compassion through Tonglen or through devotion\|Cultivating compassion through Tonglen, or through devotion]] | 1 | [[Compassion (talk)]]
 [[The Practice of Compassion#Different practices for compassion\|Different practices for compassion]] | 1 | [[The Practice of Compassion]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Avalokiteshvara]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Bodhisattva]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Compassion]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Cultivation]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Energy]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Jesus]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Archetype]] | 1 | <span class="counts">[[Compassion (talk)]] (1)</span> 
+[[Dukkha]] | 1 | <span class="counts">[[Compassion (talk)]] (1)</span> 
+[[Healing]] | 1 | <span class="counts">[[Compassion (talk)]] (1)</span> 
+[[Insight]] | 1 | <span class="counts">[[The Practice of Compassion]] (1)</span> 
+

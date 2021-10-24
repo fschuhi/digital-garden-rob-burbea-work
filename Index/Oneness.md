@@ -28,3 +28,17 @@ description | count | talk
 [[Using Insight to Deepen Love and Compassion#3 Anatta not-self\|(3) Anatta, not-self]] | 3 | [[Using Insight to Deepen Love and Compassion]]
 [[Love and Emptiness#But don't be in a hurry as the power of those kinds of perceptions transforms heart and mind\|But don't be in a hurry, as the power of those kinds of perceptions transforms heart and mind]] | 2 | [[Love and Emptiness]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Compassion]] | 8 | <span class="counts">[[The Practice of Compassion]] (5) · [[Love and Emptiness]] (2) · [[Compassion (talk)]] (1)</span> 
+[[Love]] | 8 | <span class="counts">[[Love and Emptiness]] (5) · [[From Insight to Love]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
+[[Anatta]] | 7 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Perception]] | 7 | <span class="counts">[[Love and Emptiness]] (4) · [[Expressions of Metta]] (1) · [[The Practice of Compassion]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[The Self]] | 7 | <span class="counts">[[Compassion (talk)]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[From Insight to Love]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Dukkha]] | 6 | <span class="counts">[[The Practice of Compassion]] (4) · [[The Way of Non-Clinging Part 2]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Emptiness]] | 6 | <span class="counts">[[Love and Emptiness]] (4) · [[Compassion (talk)]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Metta]] | 6 | <span class="counts">[[The Practice of Compassion]] (2) · [[Expressions of Metta]] (1) · [[From Insight to Love]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Consciousness]] | 5 | <span class="counts">[[Love and Emptiness]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Eros]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (5)</span> 
+

@@ -24,3 +24,17 @@ description | count | talk
 [[The Way of Non-Clinging Part 1#Relationship to Dependend Origination 2 of the 12 links\|Relationship to Dependend Origination (2 of the 12 links)]] | 2 | [[The Way of Non-Clinging Part 1]]
 [[Dilemmas and Delineations - How did we get here Part 1#We will gradually unfold the semantic web of "eros"\|We will gradually unfold the semantic web of "eros"]] | 1 | [[Dilemmas and Delineations - How did we get here Part 1]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Eros]] | 13 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (6) · [[Dilemmas and Delineations - How did we get here Part 4]] (4) · [[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Clinging]] | 10 | <span class="counts">[[The Way of Non-Clinging Part 1]] (5) · [[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
+[[Craving]] | 10 | <span class="counts">[[The Way of Non-Clinging Part 1]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[The Way of Non-Clinging Part 2]] (2) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Desire]] | 10 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (6) · [[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Buddha]] | 5 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Dharma]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Love]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Imaginal]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Meditation]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
+[[Dependent Origination]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+
