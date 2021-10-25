@@ -34,3 +34,17 @@ description | count | talk
 [[The Way of Non-Clinging Part 2#Simile Climing the rungs of a ladder\|Simile: Climing the rungs of a ladder]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[From Insight to Love#Insight is that which releases clinging\|Insight is that which releases clinging]] | 4 | [[From Insight to Love]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Insight]] | 31 | <span class="counts">[[The Way of Non-Clinging Part 2]] (8) · [[What is Insight]] (5) · [[Using Insight to Deepen Love and Compassion]] (4) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Orienting to This Jhana Retreat]] (2)</span> 
+[[Perception]] | 30 | <span class="counts">[[The Way of Non-Clinging Part 2]] (13) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Love and Emptiness]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Fabrication]] | 29 | <span class="counts">[[The Way of Non-Clinging Part 2]] (16) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Love and Emptiness]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Experience]] | 28 | <span class="counts">[[The Way of Non-Clinging Part 2]] (11) · [[Using Insight to Deepen Love and Compassion]] (5) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[What is Insight]] (4) · [[From Insight to Love]] (2)</span> 
+[[Clinging]] | 26 | <span class="counts">[[The Way of Non-Clinging Part 2]] (18) · [[The Way of Non-Clinging Part 3]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
+[[Dukkha]] | 21 | <span class="counts">[[What is Insight]] (5) · [[The Way of Non-Clinging Part 2]] (3) · [[Compassion (talk)]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Emptiness]] | 20 | <span class="counts">[[The Way of Non-Clinging Part 2]] (7) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2)</span> 
+[[Love]] | 19 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (5) · [[From Insight to Love]] (3) · [[Love and Emptiness]] (3) · [[Exploring the World of Loving Kindness]] (2)</span> 
+[[Mind]] | 19 | <span class="counts">[[The Way of Non-Clinging Part 2]] (9) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Love and Emptiness]] (2) · [[Compassion (talk)]] (1)</span> 
+[[Buddha]] | 17 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (5) · [[What is Insight]] (5) · [[The Way of Non-Clinging Part 2]] (4) · [[From Insight to Love]] (2)</span> 
+

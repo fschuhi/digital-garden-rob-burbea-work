@@ -8,6 +8,7 @@ talk | count | series
 [[The Practice of Compassion]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Exploring the World of Loving Kindness]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Birth of a Bodhisattva]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -17,13 +18,14 @@ description | count | talk
 [[Exploring the World of Loving Kindness#It's not always that metta feels it's coming from the self\|It's not always that metta feels it's coming from the self]] | 2 | [[Exploring the World of Loving Kindness]]
 [[The Practice of Compassion#Different practices for compassion\|Different practices for compassion]] | 2 | [[The Practice of Compassion]]
 [[Expressions of Metta#Love being unveiled somehow it's there all the time\|Love being unveiled, somehow it's there all the time]] | 2 | [[Expressions of Metta]]
+[[The Birth of a Bodhisattva#Beginnings of faith\|Beginnings of faith]] | 1 | [[The Birth of a Bodhisattva]]
 [[Compassion (talk)#Wanting to take in all the suffering is a beautiful aspiration\|Wanting to take in all the suffering is a beautiful aspiration]] | 1 | [[Compassion (talk)]]
 [[The Practice of Compassion#"Love is without beginning"\|"Love is without beginning"]] | 1 | [[The Practice of Compassion]]
 
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Compassion]] | 7 | <span class="counts">[[Compassion (talk)]] (2) · [[The Practice of Compassion]] (2) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Compassion]] | 8 | <span class="counts">[[Compassion (talk)]] (2) · [[The Practice of Compassion]] (2) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
 [[Bodhisattva]] | 6 | <span class="counts">[[Compassion (talk)]] (2) · [[The Practice of Compassion]] (2) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
 [[Jesus]] | 5 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
 [[Energy]] | 4 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Expressions of Metta]] (1)</span> 
@@ -32,5 +34,5 @@ term | count | talks
 [[Cultivation]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
 [[Dukkha]] | 2 | <span class="counts">[[Compassion (talk)]] (2)</span> 
 [[Metta]] | 2 | <span class="counts">[[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
-[[The Self]] | 2 | <span class="counts">[[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Retreat]] | 2 | <span class="counts">[[Expressions of Metta]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
 

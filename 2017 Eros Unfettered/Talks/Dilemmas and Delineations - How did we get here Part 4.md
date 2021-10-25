@@ -14,7 +14,7 @@ Transcript PDF: [[2017_0121 Dilemmas and Delineations - How did we get here Part
 ![[20170121-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_4-40166.mp3]]
 
 ## Index
-<span class="counts">_[[Eros]] (55) · [[Imaginal]] (30) · [[Love]] (22) · [[Dharma]] (21) · [[Perception]] (19) · [[Image]] (14) · [[Craving]] (12) · [[Soulmaking Dynamic]] (12) · [[Soulmaking]] (9) · [[Clinging]] (7) · [[Logos]] (7) · [[Psyche]] (6) · [[Sexuality]] (6) · [[Samadhi]] (5) · [[Aversion]] (4) · [[Beauty]] (4) · [[Delineations]] (4) · [[Desire]] (4) · [[Dimensionality]] (4) · [[Fantasy]] (4) · [[Soul]] (4) · [[Vedana]] (4) · [[Brahmaviharas]] (3) · [[Divinity]] (3) · [[Dukkha]] (3) · [[Experience]] (3) · [[Metta]] (3) · [[Neuroscience]] (3) · [[Conceptual framework]] (2) · [[Embodiment]] (2) · [[Papanca]] (2) · [[Pleasantness]] (2) · [[Realism]] (2) · [[Retreat]] (2) · [[Buddha]] · [[Compassion]] · [[Create-Discover]] · [[Dependent Origination]] · [[Dominant culture]] · [[Energy]] · [[Feelings]] · [[Habit]] · [[History]] · [[Impermanence]] · [[Juiciness]] · [[Meaningfulness]] · [[Meditation]] · [[Mind]] · [[Modernism]] · [[Passion]] · [[Phenomenology]] · [[The Self]] · [[Ways of looking]]_</span>
+<span class="counts">_[[Eros]] (55) · [[Imaginal]] (30) · [[Love]] (22) · [[Dharma]] (21) · [[Perception]] (19) · [[Image]] (14) · [[Craving]] (12) · [[Soulmaking dynamic]] (12) · [[Soulmaking]] (9) · [[Clinging]] (7) · [[Logos]] (7) · [[Psyche]] (6) · [[Sexuality]] (6) · [[Samadhi]] (5) · [[Aversion]] (4) · [[Beauty]] (4) · [[Delineations]] (4) · [[Desire]] (4) · [[Dimensionality]] (4) · [[Fantasy]] (4) · [[Soul]] (4) · [[Vedana]] (4) · [[Brahmaviharas]] (3) · [[Divinity]] (3) · [[Dukkha]] (3) · [[Experience]] (3) · [[Metta]] (3) · [[Neuroscience]] (3) · [[Conceptual framework]] (2) · [[Embodiment]] (2) · [[Papanca]] (2) · [[Pleasantness]] (2) · [[Realism]] (2) · [[Retreat]] (2) · [[Buddha]] · [[Compassion]] · [[Create-Discover]] · [[Dependent Origination]] · [[Dominant culture]] · [[Energy]] · [[Feelings]] · [[Habit]] · [[History]] · [[Impermanence]] · [[Juiciness]] · [[Meaningfulness]] · [[Meditation]] · [[Mind]] · [[Modernism]] · [[Passion]] · [[Phenomenology]] · [[The Self]] · [[Ways of looking]]_</span>
 <br/>
 
 ## Paragraphs
@@ -174,7 +174,7 @@ eros leads, brings, stimulates, opens a perception of - more and more so, in fac
 
 ---
 ##### Eros, psyche, logos, they all help each other
-<span class="counts">**[[0121 Dilemmas and Delineations - How did we get here Part 4#^5-4|5-4]]**: _[[Soulmaking Dynamic]] (5) · [[Eros]] (2) · [[Image]] · [[Imaginal]] (3) · [[Dimensionality]] · [[Logos]] · [[Juiciness]] · [[Psyche]]_</span>
+<span class="counts">**[[0121 Dilemmas and Delineations - How did we get here Part 4#^5-4|5-4]]**: _[[Soulmaking dynamic]] (5) · [[Eros]] (2) · [[Image]] · [[Imaginal]] (3) · [[Dimensionality]] · [[Logos]] · [[Juiciness]] · [[Psyche]]_</span>
 
 ![[20170121-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_4-40166.mp3#t=26:50]]
 
@@ -202,7 +202,7 @@ The reverse is also true, that when a certain perception is solidified, it tends
 
 ---
 ##### The soulmaking dynamic opens out the perception
-<span class="counts">**[[0121 Dilemmas and Delineations - How did we get here Part 4#^6-2|6-2]]**: _[[Impermanence]] · [[Perception]] (5) · [[Dimensionality]] (3) · [[Soulmaking Dynamic]] (2) · [[Imaginal]] · [[Create-Discover]] · [[Beauty]]_</span>
+<span class="counts">**[[0121 Dilemmas and Delineations - How did we get here Part 4#^6-2|6-2]]**: _[[Impermanence]] · [[Perception]] (5) · [[Dimensionality]] (3) · [[Soulmaking dynamic]] (2) · [[Imaginal]] · [[Create-Discover]] · [[Beauty]]_</span>
 
 ![[20170121-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_4-40166.mp3#t=30:00]]
 
@@ -218,13 +218,13 @@ But what that means is that eros, in its capacity to open perception and see als
 
 ---
 ##### "Eros" can imply this whole dynamic ("big definition")
-<span class="counts">**[[0121 Dilemmas and Delineations - How did we get here Part 4#^6-4|6-4]]**: _[[Eros]] (6) · [[Experience]] · [[Imaginal]] (4) · [[Passion]] · [[Psyche]] · [[Logos]] · [[Image]] · [[Soulmaking]] · [[Soulmaking Dynamic]] (4) · [[The Self]]_</span>
+<span class="counts">**[[0121 Dilemmas and Delineations - How did we get here Part 4#^6-4|6-4]]**: _[[Eros]] (6) · [[Experience]] · [[Imaginal]] (4) · [[Passion]] · [[Psyche]] · [[Logos]] · [[Image]] · [[Soulmaking]] · [[Soulmaking dynamic]] (4) · [[The Self]]_</span>
 
 ![[20170121-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_4-40166.mp3#t=32:24]]
 
 ---
 ##### Eros is neither inherently positive or negative
-<span class="counts">**[[0121 Dilemmas and Delineations - How did we get here Part 4#^7-1|7-1]]**: _[[Eros]] (3) · [[Craving]] · [[Logos]] · [[Experience]] · [[Soulmaking Dynamic]] · [[Soul]] · [[Soulmaking]]_</span>
+<span class="counts">**[[0121 Dilemmas and Delineations - How did we get here Part 4#^7-1|7-1]]**: _[[Eros]] (3) · [[Craving]] · [[Logos]] · [[Experience]] · [[Soulmaking dynamic]] · [[Soul]] · [[Soulmaking]]_</span>
 
 ![[20170121-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_4-40166.mp3#t=34:04]]
 

@@ -8,6 +8,7 @@ talk | count | series
 [[Equanimity in Compassion]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Guided Meditation on Gratitude and Compassion]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 1 | [[2020 Vajra Music]]
+[[The Birth of a Bodhisattva]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]

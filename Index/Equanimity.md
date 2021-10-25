@@ -15,14 +15,14 @@ talk | count | series
 :- | - |: -
 [[Equanimity in Compassion]] | 74 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 38 | [[2006 New Year's Retreat]]
+[[The Birth of a Bodhisattva]] | 32 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[Love and the Emptiness of Things]] | 14 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Joy (talk)]] | 8 | [[2007 New Years Retreat Insight Meditation]]
 [[The Practice of Compassion]] | 8 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 7 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Orienting to This Jhana Retreat]] | 4 | [[2019 Practising the Jhanas]]
 [[Compassion (talk)]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Using Insight to Deepen Love and Compassion]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[The Place of Samadhi in Metta Practice]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[From Insight to Love]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Quotes
 ##### 2006 New Year's Retreat: Equanimity [[1228 Equanimity (talk)|(Transcript)]]
@@ -87,27 +87,29 @@ _occurrences: [[2007 New Years Retreat Insight Meditation/Transcripts/1231 Joy (
 description | count | talk
 :- | : - | :-
 [[Equanimity (talk)#The near enemy is indifference and lack of juicyness in life\|The near enemy is indifference and lack of juicyness in life]] | 9 | [[Equanimity (talk)]]
+[[The Birth of a Bodhisattva#Equanimity in its relationship to compassion\|Equanimity in its relationship to compassion]] | 6 | [[The Birth of a Bodhisattva]]
+[[Love and the Emptiness of Things#The presence of love and equanimity makes objects less prominent in consciousness\|The presence of love and equanimity makes objects less prominent in consciousness]] | 6 | [[Love and the Emptiness of Things]]
 [[Love and Emptiness#Things make less impression on consciousness when there's a lot of equanimity\|Things make less impression on consciousness when there's a lot of equanimity]] | 6 | [[Love and Emptiness]]
+[[Love and the Emptiness of Things#In its depth the nature of love is non-grasping\|In its depth, the nature of love is non-grasping]] | 5 | [[Love and the Emptiness of Things]]
 [[Equanimity in Compassion#Equanimity is not indifference\|Equanimity is not indifference]] | 5 | [[Equanimity in Compassion]]
+[[The Birth of a Bodhisattva#The near enemy of equanimity is indifference sometimes couched in spiritual language\|The near enemy of equanimity is indifference, sometimes couched in spiritual language]] | 4 | [[The Birth of a Bodhisattva]]
 [[Joy (talk)#Joy moves naturally towards equanimity\|Joy moves naturally towards equanimity]] | 4 | [[Joy (talk)]]
 [[Equanimity in Compassion#As the self-sense gets quite equanimity becomes the natural state\|As the self-sense gets quite, equanimity becomes the natural state]] | 4 | [[Equanimity in Compassion]]
 [[Equanimity in Compassion#2 Equanimity deepens by letting go of grasping and craving\|(2) Equanimity deepens by letting go of grasping and craving]] | 4 | [[Equanimity in Compassion]]
 [[Equanimity in Compassion#Rob spaciousness and progressivly letting go\|Rob: spaciousness and progressivly letting go]] | 4 | [[Equanimity in Compassion]]
 [[Equanimity (talk)#There is nothing really to be equanimous about\|There is nothing really to be equanimous about]] | 4 | [[Equanimity (talk)]]
-[[Equanimity in Compassion#The natural progression of samadhi leads to equanimity which eventually becomes also accessible outside samadhi\|The natural progression of samadhi leads to equanimity, which eventually becomes also accessible outside samadhi]] | 3 | [[Equanimity in Compassion]]
-[[Equanimity in Compassion#Spaciousness is a prominent feature of equanimity\|Spaciousness is a prominent feature of equanimity]] | 3 | [[Equanimity in Compassion]]
 
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Compassion]] | 30 | <span class="counts">[[Equanimity in Compassion]] (14) · [[The Practice of Compassion]] (6) · [[Compassion (talk)]] (2) · [[Equanimity (talk)]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
-[[Mind]] | 17 | <span class="counts">[[Equanimity in Compassion]] (7) · [[Equanimity (talk)]] (5) · [[Using Insight to Deepen Love and Compassion]] (2) · [[From Insight to Love]] (1)</span> 
-[[Happiness]] | 16 | <span class="counts">[[Equanimity in Compassion]] (4) · [[Joy (talk)]] (3) · [[Equanimity (talk)]] (2) · [[Orienting to This Jhana Retreat]] (2)</span> 
-[[Metta]] | 16 | <span class="counts">[[Equanimity in Compassion]] (6) · [[Equanimity (talk)]] (2) · [[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1)</span> 
-[[Buddha]] | 15 | <span class="counts">[[Equanimity (talk)]] (7) · [[Equanimity in Compassion]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
-[[Dukkha]] | 15 | <span class="counts">[[Equanimity in Compassion]] (8) · [[The Practice of Compassion]] (4) · [[Compassion (talk)]] (2) · [[Love and Emptiness]] (1)</span> 
-[[Steadiness]] | 15 | <span class="counts">[[Equanimity in Compassion]] (9) · [[Equanimity (talk)]] (5) · [[Compassion (talk)]] (1)</span> 
-[[Craving]] | 12 | <span class="counts">[[Equanimity in Compassion]] (8) · [[Equanimity (talk)]] (3) · [[Love and Emptiness]] (1)</span> 
-[[Cultivation]] | 11 | <span class="counts">[[Equanimity (talk)]] (6) · [[Equanimity in Compassion]] (2) · [[From Insight to Love]] (1) · [[Joy (talk)]] (1)</span> 
-[[Experience]] | 10 | <span class="counts">[[Equanimity (talk)]] (4) · [[Equanimity in Compassion]] (3) · [[Love and Emptiness]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Compassion]] | 47 | <span class="counts">[[The Birth of a Bodhisattva]] (15) · [[Equanimity in Compassion]] (14) · [[The Practice of Compassion]] (6) · [[Compassion (talk)]] (2) · [[Equanimity (talk)]] (2) · [[Love and the Emptiness of Things]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Dukkha]] | 28 | <span class="counts">[[The Birth of a Bodhisattva]] (12) · [[Equanimity in Compassion]] (8) · [[The Practice of Compassion]] (4) · [[Compassion (talk)]] (2)</span> 
+[[Metta]] | 22 | <span class="counts">[[Equanimity in Compassion]] (6) · [[The Birth of a Bodhisattva]] (5) · [[Equanimity (talk)]] (2) · [[The Practice of Compassion]] (2)</span> 
+[[Happiness]] | 21 | <span class="counts">[[The Birth of a Bodhisattva]] (5) · [[Equanimity in Compassion]] (4) · [[Joy (talk)]] (3) · [[Equanimity (talk)]] (2) · [[Orienting to This Jhana Retreat]] (2)</span> 
+[[Mind]] | 21 | <span class="counts">[[Equanimity in Compassion]] (7) · [[Equanimity (talk)]] (5) · [[Love and the Emptiness of Things]] (2) · [[The Birth of a Bodhisattva]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Buddha]] | 18 | <span class="counts">[[Equanimity (talk)]] (7) · [[Equanimity in Compassion]] (2) · [[The Birth of a Bodhisattva]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Insight]] | 17 | <span class="counts">[[The Birth of a Bodhisattva]] (6) · [[Equanimity in Compassion]] (5) · [[Equanimity (talk)]] (2) · [[Compassion (talk)]] (1)</span> 
+[[Steadiness]] | 16 | <span class="counts">[[Equanimity in Compassion]] (9) · [[Equanimity (talk)]] (5) · [[Compassion (talk)]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
+[[Cultivation]] | 15 | <span class="counts">[[Equanimity (talk)]] (6) · [[The Birth of a Bodhisattva]] (3) · [[Equanimity in Compassion]] (2) · [[From Insight to Love]] (1)</span> 
+[[Love]] | 14 | <span class="counts">[[Equanimity in Compassion]] (4) · [[Love and the Emptiness of Things]] (3) · [[Love and Emptiness]] (2) · [[The Birth of a Bodhisattva]] (2)</span> 
 

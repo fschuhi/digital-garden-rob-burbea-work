@@ -8,6 +8,7 @@ talk | count | series
 [[Equanimity in Compassion]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Dilemmas and Delineations - How did we get here Part 4]] | 3 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 2 | [[2017 Eros Unfettered]]
+[[The Birth of a Bodhisattva]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 3]] | 1 | [[2017 Eros Unfettered]]
 [[Compassion (talk)]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
@@ -20,8 +21,8 @@ description | count | talk
 [[Joy (talk)#Sometimes in the West joy does not receive the same attention as other brahmaviharas\|Sometimes in the West, joy does not receive the same attention as other brahmaviharas]] | 2 | [[Joy (talk)]]
 [[Joy (talk)#Metta and compassion bring happiness\|Metta and compassion bring happiness]] | 2 | [[Joy (talk)]]
 [[Equanimity in Compassion#Equanimity is the fourth of the brahmaviharas\|Equanimity is the fourth of the brahmaviharas]] | 2 | [[Equanimity in Compassion]]
+[[The Birth of a Bodhisattva#Four brahmaviharas; mudita\|Four brahmaviharas; mudita]] | 1 | [[The Birth of a Bodhisattva]]
 [[Compassion (talk)#Compassion is the heart's natural response to suffering\|Compassion is the heart's natural response to suffering]] | 1 | [[Compassion (talk)]]
-[[The Place of Samadhi in Metta Practice#Usually we keep the mind on one object but one could also have a very open kind of vipassa practice\|Usually we keep the mind on one object, but one could also have a very open kind of vipassa practice]] | 1 | [[The Place of Samadhi in Metta Practice]]
 [[Equanimity in Compassion#Politics show that there are limits in how much we can help\|Politics show that there are limits in how much we can help]] | 1 | [[Equanimity in Compassion]]
 [[Equanimity in Compassion#Equanimity is not indifference\|Equanimity is not indifference]] | 1 | [[Equanimity in Compassion]]
 [[Samadhi in Metta Practice#Dwelling in a lovely space\|Dwelling in a lovely space]] | 1 | [[Samadhi in Metta Practice]]
@@ -29,14 +30,14 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Compassion]] | 9 | <span class="counts">[[Equanimity in Compassion]] (2) · [[Joy (talk)]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Compassion (talk)]] (1)</span> 
-[[Metta]] | 8 | <span class="counts">[[Joy (talk)]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Compassion (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
-[[Happiness]] | 6 | <span class="counts">[[Equanimity in Compassion]] (2) · [[Joy (talk)]] (2) · [[Compassion (talk)]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Compassion]] | 11 | <span class="counts">[[Equanimity in Compassion]] (2) · [[Joy (talk)]] (2) · [[The Birth of a Bodhisattva]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
+[[Metta]] | 10 | <span class="counts">[[Joy (talk)]] (2) · [[The Birth of a Bodhisattva]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Compassion (talk)]] (1)</span> 
+[[Happiness]] | 8 | <span class="counts">[[Equanimity in Compassion]] (2) · [[Joy (talk)]] (2) · [[The Birth of a Bodhisattva]] (2) · [[Compassion (talk)]] (1)</span> 
+[[Equanimity]] | 7 | <span class="counts">[[Equanimity in Compassion]] (2) · [[The Birth of a Bodhisattva]] (2) · [[Compassion (talk)]] (1) · [[Joy (talk)]] (1)</span> 
+[[Samadhi]] | 6 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
 [[Dharma]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Joy (talk)]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
-[[Equanimity]] | 5 | <span class="counts">[[Equanimity in Compassion]] (2) · [[Compassion (talk)]] (1) · [[Joy (talk)]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
 [[Love]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Equanimity in Compassion]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
-[[Samadhi]] | 5 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Buddha]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Samadhi in Metta Practice]] (1) · [[The Birth of a Bodhisattva]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Desire]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Joy (talk)]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
-[[Retreat]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Joy (talk)]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
-[[Buddha]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Samadhi in Metta Practice]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Mind]] | 4 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (2) · [[Samadhi in Metta Practice]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
 

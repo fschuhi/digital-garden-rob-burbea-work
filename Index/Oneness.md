@@ -11,8 +11,8 @@ talk | count | series
 [[Expressions of Metta]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Compassion (talk)]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Love and the Emptiness of Things]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 3 | [[2017 Eros Unfettered]]
-[[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -31,14 +31,14 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Compassion]] | 8 | <span class="counts">[[The Practice of Compassion]] (5) · [[Love and Emptiness]] (2) · [[Compassion (talk)]] (1)</span> 
-[[Love]] | 8 | <span class="counts">[[Love and Emptiness]] (5) · [[From Insight to Love]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
-[[Anatta]] | 7 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
-[[Perception]] | 7 | <span class="counts">[[Love and Emptiness]] (4) · [[Expressions of Metta]] (1) · [[The Practice of Compassion]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
-[[The Self]] | 7 | <span class="counts">[[Compassion (talk)]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[From Insight to Love]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Compassion]] | 10 | <span class="counts">[[The Practice of Compassion]] (5) · [[Love and Emptiness]] (2) · [[Love and the Emptiness of Things]] (2) · [[Compassion (talk)]] (1)</span> 
+[[Love]] | 9 | <span class="counts">[[Love and Emptiness]] (5) · [[From Insight to Love]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
+[[Anatta]] | 8 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Perception]] | 8 | <span class="counts">[[Love and Emptiness]] (4) · [[Expressions of Metta]] (1) · [[Love and the Emptiness of Things]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[The Self]] | 8 | <span class="counts">[[Compassion (talk)]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[From Insight to Love]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Emptiness]] | 7 | <span class="counts">[[Love and Emptiness]] (4) · [[Compassion (talk)]] (1) · [[Expressions of Metta]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
+[[Metta]] | 7 | <span class="counts">[[The Practice of Compassion]] (2) · [[Expressions of Metta]] (1) · [[From Insight to Love]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Consciousness]] | 6 | <span class="counts">[[Love and Emptiness]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
 [[Dukkha]] | 6 | <span class="counts">[[The Practice of Compassion]] (4) · [[The Way of Non-Clinging Part 2]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
-[[Emptiness]] | 6 | <span class="counts">[[Love and Emptiness]] (4) · [[Compassion (talk)]] (1) · [[Expressions of Metta]] (1)</span> 
-[[Metta]] | 6 | <span class="counts">[[The Practice of Compassion]] (2) · [[Expressions of Metta]] (1) · [[From Insight to Love]] (1) · [[Love and Emptiness]] (1)</span> 
-[[Consciousness]] | 5 | <span class="counts">[[Love and Emptiness]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
 [[Eros]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (5)</span> 
 

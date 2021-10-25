@@ -31,14 +31,14 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Metta]] | 12 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (4) · [[The Way of Non-Clinging Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Metta]] | 13 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (4) · [[The Way of Non-Clinging Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Equanimity in Compassion]] (1)</span> 
 [[Craving]] | 9 | <span class="counts">[[The Way of Non-Clinging Part 3]] (4) · [[The Way of Non-Clinging Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
 [[Desire]] | 9 | <span class="counts">[[The Way of Non-Clinging Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
 [[Dharma]] | 8 | <span class="counts">[[The Way of Non-Clinging Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Joy (talk)]] (2) · [[Orienting to This Jhana Retreat]] (1)</span> 
 [[Clinging]] | 7 | <span class="counts">[[The Way of Non-Clinging Part 1]] (4) · [[The Way of Non-Clinging Part 3]] (3)</span> 
 [[The Self]] | 7 | <span class="counts">[[Orienting to This Jhana Retreat]] (2) · [[The Way of Non-Clinging Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[From Insight to Love]] (1)</span> 
 [[Buddha]] | 6 | <span class="counts">[[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (2) · [[Joy (talk)]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Happiness]] | 6 | <span class="counts">[[Joy (talk)]] (4) · [[Guided Meditation - Directing Love Towards Dharmas]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Mind]] | 6 | <span class="counts">[[Samadhi in Metta Practice]] (3) · [[Equanimity in Compassion]] (1) · [[The Place of Samadhi in Metta Practice]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
 [[Aversion]] | 5 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Joy (talk)]] (1)</span> 
-[[Dukkha]] | 5 | <span class="counts">[[The Way of Non-Clinging Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
 

@@ -14,7 +14,7 @@ Transcript PDF: [[2017_0119 Dilemmas and Delineations - How did we get here Part
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3]]
 
 ## Index
-<span class="counts">_[[Eros]] (92) · [[Soulmaking]] (20) · [[Experience]] (18) · [[Energy body]] (14) · [[Conceptual framework]] (10) · [[Desire]] (10) · [[Dharma]] (9) · [[Imaginal]] (9) · [[Divinity]] (8) · [[Juiciness]] (8) · [[Oneness]] (8) · [[Retreat]] (7) · [[Insight]] (6) · [[Mind]] (6) · [[Mind state]] (6) · [[Sexuality]] (6) · [[Buddha]] (4) · [[Dionysius the Areopagite]] (4) · [[Energy]] (4) · [[Mindfulness]] (4) · [[Soul]] (4) · [[Awakening]] (3) · [[Craving]] (3) · [[Delineations]] (3) · [[Image]] (3) · [[Jhanas]] (3) · [[Psyche]] (3) · [[Soulmaking Dynamic]] (3) · [[Awareness]] (2) · [[Beauty]] (2) · [[Dimensionality]] (2) · [[Embodiment]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Love]] (2) · [[Passion]] (2) · [[Phenomenology]] (2) · [[Pleasantness]] (2) · [[Samadhi]] (2) · [[Sigmund Freud]] (2) · [[The Self]] (2) · [[Alchemy]] · [[Clinging]] · [[Consciousness]] · [[Death]] · [[Emptiness]] · [[Feelings]] · [[Happiness]] · [[Hermeneutics#Overview]] · [[Hindrances]] · [[James Hillman]] · [[Metta]] · [[Nature]] · [[Papanca]] · [[Piti]] · [[Relationships]] · [[Romantic love]] · [[Tantra]] · [[Unfabricated]]_</span>
+<span class="counts">_[[Eros]] (92) · [[Soulmaking]] (20) · [[Experience]] (18) · [[Energy body]] (14) · [[Conceptual framework]] (10) · [[Desire]] (10) · [[Dharma]] (9) · [[Imaginal]] (9) · [[Divinity]] (8) · [[Juiciness]] (8) · [[Oneness]] (8) · [[Retreat]] (7) · [[Insight]] (6) · [[Mind]] (6) · [[Mind state]] (6) · [[Sexuality]] (6) · [[Buddha]] (4) · [[Dionysius the Areopagite]] (4) · [[Energy]] (4) · [[Mindfulness]] (4) · [[Soul]] (4) · [[Awakening]] (3) · [[Craving]] (3) · [[Delineations]] (3) · [[Image]] (3) · [[Jhanas]] (3) · [[Psyche]] (3) · [[Soulmaking dynamic]] (3) · [[Awareness]] (2) · [[Beauty]] (2) · [[Dimensionality]] (2) · [[Embodiment]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Love]] (2) · [[Passion]] (2) · [[Phenomenology]] (2) · [[Pleasantness]] (2) · [[Samadhi]] (2) · [[Sigmund Freud]] (2) · [[The Self]] (2) · [[Alchemy]] · [[Clinging]] · [[Consciousness]] · [[Death]] · [[Emptiness]] · [[Feelings]] · [[Happiness]] · [[Hermeneutics#Overview]] · [[Hindrances]] · [[James Hillman]] · [[Metta]] · [[Nature]] · [[Papanca]] · [[Piti]] · [[Relationships]] · [[Romantic love]] · [[Tantra]] · [[Unfabricated]]_</span>
 <br/>
 
 ## Paragraphs
@@ -224,13 +224,13 @@ There's an arousal of interest. We're really interested in this beloved. Somethi
 
 ---
 ##### Eros directed at eros (autoeroticim)
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^7-2|7-2]]**: _[[Soulmaking Dynamic]] (2) · [[Eros]] (3)_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^7-2|7-2]]**: _[[Soulmaking dynamic]] (2) · [[Eros]] (3)_</span>
 
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=36:08]]
 
 ---
 ##### The "delight" of soulmaking
-<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^7-3|7-3]]**: _[[Eros]] (2) · [[Experience]] · [[Soulmaking]] (7) · [[Soul]] (4) · [[Soulmaking Dynamic]] · [[Juiciness]]_</span>
+<span class="counts">**[[0119 Dilemmas and Delineations - How did we get here Part 2#^7-3|7-3]]**: _[[Eros]] (2) · [[Experience]] · [[Soulmaking]] (7) · [[Soul]] (4) · [[Soulmaking dynamic]] · [[Juiciness]]_</span>
 
 ![[20170119-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_2-40164.mp3#t=36:54]]
 

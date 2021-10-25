@@ -17,3 +17,17 @@ description | count | talk
 [[The Way of Non-Clinging Part 3#Does discrepancy-based processing satisfy the depths in me]\|Does discrepancy-based processing satisfy the depths in me?]]] | 2 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 3#The "Mode of mind" is supposed revert to a more mindful stance\|The "Mode of mind" is supposed revert to a more mindful stance]] | 1 | [[The Way of Non-Clinging Part 3]]
 
+### Terms with 20+ co-occurrences
+term | count | talks
+-|-|-
+[[Desire]] | 4 | <span class="counts">[[The Way of Non-Clinging Part 3]] (4)</span> 
+[[Mindfulness]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 3]] (3)</span> 
+[[Mode of mind]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Attention]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Beauty]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Cultivation]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Dharma]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Dimensionality]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Dukkha]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Mind]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 3]] (1)</span> 
+

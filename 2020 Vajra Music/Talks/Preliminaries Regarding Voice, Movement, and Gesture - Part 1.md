@@ -43,7 +43,7 @@ E2 --- E2-5[be louder, or not]:::FixFont
 ```
 
 ## Index
-<span class="counts">_[[Energy body]] (51) · [[Embodiment]] (30) · [[Meditation]] (24) · [[Soulmaking]] (23) · [[Music]] (21) · [[Soul]] (21) · [[Inertia]] (18) · [[Desire]] (17) · [[Fantasy]] (17) · [[Awareness]] (15) · [[Dharma]] (14) · [[Dukkha]] (14) · [[Love]] (14) · [[Image]] (13) · [[Preliminaries]] (12) · [[Centre]] (11) · [[Conceptual framework]] (11) · [[Jhanas]] (11) · [[Elitism]] (10) · [[Retreat]] (10) · [[Freedom]] (9) · [[Music#Jazz]] (9) · [[Soulmaking Dynamic]] (8) · [[Energy]] (7) · [[Experience]] (7) · [[Awakening]] (6) · [[Grief]] (6) · [[Beauty]] (5) · [[Passion]] (5) · [[Steadiness]] (5) · [[Active listening]] (4) · [[Four Noble Truths]] (4) · [[History]] (4) · [[Imaginal]] (4) · [[Scientific research]] (4) · [[Emptiness]] (3) · [[Eros]] (3) · [[Conventional reality]] (2) · [[Devotion]] (2) · [[Hearing All Sounds as Mantra]] (2) · [[Mind]] (2) · [[Mindfulness]] (2) · [[Nondualism]] (2) · [[Personhood]] (2) · [[Seeing That Frees]] (2) · [[The Movement of Devotion]] (2) · [[Albert Einstein]] · [[Anatta]] · [[Anthropology]] · [[Blessing]] · [[Breath]] · [[Buddha]] · [[Compassion]] · [[Consciousness]] · [[Death]] · [[Dimensionality]] · [[Engagement and Activism]] · [[Equanimity]] · [[Gaia House]] · [[Infinity]] · [[Insight]] · [[Ludwig van Beethoven]] · [[Mahayana]] · [[Metta]] · [[Orienting to This Jhana Retreat]] · [[Practicing the Jhanas (retreat)]] · [[Rebirth]] · [[Relationships]] · [[Sangha]] · [[Satipatthana Sutta]] · [[Spirituality]] · [[Theravada]] · [[Tibetan Buddhism]] · [[Voice, Movement, and the Possibilities of Soul]]_</span>
+<span class="counts">_[[Energy body]] (51) · [[Embodiment]] (30) · [[Meditation]] (24) · [[Soulmaking]] (23) · [[Music]] (21) · [[Soul]] (21) · [[Inertia]] (18) · [[Desire]] (17) · [[Fantasy]] (17) · [[Awareness]] (15) · [[Dharma]] (14) · [[Dukkha]] (14) · [[Love]] (14) · [[Image]] (13) · [[Preliminaries]] (12) · [[Centre]] (11) · [[Conceptual framework]] (11) · [[Jhanas]] (11) · [[Elitism]] (10) · [[Retreat]] (10) · [[Freedom]] (9) · [[Music#Jazz]] (9) · [[Soulmaking dynamic]] (8) · [[Energy]] (7) · [[Experience]] (7) · [[Awakening]] (6) · [[Grief]] (6) · [[Beauty]] (5) · [[Passion]] (5) · [[Steadiness]] (5) · [[Active listening]] (4) · [[Four Noble Truths]] (4) · [[History]] (4) · [[Imaginal]] (4) · [[Scientific research]] (4) · [[Emptiness]] (3) · [[Eros]] (3) · [[Conventional reality]] (2) · [[Devotion]] (2) · [[Hearing All Sounds as Mantra]] (2) · [[Mind]] (2) · [[Mindfulness]] (2) · [[Nondualism]] (2) · [[Personhood]] (2) · [[Seeing That Frees]] (2) · [[The Movement of Devotion]] (2) · [[Albert Einstein]] · [[Anatta]] · [[Anthropology]] · [[Blessing]] · [[Breath]] · [[Buddha]] · [[Compassion]] · [[Consciousness]] · [[Death]] · [[Dimensionality]] · [[Engagement and Activism]] · [[Equanimity]] · [[Gaia House]] · [[Infinity]] · [[Insight]] · [[Ludwig van Beethoven]] · [[Mahayana]] · [[Metta]] · [[Orienting to This Jhana Retreat]] · [[Practicing the Jhanas (retreat)]] · [[Rebirth]] · [[Relationships]] · [[Sangha]] · [[Satipatthana Sutta]] · [[Spirituality]] · [[Theravada]] · [[Tibetan Buddhism]] · [[Voice, Movement, and the Possibilities of Soul]]_</span>
 <br/>
 
 ## Referenced talks
@@ -73,7 +73,7 @@ E2 --- E2-5[be louder, or not]:::FixFont
  
 ---
 ##### This is a beginning which should be developed
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^1-4|1-4]]**: _[[Preliminaries]] · [[Embodiment]] · [[History]] · [[Soulmaking]] · [[Soulmaking Dynamic]]_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^1-4|1-4]]**: _[[Preliminaries]] · [[Embodiment]] · [[History]] · [[Soulmaking]] · [[Soulmaking dynamic]]_</span>
 
 ---
 ##### Earlier talks 🟢
@@ -128,13 +128,13 @@ simile: Tiny bone in a bird
 
 ---
 ##### Soulmaking Dynamic
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^3-5|3-5]]**: _[[Soulmaking Dynamic]] (5) · [[Soul]]_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^3-5|3-5]]**: _[[Soulmaking dynamic]] (5) · [[Soul]]_</span>
 
 ![[20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=13:09]]
 
 ---
 ##### Soulmaking wants to include movement, gesture, and voice
-<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^4-1|4-1]]**: _[[Soulmaking Dynamic]] (2) · [[Embodiment]] (3)_</span>
+<span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^4-1|4-1]]**: _[[Soulmaking dynamic]] (2) · [[Embodiment]] (3)_</span>
 
 ---
 ##### Note that I'm often going too fast

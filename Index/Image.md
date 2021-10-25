@@ -12,7 +12,7 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 1]] | 7 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 3]] | 6 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] | 4 | [[2020 Vajra Music]]
-[[Dilemmas and Delineations - How did we get here Part 2]] | 3 | [[2017 Eros Unfettered]]
+[[Love and the Emptiness of Things]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -48,8 +48,8 @@ term | count | talks
 [[Daimon]] | 27 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (13) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (11) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3)</span> 
 [[Soulmaking]] | 27 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (8) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (6) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2)</span> 
 [[Energy body]] | 24 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (11) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (5) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] (2)</span> 
+[[Experience]] | 16 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
 [[Love]] | 15 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
-[[Experience]] | 14 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
 [[Dharma]] | 13 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
 [[Dimensionality]] | 13 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
 

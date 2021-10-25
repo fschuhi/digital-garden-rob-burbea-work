@@ -35,7 +35,7 @@ E5 --- E5-4[Rosa Parks]
 ```
 
 ## Index
-<span class="counts">_[[Soul]] (136) · [[Image]] (62) · [[Embodiment]] (61) · [[Soulmaking]] (40) · [[Imaginal]] (37) · [[Daimon]] (33) · [[Blessing]] (32) · [[Energy body]] (31) · [[Buddha]] (26) · [[The Self]] (24) · [[Compassion]] (13) · [[Dyad]] (13) · [[Dimensionality]] (11) · [[Fear]] (11) · [[Sabbath]] (11) · [[Abraham]] (10) · [[Metta]] (10) · [[Fullness of intention]] (9) · [[Mind]] (9) · [[Attention]] (8) · [[Christianity]] (8) · [[Habit]] (8) · [[Death]] (7) · [[Duty]] (7) · [[Meditation]] (7) · [[Personhood]] (7) · [[Telos]] (7) · [[Awakening]] (6) · [[Devotion]] (6) · [[History]] (6) · [[Mantra Practice]] (6) · [[Anxiety]] (5) · [[Awareness]] (5) · [[Contraction]] (5) · [[Insight]] (5) · [[Old Testament]] (5) · [[Perception]] (5) · [[Preliminaries]] (5) · [[Rosa Parks]] (5) · [[Dharmakaya]] (4) · [[Dukkha]] (4) · [[Emmett Till]] (4) · [[Energy]] (4) · [[Experience]] (4) · [[Mudra]] (4) · [[Temenos]] (4) · [[The Serpent]] (4) · [[Via Dolorosa]] (4) · [[Avalokiteshvara]] (3) · [[Beauty]] (3) · [[Buddhism]] (3) · [[Divinity]] (3) · [[Mindfulness]] (3) · [[Music]] (3) · [[Nature]] (3) · [[Passion]] (3) · [[Unfathomability]] (3) · [[Art and Dharma]] (2) · [[Consciousness]] (2) · [[Create-Discover]] (2) · [[Desire]] (2) · [[Dzogchen]] (2) · [[Emotions]] (2) · [[Emptiness]] (2) · [[Emptiness#Suchness]] (2) · [[Eros]] (2) · [[Ethics]] (2) · [[Mahayana]] (2) · [[Mara]] (2) · [[Materialism]] (2) · [[Receptivity]] (2) · [[Sangha]] (2) · [[Thunderclap]] (2) · [[Tibetan Buddhism]] (2) · [[Vajra]] (2) · [[Ways of looking]] (2) · [[Bhumi]] · [[Borne Aloft By Angels]] · [[Buddha-nature]] · [[Catherine McGee]] · [[Dominant culture]] · [[Eros Unfettered]] · [[Gestalt psychology]] · [[Grief]] · [[Guhyasamaja Tantra]] · [[Jhanas]] · [[Mahamudra]] · [[Near enemy]] · [[Ngöndro]] · [[Nobility]] · [[Om mani padme hum]] · [[Papanca]] · [[Pontius Pilate]] · [[Relationships]] · [[Retreat]] · [[Seed Syllables]] · [[Sociology]] · [[Tantra]] · [[The Hospitality to the Angels]] · [[Ultimate Truth]] · [[Vajrayana]] · [[Voice, Movement, and the Possibilities of Soul]]_</span>
+<span class="counts">_[[Soul]] (136) · [[Image]] (62) · [[Embodiment]] (61) · [[Soulmaking]] (40) · [[Imaginal]] (37) · [[Daimon]] (33) · [[Blessing]] (32) · [[Energy body]] (31) · [[Buddha]] (26) · [[The Self]] (24) · [[Compassion]] (13) · [[Dyad]] (13) · [[Dimensionality]] (11) · [[Fear]] (11) · [[Sabbath]] (11) · [[Abraham]] (10) · [[Metta]] (10) · [[Fullness of intention]] (9) · [[Mind]] (9) · [[Attention]] (8) · [[Christianity]] (8) · [[Habit]] (8) · [[Death]] (7) · [[Duty]] (7) · [[Meditation]] (7) · [[Personhood]] (7) · [[Telos]] (7) · [[Awakening]] (6) · [[Devotion]] (6) · [[History]] (6) · [[Mantra practice]] (6) · [[Anxiety]] (5) · [[Awareness]] (5) · [[Contraction]] (5) · [[Insight]] (5) · [[Old Testament]] (5) · [[Perception]] (5) · [[Preliminaries]] (5) · [[Rosa Parks]] (5) · [[Dharmakaya]] (4) · [[Dukkha]] (4) · [[Emmett Till]] (4) · [[Energy]] (4) · [[Experience]] (4) · [[Mudra]] (4) · [[Temenos]] (4) · [[The Serpent]] (4) · [[Via Dolorosa]] (4) · [[Avalokiteshvara]] (3) · [[Beauty]] (3) · [[Buddhism]] (3) · [[Divinity]] (3) · [[Mindfulness]] (3) · [[Music]] (3) · [[Nature]] (3) · [[Passion]] (3) · [[Unfathomability]] (3) · [[Art and Dharma]] (2) · [[Consciousness]] (2) · [[Create-Discover]] (2) · [[Desire]] (2) · [[Dzogchen]] (2) · [[Emotions]] (2) · [[Emptiness]] (2) · [[Emptiness#Suchness]] (2) · [[Eros]] (2) · [[Ethics]] (2) · [[Mahayana]] (2) · [[Mara]] (2) · [[Materialism]] (2) · [[Receptivity]] (2) · [[Sangha]] (2) · [[Thunderclap]] (2) · [[Tibetan Buddhism]] (2) · [[Vajra]] (2) · [[Ways of looking]] (2) · [[Bhumi]] · [[Borne Aloft By Angels]] · [[Buddha-nature]] · [[Catherine McGee]] · [[Dominant culture]] · [[Eros Unfettered]] · [[Gestalt psychology]] · [[Grief]] · [[Guhyasamaja Tantra]] · [[Jhanas]] · [[Mahamudra]] · [[Near enemy]] · [[Ngöndro]] · [[Nobility]] · [[Om mani padme hum]] · [[Papanca]] · [[Pontius Pilate]] · [[Relationships]] · [[Retreat]] · [[Seed syllables]] · [[Sociology]] · [[Tantra]] · [[The Hospitality to the Angels]] · [[Ultimate truth]] · [[Vajrayana]] · [[Voice, Movement, and the Possibilities of Soul]]_</span>
 <br/>
 
 ## Referenced talks
@@ -111,7 +111,7 @@ What's the kind of rhythm that allows me to read, to sense, to be attuned and re
 
 ---
 ##### Mantras also don't necessarily have particular meaning either
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^3-4|3-4]]**: _[[Mantra Practice]] (3) · [[Avalokiteshvara]] (3) · [[Compassion]] (5) · [[Seed Syllables]] · [[Om mani padme hum]]_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^3-4|3-4]]**: _[[Mantra practice]] (3) · [[Avalokiteshvara]] (3) · [[Compassion]] (5) · [[Seed syllables]] · [[Om mani padme hum]]_</span>
 
 ---
 ##### What if the sound itself was sensed with soul?
@@ -137,7 +137,7 @@ The meaning of this and the dimensionality, or the meaning of this and the sensi
 
 ---
 ##### In 4.1.x there is still meaning, in 4.2 we are opening up dimensionality and go beyond meaning
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^5-1|5-1]]**: _[[Soul]] (2) · [[Blessing]] · [[Dimensionality]] · [[Mantra Practice]] (3)_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^5-1|5-1]]**: _[[Soul]] (2) · [[Blessing]] · [[Dimensionality]] · [[Mantra practice]] (3)_</span>
 
 ![[20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=19:29]]
 
@@ -579,7 +579,7 @@ Can we exercise and open up the channels of our being, the movements we make, th
 
 ---
 ##### Rinpoches spend most of their time doing Ngöndro, what are basically preliminary excercises
-<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^23-1|23-1]]**: _[[Tibetan Buddhism]] (2) · [[Dzogchen]] (2) · [[Ultimate Truth]] · [[Mahamudra]] · [[Ngöndro]] · [[Preliminaries]]_</span>
+<span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^23-1|23-1]]**: _[[Tibetan Buddhism]] (2) · [[Dzogchen]] (2) · [[Ultimate truth]] · [[Mahamudra]] · [[Ngöndro]] · [[Preliminaries]]_</span>
 
 ---
 ##### I'm not really sure about the word 'preliminary'

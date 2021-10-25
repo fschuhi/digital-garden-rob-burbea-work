@@ -7,7 +7,7 @@ Tonight, I would like to explore a little bit the area of views. Views in practi
 ###### 1-2
 Beginning to explore views, and also the effects they have in our life. What do we believe? What do we believe about life? What do we believe about that period moving from between [[birth]] and [[death]]? How are we seeing it? How are we looking at it? So how am I looking at life? Another level, how am I looking at this moment? And how am I looking at my practice? ^1-2
 ###### 1-3
-At first this may seem a little abstract and, well OK, but this has, it turns out this has everything, everything, everything to do with [[freedom]]. Absolutely everything to do with [[freedom]]. The way we are looking, the way we are viewing our life, this moment and our practice. ^1-3
+At first this may seem a little abstract and, well OK, but this has, it turns out this has everything, everything, everything to do with [[freedom]]. Absolutely everything to do with [[freedom]]. [[Ways of looking|The way we are looking]], the way we are viewing our life, this moment and our practice. ^1-3
 ###### 1-4
 So, the [[Buddha]], of course, addresses the question of view, and he puts, what he calls Right View, he put that right at the base of his path. The first factor of [[Dharma|the path]], Right View, having that in place. And it's also, in a way, a culmination of [[Dharma|the path]]. A goal of [[Dharma|the path]]. ^1-4
 ###### 1-5

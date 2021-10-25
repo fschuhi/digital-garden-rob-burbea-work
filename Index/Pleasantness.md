@@ -10,8 +10,8 @@ talk | count | series
 [[The Practice of Compassion]] | 7 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 1]] | 6 | [[2017 Eros Unfettered]]
 [[Using Insight to Deepen Love and Compassion]] | 6 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[Love and the Emptiness of Things]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Joy (talk)]] | 2 | [[2007 New Years Retreat Insight Meditation]]
 [[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions
@@ -31,14 +31,14 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Happiness]] | 19 | <span class="counts">[[The Practice of Compassion]] (4) · [[From Insight to Love]] (3) · [[Equanimity in Compassion]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
-[[Samadhi]] | 19 | <span class="counts">[[Samadhi in Metta Practice]] (7) · [[The Place of Samadhi in Metta Practice]] (4) · [[Orienting to This Jhana Retreat]] (2) · [[The Practice of Compassion]] (2)</span> 
-[[Mind]] | 17 | <span class="counts">[[Samadhi in Metta Practice]] (7) · [[The Place of Samadhi in Metta Practice]] (4) · [[Equanimity (talk)]] (1) · [[From Insight to Love]] (1)</span> 
-[[Compassion]] | 12 | <span class="counts">[[The Practice of Compassion]] (6) · [[Compassion (talk)]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity in Compassion]] (1)</span> 
-[[Metta]] | 12 | <span class="counts">[[Samadhi in Metta Practice]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Equanimity in Compassion]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Happiness]] | 21 | <span class="counts">[[The Practice of Compassion]] (4) · [[From Insight to Love]] (3) · [[Equanimity in Compassion]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Samadhi]] | 20 | <span class="counts">[[Samadhi in Metta Practice]] (7) · [[The Place of Samadhi in Metta Practice]] (4) · [[Orienting to This Jhana Retreat]] (2) · [[The Practice of Compassion]] (2)</span> 
+[[Mind]] | 19 | <span class="counts">[[Samadhi in Metta Practice]] (7) · [[The Place of Samadhi in Metta Practice]] (4) · [[Equanimity (talk)]] (1) · [[From Insight to Love]] (1)</span> 
+[[Compassion]] | 13 | <span class="counts">[[The Practice of Compassion]] (6) · [[Compassion (talk)]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Metta]] | 13 | <span class="counts">[[Samadhi in Metta Practice]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Equanimity in Compassion]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Buddha]] | 11 | <span class="counts">[[Love and the Emptiness of Things]] (2) · [[Samadhi in Metta Practice]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[Compassion (talk)]] (1)</span> 
 [[Piti]] | 11 | <span class="counts">[[Samadhi in Metta Practice]] (5) · [[Orienting to This Jhana Retreat]] (3) · [[The Place of Samadhi in Metta Practice]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
 [[Embodiment]] | 10 | <span class="counts">[[Samadhi in Metta Practice]] (3) · [[The Place of Samadhi in Metta Practice]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Orienting to This Jhana Retreat]] (1)</span> 
-[[Buddha]] | 9 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[Compassion (talk)]] (1) · [[Equanimity (talk)]] (1)</span> 
+[[Cultivation]] | 9 | <span class="counts">[[Love and the Emptiness of Things]] (2) · [[Equanimity in Compassion]] (1) · [[From Insight to Love]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
 [[Retreat]] | 9 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (5) · [[Orienting to This Jhana Retreat]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
-[[Fear]] | 8 | <span class="counts">[[From Insight to Love]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Samadhi in Metta Practice]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
 

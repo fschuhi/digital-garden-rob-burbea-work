@@ -4,11 +4,13 @@
 talk | count | series
 :- | - |: -
 [[Dilemmas and Delineations - How did we get here Part 3]] | 5 | [[2017 Eros Unfettered]]
+[[Love and the Emptiness of Things]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 5 | [[2007 New Years Retreat Insight Meditation]]
 [[Using Insight to Deepen Love and Compassion]] | 3 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
+[[Guided Meditation - Directing Love Towards Dharmas]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 1]] | 1 | [[2017 Eros Unfettered]]
+[[The Birth of a Bodhisattva]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Guided meditation - Metta to phenomena]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
@@ -29,14 +31,14 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Experience]] | 8 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2) · [[Guided meditation - Metta to phenomena]] (1)</span> 
-[[Buddha]] | 6 | <span class="counts">[[What is Insight]] (3) · [[From Insight to Love]] (1) · [[Love and Emptiness]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
-[[Emptiness]] | 6 | <span class="counts">[[Love and Emptiness]] (2) · [[What is Insight]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
-[[Insight]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[What is Insight]] (2) · [[From Insight to Love]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
-[[Perception]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1) · [[What is Insight]] (1)</span> 
+[[Experience]] | 14 | <span class="counts">[[Love and the Emptiness of Things]] (5) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2)</span> 
+[[Emptiness]] | 9 | <span class="counts">[[Love and Emptiness]] (2) · [[What is Insight]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Guided Meditation - Directing Love Towards Dharmas]] (1)</span> 
+[[Insight]] | 9 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Love and the Emptiness of Things]] (2) · [[What is Insight]] (2) · [[From Insight to Love]] (1)</span> 
+[[Buddha]] | 7 | <span class="counts">[[What is Insight]] (3) · [[From Insight to Love]] (1) · [[Love and Emptiness]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
+[[Perception]] | 7 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Love and the Emptiness of Things]] (1) · [[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Compassion]] | 6 | <span class="counts">[[Love and the Emptiness of Things]] (3) · [[Guided Meditation - Directing Love Towards Dharmas]] (1) · [[Guided meditation - Metta to phenomena]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
+[[Consciousness]] | 6 | <span class="counts">[[What is Insight]] (2) · [[Guided Meditation - Directing Love Towards Dharmas]] (1) · [[Guided meditation - Metta to phenomena]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
+[[Embodiment]] | 5 | <span class="counts">[[What is Insight]] (2) · [[Guided Meditation - Directing Love Towards Dharmas]] (1) · [[Guided meditation - Metta to phenomena]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
+[[Metta]] | 5 | <span class="counts">[[Love and the Emptiness of Things]] (2) · [[Guided Meditation - Directing Love Towards Dharmas]] (1) · [[Guided meditation - Metta to phenomena]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 [[Clinging]] | 4 | <span class="counts">[[What is Insight]] (2) · [[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
-[[Consciousness]] | 4 | <span class="counts">[[What is Insight]] (2) · [[Guided meditation - Metta to phenomena]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
-[[Impermanence]] | 4 | <span class="counts">[[From Insight to Love]] (1) · [[The Way of Non-Clinging Part 1]] (1) · [[Using Insight to Deepen Love and Compassion]] (1) · [[What is Insight]] (1)</span> 
-[[Mind]] | 4 | <span class="counts">[[Love and Emptiness]] (1) · [[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1) · [[What is Insight]] (1)</span> 
-[[Ways of looking]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 2]] (1) · [[Using Insight to Deepen Love and Compassion]] (1) · [[What is Insight]] (1)</span> 
 

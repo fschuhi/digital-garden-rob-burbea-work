@@ -9,6 +9,7 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 8 | [[2020 Vajra Music]]
 [[Perfection and Christ's Blessing]] | 2 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 2 | [[2020 Vajra Music]]
+[[The Birth of a Bodhisattva]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
@@ -22,6 +23,7 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 5 3 _The Hospitality to the Angels_ 🟢\|🟡 Excercise 5.3: _The Hospitality to the Angels_ 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's about the moments prior to the scene in the Rublev's image\|It's about the moments prior to the scene in the Rublev's image]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The soulmaking poise has a range is elastic with soft edges\|The soulmaking poise has a range, is elastic with soft edges]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[The Birth of a Bodhisattva#This can take on a very personal flavour\|This can take on a very personal flavour]] | 1 | [[The Birth of a Bodhisattva]]
 [[The Practice of Compassion#"Love is without beginning"\|"Love is without beginning"]] | 1 | [[The Practice of Compassion]]
 
 ### Terms with 20+ co-occurrences
@@ -29,12 +31,12 @@ term | count | talks
 -|-|-
 [[Image]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
 [[Abraham]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
+[[Jesus]] | 3 | <span class="counts">[[Perfection and Christ's Blessing]] (1) · [[The Birth of a Bodhisattva]] (1) · [[The Practice of Compassion]] (1)</span> 
 [[Soul]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Perfection and Christ's Blessing]] (1)</span> 
 [[Art and Dharma]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Bodhisattva]] | 2 | <span class="counts">[[The Birth of a Bodhisattva]] (1) · [[The Practice of Compassion]] (1)</span> 
 [[Daimon]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
 [[Death]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
-[[Imaginal]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
-[[Jesus]] | 2 | <span class="counts">[[Perfection and Christ's Blessing]] (1) · [[The Practice of Compassion]] (1)</span> 
-[[Meditation]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
-[[Avalokiteshvara]] | 1 | <span class="counts">[[The Practice of Compassion]] (1)</span> 
+[[Dukkha]] | 2 | <span class="counts">[[Perfection and Christ's Blessing]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
+[[Energy]] | 2 | <span class="counts">[[The Birth of a Bodhisattva]] (1) · [[The Practice of Compassion]] (1)</span> 
 

@@ -10,6 +10,7 @@ talk | count | series
 [[What is Insight]] | 3 | [[2007 New Years Retreat Insight Meditation]]
 [[The Practice of Compassion]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Exploring the World of Loving Kindness]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Birth of a Bodhisattva]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Using Insight to Deepen Love and Compassion]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
@@ -31,12 +32,12 @@ term | count | talks
 -|-|-
 [[Ignorance]] | 12 | <span class="counts">[[The Way of Non-Clinging Part 1]] (4) · [[The Way of Non-Clinging Part 2]] (3) · [[Compassion (talk)]] (2) · [[The Practice of Compassion]] (1)</span> 
 [[Clinging]] | 11 | <span class="counts">[[The Way of Non-Clinging Part 2]] (5) · [[The Way of Non-Clinging Part 3]] (3) · [[The Way of Non-Clinging Part 1]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
-[[Insight]] | 8 | <span class="counts">[[Compassion (talk)]] (3) · [[What is Insight]] (2) · [[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Insight]] | 9 | <span class="counts">[[Compassion (talk)]] (3) · [[What is Insight]] (2) · [[The Birth of a Bodhisattva]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Ways of looking]] | 8 | <span class="counts">[[The Way of Non-Clinging Part 2]] (3) · [[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
+[[Dukkha]] | 7 | <span class="counts">[[Compassion (talk)]] (1) · [[The Birth of a Bodhisattva]] (1) · [[The Practice of Compassion]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
 [[The Self]] | 7 | <span class="counts">[[Compassion (talk)]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[Exploring the World of Loving Kindness]] (1) · [[The Practice of Compassion]] (1)</span> 
-[[Ways of looking]] | 7 | <span class="counts">[[The Way of Non-Clinging Part 2]] (3) · [[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Buddha]] | 6 | <span class="counts">[[Compassion (talk)]] (2) · [[What is Insight]] (2) · [[The Way of Non-Clinging Part 2]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Compassion]] | 6 | <span class="counts">[[Compassion (talk)]] (3) · [[The Birth of a Bodhisattva]] (1) · [[The Way of Non-Clinging Part 2]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 [[Craving]] | 6 | <span class="counts">[[The Way of Non-Clinging Part 2]] (3) · [[The Way of Non-Clinging Part 3]] (2) · [[The Way of Non-Clinging Part 1]] (1)</span> 
-[[Dukkha]] | 6 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1) · [[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
 [[Fabrication]] | 6 | <span class="counts">[[The Way of Non-Clinging Part 2]] (3) · [[The Way of Non-Clinging Part 3]] (1) · [[Using Insight to Deepen Love and Compassion]] (1) · [[What is Insight]] (1)</span> 
-[[Perception]] | 6 | <span class="counts">[[The Way of Non-Clinging Part 2]] (3) · [[The Practice of Compassion]] (1) · [[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 

@@ -10,7 +10,7 @@ talk | count | series
 [[What is Insight]] | 4 | [[2007 New Years Retreat Insight Meditation]]
 [[Guided Meditation on Gratitude and Compassion]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Using Insight to Deepen Love and Compassion]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[Love and the Emptiness of Things]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
@@ -31,14 +31,14 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Metta]] | 9 | <span class="counts">[[Expressions of Metta]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Equanimity in Compassion]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
+[[Metta]] | 10 | <span class="counts">[[Expressions of Metta]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Equanimity in Compassion]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
 [[Embodiment]] | 7 | <span class="counts">[[What is Insight]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Love and Emptiness]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Experience]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
 [[Image]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1) · [[Love and Emptiness]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Insight]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[From Insight to Love]] (1) · [[Love and the Emptiness of Things]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Love]] | 5 | <span class="counts">[[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1) · [[From Insight to Love]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
 [[Dharma]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Love and Emptiness]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Eros]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
-[[Experience]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Love and Emptiness]] (1)</span> 
-[[Insight]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[From Insight to Love]] (1) · [[The Way of Non-Clinging Part 3]] (1) · [[What is Insight]] (1)</span> 
-[[Love]] | 4 | <span class="counts">[[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1) · [[From Insight to Love]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Soul]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
 [[Anger]] | 3 | <span class="counts">[[Expressions of Metta]] (3)</span> 
 

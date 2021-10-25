@@ -3,9 +3,9 @@ obsidianUIMode: preview
 ---
 # The Garden of the Soul: Rob Burbea's Teachings
 ```ad-quote
-So sometimes it will feel like we're very much in the 'feeling the sorrow' side, where very much there's quite some sadness, or grief, or just being moved. And sometimes it can be very lovely, and there's a sweetness to it, there's a beauty to it; the heart is open and touched. And sometimes it feels like the balance is more, we're just feeling in, tuning into that energy that's going out - the lovely quality of healing, of light, the balm, the comforting.
+If the _samādhi_ feels strong enough or there's a sense of settledness in the mind and the heart with the compassion, it can be almost, at times, as if the body has _turned into_ compassion. And you just let yourself _be_ compassion, and just radiate that out. Let everything become compassion.
 
-_(a quote from the talk [[Equanimity in Compassion#2 Wanting to heal the suffering energy|Equanimity in Compassion]])_
+_(a quote from the talk [[Guided Meditation on Gratitude and Compassion#Compassion according to categories of being or directions or just the sense of the body radiating compassion|Guided Meditation on Gratitude and Compassion]])_
 ```
 
 ```ad-danger

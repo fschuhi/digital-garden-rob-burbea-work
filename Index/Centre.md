@@ -68,10 +68,10 @@ talk | count | series
 [[Compassion (talk)]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Love and the Emptiness of Things]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Compassion Part Two - Compassion for Ourselves]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Joy (talk)]] | 2 | [[2007 New Years Retreat Insight Meditation]]
 [[Samadhi in Metta Practice]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Dilemmas and Delineations - How did we get here Part 3]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -93,11 +93,11 @@ term | count | talks
 [[Embodiment]] | 7 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
 [[The Self]] | 7 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (4) · [[Compassion (talk)]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Practice of Compassion]] (1)</span> 
 [[Personhood]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (6)</span> 
+[[Compassion]] | 5 | <span class="counts">[[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Love and the Emptiness of Things]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
+[[Death]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[From Insight to Love]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
 [[Image]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (4)</span> 
+[[Insight]] | 4 | <span class="counts">[[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Love and the Emptiness of Things]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Metta]] | 4 | <span class="counts">[[Compassion (talk)]] (1) · [[Love and the Emptiness of Things]] (1) · [[Samadhi in Metta Practice]] (1) · [[The Practice of Compassion]] (1)</span> 
 [[Attention]] | 3 | <span class="counts">[[Compassion Part Two - Compassion for Ourselves]] (1) · [[Joy (talk)]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 [[Awareness]] | 3 | <span class="counts">[[From Insight to Love]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
-[[Compassion]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[The Practice of Compassion]] (1)</span> 
-[[Death]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[From Insight to Love]] (1)</span> 
-[[Divinity]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
-[[Dukkha]] | 3 | <span class="counts">[[Compassion Part Two - Compassion for Ourselves]] (1) · [[The Practice of Compassion]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 

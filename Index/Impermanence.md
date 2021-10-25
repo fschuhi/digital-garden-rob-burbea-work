@@ -40,10 +40,10 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Insight]] | 24 | <span class="counts">[[What is Insight]] (8) · [[From Insight to Love]] (5) · [[Using Insight to Deepen Love and Compassion]] (4) · [[Equanimity (talk)]] (1)</span> 
+[[Insight]] | 25 | <span class="counts">[[What is Insight]] (8) · [[From Insight to Love]] (5) · [[Using Insight to Deepen Love and Compassion]] (4) · [[Equanimity (talk)]] (1)</span> 
 [[Clinging]] | 18 | <span class="counts">[[The Way of Non-Clinging Part 2]] (7) · [[The Way of Non-Clinging Part 1]] (6) · [[Joy (talk)]] (2) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Experience]] | 18 | <span class="counts">[[The Way of Non-Clinging Part 2]] (4) · [[What is Insight]] (4) · [[The Way of Non-Clinging Part 1]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[From Insight to Love]] (2)</span> 
-[[Perception]] | 16 | <span class="counts">[[The Way of Non-Clinging Part 2]] (7) · [[The Way of Non-Clinging Part 1]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2)</span> 
+[[Perception]] | 17 | <span class="counts">[[The Way of Non-Clinging Part 2]] (7) · [[The Way of Non-Clinging Part 1]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2)</span> 
 [[Dukkha]] | 15 | <span class="counts">[[From Insight to Love]] (4) · [[What is Insight]] (3) · [[Questioning Awakening]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
 [[The Self]] | 15 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (4) · [[From Insight to Love]] (3) · [[The Way of Non-Clinging Part 2]] (3) · [[The Way of Non-Clinging Part 1]] (2)</span> 
 [[Anatta]] | 14 | <span class="counts">[[From Insight to Love]] (7) · [[Using Insight to Deepen Love and Compassion]] (3) · [[What is Insight]] (2) · [[Joy (talk)]] (1)</span> 

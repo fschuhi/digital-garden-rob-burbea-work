@@ -11,6 +11,7 @@ talk | count | series
 [[Equanimity in Compassion]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 3]] | 1 | [[2017 Eros Unfettered]]
+[[The Birth of a Bodhisattva]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions
@@ -33,11 +34,11 @@ term | count | talks
 [[Avijja]] | 12 | <span class="counts">[[The Way of Non-Clinging Part 1]] (4) · [[The Way of Non-Clinging Part 2]] (3) · [[Compassion (talk)]] (2) · [[The Practice of Compassion]] (1)</span> 
 [[Buddha]] | 12 | <span class="counts">[[Compassion (talk)]] (3) · [[The Way of Non-Clinging Part 2]] (3) · [[The Practice of Compassion]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
 [[Clinging]] | 11 | <span class="counts">[[The Way of Non-Clinging Part 2]] (6) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[From Insight to Love]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Dukkha]] | 11 | <span class="counts">[[The Practice of Compassion]] (4) · [[Equanimity in Compassion]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[Compassion (talk)]] (1)</span> 
 [[The Self]] | 11 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[The Way of Non-Clinging Part 2]] (3) · [[From Insight to Love]] (2) · [[Compassion (talk)]] (1)</span> 
-[[Dukkha]] | 10 | <span class="counts">[[The Practice of Compassion]] (4) · [[Equanimity in Compassion]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[Compassion (talk)]] (1)</span> 
 [[Insight]] | 10 | <span class="counts">[[The Way of Non-Clinging Part 2]] (4) · [[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Compassion]] | 9 | <span class="counts">[[The Practice of Compassion]] (3) · [[Compassion (talk)]] (2) · [[Equanimity in Compassion]] (1) · [[From Insight to Love]] (1)</span> 
 [[Mind]] | 9 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[From Insight to Love]] (1)</span> 
-[[Compassion]] | 8 | <span class="counts">[[The Practice of Compassion]] (3) · [[Compassion (talk)]] (2) · [[Equanimity in Compassion]] (1) · [[From Insight to Love]] (1)</span> 
 [[Craving]] | 8 | <span class="counts">[[The Way of Non-Clinging Part 2]] (4) · [[The Way of Non-Clinging Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Perception]] | 8 | <span class="counts">[[The Way of Non-Clinging Part 2]] (5) · [[The Practice of Compassion]] (1) · [[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 

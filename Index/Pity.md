@@ -6,6 +6,7 @@ talk | count | series
 [[Compassion (talk)]] | 13 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 9 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Compassion Part Two - Compassion for Ourselves]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[Love and the Emptiness of Things]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -25,8 +26,8 @@ description | count | talk
 term | count | talks
 -|-|-
 [[Anger]] | 7 | <span class="counts">[[Compassion (talk)]] (4) · [[The Practice of Compassion]] (3)</span> 
+[[Compassion]] | 7 | <span class="counts">[[Compassion (talk)]] (3) · [[The Practice of Compassion]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
 [[Fear]] | 7 | <span class="counts">[[Compassion (talk)]] (4) · [[The Practice of Compassion]] (3)</span> 
-[[Compassion]] | 6 | <span class="counts">[[Compassion (talk)]] (3) · [[The Practice of Compassion]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1)</span> 
 [[Near enemy]] | 6 | <span class="counts">[[Compassion (talk)]] (3) · [[The Practice of Compassion]] (3)</span> 
 [[Dukkha]] | 5 | <span class="counts">[[The Practice of Compassion]] (3) · [[Compassion (talk)]] (2)</span> 
 [[Grief]] | 3 | <span class="counts">[[Compassion (talk)]] (2) · [[The Practice of Compassion]] (1)</span> 

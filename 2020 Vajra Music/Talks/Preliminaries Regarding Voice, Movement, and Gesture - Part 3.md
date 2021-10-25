@@ -32,7 +32,7 @@ E2 --- E4-2[no meaning]
 ```
 
 ## Index
-<span class="counts">_[[Daimon]] (80) · [[Soul]] (70) · [[Centre]] (53) · [[Image]] (43) · [[Skandhas]] (26) · [[Blessing]] (24) · [[Personhood]] (21) · [[Imaginal]] (16) · [[Energy body]] (14) · [[Soulmaking]] (14) · [[Dukkha]] (10) · [[The Self]] (10) · [[Insight]] (9) · [[Divinity]] (8) · [[Dyad]] (8) · [[Fabrication]] (8) · [[Conceptual framework]] (7) · [[Sabbath]] (7) · [[Death]] (6) · [[Embodiment]] (6) · [[Emptiness]] (6) · [[Anatta]] (5) · [[Dharma]] (5) · [[Dimensionality]] (5) · [[Buddha]] (4) · [[Desire]] (4) · [[Duty]] (4) · [[Emotions]] (4) · [[Experience]] (4) · [[Dependent Origination]] (3) · [[Dominant culture]] (3) · [[Eternality]] (3) · [[Gratitude]] (3) · [[Metta]] (3) · [[Nondualism]] (3) · [[Perception]] (3) · [[Sensing the other as angel]] (3) · [[Ultimate Truth]] (3) · [[Unfathomability]] (3) · [[Via negativa]] (3) · [[Ways of looking]] (3) · [[Antinomy]] (2) · [[Buddhism]] (2) · [[Christianity]] (2) · [[Dakini]] (2) · [[Eros]] (2) · [[Four Noble Truths]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Love]] (2) · [[Mind]] (2) · [[Receptivity]] (2) · [[Retreat]] (2) · [[Attention]] · [[Awareness]] · [[Beauty]] · [[Ethics]] · [[Gestalt psychology]] · [[Impermanence]] · [[In Psyche's Orchard]] · [[Judaism]] · [[Logos]] · [[Meaningfulness]] · [[Meditation]] · [[Middle Way]] · [[Passion]] · [[Phenomenology]] · [[Relationships]] · [[Sila and Soul]] · [[Soulmaking Dynamic]] · [[Temenos]] · [[The Image of Ethics]] · [[Vajrayana]]_</span>
+<span class="counts">_[[Daimon]] (80) · [[Soul]] (70) · [[Centre]] (53) · [[Image]] (43) · [[Skandhas]] (26) · [[Blessing]] (24) · [[Personhood]] (21) · [[Imaginal]] (16) · [[Energy body]] (14) · [[Soulmaking]] (14) · [[Dukkha]] (10) · [[The Self]] (10) · [[Insight]] (9) · [[Divinity]] (8) · [[Dyad]] (8) · [[Fabrication]] (8) · [[Conceptual framework]] (7) · [[Sabbath]] (7) · [[Death]] (6) · [[Embodiment]] (6) · [[Emptiness]] (6) · [[Anatta]] (5) · [[Dharma]] (5) · [[Dimensionality]] (5) · [[Buddha]] (4) · [[Desire]] (4) · [[Duty]] (4) · [[Emotions]] (4) · [[Experience]] (4) · [[Dependent Origination]] (3) · [[Dominant culture]] (3) · [[Eternality]] (3) · [[Gratitude]] (3) · [[Metta]] (3) · [[Nondualism]] (3) · [[Perception]] (3) · [[Sensing the other as angel]] (3) · [[Ultimate truth]] (3) · [[Unfathomability]] (3) · [[Via Negativa]] (3) · [[Ways of looking]] (3) · [[Antinomy]] (2) · [[Buddhism]] (2) · [[Christianity]] (2) · [[Dakini]] (2) · [[Eros]] (2) · [[Four Noble Truths]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Love]] (2) · [[Mind]] (2) · [[Receptivity]] (2) · [[Retreat]] (2) · [[Attention]] · [[Awareness]] · [[Beauty]] · [[Ethics]] · [[Gestalt psychology]] · [[Impermanence]] · [[In Psyche's Orchard]] · [[Judaism]] · [[Logos]] · [[Meaningfulness]] · [[Meditation]] · [[Middle Way]] · [[Passion]] · [[Phenomenology]] · [[Relationships]] · [[Sila and Soul]] · [[Soulmaking dynamic]] · [[Temenos]] · [[The Image of Ethics]] · [[Vajrayana]]_</span>
 <br/>
 
 ## Referenced talks
@@ -129,7 +129,7 @@ One could think about centring as, "I need to centre because I need to encounter
 
 ---
 ##### Looking deep inside myself, I encounter nothing
-<span class="counts">**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^4-1|4-1]]**: _[[Christianity]] (2) · [[Centre]] (2) · [[Image]] · [[Emptiness]] · [[Via negativa]] (3)_</span>
+<span class="counts">**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^4-1|4-1]]**: _[[Christianity]] (2) · [[Centre]] (2) · [[Image]] · [[Emptiness]] · [[Via Negativa]] (3)_</span>
 
 ---
 ##### If we do not aim for Aspect 4 we might see the face of the divine (Aspect 5)
@@ -234,11 +234,11 @@ Oftentimes it's the 'making' that people don't relate to, the word 'making.' Of 
 
 ---
 ##### We are trained in certain words
-<span class="counts">**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^7-4|7-4]]**: _[[Skandhas]] (5) · [[Ways of looking]] · [[Ultimate Truth]] · [[Personhood]] · [[Buddhism]]_</span>
+<span class="counts">**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^7-4|7-4]]**: _[[Skandhas]] (5) · [[Ways of looking]] · [[Ultimate truth]] · [[Personhood]] · [[Buddhism]]_</span>
 
 ---
 ##### Couldn't 'soul' be similarly unfamiliar at first, but eventually become helpful like 'aggregate'?
-<span class="counts">**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^8-1|8-1]]**: _[[Soul]] (3) · [[Insight]] · [[Skandhas]] (5) · [[Dukkha]] (2) · [[Ultimate Truth]] (2)_</span>
+<span class="counts">**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^8-1|8-1]]**: _[[Soul]] (3) · [[Insight]] · [[Skandhas]] (5) · [[Dukkha]] (2) · [[Ultimate truth]] (2)_</span>
 
 ---
 ##### The dukkha of soullessness
@@ -295,7 +295,7 @@ The being of the angel, the dimension of the being of the angel, is not of space
 
 ---
 ##### Those words have soft and elastic edges, they will stretch
-<span class="counts">**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^10-3|10-3]]**: _[[Soul]] (4) · [[Daimon]] (3) · [[Image]] · [[Perception]] · [[Divinity]] · [[Eternality]] · [[Soulmaking]] · [[Soulmaking Dynamic]]_</span>
+<span class="counts">**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^10-3|10-3]]**: _[[Soul]] (4) · [[Daimon]] (3) · [[Image]] · [[Perception]] · [[Divinity]] · [[Eternality]] · [[Soulmaking]] · [[Soulmaking dynamic]]_</span>
 
 ---
 

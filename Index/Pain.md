@@ -31,14 +31,14 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Dukkha]] | 22 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (7) · [[The Practice of Compassion]] (3) · [[What is Insight]] (3) · [[The Way of Non-Clinging Part 1]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
-[[Compassion]] | 13 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (5) · [[The Practice of Compassion]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Compassion (talk)]] (1)</span> 
-[[Metta]] | 10 | <span class="counts">[[Exploring the World of Loving Kindness]] (2) · [[Expressions of Metta]] (2) · [[Guided Meditation on Gratitude and Compassion]] (2) · [[Equanimity (talk)]] (1)</span> 
+[[Dukkha]] | 23 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (7) · [[The Practice of Compassion]] (3) · [[What is Insight]] (3) · [[The Way of Non-Clinging Part 1]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Compassion]] | 15 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (5) · [[The Practice of Compassion]] (3) · [[The Birth of a Bodhisattva]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Metta]] | 11 | <span class="counts">[[Exploring the World of Loving Kindness]] (2) · [[Expressions of Metta]] (2) · [[Guided Meditation on Gratitude and Compassion]] (2) · [[Equanimity (talk)]] (1)</span> 
+[[Mind]] | 11 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[Equanimity (talk)]] (2) · [[Guided Meditation on Gratitude and Compassion]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Craving]] | 10 | <span class="counts">[[The Way of Non-Clinging Part 1]] (5) · [[What is Insight]] (2) · [[Equanimity (talk)]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
+[[Experience]] | 10 | <span class="counts">[[Equanimity (talk)]] (3) · [[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
+[[Aversion]] | 9 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[What is Insight]] (2) · [[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
 [[Awareness]] | 9 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (5) · [[Equanimity (talk)]] (1) · [[Love and Emptiness]] (1) · [[The Practice of Compassion]] (1)</span> 
-[[Craving]] | 9 | <span class="counts">[[The Way of Non-Clinging Part 1]] (5) · [[What is Insight]] (2) · [[Equanimity (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
-[[Experience]] | 9 | <span class="counts">[[Equanimity (talk)]] (3) · [[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
-[[Mind]] | 9 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[Equanimity (talk)]] (2) · [[Guided Meditation on Gratitude and Compassion]] (1) · [[Love and Emptiness]] (1)</span> 
-[[Aversion]] | 8 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[What is Insight]] (2) · [[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
 [[Embodiment]] | 8 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[Compassion (talk)]] (1) · [[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
-[[Attention]] | 7 | <span class="counts">[[Equanimity in Compassion]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
+[[Insight]] | 8 | <span class="counts">[[Equanimity (talk)]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity in Compassion]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
 

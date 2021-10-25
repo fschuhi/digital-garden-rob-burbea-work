@@ -6,6 +6,7 @@ talk | count | series
 [[Compassion (talk)]] | 17 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Compassion Part Two - Compassion for Ourselves]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Birth of a Bodhisattva]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
@@ -25,14 +26,14 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Compassion]] | 9 | <span class="counts">[[Compassion (talk)]] (4) · [[Compassion Part Two - Compassion for Ourselves]] (3) · [[Equanimity in Compassion]] (1) · [[The Practice of Compassion]] (1)</span> 
-[[Dukkha]] | 9 | <span class="counts">[[Compassion (talk)]] (4) · [[Compassion Part Two - Compassion for Ourselves]] (2) · [[The Practice of Compassion]] (2) · [[Equanimity in Compassion]] (1)</span> 
-[[Cultivation]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Dukkha]] | 11 | <span class="counts">[[Compassion (talk)]] (4) · [[Compassion Part Two - Compassion for Ourselves]] (2) · [[The Birth of a Bodhisattva]] (2) · [[The Practice of Compassion]] (2)</span> 
+[[Compassion]] | 10 | <span class="counts">[[Compassion (talk)]] (4) · [[Compassion Part Two - Compassion for Ourselves]] (3) · [[Equanimity in Compassion]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
+[[Cultivation]] | 5 | <span class="counts">[[The Birth of a Bodhisattva]] (2) · [[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Energy]] | 4 | <span class="counts">[[Compassion (talk)]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
+[[Healing]] | 4 | <span class="counts">[[Compassion (talk)]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
 [[Embodiment]] | 3 | <span class="counts">[[Compassion (talk)]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1)</span> 
-[[Energy]] | 3 | <span class="counts">[[Compassion (talk)]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1)</span> 
-[[Healing]] | 3 | <span class="counts">[[Compassion (talk)]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1)</span> 
+[[Equanimity]] | 2 | <span class="counts">[[The Birth of a Bodhisattva]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Meditation]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
+[[Retreat]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
 [[Spaciousness]] | 2 | <span class="counts">[[Compassion (talk)]] (2)</span> 
-[[Awareness]] | 1 | <span class="counts">[[Compassion (talk)]] (1)</span> 
-[[Buddha]] | 1 | <span class="counts">[[The Practice of Compassion]] (1)</span> 
-[[Equanimity]] | 1 | <span class="counts">[[The Practice of Compassion]] (1)</span> 
 

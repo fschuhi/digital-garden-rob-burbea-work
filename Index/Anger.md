@@ -10,9 +10,9 @@ talk | count | series
 [[The Practice of Compassion]] | 11 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Place of Samadhi in Metta Practice]] | 9 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[Love and the Emptiness of Things]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Equanimity (talk)]] | 1 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -34,14 +34,14 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Fear]] | 16 | <span class="counts">[[The Practice of Compassion]] (5) · [[Compassion (talk)]] (4) · [[Exploring the World of Loving Kindness]] (2) · [[From Insight to Love]] (2)</span> 
-[[Metta]] | 15 | <span class="counts">[[Exploring the World of Loving Kindness]] (3) · [[Expressions of Metta]] (3) · [[From Insight to Love]] (2) · [[Love and Emptiness]] (2) · [[The Practice of Compassion]] (2)</span> 
-[[Compassion]] | 13 | <span class="counts">[[Compassion (talk)]] (6) · [[The Practice of Compassion]] (4) · [[Exploring the World of Loving Kindness]] (1) · [[From Insight to Love]] (1)</span> 
+[[Metta]] | 19 | <span class="counts">[[Exploring the World of Loving Kindness]] (3) · [[Expressions of Metta]] (3) · [[Love and the Emptiness of Things]] (3) · [[From Insight to Love]] (2) · [[Love and Emptiness]] (2) · [[The Practice of Compassion]] (2)</span> 
+[[Fear]] | 17 | <span class="counts">[[The Practice of Compassion]] (5) · [[Compassion (talk)]] (4) · [[Exploring the World of Loving Kindness]] (2) · [[From Insight to Love]] (2)</span> 
+[[Compassion]] | 15 | <span class="counts">[[Compassion (talk)]] (6) · [[The Practice of Compassion]] (4) · [[Love and the Emptiness of Things]] (2) · [[Exploring the World of Loving Kindness]] (1)</span> 
+[[Love]] | 12 | <span class="counts">[[Expressions of Metta]] (4) · [[Love and the Emptiness of Things]] (2) · [[Compassion (talk)]] (1) · [[From Insight to Love]] (1)</span> 
+[[Mind]] | 12 | <span class="counts">[[Exploring the World of Loving Kindness]] (2) · [[Love and Emptiness]] (2) · [[Love and the Emptiness of Things]] (2) · [[Samadhi in Metta Practice]] (2)</span> 
 [[Dukkha]] | 10 | <span class="counts">[[Compassion (talk)]] (6) · [[The Practice of Compassion]] (4)</span> 
 [[Insight]] | 9 | <span class="counts">[[Compassion (talk)]] (2) · [[The Practice of Compassion]] (2) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
-[[Love]] | 9 | <span class="counts">[[Expressions of Metta]] (4) · [[Compassion (talk)]] (1) · [[From Insight to Love]] (1) · [[Guided meditation - Metta to phenomena]] (1)</span> 
-[[Mind]] | 9 | <span class="counts">[[Exploring the World of Loving Kindness]] (2) · [[Love and Emptiness]] (2) · [[Samadhi in Metta Practice]] (2) · [[Equanimity (talk)]] (1)</span> 
 [[Near enemy]] | 7 | <span class="counts">[[Compassion (talk)]] (4) · [[The Practice of Compassion]] (3)</span> 
+[[Perception]] | 7 | <span class="counts">[[Love and Emptiness]] (3) · [[Love and the Emptiness of Things]] (2) · [[Exploring the World of Loving Kindness]] (1) · [[The Practice of Compassion]] (1)</span> 
 [[Pity]] | 7 | <span class="counts">[[Compassion (talk)]] (4) · [[The Practice of Compassion]] (3)</span> 
-[[Buddha]] | 6 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Equanimity (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
 

@@ -9,6 +9,7 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 6 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 4 | [[2020 Vajra Music]]
 [[Equanimity in Compassion]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Birth of a Bodhisattva]] | 3 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 1 | [[2020 Vajra Music]]
 
 ### Paragraphs with 4+ mentions
@@ -20,7 +21,7 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#With regard to the "grief" there were plenty of things within jazz that I figured out on my own\|With regard to the "grief", there were plenty of things within jazz that I figured out on my own]] | 3 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Orienting to This Jhana Retreat#Passion and grief around activism is important\|Passion and grief around activism is important]] | 3 | [[Orienting to This Jhana Retreat]]
 [[Orienting to This Jhana Retreat#Others might feel grief at the recent election or at my health - but to pick it up is not the priority on this retreat\|Others might feel grief at the recent election, or at my health - but to pick it up is not the priority on this retreat]] | 3 | [[Orienting to This Jhana Retreat]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#It was not enabled to become fully physically manifest\|It was not enabled to become fully physically manifest]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[The Birth of a Bodhisattva#Develop the skill to find the dynamic balance\|Develop the skill to find the dynamic balance]] | 3 | [[The Birth of a Bodhisattva]]
 [[Orienting to This Jhana Retreat#here's no danger of not being able to find the grief later\|here's no danger of not being able to find the grief later]] | 2 | [[Orienting to This Jhana Retreat]]
 [[Compassion (talk)#Four near enemies of compassion fear anger pity grief\|Four near enemies of compassion: fear, anger, pity, grief]] | 2 | [[Compassion (talk)]]
 [[Equanimity in Compassion#There can be a lot of grief in the compassion practice about the immensity and universality of suffering\|There can be a lot of grief in the compassion practice about the immensity and universality of suffering]] | 2 | [[Equanimity in Compassion]]
@@ -29,7 +30,7 @@ description | count | talk
 term | count | talks
 -|-|-
 [[Compassion]] | 8 | <span class="counts">[[The Practice of Compassion]] (4) · [[Compassion (talk)]] (2) · [[Equanimity in Compassion]] (2)</span> 
-[[Dukkha]] | 6 | <span class="counts">[[Compassion (talk)]] (2) · [[Equanimity in Compassion]] (2) · [[The Practice of Compassion]] (2)</span> 
+[[Dukkha]] | 7 | <span class="counts">[[Compassion (talk)]] (2) · [[Equanimity in Compassion]] (2) · [[The Practice of Compassion]] (2) · [[The Birth of a Bodhisattva]] (1)</span> 
 [[Fear]] | 5 | <span class="counts">[[Compassion (talk)]] (2) · [[The Practice of Compassion]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
 [[Anger]] | 4 | <span class="counts">[[Compassion (talk)]] (2) · [[Orienting to This Jhana Retreat]] (1) · [[The Practice of Compassion]] (1)</span> 
 [[Soul]] | 4 | <span class="counts">[[Orienting to This Jhana Retreat]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 

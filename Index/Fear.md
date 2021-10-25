@@ -6,13 +6,13 @@ talk | count | series
 [[From Insight to Love]] | 119 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Using Insight to Deepen Love and Compassion]] | 97 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Compassion (talk)]] | 18 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[Love and the Emptiness of Things]] | 17 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 14 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Place of Samadhi in Metta Practice]] | 13 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 11 | [[2020 Vajra Music]]
 [[Samadhi in Metta Practice]] | 9 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Exploring the World of Loving Kindness]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[Expressions of Metta]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -24,6 +24,7 @@ description | count | talk
 [[Using Insight to Deepen Love and Compassion#Fear is an aversion that blocks love\|Fear is an aversion that blocks love]] | 10 | [[Using Insight to Deepen Love and Compassion]]
 [[Using Insight to Deepen Love and Compassion#Fear is human\|Fear is human]] | 10 | [[Using Insight to Deepen Love and Compassion]]
 [[The Place of Samadhi in Metta Practice#Fear can come up\|Fear can come up]] | 10 | [[The Place of Samadhi in Metta Practice]]
+[[Love and the Emptiness of Things#With fear the object and the fear are not independent\|With fear, the object and the fear are not independent]] | 9 | [[Love and the Emptiness of Things]]
 [[Using Insight to Deepen Love and Compassion#Fear of fear feeds the fire of the fear\|Fear of fear feeds the fire of the fear]] | 9 | [[Using Insight to Deepen Love and Compassion]]
 [[From Insight to Love#The aversion to fear is part of the fear itself\|The aversion to fear is part of the fear itself]] | 9 | [[From Insight to Love]]
 [[Using Insight to Deepen Love and Compassion#When the fear is not that strong you can dip into what's enjoyable and not give so much attention to the fear\|When the fear is not that strong, you can dip into what's enjoyable and not give so much attention to the fear]] | 8 | [[Using Insight to Deepen Love and Compassion]]
@@ -36,6 +37,7 @@ description | count | talk
 [[Using Insight to Deepen Love and Compassion#Self-judgement is also fuel for the fire of fear\|Self-judgement is also fuel for the fire of fear]] | 6 | [[Using Insight to Deepen Love and Compassion]]
 [[From Insight to Love#Constrictions block our capacity to love\|Constrictions block our capacity to love]] | 6 | [[From Insight to Love]]
 [[From Insight to Love#Maharashtra\|Maharashtra]] | 6 | [[From Insight to Love]]
+[[Love and the Emptiness of Things#A lot of fear is future-thinking based\|A lot of fear is future-thinking based]] | 5 | [[Love and the Emptiness of Things]]
 [[Using Insight to Deepen Love and Compassion#We want to understand something about what the self is and how it is in a way that brings freedom into our life\|We want to understand something about what the self is, and how it is, in a way that brings freedom into our life]] | 5 | [[Using Insight to Deepen Love and Compassion]]
 [[From Insight to Love#Fear involves unpleasant body sensations and a constriction of the mind\|Fear involves unpleasant body sensations and a constriction of the mind]] | 5 | [[From Insight to Love]]
 [[From Insight to Love#Judging of myself adds fuel to the fire of fear\|Judging of myself adds fuel to the fire of fear]] | 5 | [[From Insight to Love]]
@@ -49,14 +51,14 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Metta]] | 22 | <span class="counts">[[From Insight to Love]] (8) · [[Using Insight to Deepen Love and Compassion]] (5) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Compassion (talk)]] (1)</span> 
+[[Metta]] | 23 | <span class="counts">[[From Insight to Love]] (8) · [[Using Insight to Deepen Love and Compassion]] (5) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Compassion (talk)]] (1)</span> 
+[[Love]] | 20 | <span class="counts">[[From Insight to Love]] (8) · [[Using Insight to Deepen Love and Compassion]] (5) · [[Compassion (talk)]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
 [[Aversion]] | 19 | <span class="counts">[[From Insight to Love]] (9) · [[Using Insight to Deepen Love and Compassion]] (8) · [[Joy (talk)]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
-[[Love]] | 19 | <span class="counts">[[From Insight to Love]] (8) · [[Using Insight to Deepen Love and Compassion]] (5) · [[Compassion (talk)]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
-[[Compassion]] | 18 | <span class="counts">[[Compassion (talk)]] (5) · [[The Practice of Compassion]] (5) · [[From Insight to Love]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
-[[Anger]] | 16 | <span class="counts">[[The Practice of Compassion]] (5) · [[Compassion (talk)]] (4) · [[Exploring the World of Loving Kindness]] (2) · [[From Insight to Love]] (2)</span> 
-[[Mind]] | 16 | <span class="counts">[[From Insight to Love]] (7) · [[Using Insight to Deepen Love and Compassion]] (4) · [[Love and Emptiness]] (2) · [[Equanimity (talk)]] (1)</span> 
+[[Compassion]] | 19 | <span class="counts">[[Compassion (talk)]] (5) · [[The Practice of Compassion]] (5) · [[From Insight to Love]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Anger]] | 17 | <span class="counts">[[The Practice of Compassion]] (5) · [[Compassion (talk)]] (4) · [[Exploring the World of Loving Kindness]] (2) · [[From Insight to Love]] (2)</span> 
+[[Mind]] | 17 | <span class="counts">[[From Insight to Love]] (7) · [[Using Insight to Deepen Love and Compassion]] (4) · [[Love and Emptiness]] (2) · [[Equanimity (talk)]] (1)</span> 
 [[The Self]] | 14 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Compassion (talk)]] (2) · [[The Practice of Compassion]] (2)</span> 
-[[Buddha]] | 11 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (5) · [[From Insight to Love]] (3) · [[Love and Emptiness]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
-[[Embodiment]] | 11 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (8) · [[From Insight to Love]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Buddha]] | 12 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (5) · [[From Insight to Love]] (3) · [[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
+[[Embodiment]] | 12 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (8) · [[From Insight to Love]] (2) · [[Guided Meditation - Directing Love Towards Dharmas]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
 [[Dukkha]] | 10 | <span class="counts">[[The Practice of Compassion]] (5) · [[Compassion (talk)]] (4) · [[From Insight to Love]] (1)</span> 
 

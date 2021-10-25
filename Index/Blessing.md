@@ -6,6 +6,7 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 32 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 24 | [[2020 Vajra Music]]
 [[Perfection and Christ's Blessing]] | 5 | [[2020 Vajra Music]]
+[[Love and the Emptiness of Things]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Guided Meditation on Gratitude and Compassion]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 1 | [[2020 Vajra Music]]
@@ -36,6 +37,6 @@ term | count | talks
 [[Dyad]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
 [[Energy body]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
 [[Awareness]] | 5 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
-[[Dukkha]] | 3 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (1) · [[Perfection and Christ's Blessing]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
-[[Emotions]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Love]] | 4 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (1) · [[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1) · [[Perfection and Christ's Blessing]] (1)</span> 
+[[Metta]] | 4 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (1) · [[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
 

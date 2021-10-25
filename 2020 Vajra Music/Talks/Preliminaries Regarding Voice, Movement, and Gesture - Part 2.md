@@ -29,7 +29,7 @@ E --- E3-5[The Serpent]
 ```
 
 ## Index
-<span class="counts">_[[Embodiment]] (95) · [[Soul]] (88) · [[Image]] (62) · [[Retreat]] (34) · [[Soulmaking]] (30) · [[Energy body]] (28) · [[Circuits]] (22) · [[Daimon]] (22) · [[Imaginal]] (17) · [[Anger]] (15) · [[Experience]] (14) · [[Soulmaking Dynamic]] (14) · [[Energy]] (13) · [[Dharma]] (12) · [[Preliminaries]] (12) · [[Mind]] (10) · [[Eros]] (9) · [[Inertia]] (8) · [[Sankhara]] (7) · [[Duty]] (6) · [[Pedagogy]] (6) · [[The Self]] (6) · [[Thunderclap]] (6) · [[Meditation]] (5) · [[The Immovable Protector]] (5) · [[Ethics]] (4) · [[Goenka]] (4) · [[Grief]] (4) · [[Manifestations]] (4) · [[Music]] (4) · [[Music#Jazz]] (4) · [[The Serpent]] (4) · [[Alchemy]] (3) · [[Diamond Approach]] (3) · [[Dukkha]] (3) · [[Habit]] (3) · [[Insight]] (3) · [[Sila]] (3) · [[Sociology]] (3) · [[Awareness]] (2) · [[Beauty]] (2) · [[Borne Aloft By Angels]] (2) · [[Citta]] (2) · [[Contraction]] (2) · [[Devotion]] (2) · [[Dominant culture]] (2) · [[Hindrances]] (2) · [[Juiciness]] (2) · [[Love]] (2) · [[Mindfulness]] (2) · [[Pain]] (2) · [[Personhood]] (2) · [[Precepts]] (2) · [[Psyche]] (2) · [[The Spreading of Five Wings]] (2) · [[Vessel]] (2) · [[Voice, Movement, and the Possibilities of Soul]] (2) · [[Buddhism]] · [[Catherine McGee]] · [[Create-Discover]] · [[Dana]] · [[Dharma Seed]] · [[Dimensionality]] · [[Fantasy]] · [[Foundations of a Soulmaking Dharma]] · [[Gaia House]] · [[Impermanence]] · [[In Psyche's Orchard]] · [[Logos]] · [[Metta]] · [[Middle Way]] · [[Passion]] · [[Receptivity]] · [[Relationships]] · [[Sangha]] · [[Sila and Soul]] · [[Spirituality]] · [[The Image of Ethics]] · [[The Raging Beast]] · [[Theravada]] · [[Wonder]]_</span>
+<span class="counts">_[[Embodiment]] (95) · [[Soul]] (88) · [[Image]] (62) · [[Retreat]] (34) · [[Soulmaking]] (30) · [[Energy body]] (28) · [[Circuits]] (22) · [[Daimon]] (22) · [[Imaginal]] (17) · [[Anger]] (15) · [[Experience]] (14) · [[Soulmaking dynamic]] (14) · [[Energy]] (13) · [[Dharma]] (12) · [[Preliminaries]] (12) · [[Mind]] (10) · [[Eros]] (9) · [[Inertia]] (8) · [[Sankhara]] (7) · [[Duty]] (6) · [[Pedagogy]] (6) · [[The Self]] (6) · [[Thunderclap]] (6) · [[Meditation]] (5) · [[The Immovable Protector]] (5) · [[Ethics]] (4) · [[Goenka]] (4) · [[Grief]] (4) · [[Manifestations]] (4) · [[Music]] (4) · [[Music#Jazz]] (4) · [[The Serpent]] (4) · [[Alchemy]] (3) · [[Diamond Approach]] (3) · [[Dukkha]] (3) · [[Habit]] (3) · [[Insight]] (3) · [[Sila]] (3) · [[Sociology]] (3) · [[Awareness]] (2) · [[Beauty]] (2) · [[Borne Aloft By Angels]] (2) · [[Citta]] (2) · [[Contraction]] (2) · [[Devotion]] (2) · [[Dominant culture]] (2) · [[Hindrances]] (2) · [[Juiciness]] (2) · [[Love]] (2) · [[Mindfulness]] (2) · [[Pain]] (2) · [[Personhood]] (2) · [[Precepts]] (2) · [[Psyche]] (2) · [[The Spreading of Five Wings]] (2) · [[Vessel]] (2) · [[Voice, Movement, and the Possibilities of Soul]] (2) · [[Buddhism]] · [[Catherine McGee]] · [[Create-Discover]] · [[Dana]] · [[Dharma Seed]] · [[Dimensionality]] · [[Fantasy]] · [[Foundations of a Soulmaking Dharma]] · [[Gaia House]] · [[Impermanence]] · [[In Psyche's Orchard]] · [[Logos]] · [[Metta]] · [[Middle Way]] · [[Passion]] · [[Receptivity]] · [[Relationships]] · [[Sangha]] · [[Sila and Soul]] · [[Spirituality]] · [[The Image of Ethics]] · [[The Raging Beast]] · [[Theravada]] · [[Wonder]]_</span>
 <br/>
 
 ## Referenced talks
@@ -91,25 +91,25 @@ revisits [[Inertia]]
 
 ---
 ##### "Sila and Soul", "The Image of Ethics" 🟢
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-3|3-3]]**: _[[Sila]] (3) · [[Ethics]] (4) · [[Dharma]] (3) · [[Precepts]] (2) · [[Theravada]] · [[Buddhism]] · [[Sila and Soul]] · [[The Image of Ethics]] · [[Soulmaking Dynamic]] · [[Imaginal]] · [[Soul]] (2) · [[Dimensionality]] · [[Beauty]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-3|3-3]]**: _[[Sila]] (3) · [[Ethics]] (4) · [[Dharma]] (3) · [[Precepts]] (2) · [[Theravada]] · [[Buddhism]] · [[Sila and Soul]] · [[The Image of Ethics]] · [[Soulmaking dynamic]] · [[Imaginal]] · [[Soul]] (2) · [[Dimensionality]] · [[Beauty]]_</span>
 
 ---
 ##### Why "preliminaries"? Because it expands soulmaking
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-4|3-4]]**: _[[Soul]] · [[Dana]] · [[Mindfulness]] · [[Preliminaries]] (3) · [[Soulmaking Dynamic]] (2) · [[Experience]] (2) · [[Insight]] · [[Vessel]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-4|3-4]]**: _[[Soul]] · [[Dana]] · [[Mindfulness]] · [[Preliminaries]] (3) · [[Soulmaking dynamic]] (2) · [[Experience]] (2) · [[Insight]] · [[Vessel]]_</span>
 
 ---
 ##### If we like practicing soulmaking the soulmaking dynamic will expand
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^4-1|4-1]]**: _[[Soulmaking]] · [[Soulmaking Dynamic]] (2) · [[Vessel]] · [[Embodiment]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^4-1|4-1]]**: _[[Soulmaking]] · [[Soulmaking dynamic]] (2) · [[Vessel]] · [[Embodiment]]_</span>
 
 ![[20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=15:46]]
 
 ---
 ##### There can be blocks which are too entrenched
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^4-2|4-2]]**: _[[Embodiment]] (2) · [[Soulmaking Dynamic]] (5) · [[Eros]] (3) · [[Psyche]] · [[Logos]] · [[Soul]]_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^4-2|4-2]]**: _[[Embodiment]] (2) · [[Soulmaking dynamic]] (5) · [[Eros]] (3) · [[Psyche]] · [[Logos]] · [[Soul]]_</span>
 
 ---
 ##### Those areas remain out of reach
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^4-3|4-3]]**: _[[Soulmaking Dynamic]] (2) · [[Create-Discover]] · [[Soul]] (2)_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^4-3|4-3]]**: _[[Soulmaking dynamic]] (2) · [[Create-Discover]] · [[Soul]] (2)_</span>
 
 ---
 ##### What does it mean for movement/gesture/voice to be ensouled?
@@ -358,7 +358,7 @@ see [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^assessment-
 
 ---
 ##### Circuits aren't connected, and it limits what arises imaginally
-<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^10-6|10-6]]**: _[[Embodiment]] · [[Mind]] · [[Energy]] · [[Soul]] · [[Circuits]] (5) · [[Image]] (7) · [[Soulmaking]] (2) · [[Imaginal]] · [[Soulmaking Dynamic]] (2)_</span>
+<span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^10-6|10-6]]**: _[[Embodiment]] · [[Mind]] · [[Energy]] · [[Soul]] · [[Circuits]] (5) · [[Image]] (7) · [[Soulmaking]] (2) · [[Imaginal]] · [[Soulmaking dynamic]] (2)_</span>
 
 ---
 ##### This affects the whole psyche, heart, relation to others

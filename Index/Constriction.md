@@ -7,6 +7,7 @@ talk | count | series
 [[From Insight to Love]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Orienting to This Jhana Retreat]] | 3 | [[2019 Practising the Jhanas]]
 [[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
+[[Love and the Emptiness of Things]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
@@ -16,8 +17,8 @@ description | count | talk
 [[Orienting to This Jhana Retreat#Don't try to use this retreat to fix tings but rather go with whatever practice is the easiest for the well-being to arise\|Don't try to use this retreat to fix tings, but rather go with whatever practice is the easiest for the well-being to arise]] | 3 | [[Orienting to This Jhana Retreat]]
 [[From Insight to Love#Fear involves unpleasant body sensations and a constriction of the mind\|Fear involves unpleasant body sensations and a constriction of the mind]] | 2 | [[From Insight to Love]]
 [[The Way of Non-Clinging Part 3#Who would even want to live without clinging\|Who would even want to live without clinging?]] | 1 | [[The Way of Non-Clinging Part 3]]
-[[The Way of Non-Clinging Part 3#Constraints on the kinds of desire or fantasies that are allowed\|Constraints on the kinds of desire or fantasies that are allowed]] | 1 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 2#If I know it's illusionary then there is more room to play with\|If I know it's illusionary, then there is more room to play with]] | 1 | [[The Way of Non-Clinging Part 2]]
+[[Love and the Emptiness of Things#This practice softens the boundaries of the self\|This practice softens the boundaries of the self]] | 1 | [[Love and the Emptiness of Things]]
 [[The Practice of Compassion#It's an ennobling quality\|It's an ennobling quality]] | 1 | [[The Practice of Compassion]]
 [[From Insight to Love#Constrictions block our capacity to love\|Constrictions block our capacity to love]] | 1 | [[From Insight to Love]]
 [[From Insight to Love#"I can accomodate this"\|"I can accomodate this"]] | 1 | [[From Insight to Love]]
@@ -27,13 +28,13 @@ description | count | talk
 term | count | talks
 -|-|-
 [[Clinging]] | 4 | <span class="counts">[[From Insight to Love]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Love]] | 4 | <span class="counts">[[From Insight to Love]] (2) · [[Love and the Emptiness of Things]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Aversion]] | 3 | <span class="counts">[[From Insight to Love]] (3)</span> 
-[[Love]] | 3 | <span class="counts">[[From Insight to Love]] (2) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Compassion]] | 3 | <span class="counts">[[From Insight to Love]] (1) · [[Love and the Emptiness of Things]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Insight]] | 3 | <span class="counts">[[From Insight to Love]] (2) · [[Love and the Emptiness of Things]] (1)</span> 
+[[Metta]] | 3 | <span class="counts">[[From Insight to Love]] (1) · [[Love and the Emptiness of Things]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
 [[Activism]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 3]] (2)</span> 
-[[Compassion]] | 2 | <span class="counts">[[From Insight to Love]] (1) · [[The Practice of Compassion]] (1)</span> 
 [[Craving]] | 2 | <span class="counts">[[From Insight to Love]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Dharma]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 2]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Embodiment]] | 2 | <span class="counts">[[From Insight to Love]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
-[[Fear]] | 2 | <span class="counts">[[From Insight to Love]] (2)</span> 
-[[Insight]] | 2 | <span class="counts">[[From Insight to Love]] (2)</span> 
 

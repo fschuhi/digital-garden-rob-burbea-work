@@ -9,10 +9,10 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 2 | [[2020 Vajra Music]]
 [[Dilemmas and Delineations - How did we get here Part 2]] | 2 | [[2017 Eros Unfettered]]
 [[Questioning Awakening]] | 2 | [[2014 November Solitary - Questioning Awakening]]
+[[The Birth of a Bodhisattva]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Guided Meditation on Gratitude and Compassion]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Expressions of Metta]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -38,7 +38,7 @@ term | count | talks
 [[Pain]] | 4 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (2) · [[Equanimity in Compassion]] (1) · [[The Practice of Compassion]] (1)</span> 
 [[Awareness]] | 3 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1) · [[The Practice of Compassion]] (1)</span> 
 [[Experience]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1) · [[Questioning Awakening]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Love]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
 [[Music]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
 [[Soulmaking]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
-[[The Self]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1) · [[The Practice of Compassion]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
 

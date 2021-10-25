@@ -16,7 +16,7 @@ _This talk presents a map and overview of the path of Insight Meditation, explor
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3]]
 
 ## Index
-<span class="counts">_[[Insight]] (90) · [[Dukkha]] (55) · [[Impermanence]] (30) · [[Experience]] (29) · [[Letting go]] (24) · [[Mindfulness]] (22) · [[Dharma]] (17) · [[Ways of looking]] (17) · [[Buddha]] (16) · [[Aversion]] (12) · [[Consciousness]] (11) · [[Freedom]] (11) · [[Ultimate Truth]] (11) · [[Embodiment]] (10) · [[Mind]] (10) · [[Stories]] (10) · [[Craving]] (9) · [[Emptiness]] (9) · [[Habit]] (9) · [[Happiness]] (8) · [[Love]] (8) · [[Anatta]] (6) · [[Conventional reality]] (6) · [[Generosity]] (6) · [[Metta]] (6) · [[Attention]] (5) · [[Emotions]] (5) · [[Meditation]] (5) · [[Pain]] (5) · [[Papanca]] (5) · [[Phenomenon]] (5) · [[Samadhi]] (5) · [[Beauty]] (4) · [[Clinging]] (4) · [[Ethics]] (4) · [[Personality types]] (4) · [[Relationships]] (4) · [[Retreat]] (4) · [[Steadiness]] (4) · [[Avijja]] (3) · [[Conceptual framework]] (3) · [[Cultivation]] (3) · [[Perception]] (3) · [[Three characteristics]] (3) · [[Awakening]] (2) · [[Awareness]] (2) · [[Breath]] (2) · [[Commentaries]] (2) · [[Death]] (2) · [[Dependent Origination]] (2) · [[Devotion]] (2) · [[Emptiness#Suchness]] (2) · [[Feelings]] (2) · [[Four Noble Truths]] (2) · [[Healing]] (2) · [[Kaccayana]] (2) · [[Nihilism]] (2) · [[Personhood]] (2) · [[Skandhas]] (2) · [[Spiritual circles]] (2) · [[Unfabricated]] (2) · [[Compassion]] · [[Fabrication]] · [[Fantasy]] · [[Ignorance]] · [[Nature]] · [[Pleasantness]] · [[Present moment]] · [[Psychological maturity]] · [[Samsara]] · [[Satipatthana Sutta]]_</span>
+<span class="counts">_[[Insight]] (90) · [[Dukkha]] (55) · [[Impermanence]] (30) · [[Experience]] (29) · [[Letting go]] (24) · [[Mindfulness]] (22) · [[Dharma]] (17) · [[Ways of looking]] (17) · [[Buddha]] (16) · [[Aversion]] (12) · [[Consciousness]] (11) · [[Freedom]] (11) · [[Ultimate truth]] (11) · [[Embodiment]] (10) · [[Mind]] (10) · [[Stories]] (10) · [[Craving]] (9) · [[Emptiness]] (9) · [[Habit]] (9) · [[Happiness]] (8) · [[Love]] (8) · [[Anatta]] (6) · [[Conventional reality]] (6) · [[Generosity]] (6) · [[Metta]] (6) · [[Attention]] (5) · [[Emotions]] (5) · [[Meditation]] (5) · [[Pain]] (5) · [[Papanca]] (5) · [[Phenomenon]] (5) · [[Samadhi]] (5) · [[Beauty]] (4) · [[Clinging]] (4) · [[Ethics]] (4) · [[Personality types]] (4) · [[Relationships]] (4) · [[Retreat]] (4) · [[Steadiness]] (4) · [[Avijja]] (3) · [[Conceptual framework]] (3) · [[Cultivation]] (3) · [[Perception]] (3) · [[Three characteristics]] (3) · [[Awakening]] (2) · [[Awareness]] (2) · [[Breath]] (2) · [[Commentaries]] (2) · [[Death]] (2) · [[Dependent Origination]] (2) · [[Devotion]] (2) · [[Emptiness#Suchness]] (2) · [[Feelings]] (2) · [[Four Noble Truths]] (2) · [[Healing]] (2) · [[Kaccayana]] (2) · [[Nihilism]] (2) · [[Personhood]] (2) · [[Skandhas]] (2) · [[Spiritual circles]] (2) · [[Unfabricated]] (2) · [[Compassion]] · [[Fabrication]] · [[Fantasy]] · [[Ignorance]] · [[Nature]] · [[Pleasantness]] · [[Present moment]] · [[Psychological maturity]] · [[Samsara]] · [[Satipatthana Sutta]]_</span>
 <br/>
 
 ## Paragraphs
@@ -126,7 +126,7 @@ Any story we have of ourselves can never, even if it's very beautiful, even if i
 ---
 #### (2) Universal insights
 ##### Universal insights pertain to all beings and all things
-<span class="counts">**[[1229 What is Insight#^3-6|3-6]]**: _[[Ultimate Truth]] · [[Habit]] · [[Impermanence]]_</span>
+<span class="counts">**[[1229 What is Insight#^3-6|3-6]]**: _[[Ultimate truth]] · [[Habit]] · [[Impermanence]]_</span>
 
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=13:35]]
 
@@ -139,7 +139,7 @@ So most obvious example would be impermanence. It's just true for everyone and a
 
 ---
 ##### Personal and universal truths help us to respond well to conventional reality
-<span class="counts">**[[1229 What is Insight#^4-1|4-1]]**: _[[Ultimate Truth]] (5) · [[Insight]] (4) · [[Embodiment]] (4) · [[Feelings]] · [[Mind]] (2) · [[Relationships]] (3) · [[Conventional reality]] (2)_</span>
+<span class="counts">**[[1229 What is Insight#^4-1|4-1]]**: _[[Ultimate truth]] (5) · [[Insight]] (4) · [[Embodiment]] (4) · [[Feelings]] · [[Mind]] (2) · [[Relationships]] (3) · [[Conventional reality]] (2)_</span>
 
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=14:04]]
 
@@ -150,20 +150,20 @@ add more "world of" index entries
 ---
 #### (3) Ultimate truth
 ##### Ultimate truth is beyond words, transcends any of the other
-<span class="counts">**[[1229 What is Insight#^4-2|4-2]]**: _[[Ultimate Truth]] · [[Buddha]] · [[Awakening]] · [[Insight]]_</span>
+<span class="counts">**[[1229 What is Insight#^4-2|4-2]]**: _[[Ultimate truth]] · [[Buddha]] · [[Awakening]] · [[Insight]]_</span>
 
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=15:45]]
 
 ---
 ##### Do we give equal attention to the conventional and the ultimate?
-<span class="counts">**[[1229 What is Insight#^4-3|4-3]]**: _[[Attention]] (2) · [[Conventional reality]] (4) · [[Ultimate Truth]] (2) · [[Spiritual circles]] (2) · [[Habit]] · [[Relationships]] · [[Embodiment]] · [[Feelings]] · [[Healing]]_</span>
+<span class="counts">**[[1229 What is Insight#^4-3|4-3]]**: _[[Attention]] (2) · [[Conventional reality]] (4) · [[Ultimate truth]] (2) · [[Spiritual circles]] (2) · [[Habit]] · [[Relationships]] · [[Embodiment]] · [[Feelings]] · [[Healing]]_</span>
 
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=16:10]]
 
 ---
 #### More on universal insights
 ##### Another universal insight: it's a good idea to practice
-<span class="counts">**[[1229 What is Insight#^4-4|4-4]]**: _[[Ultimate Truth]] · [[Insight]] (3) · [[Dukkha]]_</span>
+<span class="counts">**[[1229 What is Insight#^4-4|4-4]]**: _[[Ultimate truth]] · [[Insight]] (3) · [[Dukkha]]_</span>
 
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=17:31]]
 
@@ -179,7 +179,7 @@ This is an insight, to really care what I put out into the world, the vibrations
 
 ---
 ##### What qualities do I need to cultivate that actually lead to a lessening of suffering
-<span class="counts">**[[1229 What is Insight#^5-1|5-1]]**: _[[Ethics]] (2) · [[Generosity]] (2) · [[Metta]] · [[Insight]] (3) · [[Happiness]] · [[Pleasantness]] · [[Cultivation]] · [[Dukkha]] · [[Ultimate Truth]]_</span>
+<span class="counts">**[[1229 What is Insight#^5-1|5-1]]**: _[[Ethics]] (2) · [[Generosity]] (2) · [[Metta]] · [[Insight]] (3) · [[Happiness]] · [[Pleasantness]] · [[Cultivation]] · [[Dukkha]] · [[Ultimate truth]]_</span>
 
 ![[20071229-Rob_Burbea-GAIA-what_is_insight-11972.mp3#t=19:12]]
 

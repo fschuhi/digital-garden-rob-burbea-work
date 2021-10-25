@@ -20,7 +20,7 @@ Interesting footnote, added to the [[0120 Dilemmas and Delineations - How did we
 <br/>
 
 ## Index
-<span class="counts">_[[Image]] (55) · [[Ways of looking]] (51) · [[Soul]] (48) · [[Imaginal]] (46) · [[Divinity]] (42) · [[Perception]] (35) · [[Experience]] (27) · [[Logos]] (26) · [[Cosmology]] (24) · [[Eros]] (20) · [[Fabrication]] (20) · [[Emptiness]] (18) · [[Insight]] (17) · [[Soulmaking]] (17) · [[The Self]] (14) · [[Conceptual framework]] (13) · [[Desire]] (13) · [[Love]] (13) · [[Awareness]] (12) · [[Dukkha]] (12) · [[Buddha-nature]] (11) · [[Mind]] (11) · [[Phenomenology]] (11) · [[Psyche]] (11) · [[Dimensionality]] (10) · [[Energy body]] (10) · [[Craving]] (9) · [[Embodiment]] (9) · [[Meditation]] (9) · [[Retreat]] (9) · [[Beauty]] (8) · [[Fantasy]] (8) · [[Clinging]] (7) · [[Citta]] (6) · [[Dharma]] (6) · [[Soulmaking Dynamic]] (6) · [[Buddha]] (5) · [[Ignorance]] (5) · [[Phenomenon]] (5) · [[Relationships]] (5) · [[Unfathomability]] (5) · [[Dependent Origination]] (4) · [[Dharmakaya]] (4) · [[Freedom]] (4) · [[Meaningfulness]] (4) · [[Personhood]] (4) · [[Attention]] (3) · [[Buddhism]] (3) · [[Contraction]] (3) · [[Energy]] (3) · [[History]] (3) · [[Impermanence]] (3) · [[Metaphysics]] (3) · [[Mindfulness]] (3) · [[Unfabricated]] (3) · [[Awakening]] (2) · [[Carl Gustav Jung]] (2) · [[Dominant culture]] (2) · [[Gestalt psychology]] (2) · [[Mahayana]] (2) · [[Sigmund Freud]] (2) · [[Telos]] (2) · [[Anatta]] · [[Archetype]] · [[Centre]] · [[Chanda]] · [[Consciousness]] · [[Four Noble Truths]] · [[James Hillman]] · [[Jesus]] · [[Metta]] · [[Neuroscience]] · [[Pleasantness]] · [[Re-enchanting the Cosmos]] · [[Ronald Fairbairn]] · [[Shentong]] · [[Stories]] · [[Tibetan Buddhism]] · [[Vajrayana]] · [[Vedana]] · [[William James]]_</span>
+<span class="counts">_[[Image]] (55) · [[Ways of looking]] (51) · [[Soul]] (48) · [[Imaginal]] (46) · [[Divinity]] (42) · [[Perception]] (35) · [[Experience]] (27) · [[Logos]] (26) · [[Cosmology]] (24) · [[Eros]] (20) · [[Fabrication]] (20) · [[Emptiness]] (18) · [[Insight]] (17) · [[Soulmaking]] (17) · [[The Self]] (14) · [[Conceptual framework]] (13) · [[Desire]] (13) · [[Love]] (13) · [[Awareness]] (12) · [[Dukkha]] (12) · [[Buddha-nature]] (11) · [[Mind]] (11) · [[Phenomenology]] (11) · [[Psyche]] (11) · [[Dimensionality]] (10) · [[Energy body]] (10) · [[Craving]] (9) · [[Embodiment]] (9) · [[Meditation]] (9) · [[Retreat]] (9) · [[Beauty]] (8) · [[Fantasy]] (8) · [[Clinging]] (7) · [[Citta]] (6) · [[Dharma]] (6) · [[Soulmaking dynamic]] (6) · [[Buddha]] (5) · [[Ignorance]] (5) · [[Phenomenon]] (5) · [[Relationships]] (5) · [[Unfathomability]] (5) · [[Dependent Origination]] (4) · [[Dharmakaya]] (4) · [[Freedom]] (4) · [[Meaningfulness]] (4) · [[Personhood]] (4) · [[Attention]] (3) · [[Buddhism]] (3) · [[Contraction]] (3) · [[Energy]] (3) · [[History]] (3) · [[Impermanence]] (3) · [[Metaphysics]] (3) · [[Mindfulness]] (3) · [[Unfabricated]] (3) · [[Awakening]] (2) · [[Carl Gustav Jung]] (2) · [[Dominant culture]] (2) · [[Gestalt psychology]] (2) · [[Mahayana]] (2) · [[Sigmund Freud]] (2) · [[Telos]] (2) · [[Anatta]] · [[Archetype]] · [[Centre]] · [[Chanda]] · [[Consciousness]] · [[Four Noble Truths]] · [[James Hillman]] · [[Jesus]] · [[Metta]] · [[Neuroscience]] · [[Pleasantness]] · [[Re-enchanting the Cosmos]] · [[Ronald Fairbairn]] · [[Shentong]] · [[Stories]] · [[Tibetan Buddhism]] · [[Vajrayana]] · [[Vedana]] · [[William James]]_</span>
 <br/>
 
 ## Paragraphs
@@ -416,7 +416,7 @@ But when I talk about logos, because it's wrapped up in perception, I'm not talk
 
 ---
 ##### (16) Eros-psyche-logos, or soulmaking dynamic
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^11-4|11-4]]**: _[[Soulmaking Dynamic]] (2) · [[Retreat]] · [[Eros]] · [[Experience]] · [[Psyche]] · [[Imaginal]] · [[Dimensionality]] (3) · [[Personhood]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^11-4|11-4]]**: _[[Soulmaking dynamic]] (2) · [[Retreat]] · [[Eros]] · [[Experience]] · [[Psyche]] · [[Imaginal]] · [[Dimensionality]] (3) · [[Personhood]]_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=58:47]]
 
@@ -426,7 +426,7 @@ more dimensionality is created and discovered in that object
 
 ---
 ##### Mutual fertilization of erso, psyche, logos
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^12-1|12-1]]**: _[[Psyche]] (3) · [[Image]] · [[Logos]] (2) · [[Personhood]] · [[Soul]] · [[Eros]] (2) · [[Dimensionality]] · [[Soulmaking Dynamic]] (3) · [[Insight]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^12-1|12-1]]**: _[[Psyche]] (3) · [[Image]] · [[Logos]] (2) · [[Personhood]] · [[Soul]] · [[Eros]] (2) · [[Dimensionality]] · [[Soulmaking dynamic]] (3) · [[Insight]]_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=01:00:20]]
 
@@ -436,7 +436,7 @@ And so there's a kind of self-feeding, self-generating, ongoing fertilization, m
 
 ---
 ##### (17) Cosmopoesis
-<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^12-2|12-2]]**: _[[Cosmology]] (2) · [[Imaginal]] (3) · [[Mindfulness]] · [[Perception]] (2) · [[Image]] (2) · [[Divinity]] · [[Soulmaking Dynamic]]_</span>
+<span class="counts">**[[0120 Dilemmas and Delineations - How did we get here Part 3#^12-2|12-2]]**: _[[Cosmology]] (2) · [[Imaginal]] (3) · [[Mindfulness]] · [[Perception]] (2) · [[Image]] (2) · [[Divinity]] · [[Soulmaking dynamic]]_</span>
 
 ![[20170120-Rob_Burbea-GAIA-dilemmas_and_delineations_how_did_we_get_em_here_em_part_3-40165.mp3#t=01:01:49]]
 

@@ -14,7 +14,7 @@ Transcript PDF: [[2017_0116 The Way of Non-Clinging Part 2.pdf]]
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3]]
 
 ## Index
-<span class="counts">_[[Clinging]] (137) · [[Fabrication]] (96) · [[Ways of looking]] (73) · [[Craving]] (57) · [[Perception]] (46) · [[Emptiness]] (41) · [[Experience]] (32) · [[The Self]] (29) · [[Dukkha]] (27) · [[Insight]] (25) · [[Letting go]] (23) · [[Mind]] (23) · [[Anatta]] (20) · [[Impermanence]] (20) · [[Attention]] (18) · [[Buddha]] (18) · [[Dependent Origination]] (16) · [[Ignorance]] (16) · [[Unfabricated]] (15) · [[Consciousness]] (13) · [[Awareness]] (12) · [[Dharma]] (11) · [[Meditation]] (11) · [[Mahayana]] (8) · [[Papanca]] (8) · [[Avijja]] (7) · [[Devotion]] (7) · [[Mindfulness]] (7) · [[Vedana]] (7) · [[Contraction]] (6) · [[Awakening]] (5) · [[Beauty]] (5) · [[Freedom]] (5) · [[Steadiness]] (5) · [[Jhanas]] (4) · [[Delineations]] (3) · [[Embodiment]] (3) · [[Emptiness#Suchness]] (3) · [[Energy body]] (3) · [[Present moment]] (3) · [[Sankhara]] (3) · [[Aversion]] (2) · [[Buddhism]] (2) · [[Death]] (2) · [[Energy]] (2) · [[Four Noble Truths]] (2) · [[Nagarjuna]] (2) · [[Pain]] (2) · [[Personhood]] (2) · [[Realism]] (2) · [[Reductionism]] (2) · [[Sila]] (2) · [[Tantra]] (2) · [[Ultimate Truth]] (2) · [[Ajahn Dhammadharo]] · [[Chandrakirti]] · [[Compassion]] · [[Conceptual framework]] · [[Constriction]] · [[Goenka]] · [[History]] · [[Image]] · [[Juiciness]] · [[Kusala]] · [[Mahasi Sayadaw]] · [[Mystical opening]] · [[Nature]] · [[Oneness]] · [[Passion]] · [[Phenomenon]] · [[Retreat]] · [[Sangha]] · [[Spaciousness]] · [[Theravada]] · [[Vajrayana]]_</span>
+<span class="counts">_[[Clinging]] (137) · [[Fabrication]] (96) · [[Ways of looking]] (73) · [[Craving]] (57) · [[Perception]] (46) · [[Emptiness]] (41) · [[Experience]] (32) · [[The Self]] (29) · [[Dukkha]] (27) · [[Insight]] (25) · [[Letting go]] (23) · [[Mind]] (23) · [[Anatta]] (20) · [[Impermanence]] (20) · [[Attention]] (18) · [[Buddha]] (18) · [[Dependent Origination]] (16) · [[Ignorance]] (16) · [[Unfabricated]] (16) · [[Consciousness]] (13) · [[Awareness]] (12) · [[Dharma]] (11) · [[Meditation]] (11) · [[Mahayana]] (8) · [[Papanca]] (8) · [[Avijja]] (7) · [[Devotion]] (7) · [[Mindfulness]] (7) · [[Vedana]] (7) · [[Contraction]] (6) · [[Awakening]] (5) · [[Beauty]] (5) · [[Freedom]] (5) · [[Steadiness]] (5) · [[Jhanas]] (4) · [[Delineations]] (3) · [[Embodiment]] (3) · [[Emptiness#Suchness]] (3) · [[Energy body]] (3) · [[Present moment]] (3) · [[Sankhara]] (3) · [[Aversion]] (2) · [[Buddhism]] (2) · [[Death]] (2) · [[Energy]] (2) · [[Four Noble Truths]] (2) · [[Nagarjuna]] (2) · [[Pain]] (2) · [[Personhood]] (2) · [[Realism]] (2) · [[Reductionism]] (2) · [[Sila]] (2) · [[Tantra]] (2) · [[Ultimate truth]] (2) · [[Ajahn Dhammadharo]] · [[Chandrakirti]] · [[Compassion]] · [[Conceptual framework]] · [[Constriction]] · [[Goenka]] · [[History]] · [[Image]] · [[Juiciness]] · [[Kusala]] · [[Mahasi Sayadaw]] · [[Mystical opening]] · [[Nature]] · [[Oneness]] · [[Passion]] · [[Phenomenon]] · [[Retreat]] · [[Sangha]] · [[Spaciousness]] · [[Theravada]] · [[Vajrayana]]_</span>
 <br/>
 
 ## Paragraphs
@@ -248,13 +248,13 @@ language is difficult, but eventually there can be a complete unfabricating. Not
 
 ---
 ##### Does Mahasi-style meditation on impermance disclose reality?
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^7-2|7-2]]**: _[[Ways of looking]] (8) · [[Fabrication]] (3) · [[Perception]] (2) · [[Mind]] · [[Clinging]] (2) · [[Impermanence]] (3) · [[Mahasi Sayadaw]] · [[Goenka]] · [[Ultimate Truth]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^7-2|7-2]]**: _[[Ways of looking]] (8) · [[Fabrication]] (3) · [[Perception]] (2) · [[Mind]] · [[Clinging]] (2) · [[Impermanence]] (3) · [[Mahasi Sayadaw]] · [[Goenka]] · [[Ultimate truth]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=30:50]]
 
 ---
 ##### Bare sensations etc. is not ultimate reality
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^7-3|7-3]]**: _[[Fabrication]] (12) · [[Ways of looking]] (3) · [[Mindfulness]] · [[Papanca]] (2) · [[Experience]] · [[Pain]] · [[Mind]] · [[Ultimate Truth]] · [[Awareness]] · [[Impermanence]] · [[Attention]] · [[Perception]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^7-3|7-3]]**: _[[Fabrication]] (12) · [[Ways of looking]] (3) · [[Mindfulness]] · [[Papanca]] (2) · [[Experience]] · [[Pain]] · [[Mind]] · [[Ultimate truth]] · [[Awareness]] · [[Impermanence]] · [[Attention]] · [[Perception]]_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=32:23]]
 
@@ -334,7 +334,7 @@ I can't live without clinging, because clinging is a part of perceiving/experien
 
 ---
 ##### If I really let go of everything, self, world, time do not appear
-<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^10-2|10-2]]**: _[[Letting go]] · [[The Self]] · [[History]] · [[Buddhism]] · [[Awakening]] (3) · [[Buddha]] (2) · [[Ignorance]] (2) · [[Craving]] (2) · [[Perception]] (5) · [[Dependent Origination]] · [[Experience]] · [[Meditation]] (2) · [[Death]] · [[Unfabricated]]_</span>
+<span class="counts">**[[0116 The Way of Non-Clinging Part 2#^10-2|10-2]]**: _[[Letting go]] · [[The Self]] · [[History]] · [[Buddhism]] · [[Awakening]] (3) · [[Buddha]] (2) · [[Ignorance]] (2) · [[Craving]] (2) · [[Perception]] (5) · [[Dependent Origination]] · [[Experience]] · [[Meditation]] (2) · [[Death]] · [[Unfabricated]] (2)_</span>
 
 ![[20170116-Rob_Burbea-GAIA-the_way_of_non_clinging_part_2-40191.mp3#t=47:00]]
 

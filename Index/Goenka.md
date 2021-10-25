@@ -25,5 +25,5 @@ term | count | talks
 [[Mind]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 2]] (1)</span> 
 [[Pain]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 [[Perception]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 2]] (1)</span> 
-[[Ultimate Truth]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 2]] (1)</span> 
+[[Ultimate truth]] | 1 | <span class="counts">[[The Way of Non-Clinging Part 2]] (1)</span> 
 
