@@ -26,7 +26,7 @@ description | count | talk
 [[Exploring the World of Loving Kindness#We are not obliged to open ourselves to someone's energy of anger\|We are not obliged to open ourselves to someone's energy of anger]] | 3 | [[Exploring the World of Loving Kindness]]
 [[The Place of Samadhi in Metta Practice#Metta practice replaces the unskilful thought with skilful thought\|Metta practice replaces the unskilful thought with skilful thought]] | 3 | [[The Place of Samadhi in Metta Practice]]
 [[The Place of Samadhi in Metta Practice#It's an energy that one can ride and navigate\|It's an energy that one can ride and navigate]] | 3 | [[The Place of Samadhi in Metta Practice]]
-[[From Insight to Love#Over time the groove of metta will be more established than the groove of measuring comparing juding\|Over time, the groove of metta will be more established than the groove of measuring, comparing, juding]] | 3 | [[From Insight to Love]]
+[[From Insight to Love#Over time the groove of metta will be more established than the groove of measuring comparing judging\|Over time, the groove of metta will be more established than the groove of measuring, comparing, judging]] | 3 | [[From Insight to Love]]
 
 ### Terms with 20+ co-occurrences
 term | count | talks

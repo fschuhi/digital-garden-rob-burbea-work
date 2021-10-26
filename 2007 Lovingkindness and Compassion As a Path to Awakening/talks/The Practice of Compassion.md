@@ -487,7 +487,7 @@ But the space is quite important. Just a space radiating compassion. Sometimes i
 TODO: think about stretching, stretching the heart (index entry?)
 
 ---
-##### Yogi: Is it ok to exclude Georbe Bush? 😀
+##### Yogi: Is it ok to exclude George Bush? 😀
 <span class="counts">[[0201 The Practice of Compassion#^19-1|19-1]]</span>
 
 ---

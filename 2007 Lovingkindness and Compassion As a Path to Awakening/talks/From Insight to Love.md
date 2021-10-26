@@ -264,7 +264,7 @@ TODO: "the dukkha angle into anatta" => the 2 characteristics impermanence and a
 <span class="counts">**[[0127 From Insight to Love#^10-5|10-5]]**: _[[Jhanas]] · [[Hindrances]] · [[Awakening]] · [[The Self]] (2) · [[Energy]] · [[Nondualism]] · [[Ignorance]]_</span>
 
 ---
-##### Over time, the groove of metta will be more established than the groove of measuring, comparing, juding
+##### Over time, the groove of metta will be more established than the groove of measuring, comparing, judging
 <span class="counts">**[[0127 From Insight to Love#^11-1|11-1]]**: _[[Metta]] (7) · [[Mind]] (2) · [[Ways of looking]] · [[Kusala]] (2) · [[Acceptance]] · [[Energy]] (3) · [[Compassion]]_</span>
 
 ---

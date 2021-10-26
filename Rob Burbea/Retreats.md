@@ -3,9 +3,9 @@ obsidianUIMode: preview
 ---
 # The Garden of the Soul: Rob Burbea's Teachings
 ```ad-quote
-If the _samādhi_ feels strong enough or there's a sense of settledness in the mind and the heart with the compassion, it can be almost, at times, as if the body has _turned into_ compassion. And you just let yourself _be_ compassion, and just radiate that out. Let everything become compassion.
+So what we notice is, if we change the view, the perception changes. The irritability goes from the situation. How we see the situation and how we see a person depends on what the mind is bringing to it - mettā, compassion, irritability, what I want, whatever it is. And the mind's always bringing something.
 
-_(a quote from the talk [[Guided Meditation on Gratitude and Compassion#Compassion according to categories of being or directions or just the sense of the body radiating compassion|Guided Meditation on Gratitude and Compassion]])_
+_(a quote from the talk [[Love and Emptiness#Changing the perception can make the irritability go away from the situation|Love and Emptiness]])_
 ```
 
 ```ad-danger

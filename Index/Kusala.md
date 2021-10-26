@@ -23,7 +23,7 @@ description | count | talk
 [[Love and the Emptiness of Things#The Buddha didn't teach insight meditation but well-being and investigation\|The Buddha didn't teach insight meditation, but well-being and investigation]] | 2 | [[Love and the Emptiness of Things]]
 [[Love and Emptiness#We are cultivating qualities of mind and heart but there's no self in it\|We are cultivating qualities of mind and heart, but there's no self in it]] | 2 | [[Love and Emptiness]]
 [[Love and Emptiness#The practice is not about being in the present moment but rather feeding what's beautiful and investigation\|The practice is not about being in the present moment, but rather feeding what's beautiful and investigation]] | 2 | [[Love and Emptiness]]
-[[From Insight to Love#Over time the groove of metta will be more established than the groove of measuring comparing juding\|Over time, the groove of metta will be more established than the groove of measuring, comparing, juding]] | 2 | [[From Insight to Love]]
+[[From Insight to Love#Over time the groove of metta will be more established than the groove of measuring comparing judging\|Over time, the groove of metta will be more established than the groove of measuring, comparing, judging]] | 2 | [[From Insight to Love]]
 
 ### Terms with 20+ co-occurrences
 term | count | talks

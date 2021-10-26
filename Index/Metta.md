@@ -22,7 +22,7 @@ description | count | talk
 [[Exploring the World of Loving Kindness#We need to discriminate between metta and compassion\|We need to discriminate between metta and compassion]] | 7 | [[Exploring the World of Loving Kindness]]
 [[Guided meditation - Metta to phenomena#Nothing is excluded\|Nothing is excluded]] | 7 | [[Guided meditation - Metta to phenomena]]
 [[Love and Emptiness#But the mind is coloroud with anger metta romantic love\|But the mind is coloroud with anger, metta, romantic love]] | 7 | [[Love and Emptiness]]
-[[From Insight to Love#Over time the groove of metta will be more established than the groove of measuring comparing juding\|Over time, the groove of metta will be more established than the groove of measuring, comparing, juding]] | 7 | [[From Insight to Love]]
+[[From Insight to Love#Over time the groove of metta will be more established than the groove of measuring comparing judging\|Over time, the groove of metta will be more established than the groove of measuring, comparing, judging]] | 7 | [[From Insight to Love]]
 [[Equanimity (talk)#A heart of metta is a happy heart\|A heart of metta is a happy heart]] | 7 | [[Equanimity (talk)]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Also add metta in an adhoc fassion to counteract self-consciousness\|Also add metta in an adhoc fassion to counteract self-consciousness]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Using Insight to Deepen Love and Compassion#a Remembering death and the unpredicatibility of life\|a) Remembering death and the unpredicatibility of life]] | 6 | [[Using Insight to Deepen Love and Compassion]]
