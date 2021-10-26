@@ -15,7 +15,7 @@ talk | count | series
 :- | - |: -
 [[Equanimity in Compassion]] | 74 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 38 | [[2006 New Year's Retreat]]
-[[The Birth of a Bodhisattva]] | 32 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Birth of a Bodhisattva]] | 33 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and the Emptiness of Things]] | 14 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Joy (talk)]] | 8 | [[2007 New Years Retreat Insight Meditation]]
 [[The Practice of Compassion]] | 8 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]

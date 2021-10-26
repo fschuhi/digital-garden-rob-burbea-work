@@ -547,3 +547,7 @@ It's all empty. At one level, nothing happened. At another level, I'm right ther
 ```
 
 ---
+#####  I was going to say a little more about equanimity in terms of _all_ conditions, but I'll stop there
+<span class="counts">**[[0212 The Birth of a Bodhisattva#^16-5|16-5]]**: _[[Equanimity]]_</span>
+
+---

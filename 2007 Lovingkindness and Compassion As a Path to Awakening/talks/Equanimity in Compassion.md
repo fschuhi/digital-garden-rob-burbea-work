@@ -239,7 +239,7 @@ This is usually a progression that takes months and months, but in the progressi
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=28:01]]
 
 ---
-##### Maybe it's just a see
+##### Maybe it's just a seed
 <span class="counts">**[[0208 Equanimity in Compassion#^6-4|6-4]]**: _[[Desire]] · [[Dependent Origination]]_</span>
 
 ![[20070208-Rob_Burbea-GAIA-equanimity_in_compassion-12289.mp3#t=29:06]]

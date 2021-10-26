@@ -51,7 +51,7 @@ Now, we could certainly hear something like that and be understandably quite per
 ###### 4-8
 So a couple of words, translations: first of all, '[[compassion]]' and '[[love]],' in a lot of the [[Mahayana|Mahāyāna]] traditions, they use it interchangeably. Or rather, they more often use the word '[[compassion]]' to mean both what we're talking about - [[compassion]] - and [[Metta|loving-kindness]]. Here they've done the same thing but with '[[love]].' Less rigidly different, the terms. So both of those statements, the _Lotus Sūtra_, "See all _things_ with the eyes of [[compassion]]" - it means with [[Metta|kindness]] and [[compassion]]. ^4-8
 ###### 4-9
-means And what is a _[[dharma]]_? What does this mean - "[[love]] is based on _dharmas_, directed to _dharmas_"? A _[[dharma]]_ has a lot of different meanings in the teachings. And one of them just kind of means 'things.' It just means 'things,' but it means 'things' as experiences or objects of [[awareness]]. So some _thing_ arising in [[awareness]] is a _[[dharma]]_. So whatever that is - a [[Embodiment|body]] sensation, a thought, an intention, a mood, a [[mind state]], a moment of _[[Samadhi|samādhi]]_, whatever it is, [[compassion]] - they're all _dharmas_. So it's just a thing in [[awareness]], a thing as an [[experience]]. ^4-9
+And what is a _[[dharma]]_? What does this mean - "[[love]] is based on _dharmas_, directed to _dharmas_"? A _[[dharma]]_ has a lot of different meanings in the teachings. And one of them just kind of means 'things.' It just means 'things,' but it means 'things' as experiences or objects of [[awareness]]. So some _thing_ arising in [[awareness]] is a _[[dharma]]_. So whatever that is - a [[Embodiment|body]] sensation, a thought, an intention, a mood, a [[mind state]], a moment of _[[Samadhi|samādhi]]_, whatever it is, [[compassion]] - they're all _dharmas_. So it's just a thing in [[awareness]], a thing as an [[experience]]. ^4-9
 ###### 4-10
 **Yogi**: Are _dharmas_ never just things on their own? Does it always has to be related to the [[awareness]] or the [[experience]]? ^4-10
 ###### 5-1
@@ -185,7 +185,7 @@ Just finally, from the _[[Aksayamati Sutra|Akṣayamati Sūtra]]_ and from our p
 ###### 15-3
 Why don't we sit together for a minute or two before we have some questions? ^15-3
 ###### 15-4
-^15-4
+(pause) ^15-4
 ###### 15-5
 Okay, anything? Anyone? ^15-5
 ###### 15-6
