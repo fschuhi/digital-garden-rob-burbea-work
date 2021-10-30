@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
 ---
-# The Garden of the Soul: Rob Burbea's Teachings
+# Garden of Soul: Rob Burbea's Teachings
 ```ad-quote
-But mostly it's actually just a little drop, and then one goes out into that infinite web of conditions in the life. Maybe it's just a seed. It meets another condition, then it begins to sprout. Maybe it sprouts a little here, and then it gets watered. Maybe it meets the wrong conditions and it just gets covered over, you know?
+So as the imaginal grows, the _papañca_ diminishes. As the _papañca_ grows, the imaginal diminishes.
 
-_(a quote from the talk [[Equanimity in Compassion#Maybe it's just a seed|Equanimity in Compassion]])_
+_(a quote from the talk [[Daimon, Refracted#Story wounded blackbird|Daimon, Refracted]])_
 ```
 
 ```ad-danger
@@ -16,13 +16,11 @@ And thank you, dear visitor, for your interest! Be invited to browse what Rob ha
 
 The transcripts of the talks have been adapted from the **[[Rob Burbea Transcription Project]]**. Thank you, Shannon, Elmer, Pádraig, and others, for all the work you've done!
 
-Curating this Digital Garden falls under the purview of the <b>Hermes Amāra Foundation</b>, which works towards maintaining Rob's work. Thank you, Custodians and the other Circles, for supporting this project!
+Curating this Digital Garden falls under the purview of the **[[Hermes Amara Foundation|Hermes Amāra Foundation]]**, which works towards maintaining Rob's work. Thank you, Custodians and the other Circles, for supporting this project!
 
 ```
 
-There is an [[Introduction]] to this Digital Garden and also help pages which show [[How to browse the Digital Garden|how to browse the Digital Garden]]. You might also want to check out the [[Index]] for key terms and phrases. 
-
-If you have been here before you might want to check out the [[Changelog]] for new content and features. For any feedback or suggestions relating to this Digital Garden, please email frank.schuhardt@gmail.com
+The **[[help]]** pages have an introduction to this Digital Garden and show how to browse it. You might also want to check out the **[[index]]** for key terms and phrases, or practice with the **[[guided meditations]].**, or browse the **[[suttas]]** and **[[books]]** referenced by Rob. If you have been here before you might want to check out the [[Changelog]] for new content and features.^[For any feedback or suggestions relating to this Digital Garden, please email fschuhi@yahoo.com]
 \
 	
 ## Retreats and series of talks

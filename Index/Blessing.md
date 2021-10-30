@@ -11,6 +11,7 @@ talk | count | series
 [[Love and Emptiness]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 1 | [[2020 Vajra Music]]
 [[Orienting to This Jhana Retreat]] | 1 | [[2019 Practising the Jhanas]]
+[[Daimon, Refracted]] | 1 | [[2019 Four Circles, Four Parables of Stone and Light]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -29,11 +30,11 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Soul]] | 18 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (8) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (8) · [[Perfection and Christ's Blessing]] (2)</span> 
-[[Embodiment]] | 12 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (8) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
+[[Soul]] | 19 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (8) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (8) · [[Perfection and Christ's Blessing]] (2) · [[Daimon, Refracted]] (1)</span> 
+[[Embodiment]] | 13 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (8) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Daimon, Refracted]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
 [[Imaginal]] | 10 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (6) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (4)</span> 
+[[Image]] | 8 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Daimon, Refracted]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
 [[Soulmaking]] | 8 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (6) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2)</span> 
-[[Image]] | 7 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
 [[Dyad]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
 [[Energy body]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
 [[Awareness]] | 5 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 

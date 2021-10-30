@@ -3,6 +3,7 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
+[[Daimon, Refracted]] | 87 | [[2019 Four Circles, Four Parables of Stone and Light]]
 [[The Way of Non-Clinging Part 2]] | 29 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 24 | [[2020 Vajra Music]]
 [[Exploring the World of Loving Kindness]] | 21 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
@@ -12,19 +13,23 @@ talk | count | series
 [[The Practice of Compassion]] | 18 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 1]] | 17 | [[2017 Eros Unfettered]]
 [[From Insight to Love]] | 17 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Love and the Emptiness of Things]] | 15 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
 [[Love and the Emptiness of Things#This practice softens the boundaries of the self\|This practice softens the boundaries of the self]] | 14 | [[Love and the Emptiness of Things]]
+[[Daimon, Refracted#Recap externalizing the self; recognizing the angel out ahead\|Recap: externalizing the self; recognizing the angel out ahead]] | 7 | [[Daimon, Refracted]]
 [[Equanimity in Compassion#As the self-sense gets quite equanimity becomes the natural state\|As the self-sense gets quite, equanimity becomes the natural state]] | 7 | [[Equanimity in Compassion]]
 [[Equanimity (talk)#How does wonder get squashed\|How does wonder get squashed]] | 7 | [[Equanimity (talk)]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Opening up counteracts the contraction that's inherent in self-consciousness\|Opening up counteracts the contraction that's inherent in self-consciousness]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Daimon, Refracted#Imbalance between sensing the other and sensing self as imaginal\|Imbalance between sensing the other and sensing self as imaginal]] | 5 | [[Daimon, Refracted]]
+[[Daimon, Refracted#Image Naked goddess who lives in a tree opening of the legs\|Image: Naked goddess who lives in a tree, opening of the legs]] | 5 | [[Daimon, Refracted]]
 [[Dilemmas and Delineations - How did we get here Part 3#Soul God divinity self are empty on many levels\|Soul, God, divinity, self, are empty on many levels]] | 5 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Using Insight to Deepen Love and Compassion#3 Anatta not-self\|(3) Anatta, not-self]] | 5 | [[Using Insight to Deepen Love and Compassion]]
 [[Exploring the World of Loving Kindness#Guild vs remorse\|Guild vs remorse]] | 5 | [[Exploring the World of Loving Kindness]]
 [[From Insight to Love#With more open space with metta the actual sense of self quietens\|With more open space with metta, the actual sense of self quietens]] | 5 | [[From Insight to Love]]
+[[Daimon, Refracted#Any order is possible\|Any order is possible]] | 4 | [[Daimon, Refracted]]
+[[Daimon, Refracted#Seeing everything from a bird's-eye view from the perspective of eternality\|Seeing everything from a bird's-eye view from the perspective of eternality]] | 4 | [[Daimon, Refracted]]
 [[Dilemmas and Delineations - How did we get here Part 3#3 Fabrication\|(3) Fabrication]] | 4 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 2#Sense of self is fabricated with and by the craving\|Sense of self is fabricated with and by the craving]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[Compassion (talk)#All these near enemies arise when there's too much self-view\|All these near enemies arise when there's too much self-view]] | 4 | [[Compassion (talk)]]
@@ -36,16 +41,20 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Compassion]] | 43 | <span class="counts">[[The Practice of Compassion]] (9) · [[Compassion (talk)]] (8) · [[Compassion Part Two - Compassion for Ourselves]] (7) · [[Equanimity in Compassion]] (6) · [[The Birth of a Bodhisattva]] (4) · [[Expressions of Metta]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
-[[Dukkha]] | 43 | <span class="counts">[[The Practice of Compassion]] (8) · [[Compassion (talk)]] (6) · [[Compassion Part Two - Compassion for Ourselves]] (6) · [[The Way of Non-Clinging Part 2]] (5) · [[Equanimity in Compassion]] (3) · [[The Way of Non-Clinging Part 3]] (3) · [[From Insight to Love]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
-[[Insight]] | 31 | <span class="counts">[[The Practice of Compassion]] (4) · [[The Way of Non-Clinging Part 2]] (4) · [[Compassion (talk)]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Compassion Part Two - Compassion for Ourselves]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[From Insight to Love]] (2) · [[The Birth of a Bodhisattva]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
-[[Love]] | 30 | <span class="counts">[[Expressions of Metta]] (5) · [[Using Insight to Deepen Love and Compassion]] (4) · [[Exploring the World of Loving Kindness]] (3) · [[From Insight to Love]] (3) · [[Compassion (talk)]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (2) · [[Equanimity in Compassion]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Dukkha]] | 48 | <span class="counts">[[The Practice of Compassion]] (8) · [[Compassion (talk)]] (6) · [[Compassion Part Two - Compassion for Ourselves]] (6) · [[Daimon, Refracted]] (5) · [[The Way of Non-Clinging Part 2]] (5) · [[Equanimity in Compassion]] (3) · [[The Way of Non-Clinging Part 3]] (3) · [[From Insight to Love]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
+[[Compassion]] | 44 | <span class="counts">[[The Practice of Compassion]] (9) · [[Compassion (talk)]] (8) · [[Compassion Part Two - Compassion for Ourselves]] (7) · [[Equanimity in Compassion]] (6) · [[The Birth of a Bodhisattva]] (4) · [[Expressions of Metta]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Insight]] | 36 | <span class="counts">[[Daimon, Refracted]] (5) · [[The Practice of Compassion]] (4) · [[The Way of Non-Clinging Part 2]] (4) · [[Compassion (talk)]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Compassion Part Two - Compassion for Ourselves]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[From Insight to Love]] (2) · [[The Birth of a Bodhisattva]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Soul]] | 36 | <span class="counts">[[Daimon, Refracted]] (20) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (5) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (4) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2)</span> 
+[[Image]] | 33 | <span class="counts">[[Daimon, Refracted]] (21) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2)</span> 
+[[Love]] | 33 | <span class="counts">[[Expressions of Metta]] (5) · [[Using Insight to Deepen Love and Compassion]] (4) · [[Daimon, Refracted]] (3) · [[Exploring the World of Loving Kindness]] (3) · [[From Insight to Love]] (3) · [[Compassion (talk)]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (2) · [[Equanimity in Compassion]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
 [[Metta]] | 30 | <span class="counts">[[Expressions of Metta]] (6) · [[Compassion (talk)]] (4) · [[Exploring the World of Loving Kindness]] (3) · [[From Insight to Love]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[The Way of Non-Clinging Part 3]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Imaginal]] | 29 | <span class="counts">[[Daimon, Refracted]] (21) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
 [[Clinging]] | 28 | <span class="counts">[[The Way of Non-Clinging Part 2]] (12) · [[The Way of Non-Clinging Part 3]] (4) · [[The Way of Non-Clinging Part 1]] (3) · [[Exploring the World of Loving Kindness]] (2) · [[From Insight to Love]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
-[[Experience]] | 24 | <span class="counts">[[The Way of Non-Clinging Part 2]] (6) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[The Way of Non-Clinging Part 3]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
-[[Emptiness]] | 23 | <span class="counts">[[The Way of Non-Clinging Part 2]] (10) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Compassion (talk)]] (1)</span> 
-[[Craving]] | 22 | <span class="counts">[[The Way of Non-Clinging Part 2]] (9) · [[The Way of Non-Clinging Part 1]] (3) · [[The Way of Non-Clinging Part 3]] (3) · [[Equanimity in Compassion]] (2)</span> 
-[[Perception]] | 22 | <span class="counts">[[The Way of Non-Clinging Part 2]] (10) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
-[[Anatta]] | 21 | <span class="counts">[[From Insight to Love]] (5) · [[Using Insight to Deepen Love and Compassion]] (4) · [[The Way of Non-Clinging Part 2]] (3) · [[Compassion (talk)]] (2)</span> 
+[[Emptiness]] | 26 | <span class="counts">[[The Way of Non-Clinging Part 2]] (10) · [[Daimon, Refracted]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
+[[Perception]] | 26 | <span class="counts">[[The Way of Non-Clinging Part 2]] (10) · [[Daimon, Refracted]] (4) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
+[[Experience]] | 25 | <span class="counts">[[The Way of Non-Clinging Part 2]] (6) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[The Way of Non-Clinging Part 3]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Embodiment]] | 24 | <span class="counts">[[Daimon, Refracted]] (7) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (5) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Craving]] | 23 | <span class="counts">[[The Way of Non-Clinging Part 2]] (9) · [[The Way of Non-Clinging Part 1]] (3) · [[The Way of Non-Clinging Part 3]] (3) · [[Equanimity in Compassion]] (2)</span> 
+[[Anatta]] | 22 | <span class="counts">[[From Insight to Love]] (5) · [[Using Insight to Deepen Love and Compassion]] (4) · [[The Way of Non-Clinging Part 2]] (3) · [[Compassion (talk)]] (2)</span> 
 [[Mind]] | 20 | <span class="counts">[[The Way of Non-Clinging Part 2]] (5) · [[Compassion Part Two - Compassion for Ourselves]] (2) · [[Expressions of Metta]] (2) · [[From Insight to Love]] (2) · [[The Birth of a Bodhisattva]] (2) · [[The Practice of Compassion]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
 

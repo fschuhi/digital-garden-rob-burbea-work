@@ -9,6 +9,7 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 4]] | 4 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 2]] | 3 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 2]] | 3 | [[2017 Eros Unfettered]]
+[[Daimon, Refracted]] | 1 | [[2019 Four Circles, Four Parables of Stone and Light]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -27,14 +28,14 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Eros]] | 13 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (6) · [[Dilemmas and Delineations - How did we get here Part 4]] (4) · [[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Eros]] | 14 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (6) · [[Dilemmas and Delineations - How did we get here Part 4]] (4) · [[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[Daimon, Refracted]] (1)</span> 
 [[Clinging]] | 10 | <span class="counts">[[The Way of Non-Clinging Part 1]] (5) · [[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
 [[Craving]] | 10 | <span class="counts">[[The Way of Non-Clinging Part 1]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[The Way of Non-Clinging Part 2]] (2) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Desire]] | 10 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (6) · [[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
 [[Buddha]] | 5 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Dharma]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Imaginal]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (3) · [[Daimon, Refracted]] (1) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
 [[Love]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[The Way of Non-Clinging Part 1]] (1)</span> 
-[[Imaginal]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Experience]] | 4 | <span class="counts">[[Daimon, Refracted]] (1) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
 [[Meditation]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
-[[Dependent Origination]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 2]] (1)</span> 
 

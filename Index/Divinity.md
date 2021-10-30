@@ -14,6 +14,7 @@
 talk | count | series
 :- | - |: -
 [[Dilemmas and Delineations - How did we get here Part 3]] | 42 | [[2017 Eros Unfettered]]
+[[Daimon, Refracted]] | 20 | [[2019 Four Circles, Four Parables of Stone and Light]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 17 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 8 | [[2020 Vajra Music]]
 [[Dilemmas and Delineations - How did we get here Part 2]] | 8 | [[2017 Eros Unfettered]]
@@ -26,6 +27,7 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Dilemmas and Delineations - How did we get here Part 3#18 Theophany - an appearance of the divine\|(18) Theophany - an appearance of the divine]] | 11 | [[Dilemmas and Delineations - How did we get here Part 3]]
+[[Daimon, Refracted#Self is dimensionalized divinized recognized as sacred\|Self is dimensionalized, divinized, recognized as sacred]] | 6 | [[Daimon, Refracted]]
 [[Dilemmas and Delineations - How did we get here Part 3#Insight Meditation will bring experiences of divinity\|Insight Meditation will bring experiences of divinity]] | 5 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 2#Recap Why eros why this delineation\|Recap: Why eros, why this delineation?]] | 5 | [[Dilemmas and Delineations - How did we get here Part 2]]
 [[Dilemmas and Delineations - How did we get here Part 1#2 Opening to the recognition of the sacredness of eros itself\|2. Opening to the recognition of the sacredness of eros itself]] | 5 | [[Dilemmas and Delineations - How did we get here Part 1]]
@@ -33,20 +35,19 @@ description | count | talk
 [[Dilemmas and Delineations - How did we get here Part 3#"Divinity" is a whole range of experiences\|"Divinity" is a whole range of experiences]] | 4 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 3#Soul God divinity self are empty on many levels\|Soul, God, divinity, self, are empty on many levels]] | 4 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 1#Eros is connected to divinity cosmopoesis soulmaking to be covered later\|Eros is connected to divinity, cosmopoesis, soulmaking (to be covered later)]] | 4 | [[Dilemmas and Delineations - How did we get here Part 1]]
-[[Dilemmas and Delineations - How did we get here Part 3#Beauty and sacredness are a feature of image and imaginal practice\|Beauty and sacredness are a feature of image and imaginal practice]] | 3 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 1#This results in a more adquate concept and perceptions of self other world\|This results in a more adquate concept and perceptions of self, other, world]] | 3 | [[Dilemmas and Delineations - How did we get here Part 1]]
 
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Soul]] | 16 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (6) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[The Way of Non-Clinging Part 3]] (2)</span> 
-[[Eros]] | 15 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (7) · [[Dilemmas and Delineations - How did we get here Part 2]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
-[[Imaginal]] | 14 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (7) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
+[[Soul]] | 23 | <span class="counts">[[Daimon, Refracted]] (7) · [[Dilemmas and Delineations - How did we get here Part 3]] (6) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Imaginal]] | 21 | <span class="counts">[[Daimon, Refracted]] (7) · [[Dilemmas and Delineations - How did we get here Part 3]] (7) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Eros]] | 16 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (7) · [[Dilemmas and Delineations - How did we get here Part 2]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Image]] | 15 | <span class="counts">[[Daimon, Refracted]] (5) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Dimensionality]] | 13 | <span class="counts">[[Daimon, Refracted]] (7) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[The Self]] | 13 | <span class="counts">[[Daimon, Refracted]] (8) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
 [[Experience]] | 10 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (7) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
-[[Image]] | 10 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
-[[Soulmaking]] | 9 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
-[[Perception]] | 8 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (4) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
-[[Beauty]] | 7 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
-[[Cosmology]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
-[[Dimensionality]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Soulmaking]] | 10 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Daimon, Refracted]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
+[[Beauty]] | 9 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Daimon, Refracted]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
+[[Cosmology]] | 9 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Daimon, Refracted]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
 

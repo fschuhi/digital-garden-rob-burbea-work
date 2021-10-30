@@ -8,6 +8,7 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 4]] | 6 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 2]] | 6 | [[2017 Eros Unfettered]]
 [[Orienting to This Jhana Retreat]] | 2 | [[2019 Practising the Jhanas]]
+[[Daimon, Refracted]] | 1 | [[2019 Four Circles, Four Parables of Stone and Light]]
 [[Questioning Awakening]] | 1 | [[2014 November Solitary - Questioning Awakening]]
 
 ### Paragraphs with 4+ mentions

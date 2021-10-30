@@ -21,6 +21,7 @@ kanban-plugin: basic
 ## Working on it
 
 - [ ] [[Explain the Digital Garden]]
+- [ ] [[Video walkthrough]]
 
 
 ## Done

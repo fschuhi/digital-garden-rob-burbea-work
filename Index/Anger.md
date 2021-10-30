@@ -8,11 +8,11 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 15 | [[2020 Vajra Music]]
 [[Compassion (talk)]] | 15 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 11 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Daimon, Refracted]] | 10 | [[2019 Four Circles, Four Parables of Stone and Light]]
 [[Samadhi in Metta Practice]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Place of Samadhi in Metta Practice]] | 9 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and the Emptiness of Things]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[From Insight to Love]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -25,6 +25,8 @@ description | count | talk
 [[Exploring the World of Loving Kindness#It can also be blind to its effects on others\|It can also be blind to its effects on others]] | 5 | [[Exploring the World of Loving Kindness]]
 [[The Place of Samadhi in Metta Practice#Can we bring investigation to this Story anger was not sparked\|Can we bring investigation to this? Story: anger was not sparked]] | 5 | [[The Place of Samadhi in Metta Practice]]
 [[Expressions of Metta#Anger can be blind to its causes and effects\|Anger can be blind to its causes and effects]] | 5 | [[Expressions of Metta]]
+[[Daimon, Refracted#Letting the anger build up in the energy body so that an image might arise\|Letting the anger build up in the energy body, so that an image might arise]] | 4 | [[Daimon, Refracted]]
+[[Daimon, Refracted#2 Imagine destroying the inner critic violently\|(2) Imagine destroying the inner critic violently]] | 4 | [[Daimon, Refracted]]
 [[Compassion (talk)#2 Righteous Anger\|(2) (Righteous) Anger]] | 4 | [[Compassion (talk)]]
 [[Exploring the World of Loving Kindness#Anger is worth investigating as it is usually blind in three way\|Anger is worth investigating, as it is usually blind in three way]] | 4 | [[Exploring the World of Loving Kindness]]
 [[The Practice of Compassion#When feeling the pain of anger coming in remember to give compassion to yourself\|When feeling the pain of anger coming in, remember to give compassion to yourself]] | 4 | [[The Practice of Compassion]]

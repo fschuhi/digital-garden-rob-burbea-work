@@ -6,11 +6,11 @@ talk | count | series
 [[Love and the Emptiness of Things]] | 7 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Exploring the World of Loving Kindness]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Questioning Awakening]] | 4 | [[2014 November Solitary - Questioning Awakening]]
+[[Daimon, Refracted]] | 2 | [[2019 Four Circles, Four Parables of Stone and Light]]
 [[Using Insight to Deepen Love and Compassion]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 2 | [[2007 New Years Retreat Insight Meditation]]
 [[Expressions of Metta]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Guided Meditation - Directing Love Towards Dharmas]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[Guided Meditation on Gratitude and Compassion]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Compassion (talk)]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
@@ -31,14 +31,14 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
+[[Embodiment]] | 9 | <span class="counts">[[Daimon, Refracted]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2) · [[Exploring the World of Loving Kindness]] (1)</span> 
 [[Metta]] | 9 | <span class="counts">[[Exploring the World of Loving Kindness]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Compassion (talk)]] (1) · [[Expressions of Metta]] (1)</span> 
-[[Embodiment]] | 7 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2) · [[Exploring the World of Loving Kindness]] (1) · [[Love and Emptiness]] (1)</span> 
 [[Experience]] | 6 | <span class="counts">[[Love and the Emptiness of Things]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Perception]] | 6 | <span class="counts">[[Questioning Awakening]] (2) · [[Daimon, Refracted]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Love and Emptiness]] (1)</span> 
 [[Compassion]] | 5 | <span class="counts">[[Love and the Emptiness of Things]] (2) · [[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
 [[Love]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1) · [[Questioning Awakening]] (1)</span> 
-[[Perception]] | 5 | <span class="counts">[[Questioning Awakening]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
-[[Consciousness]] | 3 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[Guided Meditation - Directing Love Towards Dharmas]] (1)</span> 
+[[Consciousness]] | 4 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[Daimon, Refracted]] (1) · [[Guided Meditation - Directing Love Towards Dharmas]] (1)</span> 
+[[Emptiness]] | 3 | <span class="counts">[[Daimon, Refracted]] (1) · [[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
 [[Happiness]] | 3 | <span class="counts">[[Exploring the World of Loving Kindness]] (1) · [[Guided Meditation - Directing Love Towards Dharmas]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 [[Healing]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Expressions of Metta]] (1) · [[What is Insight]] (1)</span> 
-[[Meditation]] | 3 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (1) · [[Questioning Awakening]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 

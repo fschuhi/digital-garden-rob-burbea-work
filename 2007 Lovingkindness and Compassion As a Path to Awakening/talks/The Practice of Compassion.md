@@ -14,7 +14,7 @@ Transcript PDF: [[2007_0201 The Practice of Compassion.pdf]]
 ![[20070201-Rob_Burbea-GAIA-the_practice_of_compassion-12295.mp3]]
 
 ## Index
-<span class="counts">_[[Compassion]] (155) · [[Dukkha]] (118) · [[Insight]] (35) · [[Metta]] (31) · [[Mind]] (26) · [[The Self]] (18) · [[Fear]] (14) · [[Grief]] (14) · [[Happiness]] (13) · [[Emptiness]] (12) · [[Anger]] (11) · [[Dependent Origination]] (11) · [[Embodiment]] (10) · [[Energy]] (10) · [[Healing]] (10) · [[Ignorance]] (10) · [[Near enemy]] (10) · [[Pity]] (9) · [[Buddha]] (8) · [[Equanimity]] (8) · [[Love]] (8) · [[Oneness]] (8) · [[Perception]] (7) · [[Pleasantness]] (7) · [[Awareness]] (6) · [[Cultivation]] (6) · [[Freedom]] (6) · [[Pain]] (6) · [[Samadhi]] (6) · [[Anatta]] (5) · [[Aversion]] (5) · [[Contraction]] (5) · [[Empathy]] (4) · [[Jesus]] (4) · [[Nature]] (4) · [[Retreat]] (4) · [[Avalokiteshvara]] (3) · [[Avijja]] (3) · [[Bodhisattva]] (3) · [[Centre]] (3) · [[Experience]] (3) · [[Breath]] (2) · [[Clinging]] (2) · [[Consciousness]] (2) · [[Death]] (2) · [[Hindrances]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Karma]] (2) · [[Letting go]] (2) · [[Nobility]] (2) · [[Present moment]] (2) · [[Spaciousness]] (2) · [[Tiredness]] (2) · [[Ways of looking]] (2) · [[Acceptance]] · [[Attention]] · [[Awakening]] · [[Beauty]] · [[Big Bang]] · [[Christianity]] · [[Constriction]] · [[Cosmology]] · [[Craving]] · [[Dalai Lama]] · [[Depression]] · [[Desire]] · [[Gertrude Stein]] · [[Habit]] · [[Image]] · [[Julian of Norwich]] · [[Meditation]] · [[Naomi Shihab Nye]] · [[Narayan Helen Liebenson]] · [[Nihilism]] · [[Nondualism]] · [[Reconditioning]] · [[Steadiness]] · [[Stephen Batchelor]] · [[Supernova]] · [[Thich Nhat Hanh]] · [[Tibetan Buddhism]] · [[Tonglen]] · [[Walt Whitman]]_</span>
+<span class="counts">_[[Compassion]] (155) · [[Dukkha]] (118) · [[Insight]] (35) · [[Metta]] (31) · [[Mind]] (26) · [[The Self]] (18) · [[Fear]] (14) · [[Grief]] (14) · [[Happiness]] (13) · [[Emptiness]] (12) · [[Anger]] (11) · [[Dependent Origination]] (11) · [[Embodiment]] (10) · [[Energy]] (10) · [[Healing]] (10) · [[Ignorance]] (10) · [[Near enemy]] (10) · [[Pity]] (9) · [[Buddha]] (8) · [[Equanimity]] (8) · [[Love]] (8) · [[Oneness]] (8) · [[Perception]] (7) · [[Pleasantness]] (7) · [[Awareness]] (6) · [[Cultivation]] (6) · [[Freedom]] (6) · [[Pain]] (6) · [[Samadhi]] (6) · [[Anatta]] (5) · [[Aversion]] (5) · [[Contraction]] (5) · [[Empathy]] (4) · [[Jesus]] (4) · [[Nature]] (4) · [[Retreat]] (4) · [[Avalokiteshvara]] (3) · [[Avijja]] (3) · [[Bodhisattva]] (3) · [[Centre]] (3) · [[Experience]] (3) · [[Breath]] (2) · [[Clinging]] (2) · [[Consciousness]] (2) · [[Death]] (2) · [[Hindrances]] (2) · [[History]] (2) · [[Infinity]] (2) · [[Karma]] (2) · [[Letting go]] (2) · [[Nobility]] (2) · [[Present moment]] (2) · [[Spaciousness]] (2) · [[Tiredness]] (2) · [[Ways of looking]] (2) · [[Acceptance]] · [[Attention]] · [[Awakening]] · [[Beauty]] · [[Big Bang]] · [[Christianity]] · [[Constriction]] · [[Cosmology]] · [[Craving]] · [[Dalai Lama]] · [[Depression]] · [[Desire]] · [[George W. Bush]] · [[Gertrude Stein]] · [[Habit]] · [[Image]] · [[Julian of Norwich]] · [[Meditation]] · [[Naomi Shihab Nye]] · [[Narayan Helen Liebenson]] · [[Nihilism]] · [[Nondualism]] · [[Reconditioning]] · [[Steadiness]] · [[Stephen Batchelor]] · [[Supernova]] · [[Tara]] · [[Thich Nhat Hanh]] · [[Tibetan Buddhism]] · [[Tonglen]] · [[Walt Whitman]]_</span>
 <br/>
 
 ## Paragraphs
@@ -80,7 +80,7 @@ So we see sorrow in someone, and somehow we also feel sorrow. This is, to me, a 
 
 ---
 ##### Different practices for compassion
-<span class="counts">**[[0201 The Practice of Compassion#^3-3|3-3]]**: _[[Compassion]] (4) · [[Tonglen]] · [[Tibetan Buddhism]] · [[Bodhisattva]] · [[Avalokiteshvara]] (2) · [[Jesus]] · [[Energy]] (2) · [[Insight]] (2) · [[Cultivation]]_</span>
+<span class="counts">**[[0201 The Practice of Compassion#^3-3|3-3]]**: _[[Compassion]] (4) · [[Tonglen]] · [[Tibetan Buddhism]] · [[Bodhisattva]] · [[Avalokiteshvara]] (2) · [[Tara]] · [[Jesus]] · [[Energy]] (2) · [[Insight]] (2) · [[Cultivation]]_</span>
 TODO: rename Avalokiteśvara
 
 ![[20070201-Rob_Burbea-GAIA-the_practice_of_compassion-12295.mp3#t=12:20]]
@@ -488,7 +488,7 @@ TODO: think about stretching, stretching the heart (index entry?)
 
 ---
 ##### Yogi: Is it ok to exclude George Bush? 😀
-<span class="counts">[[0201 The Practice of Compassion#^19-1|19-1]]</span>
+<span class="counts">**[[0201 The Practice of Compassion#^19-1|19-1]]**: _[[George W. Bush]]_</span>
 
 ---
 ##### Who? No! 😀

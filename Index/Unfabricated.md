@@ -8,11 +8,11 @@ talk | count | series
 [[The Way of Non-Clinging Part 1]] | 9 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 8 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 6 | [[2017 Eros Unfettered]]
+[[Daimon, Refracted]] | 3 | [[2019 Four Circles, Four Parables of Stone and Light]]
 [[Dilemmas and Delineations - How did we get here Part 3]] | 3 | [[2017 Eros Unfettered]]
 [[Questioning Awakening]] | 2 | [[2014 November Solitary - Questioning Awakening]]
 [[What is Insight]] | 2 | [[2007 New Years Retreat Insight Meditation]]
 [[Dilemmas and Delineations - How did we get here Part 2]] | 1 | [[2017 Eros Unfettered]]
-[[The Way of Non-Clinging Part 3]] | 1 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -33,12 +33,12 @@ term | count | talks
 -|-|-
 [[Experience]] | 17 | <span class="counts">[[The Way of Non-Clinging Part 2]] (6) · [[Love and the Emptiness of Things]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
 [[Emptiness]] | 14 | <span class="counts">[[The Way of Non-Clinging Part 2]] (4) · [[Love and Emptiness]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
-[[Perception]] | 13 | <span class="counts">[[The Way of Non-Clinging Part 2]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Perception]] | 14 | <span class="counts">[[The Way of Non-Clinging Part 2]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Daimon, Refracted]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
 [[Clinging]] | 12 | <span class="counts">[[The Way of Non-Clinging Part 2]] (7) · [[The Way of Non-Clinging Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Fabrication]] | 12 | <span class="counts">[[The Way of Non-Clinging Part 2]] (7) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Insight]] | 10 | <span class="counts">[[The Way of Non-Clinging Part 2]] (4) · [[Daimon, Refracted]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
 [[Mind]] | 9 | <span class="counts">[[The Way of Non-Clinging Part 2]] (3) · [[Love and Emptiness]] (2) · [[Love and the Emptiness of Things]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
 [[Ways of looking]] | 9 | <span class="counts">[[The Way of Non-Clinging Part 2]] (6) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
 [[Dharma]] | 8 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Love and Emptiness]] (1)</span> 
 [[Freedom]] | 8 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
-[[Insight]] | 8 | <span class="counts">[[The Way of Non-Clinging Part 2]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Love and Emptiness]] (1)</span> 
 

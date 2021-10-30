@@ -4,6 +4,7 @@
 talk | count | series
 :- | - |: -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 80 | [[2020 Vajra Music]]
+[[Daimon, Refracted]] | 36 | [[2019 Four Circles, Four Parables of Stone and Light]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 33 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 22 | [[2020 Vajra Music]]
 
@@ -23,18 +24,21 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#One becomes a space of hospitality of the angels\|One becomes a space of hospitality of the angels]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Or they don't need you and you don't need them\|Or they don't need you and you don't need them]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Diamond Approach "impeccability"\|Diamond Approach: "impeccability"]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Daimon, Refracted#Possibilities self as process oneness angel\|Possibilities: self as process, oneness, angel]] | 4 | [[Daimon, Refracted]]
+[[Daimon, Refracted#That's what we humans are here for express the faces of the angels\|That's what we humans are here for, express the faces of the angels]] | 4 | [[Daimon, Refracted]]
+[[Daimon, Refracted#We're constrained and confused by the mixed messages we get about the self\|We're constrained and confused by the mixed messages we get about the self]] | 4 | [[Daimon, Refracted]]
 
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Image]] | 27 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (13) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (11) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3)</span> 
-[[Soul]] | 22 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (10) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (7) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (5)</span> 
-[[Imaginal]] | 21 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (10) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (9) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
-[[Soulmaking]] | 11 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (5) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
-[[Embodiment]] | 9 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (5) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
-[[Personhood]] | 9 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
-[[Devotion]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
-[[Duty]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
-[[Energy body]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
-[[Death]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Image]] | 33 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (13) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (11) · [[Daimon, Refracted]] (6) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3)</span> 
+[[Soul]] | 30 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (10) · [[Daimon, Refracted]] (8) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (7) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (5)</span> 
+[[Imaginal]] | 26 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (10) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (9) · [[Daimon, Refracted]] (5) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Soulmaking]] | 15 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (5) · [[Daimon, Refracted]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Personhood]] | 11 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Daimon, Refracted]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Duty]] | 10 | <span class="counts">[[Daimon, Refracted]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Embodiment]] | 10 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (5) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3) · [[Daimon, Refracted]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
+[[The Self]] | 9 | <span class="counts">[[Daimon, Refracted]] (7) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
+[[Dimensionality]] | 8 | <span class="counts">[[Daimon, Refracted]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Divinity]] | 7 | <span class="counts">[[Daimon, Refracted]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3)</span> 
 

@@ -6,6 +6,7 @@ talk | count | series
 [[The Way of Non-Clinging Part 3]] | 7 | [[2017 Eros Unfettered]]
 [[From Insight to Love]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Orienting to This Jhana Retreat]] | 3 | [[2019 Practising the Jhanas]]
+[[Daimon, Refracted]] | 1 | [[2019 Four Circles, Four Parables of Stone and Light]]
 [[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
 [[Love and the Emptiness of Things]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
@@ -33,8 +34,8 @@ term | count | talks
 [[Compassion]] | 3 | <span class="counts">[[From Insight to Love]] (1) · [[Love and the Emptiness of Things]] (1) · [[The Practice of Compassion]] (1)</span> 
 [[Insight]] | 3 | <span class="counts">[[From Insight to Love]] (2) · [[Love and the Emptiness of Things]] (1)</span> 
 [[Metta]] | 3 | <span class="counts">[[From Insight to Love]] (1) · [[Love and the Emptiness of Things]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[The Self]] | 3 | <span class="counts">[[Daimon, Refracted]] (1) · [[Love and the Emptiness of Things]] (1) · [[The Practice of Compassion]] (1)</span> 
 [[Activism]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Conceptual framework]] | 2 | <span class="counts">[[Daimon, Refracted]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Craving]] | 2 | <span class="counts">[[From Insight to Love]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
-[[Dharma]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 2]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
-[[Embodiment]] | 2 | <span class="counts">[[From Insight to Love]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 

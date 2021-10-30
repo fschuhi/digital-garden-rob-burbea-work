@@ -4,6 +4,7 @@
 talk | count | series
 :- | - |: -
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 26 | [[2020 Vajra Music]]
+[[Daimon, Refracted]] | 3 | [[2019 Four Circles, Four Parables of Stone and Light]]
 [[Using Insight to Deepen Love and Compassion]] | 3 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Exploring the World of Loving Kindness]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 2 | [[2007 New Years Retreat Insight Meditation]]
@@ -26,14 +27,14 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Soul]] | 7 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (7)</span> 
+[[Soul]] | 8 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (7) · [[Daimon, Refracted]] (1)</span> 
+[[Anatta]] | 5 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Daimon, Refracted]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 [[Dukkha]] | 5 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (5)</span> 
-[[Anatta]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Exploring the World of Loving Kindness]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
-[[Emptiness]] | 4 | <span class="counts">[[Exploring the World of Loving Kindness]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Using Insight to Deepen Love and Compassion]] (1) · [[What is Insight]] (1)</span> 
+[[Emptiness]] | 5 | <span class="counts">[[Daimon, Refracted]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Insight]] | 5 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Daimon, Refracted]] (2)</span> 
+[[Consciousness]] | 4 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[Daimon, Refracted]] (1) · [[What is Insight]] (1)</span> 
+[[Embodiment]] | 4 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[Daimon, Refracted]] (1) · [[What is Insight]] (1)</span> 
 [[Ways of looking]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
 [[Buddha]] | 3 | <span class="counts">[[From Insight to Love]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[What is Insight]] (1)</span> 
-[[Consciousness]] | 3 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (1)</span> 
-[[Embodiment]] | 3 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (1)</span> 
 [[Emotions]] | 3 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (1)</span> 
-[[Experience]] | 3 | <span class="counts">[[From Insight to Love]] (1) · [[Using Insight to Deepen Love and Compassion]] (1) · [[What is Insight]] (1)</span> 
 

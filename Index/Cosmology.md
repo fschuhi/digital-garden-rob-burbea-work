@@ -6,6 +6,7 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 3]] | 24 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 7 | [[2017 Eros Unfettered]]
 [[Questioning Awakening]] | 7 | [[2014 November Solitary - Questioning Awakening]]
+[[Daimon, Refracted]] | 4 | [[2019 Four Circles, Four Parables of Stone and Light]]
 [[The Way of Non-Clinging Part 3]] | 1 | [[2017 Eros Unfettered]]
 [[Using Insight to Deepen Love and Compassion]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
@@ -27,14 +28,14 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Perception]] | 7 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Questioning Awakening]] (1)</span> 
-[[Divinity]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
-[[Imaginal]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
+[[Divinity]] | 9 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Daimon, Refracted]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
+[[Imaginal]] | 9 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Daimon, Refracted]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
+[[Perception]] | 8 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Daimon, Refracted]] (1) · [[Questioning Awakening]] (1)</span> 
+[[Soul]] | 6 | <span class="counts">[[Daimon, Refracted]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[The Self]] | 6 | <span class="counts">[[Daimon, Refracted]] (4) · [[Questioning Awakening]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Dharma]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Daimon, Refracted]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Eros]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Ways of looking]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Daimon, Refracted]] (1) · [[Questioning Awakening]] (1)</span> 
 [[Awareness]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[The Practice of Compassion]] (1)</span> 
 [[Conceptual framework]] | 4 | <span class="counts">[[Questioning Awakening]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
-[[Dharma]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
-[[Dukkha]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Questioning Awakening]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
-[[Experience]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Questioning Awakening]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
-[[Love]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[The Practice of Compassion]] (1)</span> 
 

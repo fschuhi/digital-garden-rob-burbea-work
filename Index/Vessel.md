@@ -8,8 +8,10 @@ showTopReferringTalks: true
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
+[[Daimon, Refracted]] | 6 | [[2019 Four Circles, Four Parables of Stone and Light]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 2 | [[2020 Vajra Music]]
 [[Orienting to This Jhana Retreat]] | 2 | [[2019 Practising the Jhanas]]
+[[Expressions of Metta]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Quotes
 #IndexEntry #Robology
@@ -51,22 +53,27 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+[[Daimon, Refracted#Letting the anger build up in the energy body so that an image might arise\|Letting the anger build up in the energy body, so that an image might arise]] | 2 | [[Daimon, Refracted]]
+[[Daimon, Refracted#There's heat and potential dynamism there\|There's heat and potential dynamism there]] | 2 | [[Daimon, Refracted]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Why "preliminaries" Because it expands soulmaking\|Why "preliminaries"? Because it expands soulmaking]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#If we like practicing soulmaking the soulmaking dynamic will expand\|If we like practicing soulmaking the soulmaking dynamic will expand]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Orienting to This Jhana Retreat#How we create this container together\|How we create this container together]] | 1 | [[Orienting to This Jhana Retreat]]
 [[Orienting to This Jhana Retreat#We all are participating in this\|We all are participating in this]] | 1 | [[Orienting to This Jhana Retreat]]
+[[Daimon, Refracted#Strawinsky as vessel for the Rite of Spring\|Strawinsky as vessel for the Rite of Spring]] | 1 | [[Daimon, Refracted]]
+[[Daimon, Refracted#1 Sit with the anger at the inner critic\|(1) Sit with the anger at the inner critic]] | 1 | [[Daimon, Refracted]]
+[[Expressions of Metta#With anger we often don't see the wider web of conditions\|With anger we often don't see the wider web of conditions]] | 1 | [[Expressions of Metta]]
 
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
+[[Anger]] | 3 | <span class="counts">[[Daimon, Refracted]] (2) · [[Expressions of Metta]] (1)</span> 
+[[Energy body]] | 2 | <span class="counts">[[Daimon, Refracted]] (2)</span> 
+[[Image]] | 2 | <span class="counts">[[Daimon, Refracted]] (2)</span> 
+[[Soulmaking]] | 2 | <span class="counts">[[Daimon, Refracted]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 [[Soulmaking dynamic]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2)</span> 
+[[Alchemy]] | 1 | <span class="counts">[[Daimon, Refracted]] (1)</span> 
+[[Attention]] | 1 | <span class="counts">[[Daimon, Refracted]] (1)</span> 
 [[Blessing]] | 1 | <span class="counts">[[Orienting to This Jhana Retreat]] (1)</span> 
 [[Dana]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
-[[Embodiment]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
-[[Experience]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
-[[Gaia House]] | 1 | <span class="counts">[[Orienting to This Jhana Retreat]] (1)</span> 
-[[Insight]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
-[[Mindfulness]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
-[[Preliminaries]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
-[[Soul]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Dependent Origination]] | 1 | <span class="counts">[[Expressions of Metta]] (1)</span> 
 

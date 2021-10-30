@@ -41,6 +41,6 @@ term | count | talks
 [[Metta]] | 12 | <span class="counts">[[Orienting to This Jhana Retreat]] (4) · [[Samadhi in Metta Practice]] (3) · [[The Place of Samadhi in Metta Practice]] (3) · [[Compassion (talk)]] (1)</span> 
 [[Energy]] | 10 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (6) · [[Counting Within the Breath - Guided Meditation]] (3) · [[Samadhi in Metta Practice]] (1)</span> 
 [[Jhanas]] | 8 | <span class="counts">[[Orienting to This Jhana Retreat]] (4) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (2) · [[Counting Within the Breath - Guided Meditation]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Retreat]] | 8 | <span class="counts">[[Orienting to This Jhana Retreat]] (3) · [[Samadhi in Metta Practice]] (2) · [[Counting Within the Breath - Guided Meditation]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
 [[Experience]] | 7 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (3) · [[Equanimity in Compassion]] (1) · [[Love and Emptiness]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
-[[Retreat]] | 7 | <span class="counts">[[Orienting to This Jhana Retreat]] (3) · [[Samadhi in Metta Practice]] (2) · [[Counting Within the Breath - Guided Meditation]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
 

@@ -11,8 +11,8 @@ talk | count | series
 [[Love and Emptiness]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Expressions of Metta]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 2 | [[2020 Vajra Music]]
+[[Daimon, Refracted]] | 2 | [[2019 Four Circles, Four Parables of Stone and Light]]
 [[Using Insight to Deepen Love and Compassion]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[Equanimity (talk)]] | 1 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -32,9 +32,9 @@ description | count | talk
 term | count | talks
 -|-|-
 [[Love]] | 13 | <span class="counts">[[From Insight to Love]] (3) · [[Love and Emptiness]] (3) · [[Equanimity in Compassion]] (2) · [[Samadhi in Metta Practice]] (2)</span> 
-[[The Self]] | 7 | <span class="counts">[[From Insight to Love]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Equanimity in Compassion]] (1) · [[Love and Emptiness]] (1)</span> 
+[[The Self]] | 8 | <span class="counts">[[From Insight to Love]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Daimon, Refracted]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Emptiness]] | 7 | <span class="counts">[[Love and Emptiness]] (2) · [[Daimon, Refracted]] (1) · [[Equanimity in Compassion]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
 [[Anatta]] | 6 | <span class="counts">[[From Insight to Love]] (2) · [[Equanimity in Compassion]] (1) · [[Expressions of Metta]] (1) · [[Love and Emptiness]] (1)</span> 
-[[Emptiness]] | 6 | <span class="counts">[[Love and Emptiness]] (2) · [[Equanimity in Compassion]] (1) · [[Love and the Emptiness of Things]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
 [[Metta]] | 6 | <span class="counts">[[From Insight to Love]] (2) · [[Equanimity in Compassion]] (1) · [[Expressions of Metta]] (1) · [[Love and Emptiness]] (1)</span> 
 [[Perception]] | 6 | <span class="counts">[[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1) · [[From Insight to Love]] (1) · [[Love and Emptiness]] (1)</span> 
 [[Compassion]] | 5 | <span class="counts">[[Love and Emptiness]] (2) · [[Equanimity in Compassion]] (1) · [[Love and the Emptiness of Things]] (1) · [[The Practice of Compassion]] (1)</span> 

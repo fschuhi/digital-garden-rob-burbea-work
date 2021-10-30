@@ -14,7 +14,7 @@ Transcript PDF: [[2008_0130 Exploring the World of Loving Kindness.pdf]]
 ![[20080130-Rob_Burbea-GAIA-exploring_the_world_of_loving_kindness-11951.mp3]]
 
 ## Index
-<span class="counts">_[[Metta]] (58) · [[Love]] (44) · [[Anger]] (38) · [[The Self]] (21) · [[Embodiment]] (15) · [[Retreat]] (11) · [[Perception]] (10) · [[Relationships]] (10) · [[Clinging]] (8) · [[Compassion]] (7) · [[Near enemy]] (7) · [[Attention]] (6) · [[Consciousness]] (6) · [[Energy]] (6) · [[Fear]] (6) · [[Oneness]] (6) · [[Dukkha]] (5) · [[Feelings]] (5) · [[Habit]] (5) · [[Mind]] (5) · [[Pain]] (5) · [[Ways of looking]] (5) · [[Anatta]] (4) · [[Appreciation]] (4) · [[Buddha]] (4) · [[Depression]] (4) · [[Experience]] (4) · [[Meditation]] (4) · [[Dharma]] (3) · [[Emptiness]] (3) · [[Avalokiteshvara]] (2) · [[Aversion]] (2) · [[Avijja]] (2) · [[Happiness]] (2) · [[Precepts]] (2) · [[Skandhas]] (2) · [[Acceptance]] · [[Archetype]] · [[Awakening]] · [[Beauty]] · [[Big Bang]] · [[Bodhisattva]] · [[Breath]] · [[Craving]] · [[Cultivation]] · [[Dependent Origination]] · [[Desire]] · [[Devotion]] · [[Dimensionality]] · [[Fabrication]] · [[Freedom]] · [[Image]] · [[Insight]] · [[Jesus]] · [[Jiddu Krishnamurti]] · [[Kahlil Gibran]] · [[Letting go]] · [[Manifestations]] · [[Manjushri]] · [[Music]] · [[Nature]] · [[Nondualism]] · [[Pablo Neruda]] · [[Personhood]] · [[Shame]] · [[Sutta]] · [[Ultimate truth]]_</span>
+<span class="counts">_[[Metta]] (58) · [[Love]] (44) · [[Anger]] (38) · [[The Self]] (21) · [[Embodiment]] (15) · [[Retreat]] (11) · [[Perception]] (10) · [[Relationships]] (10) · [[Clinging]] (8) · [[Compassion]] (7) · [[Near enemy]] (7) · [[Attention]] (6) · [[Consciousness]] (6) · [[Energy]] (6) · [[Fear]] (6) · [[Oneness]] (6) · [[Dukkha]] (5) · [[Feelings]] (5) · [[Habit]] (5) · [[Mind]] (5) · [[Pain]] (5) · [[Ways of looking]] (5) · [[Anatta]] (4) · [[Appreciation]] (4) · [[Buddha]] (4) · [[Depression]] (4) · [[Experience]] (4) · [[Meditation]] (4) · [[Dharma]] (3) · [[Emptiness]] (3) · [[Avalokiteshvara]] (2) · [[Aversion]] (2) · [[Avijja]] (2) · [[Happiness]] (2) · [[Precepts]] (2) · [[Skandhas]] (2) · [[Acceptance]] · [[Archetype]] · [[Awakening]] · [[Beauty]] · [[Big Bang]] · [[Bodhisattva]] · [[Breath]] · [[Craving]] · [[Cultivation]] · [[Dependent Origination]] · [[Desire]] · [[Devotion]] · [[Dimensionality]] · [[Fabrication]] · [[Freedom]] · [[Image]] · [[Insight]] · [[Jesus]] · [[Jiddu Krishnamurti]] · [[Kahlil Gibran]] · [[Letting go]] · [[Manifestations]] · [[Manjushri]] · [[Music]] · [[Nature]] · [[Nondualism]] · [[Pablo Neruda]] · [[Personhood]] · [[Shame]] · [[Sutta]] · [[Tara]] · [[Ultimate truth]]_</span>
 <br/>
 
 ## Paragraphs
@@ -580,7 +580,7 @@ And it's almost as if the silence takes on a fabric of itself, a meaning of itse
 
 ---
 ##### It's not always that metta feels it's coming from the self
-<span class="counts">**[[0130 Exploring the World of Loving Kindness#^13-5|13-5]]**: _[[Metta]] (6) · [[Love]] (4) · [[Avalokiteshvara]] (2) · [[Bodhisattva]] · [[Compassion]] · [[Jesus]] · [[Archetype]] · [[The Self]]_</span>
+<span class="counts">**[[0130 Exploring the World of Loving Kindness#^13-5|13-5]]**: _[[Metta]] (6) · [[Love]] (4) · [[Tara]] · [[Avalokiteshvara]] (2) · [[Bodhisattva]] · [[Compassion]] · [[Jesus]] · [[Archetype]] · [[The Self]]_</span>
 
 ![[20080130-Rob_Burbea-GAIA-exploring_the_world_of_loving_kindness-11951.mp3#t=01:02:30]]
 

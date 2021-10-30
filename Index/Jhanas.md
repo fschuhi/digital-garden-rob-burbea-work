@@ -4,7 +4,7 @@
 talk | count | series
 :- | - |: -
 [[Orienting to This Jhana Retreat]] | 75 | [[2019 Practising the Jhanas]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 11 | [[2020 Vajra Music]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 12 | [[2020 Vajra Music]]
 [[Counting Within the Breath - Guided Meditation]] | 8 | [[2019 Practising the Jhanas]]
 [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] | 4 | [[2019 Practising the Jhanas]]
 [[The Way of Non-Clinging Part 2]] | 4 | [[2017 Eros Unfettered]]
@@ -31,7 +31,7 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Retreat]] | 23 | <span class="counts">[[Orienting to This Jhana Retreat]] (17) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[Counting Within the Breath - Guided Meditation]] (1)</span> 
+[[Retreat]] | 24 | <span class="counts">[[Orienting to This Jhana Retreat]] (17) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Counting Within the Breath - Guided Meditation]] (1)</span> 
 [[Happiness]] | 12 | <span class="counts">[[Orienting to This Jhana Retreat]] (11) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
 [[Samadhi]] | 11 | <span class="counts">[[Orienting to This Jhana Retreat]] (6) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (2) · [[Counting Within the Breath - Guided Meditation]] (1) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
 [[Mind]] | 10 | <span class="counts">[[Orienting to This Jhana Retreat]] (6) · [[Counting Within the Breath - Guided Meditation]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 

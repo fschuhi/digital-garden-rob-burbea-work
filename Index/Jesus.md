@@ -7,6 +7,7 @@ talk | count | series
 [[Perfection and Christ's Blessing]] | 3 | [[2020 Vajra Music]]
 [[The Birth of a Bodhisattva]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
+[[Daimon, Refracted]] | 1 | [[2019 Four Circles, Four Parables of Stone and Light]]
 [[Dilemmas and Delineations - How did we get here Part 3]] | 1 | [[2017 Eros Unfettered]]
 [[Compassion (talk)]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Exploring the World of Loving Kindness]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
@@ -31,13 +32,13 @@ description | count | talk
 term | count | talks
 -|-|-
 [[Bodhisattva]] | 7 | <span class="counts">[[The Birth of a Bodhisattva]] (2) · [[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
-[[Avalokiteshvara]] | 5 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
+[[Avalokiteshvara]] | 6 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Daimon, Refracted]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
 [[Compassion]] | 5 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
 [[Energy]] | 5 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Expressions of Metta]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
-[[Love]] | 4 | <span class="counts">[[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1) · [[Perfection and Christ's Blessing]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Love]] | 5 | <span class="counts">[[Daimon, Refracted]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1) · [[Perfection and Christ's Blessing]] (1)</span> 
+[[Metta]] | 4 | <span class="counts">[[Daimon, Refracted]] (1) · [[Equanimity (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
 [[Archetype]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
 [[Christianity]] | 3 | <span class="counts">[[Perfection and Christ's Blessing]] (1) · [[The Birth of a Bodhisattva]] (1) · [[The Practice of Compassion]] (1)</span> 
 [[Dukkha]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Perfection and Christ's Blessing]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
-[[Metta]] | 3 | <span class="counts">[[Equanimity (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1)</span> 
 [[Soul]] | 3 | <span class="counts">[[Perfection and Christ's Blessing]] (2) · [[The Birth of a Bodhisattva]] (1)</span> 
 

@@ -176,6 +176,9 @@ So it's really not about self-improvement, and the whole notion of a self to imp
 ##### Recap guided meditation: directing the stream of loving-kindness and compassion towards experience
 <span class="counts">**[[0210 Love and the Emptiness of Things#^5-2|5-2]]**: _[[Meditation]] · [[Metta]] (2) · [[Compassion]] (4) · [[Experience]] (3) · [[Love]] (2) · [[Awareness]] · [[Consciousness]]_</span>
 
+[[Guided Meditation - Directing Love Towards Dharmas]]
+also [[Guided meditation - Metta to phenomena]] in [[2007 Lovingkindness and Compassion As a Path to Awakening|LCPA 2007]]
+
 ![[20080210-Rob_Burbea-GAIA-love_and_the_emptiness_of_things-11953.mp3#t=19:20]]
 
 ```ad-quote
