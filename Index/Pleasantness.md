@@ -11,8 +11,8 @@ talk | count | series
 [[The Way of Non-Clinging Part 1]] | 6 | [[2017 Eros Unfettered]]
 [[Using Insight to Deepen Love and Compassion]] | 6 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and the Emptiness of Things]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[A Hidden Treasure - The Relationship with the Hindrances]] | 3 | [[2019 Practising the Jhanas]]
 [[Equanimity in Compassion]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk

@@ -20,11 +20,11 @@ description | count | talk
 [[Dilemmas and Delineations - How did we get here Part 3#Beauty and sacredness are a feature of image and imaginal practice\|Beauty and sacredness are a feature of image and imaginal practice]] | 5 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 3#Wrapped up in the movement of eros is beauty\|Wrapped up in the movement of eros is beauty]] | 4 | [[The Way of Non-Clinging Part 3]]
 [[Equanimity (talk)#There is nothing really to be equanimous about\|There is nothing really to be equanimous about]] | 4 | [[Equanimity (talk)]]
+[[A Hidden Treasure - The Relationship with the Hindrances#It's ok to have the hindrance win the battle and just go for a walk\|It's ok to have the hindrance win the battle and just go for a walk]] | 3 | [[A Hidden Treasure - The Relationship with the Hindrances]]
 [[Orienting to This Jhana Retreat#3 Beauty\|(3) Beauty]] | 3 | [[Orienting to This Jhana Retreat]]
 [[Daimon, Refracted#Sometimes it's easier to have that sense of beauty and eros when it's externalized like that\|Sometimes it's easier to have that sense of beauty and eros when it's externalized like that]] | 3 | [[Daimon, Refracted]]
 [[Daimon, Refracted#Examples from interviews\|Examples from interviews]] | 3 | [[Daimon, Refracted]]
 [[Joy (talk)#Different ways spiritual joy expresses itself\|Different ways spiritual joy expresses itself]] | 2 | [[Joy (talk)]]
-[[Joy (talk)#Contrast relaxed listening to an Arabic music concert\|Contrast: relaxed listening to an Arabic music concert]] | 2 | [[Joy (talk)]]
 [[Equanimity in Compassion#There is wonder beauty love and juiciness in equanimity practice\|There is wonder, beauty, love and juiciness in equanimity practice]] | 2 | [[Equanimity in Compassion]]
 [[Samadhi in Metta Practice#Nature\|Nature]] | 2 | [[Samadhi in Metta Practice]]
 
@@ -38,7 +38,7 @@ term | count | talks
 [[Experience]] | 13 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
 [[Image]] | 13 | <span class="counts">[[Daimon, Refracted]] (3) · [[Orienting to This Jhana Retreat]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
 [[Imaginal]] | 13 | <span class="counts">[[Daimon, Refracted]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Retreat]] | 13 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Love and the Emptiness of Things]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
 [[Eros]] | 12 | <span class="counts">[[Daimon, Refracted]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[The Way of Non-Clinging Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
-[[Retreat]] | 12 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Love and the Emptiness of Things]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Expressions of Metta]] (1)</span> 
 [[Desire]] | 11 | <span class="counts">[[The Way of Non-Clinging Part 3]] (4) · [[Daimon, Refracted]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
 

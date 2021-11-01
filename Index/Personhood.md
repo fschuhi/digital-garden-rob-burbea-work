@@ -39,6 +39,6 @@ term | count | talks
 [[Dimensionality]] | 7 | <span class="counts">[[Daimon, Refracted]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
 [[Embodiment]] | 7 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
 [[Centre]] | 6 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (6)</span> 
+[[Insight]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[The Place of Samadhi in Metta Practice]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 [[Clinging]] | 5 | <span class="counts">[[The Way of Non-Clinging Part 3]] (4) · [[The Way of Non-Clinging Part 2]] (1)</span> 
-[[Experience]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
 

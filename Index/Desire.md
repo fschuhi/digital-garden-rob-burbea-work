@@ -8,11 +8,11 @@ talk | count | series
 [[Daimon, Refracted]] | 46 | [[2019 Four Circles, Four Parables of Stone and Light]]
 [[The Way of Non-Clinging Part 1]] | 19 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 17 | [[2020 Vajra Music]]
+[[A Hidden Treasure - The Relationship with the Hindrances]] | 14 | [[2019 Practising the Jhanas]]
 [[Dilemmas and Delineations - How did we get here Part 3]] | 13 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 2]] | 10 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 4 | [[2020 Vajra Music]]
 [[Dilemmas and Delineations - How did we get here Part 4]] | 4 | [[2017 Eros Unfettered]]
-[[Joy (talk)]] | 2 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -25,6 +25,7 @@ description | count | talk
 [[Dilemmas and Delineations - How did we get here Part 3#10 Desire\|(10) Desire]] | 7 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 1#Practice allowing dukkha without acting on it\|Practice: allowing dukkha, without acting on it]] | 6 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[The Way of Non-Clinging Part 3#1 desire for sense pleasures mindfulness\|1. desire for sense pleasures (mindfulness)]] | 6 | [[The Way of Non-Clinging Part 3]]
+[[A Hidden Treasure - The Relationship with the Hindrances#a Sexual desire\|(a) Sexual desire]] | 5 | [[A Hidden Treasure - The Relationship with the Hindrances]]
 [[Daimon, Refracted#Without imaginalizing the self our possibilities are very limited\|Without imaginalizing the self our possibilities are very limited]] | 5 | [[Daimon, Refracted]]
 [[The Way of Non-Clinging Part 3#Nourishment life structure vision opening doors\|Nourishment, life, structure, vision, opening doors]] | 5 | [[The Way of Non-Clinging Part 3]]
 [[The Way of Non-Clinging Part 3#One basket for all directions of desires is not enough\|One basket for all directions of desires is not enough]] | 5 | [[The Way of Non-Clinging Part 3]]
@@ -47,7 +48,7 @@ term | count | talks
 [[Dukkha]] | 21 | <span class="counts">[[The Way of Non-Clinging Part 3]] (6) · [[Daimon, Refracted]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
 [[Passion]] | 20 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (8) · [[The Way of Non-Clinging Part 3]] (8) · [[The Way of Non-Clinging Part 1]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
 [[Soul]] | 20 | <span class="counts">[[The Way of Non-Clinging Part 3]] (9) · [[Daimon, Refracted]] (7) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
-[[Retreat]] | 17 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (7) · [[The Way of Non-Clinging Part 3]] (4) · [[Daimon, Refracted]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Experience]] | 18 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (5) · [[The Way of Non-Clinging Part 1]] (5) · [[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Retreat]] | 18 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (7) · [[The Way of Non-Clinging Part 3]] (4) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Daimon, Refracted]] (1)</span> 
 [[The Self]] | 17 | <span class="counts">[[Daimon, Refracted]] (8) · [[The Way of Non-Clinging Part 3]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
-[[Experience]] | 16 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (5) · [[The Way of Non-Clinging Part 1]] (5) · [[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
 

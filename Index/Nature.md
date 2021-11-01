@@ -36,9 +36,9 @@ term | count | talks
 [[Metta]] | 16 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (4) · [[Love and the Emptiness of Things]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Compassion (talk)]] (1)</span> 
 [[Experience]] | 13 | <span class="counts">[[Love and the Emptiness of Things]] (5) · [[The Place of Samadhi in Metta Practice]] (2) · [[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
 [[The Self]] | 13 | <span class="counts">[[Compassion (talk)]] (3) · [[Daimon, Refracted]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[From Insight to Love]] (1)</span> 
+[[Buddha]] | 12 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (3) · [[Equanimity (talk)]] (2) · [[Love and the Emptiness of Things]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
 [[Emptiness]] | 12 | <span class="counts">[[Love and the Emptiness of Things]] (4) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Compassion (talk)]] (1) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
 [[Mind]] | 12 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (4) · [[Samadhi in Metta Practice]] (3) · [[Equanimity (talk)]] (2) · [[From Insight to Love]] (1)</span> 
-[[Buddha]] | 11 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (3) · [[Equanimity (talk)]] (2) · [[Love and the Emptiness of Things]] (2) · [[Equanimity in Compassion]] (1)</span> 
+[[Insight]] | 11 | <span class="counts">[[Love and the Emptiness of Things]] (4) · [[The Place of Samadhi in Metta Practice]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Compassion (talk)]] (1)</span> 
 [[Retreat]] | 11 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (4) · [[Orienting to This Jhana Retreat]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Daimon, Refracted]] (1)</span> 
-[[Samadhi]] | 11 | <span class="counts">[[Samadhi in Metta Practice]] (4) · [[The Place of Samadhi in Metta Practice]] (4) · [[Compassion (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
 

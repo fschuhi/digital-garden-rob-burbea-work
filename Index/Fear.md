@@ -58,7 +58,7 @@ term | count | talks
 [[Anger]] | 17 | <span class="counts">[[The Practice of Compassion]] (5) · [[Compassion (talk)]] (4) · [[Exploring the World of Loving Kindness]] (2) · [[From Insight to Love]] (2)</span> 
 [[Mind]] | 17 | <span class="counts">[[From Insight to Love]] (7) · [[Using Insight to Deepen Love and Compassion]] (4) · [[Love and Emptiness]] (2) · [[Equanimity (talk)]] (1)</span> 
 [[The Self]] | 14 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Compassion (talk)]] (2) · [[The Practice of Compassion]] (2)</span> 
-[[Buddha]] | 12 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (5) · [[From Insight to Love]] (3) · [[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
+[[Buddha]] | 13 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (5) · [[From Insight to Love]] (3) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Love and Emptiness]] (1)</span> 
 [[Embodiment]] | 12 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (8) · [[From Insight to Love]] (2) · [[Guided Meditation - Directing Love Towards Dharmas]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
 [[Dukkha]] | 10 | <span class="counts">[[The Practice of Compassion]] (5) · [[Compassion (talk)]] (4) · [[From Insight to Love]] (1)</span> 
 

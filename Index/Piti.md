@@ -6,6 +6,7 @@ talk | count | series
 [[Samadhi in Metta Practice]] | 18 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Orienting to This Jhana Retreat]] | 17 | [[2019 Practising the Jhanas]]
 [[The Place of Samadhi in Metta Practice]] | 10 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[A Hidden Treasure - The Relationship with the Hindrances]] | 5 | [[2019 Practising the Jhanas]]
 [[Dilemmas and Delineations - How did we get here Part 2]] | 1 | [[2017 Eros Unfettered]]
 [[Compassion (talk)]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Joy (talk)]] | 1 | [[2007 New Years Retreat Insight Meditation]]
@@ -30,12 +31,12 @@ term | count | talks
 -|-|-
 [[Pleasantness]] | 11 | <span class="counts">[[Samadhi in Metta Practice]] (5) · [[Orienting to This Jhana Retreat]] (3) · [[The Place of Samadhi in Metta Practice]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
 [[Samadhi]] | 11 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (4) · [[Samadhi in Metta Practice]] (3) · [[Orienting to This Jhana Retreat]] (2) · [[Equanimity in Compassion]] (1)</span> 
+[[Experience]] | 9 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (4) · [[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
 [[Metta]] | 8 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (3) · [[Orienting to This Jhana Retreat]] (2) · [[Samadhi in Metta Practice]] (2) · [[Compassion (talk)]] (1)</span> 
-[[Experience]] | 7 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (4) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Orienting to This Jhana Retreat]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
-[[Jhanas]] | 6 | <span class="counts">[[Orienting to This Jhana Retreat]] (5) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
-[[Retreat]] | 6 | <span class="counts">[[Orienting to This Jhana Retreat]] (4) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
-[[Energy]] | 5 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Orienting to This Jhana Retreat]] (1)</span> 
-[[Insight]] | 5 | <span class="counts">[[Orienting to This Jhana Retreat]] (5)</span> 
-[[Mind]] | 5 | <span class="counts">[[Samadhi in Metta Practice]] (3) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
-[[Embodiment]] | 4 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
+[[Energy]] | 7 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Jhanas]] | 7 | <span class="counts">[[Orienting to This Jhana Retreat]] (5) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
+[[Mind]] | 7 | <span class="counts">[[Samadhi in Metta Practice]] (3) · [[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
+[[Retreat]] | 7 | <span class="counts">[[Orienting to This Jhana Retreat]] (4) · [[The Place of Samadhi in Metta Practice]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
+[[Insight]] | 6 | <span class="counts">[[Orienting to This Jhana Retreat]] (5) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
+[[Embodiment]] | 5 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
 

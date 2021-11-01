@@ -11,7 +11,7 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 4]] | 4 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 4 | [[2017 Eros Unfettered]]
 [[The Place of Samadhi in Metta Practice]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 1 | [[2020 Vajra Music]]
+[[A Hidden Treasure - The Relationship with the Hindrances]] | 1 | [[2019 Practising the Jhanas]]
 [[What is Insight]] | 1 | [[2007 New Years Retreat Insight Meditation]]
 
 ### Paragraphs with 4+ mentions
@@ -32,13 +32,13 @@ description | count | talk
 term | count | talks
 -|-|-
 [[Dharma]] | 17 | <span class="counts">[[The Way of Non-Clinging Part 3]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (3) · [[Questioning Awakening]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
-[[Image]] | 12 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (3) · [[Orienting to This Jhana Retreat]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Image]] | 13 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (3) · [[Orienting to This Jhana Retreat]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
 [[Awakening]] | 10 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (4) · [[The Way of Non-Clinging Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Questioning Awakening]] (1)</span> 
 [[Love]] | 8 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Questioning Awakening]] (2) · [[The Way of Non-Clinging Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
-[[Imaginal]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Imaginal]] | 7 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
 [[Soul]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Questioning Awakening]] (1)</span> 
+[[Desire]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
 [[Beauty]] | 4 | <span class="counts">[[Orienting to This Jhana Retreat]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Questioning Awakening]] (1)</span> 
-[[Desire]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
 [[Dukkha]] | 4 | <span class="counts">[[Questioning Awakening]] (3) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Embodiment]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[The Place of Samadhi in Metta Practice]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 

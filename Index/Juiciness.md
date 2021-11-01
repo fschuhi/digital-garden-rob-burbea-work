@@ -6,7 +6,7 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 2]] | 8 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 2 | [[2020 Vajra Music]]
 [[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
-[[Orienting to This Jhana Retreat]] | 1 | [[2019 Practising the Jhanas]]
+[[A Hidden Treasure - The Relationship with the Hindrances]] | 1 | [[2019 Practising the Jhanas]]
 [[Dilemmas and Delineations - How did we get here Part 4]] | 1 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
@@ -40,5 +40,5 @@ term | count | talks
 [[Image]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
 [[Psyche]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
 [[Craving]] | 2 | <span class="counts">[[Equanimity in Compassion]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
-[[Energy body]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (2)</span> 
+[[Embodiment]] | 2 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 

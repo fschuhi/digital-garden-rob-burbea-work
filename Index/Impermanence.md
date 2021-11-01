@@ -48,6 +48,6 @@ term | count | talks
 [[The Self]] | 15 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (4) · [[From Insight to Love]] (3) · [[The Way of Non-Clinging Part 2]] (3) · [[The Way of Non-Clinging Part 1]] (2)</span> 
 [[Anatta]] | 14 | <span class="counts">[[From Insight to Love]] (7) · [[Using Insight to Deepen Love and Compassion]] (3) · [[What is Insight]] (2) · [[Joy (talk)]] (1)</span> 
 [[Meditation]] | 13 | <span class="counts">[[The Way of Non-Clinging Part 1]] (4) · [[Questioning Awakening]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
+[[Mind]] | 13 | <span class="counts">[[The Way of Non-Clinging Part 2]] (5) · [[The Way of Non-Clinging Part 1]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
 [[Mindfulness]] | 13 | <span class="counts">[[What is Insight]] (4) · [[The Way of Non-Clinging Part 1]] (3) · [[Equanimity (talk)]] (2) · [[Questioning Awakening]] (2) · [[The Way of Non-Clinging Part 2]] (2)</span> 
-[[Ways of looking]] | 13 | <span class="counts">[[The Way of Non-Clinging Part 2]] (6) · [[What is Insight]] (6) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 

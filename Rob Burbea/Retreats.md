@@ -3,9 +3,9 @@ obsidianUIMode: preview
 ---
 # Garden of Soul: Rob Burbea's Teachings
 ```ad-quote
-So as the imaginal grows, the _papañca_ diminishes. As the _papañca_ grows, the imaginal diminishes.
+[W]e need a slightly more elaborate Dharma psychology because of the different kinds of sacredness and the different realms of experience which are slightly more involved.
 
-_(a quote from the talk [[Daimon, Refracted#Story wounded blackbird|Daimon, Refracted]])_
+_(a quote from the talk [[Dilemmas and Delineations - How did we get here Part 1#We need a more sophisticated Dharma psychology|Dilemmas and Delineations - How did we get here Part 1]])_
 ```
 
 ```ad-danger

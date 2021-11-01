@@ -35,8 +35,8 @@ term | count | talks
 [[Dukkha]] | 13 | <span class="counts">[[Compassion (talk)]] (3) · [[Equanimity in Compassion]] (3) · [[The Birth of a Bodhisattva]] (2) · [[The Practice of Compassion]] (2)</span> 
 [[Awareness]] | 10 | <span class="counts">[[From Insight to Love]] (2) · [[Guided Meditation - Directing Love Towards Dharmas]] (2) · [[Compassion (talk)]] (1) · [[Equanimity (talk)]] (1)</span> 
 [[Equanimity]] | 10 | <span class="counts">[[Equanimity in Compassion]] (4) · [[The Birth of a Bodhisattva]] (2) · [[The Practice of Compassion]] (2) · [[Equanimity (talk)]] (1)</span> 
+[[Mind]] | 8 | <span class="counts">[[Equanimity in Compassion]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity (talk)]] (1)</span> 
 [[Metta]] | 7 | <span class="counts">[[Equanimity in Compassion]] (3) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[From Insight to Love]] (1) · [[Guided Meditation - Directing Love Towards Dharmas]] (1)</span> 
-[[Mind]] | 7 | <span class="counts">[[Equanimity in Compassion]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity (talk)]] (1) · [[From Insight to Love]] (1)</span> 
 [[The Self]] | 6 | <span class="counts">[[Compassion Part Two - Compassion for Ourselves]] (2) · [[Equanimity in Compassion]] (2) · [[Love and the Emptiness of Things]] (2)</span> 
 [[Embodiment]] | 5 | <span class="counts">[[From Insight to Love]] (1) · [[Guided Meditation - Directing Love Towards Dharmas]] (1) · [[Orienting to This Jhana Retreat]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
 [[Insight]] | 5 | <span class="counts">[[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity in Compassion]] (1) · [[Love and the Emptiness of Things]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 

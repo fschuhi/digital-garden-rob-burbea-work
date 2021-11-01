@@ -29,6 +29,7 @@ description | count | talk
 [[Compassion (talk)#Taking care of happiness allows compassion\|Taking care of happiness allows compassion]] | 6 | [[Compassion (talk)]]
 [[The Practice of Compassion#A space radiating compassion\|A space radiating compassion]] | 6 | [[The Practice of Compassion]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Mantras also don't necessarily have particular meaning either\|Mantras also don't necessarily have particular meaning either]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[A Hidden Treasure - The Relationship with the Hindrances#Self-compassion like any compassion will soften everything\|Self-compassion (like any compassion) will soften everything]] | 5 | [[A Hidden Treasure - The Relationship with the Hindrances]]
 [[The Birth of a Bodhisattva#Two central aspirations for a bodhisattva boundless compassion and understanding emptiness\|Two central aspirations for a bodhisattva: boundless compassion and understanding emptiness]] | 5 | [[The Birth of a Bodhisattva]]
 [[The Birth of a Bodhisattva#A Bodhisattva lives their life with compassion at the centre of their priority\|A Bodhisattva lives their life with compassion at the centre of their priority]] | 5 | [[The Birth of a Bodhisattva]]
 [[The Birth of a Bodhisattva#You can take the skill from the cushion into the personal life\|You can take the skill from the cushion into the personal life]] | 5 | [[The Birth of a Bodhisattva]]
