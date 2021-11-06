@@ -26,8 +26,6 @@ talk | count | series
 [[Expressions of Metta]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Daimon, Refracted]] | 4 | [[2019 Four Circles, Four Parables of Stone and Light]]
 
-## some other stuff
-
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
@@ -55,4 +53,18 @@ term | count | talks
 [[Love]] | 12 | <span class="counts">[[From Insight to Love]] (4) · [[Love and Emptiness]] (2) · [[Daimon, Refracted]] (1) · [[Equanimity in Compassion]] (1)</span> 
 [[Ways of looking]] | 12 | <span class="counts">[[The Way of Non-Clinging Part 2]] (5) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
 [[Buddha]] | 11 | <span class="counts">[[The Way of Non-Clinging Part 2]] (3) · [[From Insight to Love]] (2) · [[Compassion (talk)]] (1) · [[Love and Emptiness]] (1)</span> 
+
+### Quotes
+**[[From Insight to Love]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> But there are ways of understanding anattā that go even beyond the notion of impermanence, a whole other depth. If that's accessible, then that's great; if it's not, it's fine. There's enough freedom. There's plenty of freedom in that. &nbsp;&nbsp;<span class="counts">_[[From Insight to Love#Yes it might be but we are interested in freedom rather than a certain badge|Yes, it might be, but we are interested in freedom, rather than a certain badge]]_</span>
+
+**[[Love and Emptiness]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> [W]hen I say, "If I'm loving myself, what am I?", one level of looking at it in terms of anattā is, I am just these experiences and my relationship with them. If that becomes one of more acceptance for all that, then it's a kind of self-love, absolutely. &nbsp;&nbsp;<span class="counts">_[[Love and Emptiness#Rob Anatta practice leads to more acceptance as a kind of self-love|Rob: Anatta practice leads to more acceptance, as a kind of self-love]]_</span>
+
+**[[Using Insight to Deepen Love and Compassion]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> What certain situations need is very relative, conventional language. We need to talk about our emotions; we need to express what we feel to each other; we need to respect that. I need to respect my emotions and your emotions at that level. So in that moment, that's what's helpful, that way of looking. But I'm saying a mature practice is able to move between picking that up, putting it down, picking up other ways of seeing - emptiness, _anattā_, etc. - and putting them down, not getting stuck in one or the other. &nbsp;&nbsp;<span class="counts">_[[Using Insight to Deepen Love and Compassion#Maturity in practice comes from being able to move between different ways of seeing|Maturity in practice comes from being able to move between different ways of seeing]]_</span>
+
 

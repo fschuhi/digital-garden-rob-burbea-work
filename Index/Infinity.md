@@ -41,3 +41,17 @@ term | count | talks
 [[Dimensionality]] | 2 | <span class="counts">[[Daimon, Refracted]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
 [[Dukkha]] | 2 | <span class="counts">[[Daimon, Refracted]] (1) · [[The Practice of Compassion]] (1)</span> 
 
+### Quotes
+**[[Equanimity (talk)]]**
+<span class="counts">[[2006 New Year's Retreat]]</span>
+> This right now, this sound, this sight, these body sensations, it's all in the context of .. the vast unknown of death. So in a way can we contemplate the infinite every day, can we contemplate death every day. Not morbid. Maybe a little scary at first but actually moving towards equanimity, moving towards freedom. &nbsp;&nbsp;<span class="counts">_[[Equanimity (talk)#This moment is in the context of vast time and the vast unknown of death|This moment is in the context of vast time and the vast unknown of death]]_</span>
+
+**[[Dilemmas and Delineations - How did we get here Part 2]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> Eros always goes along with - I think he's another god called Pothos. Pothos is another Greek word. And Pothos is the infinite desire or the desire for the infinite. It's the 'more.' &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 2#Eros goes together with Pothos|Eros goes together with Pothos]]_</span>
+
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+> There's a mystery in the kind of impossibility of finally dividing them up as one or two, this being that I'm encountering, this being that I'm sensing with soul. ... So that infinite echoing and mirroring is of the angel into this person's life, and this person's life and this person's being as the infinite echoing and mirroring of the angel, and the angel also a mirror and an echo of the being, in a kind of two-way, back-and-forth echoing and mirroring each other. &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Words like 'angel' 'soul' 'image' imply unfathomability|Words like 'angel', 'soul', 'image' imply unfathomability]]_</span>
+
+

@@ -42,3 +42,19 @@ term | count | talks
 [[Craving]] | 8 | <span class="counts">[[The Way of Non-Clinging Part 2]] (4) · [[The Way of Non-Clinging Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Perception]] | 8 | <span class="counts">[[The Way of Non-Clinging Part 2]] (5) · [[The Practice of Compassion]] (1) · [[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 
+### Quotes
+**[[What is Insight]]**
+<span class="counts">[[2007 New Years Retreat Insight Meditation]]</span>
+> [A]bsolutely everything that we take for granted, is actually built and fabricated by my relationship to it, by the way I'm looking at it. Not to understand that, the Buddha called that the fundamental delusion, the fundamental ignorance that human beings have, or that consciousnesses have. &nbsp;&nbsp;<span class="counts">_[[What is Insight#Everything is fabricated|Everything is fabricated]]_</span>
+
+**[[The Way of Non-Clinging Part 2]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> [W]e see how clinging, craving, _saṅkhārā_, _avijjā_, attention - these notions overlap. They're all different forms of clinging... &nbsp;&nbsp;<span class="counts">_[[The Way of Non-Clinging Part 2#Even attention is a form of clinging|Even attention is a form of clinging]]_</span>
+
+> So if we don't understand this teaching deeply enough, some level of realism (which is basically delusion, _avijjā_) remains... &nbsp;&nbsp;<span class="counts">_[[The Way of Non-Clinging Part 2#"Just being and receiving" is still a way of looking|"Just being and receiving" is still a way of looking]]_</span>
+
+**[[The Way of Non-Clinging Part 3]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> _[A]vijjā_ is clinging, this belief in the reality of something existing independently from the way of looking. It's a clinging. I need to refine my practice until I can actually play with the spectrum, actually move that clinging of delusion up and down on a spectrum, and see what happens. &nbsp;&nbsp;<span class="counts">_[[The Way of Non-Clinging Part 3#2 spectrum of fabrication emptiness|2. spectrum of fabrication (emptiness)]]_</span>
+
+

@@ -36,3 +36,9 @@ term | count | talks
 [[Appreciation]] | 1 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
 [[Attention]] | 1 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (1)</span> 
 
+### Quotes
+**[[Dilemmas and Delineations - How did we get here Part 3]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> What kind of entity? Well, it's that entity, that aspect of _citta_, if you like, that facet of _citta_ or being, that which sees or senses in a soulmaking way. That's the entity of soul. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#7 Soul - either a way of looking which gives rise to soulmaking or an entity|(7) Soul - either a way of looking which gives rise to soulmaking, or an entity]]_</span>
+
+

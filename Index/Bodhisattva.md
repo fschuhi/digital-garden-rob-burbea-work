@@ -38,3 +38,15 @@ term | count | talks
 [[Dharma]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 3]] (2) · [[The Birth of a Bodhisattva]] (1)</span> 
 [[Metta]] | 3 | <span class="counts">[[Exploring the World of Loving Kindness]] (1) · [[Expressions of Metta]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
 
+### Quotes
+**[[Compassion (talk)]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> Avalokiteśvara is the bodhisattva of compassion, and one of the meanings of that is One Who Listens to the Cries of the World. Beautiful. &nbsp;&nbsp;<span class="counts">_[[Compassion (talk)#Wanting to take in all the suffering is a beautiful aspiration|Wanting to take in all the suffering is a beautiful aspiration]]_</span>
+
+**[[The Birth of a Bodhisattva]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> Moving away from the kind of sense of consolation one gets from God or bodhisattva or whatever it is, away from that to _thy will_, and actually into the dark night of the soul, where one feels one isn't getting anything. There's something in that darkness, in that not getting. &nbsp;&nbsp;<span class="counts">_[[The Birth of a Bodhisattva#Jesus in the Garden of Gethsemane|Jesus in the Garden of Gethsemane]]_</span>
+
+> It's all empty. At one level, nothing happened. At another level, I'm right there. That's what allows a bodhisattva to be a bodhisattva, is that the emptiness and the compassion are together. Without that, forget about it. &nbsp;&nbsp;<span class="counts">_[[The Birth of a Bodhisattva#The bodhisattva can make such a huge aspiration because they're holding the compassion with the emptiness of it all|The bodhisattva can make such a huge aspiration because they're holding the compassion with the emptiness of it all]]_</span>
+
+

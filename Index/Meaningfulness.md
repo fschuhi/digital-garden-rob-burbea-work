@@ -38,3 +38,17 @@ term | count | talks
 [[Imaginal]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
 [[Cosmology]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Questioning Awakening]] (1)</span> 
 
+### Quotes
+**[[Dilemmas and Delineations - How did we get here Part 1]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> [W]henever there is a sense of soulfulness, that kind of richness, resonance, depth, dimensionality, beauty, meaningfulness, in our existence, in the being, whenever there is soulmaking, sacredness in our existence, eros is involved. Eros is involved whenever there is soulmaking. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 1#Eros involves energy embodiment the imaginal and logos|Eros involves energy, embodiment, the imaginal, and logos]]_</span>
+
+**[[Dilemmas and Delineations - How did we get here Part 3]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> Where there is love, meaningfulness, importance, aliveness, _there_ there is image and fantasy. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#The imaginal and images also relate to how we perceive the world|The imaginal and images also relate to how we perceive the world]]_</span>
+
+**[[Dilemmas and Delineations - How did we get here Part 4]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> And I also insist that this is not a bad thing. Not at all a bad thing. It's inevitable, and it's important, and it may well, I would say, be necessary. It's certainly necessary to galvanize in relation to practice and Dharma, and to be inspired in life, and to have meaningfulness. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 4#In any Dharma fantasy and image is already involved|In any Dharma, fantasy and image is already involved]]_</span>
+
+

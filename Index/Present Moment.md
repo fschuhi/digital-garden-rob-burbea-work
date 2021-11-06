@@ -40,3 +40,21 @@ term | count | talks
 [[Anatta]] | 2 | <span class="counts">[[From Insight to Love]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 [[Anger]] | 2 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (2)</span> 
 
+### Quotes
+**[[The Practice of Compassion]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> In that climate of compassion, with a little bit more broad awareness, it's like a lens of looking at the present moment, the present experience, through the lens of seeing suffering and the end of suffering, in the moment. So we begin to see little sufferings, little ways that we're creating suffering. And organically somehow, because of the compassion practice, we can just unhook. &nbsp;&nbsp;<span class="counts">_[[The Practice of Compassion#Looking at the present experience through the lens of seeing suffering and the end of suffering|Looking at the present experience, through the lens of seeing suffering and the end of suffering]]_</span>
+
+**[[The Place of Samadhi in Metta Practice]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> We tend to think of a storehouse of old emotions: "Here's anger. I need to release it. I need it to come up." But it cannot come up unless the conditions in the present moment are there for it to come up. And sometimes when we're really clear, we can actually see this process, that if we don't feed it in the present, it doesn't come up. It _cannot_ come up. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#When the samadhi is around drop in a thought of what's difficult|When the samadhi is around, drop in a thought of what's difficult]]_</span>
+
+**[[Using Insight to Deepen Love and Compassion]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> So the way that I'm looking, and my relationship, is something that _feeds_, is part of what creates and feeds and shapes and colours any object in the present moment. So an object doesn't exist independently of the way I'm looking at it, and the way I'm relating to it. &nbsp;&nbsp;<span class="counts">_[[Using Insight to Deepen Love and Compassion#But the thing and our relationship are actually not separate|But the thing and our relationship are actually not separate]]_</span>
+
+**[[Love and the Emptiness of Things]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> If I believe in 'the present,' if I believe in a present moment, a present situation, as something that has real, independent existence - if I believe in the present, then fear of the future is inevitable. It's just waiting to happen. &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#A lot of fear is future-thinking based|A lot of fear is future-thinking based]]_</span>
+
+

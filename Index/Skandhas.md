@@ -38,3 +38,9 @@ term | count | talks
 [[Buddha]] | 3 | <span class="counts">[[From Insight to Love]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[What is Insight]] (1)</span> 
 [[Emotions]] | 3 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (1)</span> 
 
+### Quotes
+**[[Using Insight to Deepen Love and Compassion]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> [Y]ou're actually reflecting on the nature of their being, reflecting on the nature of their aggregates, etc. &nbsp;&nbsp;<span class="counts">_[[Using Insight to Deepen Love and Compassion#It's not visual imagination because it's coming out of a contemplation of their emptiness|It's not visual imagination, because it's coming out of a contemplation of their emptiness]]_</span>
+
+

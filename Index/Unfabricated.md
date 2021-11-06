@@ -42,3 +42,17 @@ term | count | talks
 [[Dharma]] | 8 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Love and Emptiness]] (1)</span> 
 [[Freedom]] | 8 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
 
+### Quotes
+**[[Love and the Emptiness of Things]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> "I won't put the pole here; I'll keep going, keep the questioning alive," until one has totally understood this dependent arising and how anything at all - no matter how beautiful, how subtle, how refined, how seemingly ultimate - comes to be. And that doesn't mean dismissing everything as just conditions, and it's just all irrelevant. It doesn't mean that at all, because one also opens to the Unconditioned and the beauty of what that means as well. &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#To understand fully the nature of perception is to be fully awakened|To understand fully the nature of perception is to be fully awakened]]_</span>
+
+**[[The Way of Non-Clinging Part 2]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> There's no sensation there in the knee any more. I'm staring right at it. It's not that I'm not paying attention. I'm certainly not distracted. It's faded. It's unfabricated. And I start to see, again: dependent on the way of looking is the construction of my experience, my perception, and what appears to me. &nbsp;&nbsp;<span class="counts">_[[The Way of Non-Clinging Part 2#Even the pleasant vedana become neutral and even those neutral sensations disappear|Even the pleasant vedana become neutral, and even those neutral sensations disappear]]_</span>
+
+**[[Dilemmas and Delineations - How did we get here Part 2]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> [E]ros involves and leads to soulmaking, and widening of the senses of sacredness beyond just the 'is-ness' of things, and even beyond the transcendence that's possible for us, for consciousness, transcendence in oneness or the Unfabricated. And opening up sacredness wider than a kind of universal sacredness. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 2#Recap Why eros why this delineation|Recap: Why eros, why this delineation?]]_</span>
+
+

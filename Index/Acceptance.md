@@ -42,3 +42,29 @@ term | count | talks
 [[Aversion]] | 3 | <span class="counts">[[From Insight to Love]] (1) · [[Joy (talk)]] (1) · [[Love and Emptiness]] (1)</span> 
 [[Dukkha]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[The Practice of Compassion]] (1)</span> 
 
+### Quotes
+**[[Love and Emptiness]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> And there's complete welcoming, complete acceptance. So what's being emphasized here is the love, the acceptance. Absolute, radical acceptance. Not, as in a usual vipassanā practice or awareness practice, the precision, the clarity: "What exactly is going on? Can I see it moment to moment to moment?" &nbsp;&nbsp;<span class="counts">_[[Love and Emptiness#Emphasis was on complete acceptance|Emphasis was on complete acceptance]]_</span>
+
+> There's nowhere outside of acceptance. There's nowhere outside of love. So if we feel resistance, if we feel non-acceptance, if we feel judging, if we feel numb - whatever it is, the love, the space of love, can just be bigger, bigger than that, and see that, too, and embrace that, too, and bathe that, too, in the kindness, in the complete welcoming. And this welcoming has to be, this total welcoming has to be as genuine as possible. &nbsp;&nbsp;<span class="counts">_[[Love and Emptiness#Relaxing back into a space of metta|Relaxing back into a space of metta]]_</span>
+
+> [W]hen I say, "If I'm loving myself, what am I?", one level of looking at it in terms of anattā is, I am just these experiences and my relationship with them. If that becomes one of more acceptance for all that, then it's a kind of self-love, absolutely. &nbsp;&nbsp;<span class="counts">_[[Love and Emptiness#Rob Anatta practice leads to more acceptance as a kind of self-love|Rob: Anatta practice leads to more acceptance, as a kind of self-love]]_</span>
+
+**[[Equanimity in Compassion]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> So this practice that we've been doing this week, with directing kindness towards things, and sometimes the things fade - one actually sees that, through the lack of kindness or the lack of acceptance, a perception is actually getting built, it's getting fabricated or compounded, to use the Buddha's words, constructed in the moment. Without the mind doing something, that perception cannot be there. So something, whatever's going on, is just a perception. It's just fabricated. It's empty, in other words. It's empty. &nbsp;&nbsp;<span class="counts">_[[Equanimity in Compassion#Practice seeing things as just perceptions|Practice: seeing things as just perceptions]]_</span>
+
+**[[Joy (talk)]]**
+<span class="counts">[[2007 New Years Retreat Insight Meditation]]</span>
+> [C]onnection, interest, acceptance... &nbsp;&nbsp;<span class="counts">_[[Joy (talk)#The absence of aversion the absence of pushing away and wanting to get rid of brings joy|The absence of aversion, the absence of pushing away and wanting to get rid of, brings joy]]_</span>
+
+**[[Compassion Part Two - Compassion for Ourselves]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> A wrong kind of self-attention feeds, builds the ego and builds the self-sense, whereas an attention that's full of compassion, full of tenderness, full of acceptance and care, full of insight into questioning, "How is it that this suffering has come about?" - that kind of direction of the attention towards self does not build the ego, will not build the ego, will actually soften things, will actually allow things to become looser and more spacious. &nbsp;&nbsp;<span class="counts">_[[Compassion Part Two - Compassion for Ourselves#Compassion to self does not build the ego|Compassion to self does not build the ego]]_</span>
+
+**[[Guided Meditation - Directing Love Towards Dharmas]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> As if you're opening the doors of awareness very wide, very spacious, to welcome. Complete, radical acceptance of the experience, whatever it is. &nbsp;&nbsp;<span class="counts">_[[Guided Meditation - Directing Love Towards Dharmas#Bathing holding total welcoming|Bathing, holding, total welcoming]]_</span>
+
+

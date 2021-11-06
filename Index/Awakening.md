@@ -42,3 +42,29 @@ term | count | talks
 [[Metta]] | 9 | <span class="counts">[[From Insight to Love]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
 [[Passion]] | 9 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (5) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
 
+### Quotes
+**[[Questioning Awakening]]**
+<span class="counts">[[2014 November Solitary - Questioning Awakening]]</span>
+> Even after one's so-called awakening, then what? Then what? Why are we practising? What is this path for? What is _your_ path for? Why are we here? What are we doing? &nbsp;&nbsp;<span class="counts">_[[Questioning Awakening#After suffering after awakening then what|After suffering, after awakening: then what?]]_</span>
+
+> Is it possible that liberation, freedom, is actually ever-expanding? Could it be something ever-expanding? It realizes it's in a box, breaks the walls of that box, finds itself in another box, breaks those walls. &nbsp;&nbsp;<span class="counts">_[[Questioning Awakening#The notion of liberation can be boxed in but in can also be ever-expanding|The notion of liberation can be boxed in, but in can also be ever-expanding]]_</span>
+
+**[[The Way of Non-Clinging Part 3]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> There's a constrainment of the idea of what's allowed in terms of desire, and also of fantasy and image of what awakening looks like, what kind of desires and involvements an awakened person has, and therefore what we're moving towards. &nbsp;&nbsp;<span class="counts">_[[The Way of Non-Clinging Part 3#Constraints on the kinds of desire or fantasies that are allowed|Constraints on the kinds of desire or fantasies that are allowed]]_</span>
+
+**[[Dilemmas and Delineations - How did we get here Part 1]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> And some people don't seem to have an interest or a desire, there's not much libido, if you like, towards awakening in general. They don't talk about it. They don't listen to talks that mention it. When it's talked about, they'll just lose interest. They'll actually say - I've heard many people say to me, "I'm just not interested." So that's interesting, too, to me. Why? What's going on there? &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 1#Why seem others not really interested in awakening|Why seem others not really interested in awakening?]]_</span>
+
+> [S]ome people (and again, I would also include myself) sort of at the edge of Dharma would even conceive of an endlessly expanding - not quite receding, but endlessly expanding - notion of awakening. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 1#High bar in Theravada; for Rob it's an endlessly expanding notion of awakening|High bar in Theravada; for Rob it's an endlessly expanding notion of awakening]]_</span>
+
+> So the desire is always there. The flame of desire never goes out, because there's always more. There's always a greater expansion. There's always more depth and diversity and range to what awakening is and can be. There are always new horizons of awakening opening up. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 1#High bar in Theravada; for Rob it's an endlessly expanding notion of awakening|High bar in Theravada; for Rob it's an endlessly expanding notion of awakening]]_</span>
+
+> There can be and hopefully is an erotic view, an erotic connection, with the path, and with the idea, or the vision, the fantasy, the notion, the concept of awakening. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 1#You can have an erotic connection with everything and anything|You can have an erotic connection with everything and anything]]_</span>
+
+**[[Orienting to This Jhana Retreat]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> What it means is, these days, liberation needs to include a certain depth and breadth, and capacity, and sophistication, and sensitivity with regard to what we might call psychological awareness of self and other. &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#Emotional discernment and emotional capacity in awakening and healing|Emotional discernment and emotional capacity in awakening and healing]]_</span>
+
+

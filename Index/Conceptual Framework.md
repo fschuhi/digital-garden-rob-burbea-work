@@ -42,3 +42,31 @@ term | count | talks
 [[Soulmaking]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[The Self]] | 6 | <span class="counts">[[Daimon, Refracted]] (2) · [[Orienting to This Jhana Retreat]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Questioning Awakening]] (1)</span> 
 
+### Quotes
+**[[Questioning Awakening]]**
+<span class="counts">[[2014 November Solitary - Questioning Awakening]]</span>
+> Big ideas can open up the whole sense of existence - the questioning, the perception, everything. That opening up won't happen just by 'being with,' or just by being with my feelings, if I'm 'being with' with the same unquestioned ways of looking, unquestioned conceptual framework, etc., unquestioned metaphysics, really. We somehow need to question and to put in new ideas. Somehow. &nbsp;&nbsp;<span class="counts">_[[Questioning Awakening#Is a wholly different relationship with fundamental ideas possible|Is a wholly different relationship with fundamental ideas possible?]]_</span>
+
+**[[The Way of Non-Clinging Part 3]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> Can I have a conceptual framework, can I form, can I open to a conceptual framework and a fantasy that, actually, romantic love becomes part of the path, and not just in those kind of simplistic terms? The concepts, if I try and stretch too small a set of concepts over the range of things that we deeply care about, the whole structure will snap. It's not adequate. It cannot support it. It cannot nourish those areas that we really care about, _if_ we really care about them. &nbsp;&nbsp;<span class="counts">_[[The Way of Non-Clinging Part 3#When I stretch a limited conceptual framework over things I care deeply about the whole structure will snap|When I stretch a limited conceptual framework over things I care deeply about, the whole structure will snap]]_</span>
+
+> [A]re there ways of conceiving, conceptual frameworks, relationships and investigations, that open otherwise closed doors for us? And doors that are deeply important to us, that it's deeply important to us to move through, because of what they open to, because of where they take us? &nbsp;&nbsp;<span class="counts">_[[The Way of Non-Clinging Part 3#How can we conceive of a clinging which opens towards what is deeply important to us|How can we conceive of a clinging which opens towards what is deeply important to us?]]_</span>
+
+**[[Dilemmas and Delineations - How did we get here Part 2]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> Phenomenological observation is always informed by a conceptual framework. But the definitions we're using are based on, really, what is observed in experience in that territory. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 2#This delineation of eros is based on a phenomenological approach|This delineation of eros is based on a phenomenological approach]]_</span>
+
+> (A) we can't avoid conceptuality, and (B), actually conceptuality is necessary and part of the erotic movement. This is the thing: an expanding, not a limited or fixed or stuck conceptuality; that's where the rub comes. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 2#Eros like the demi-god is not fully capturable in concept|Eros, like the (demi-)god, is not fully capturable in concept]]_</span>
+
+**[[Dilemmas and Delineations - How did we get here Part 3]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> There's conceptuality operating even when there's no thought whatsoever. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#There is always a logos operating in the mind except during an experience of the Unfabricated|There is always a logos operating in the mind (except during an experience of the Unfabricated]]_</span>
+
+> I was contrasting _poiesis_ and _logos_, but actually when I use the word 'logos' in the way _we're_ using it, we're not making a truth claim, other than that everything is empty, and even _that_, actually, you let go of at a certain point. A logos is just a concept that we can pick up, or a conceptual framework we can pick up, without insisting or even believing it as true. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#The soul is participating in the cosmos|The soul is participating in the cosmos]]_</span>
+
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+> What would it be to listen or read _for_ and _from_ the whole conceptual framework? I'm listening _for_, or I'm reading _for_, to get a sense of, what is the whole conceptual framework. And then, when I think I have that, I'm listening _from_ the perspective of the whole conceptual framework. And that listening _from_ an understanding of the whole conceptual framework, holding it there, it frames my listening... &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Structural listening|==Structural listening==]]_</span>
+
+

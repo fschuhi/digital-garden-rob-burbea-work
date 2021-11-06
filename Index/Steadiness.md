@@ -42,3 +42,13 @@ term | count | talks
 [[Dukkha]] | 6 | <span class="counts">[[Equanimity in Compassion]] (2) · [[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
 [[Awareness]] | 5 | <span class="counts">[[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
 
+### Quotes
+**[[Equanimity in Compassion]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> So the mind, the heart, the being staying steady, staying balanced, unshakeable, whatever happens, whatever's going on, whatever is coming to the senses. Sometimes to ask ourselves: how much does my mind state depend on what's going on? This happens or that happens; how much does the mind state wobble with that? A steadiness with it is what equanimity is. &nbsp;&nbsp;<span class="counts">_[[Equanimity in Compassion#Equanimity is steadiness in the face of all conditions|Equanimity is steadiness in the face of all conditions]]_</span>
+
+**[[The Way of Non-Clinging Part 2]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> And that calmness, like when the water is calm in a pond or a lake or something, I can actually pick up even more subtle levels of craving. So then I can feel that, very subtle, and release those, and even more calm. &nbsp;&nbsp;<span class="counts">_[[The Way of Non-Clinging Part 2#The calmer I get the even more subtle levels of craving I can pick up|The calmer I get, the even more subtle levels of craving I can pick up]]_</span>
+
+

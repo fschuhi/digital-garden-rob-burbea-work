@@ -44,3 +44,17 @@ term | count | talks
 [[Elitism]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (3)</span> 
 [[Embodiment]] | 3 | <span class="counts">[[Daimon, Refracted]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 
+### Quotes
+**[[Equanimity in Compassion]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> How is it that my well of joy, my reservoir of inner happiness, can be deepened in life? And so looking into: how does the being open to wonder? How does it open to the mystery of life, to the awe of things? What's the place of art and music in that? What's the place of our relationship with nature? &nbsp;&nbsp;<span class="counts">_[[Equanimity in Compassion#When feel like we have enough external circumstances make less of an impact|When feel like we have enough, external circumstances make less of an impact]]_</span>
+
+**[[The Way of Non-Clinging Part 3]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> [I]s it even possible to create a large form (say a long piece of music, or a novel, or a film or something, or a painting that takes a long time) without craving, clinging, attachment, desire? Or training - the long, dedicated training it takes to develop that kind of mastery in spontaneity... &nbsp;&nbsp;<span class="counts">_[[The Way of Non-Clinging Part 3#Art sexuality without desire|Art, sexuality without desire?]]_</span>
+
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+> The meaning of this and the dimensionality, or the meaning of this and the sensing with soul of what's opened up through the meaning of what's being said in my voice, but also the dimensions that are opened up just through the sound, through the [[music]] of it, the mystery of it, the miracle of hearing and of sound. This particular sound, right now. This particular music. Different than other musics. Unique, particular. &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#The mircacle of hearing and of sound|The mircacle of hearing and of sound]]_</span>
+
+

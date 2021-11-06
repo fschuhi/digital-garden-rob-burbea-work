@@ -32,3 +32,11 @@ term | count | talks
 [[Emptiness]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
 [[Meditation]] | 2 | <span class="counts">[[Daimon, Refracted]] (2)</span> 
 
+### Quotes
+**[[Dilemmas and Delineations - How did we get here Part 3]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> Buddha-nature, _dharmakāya_, emptiness, the Absolute, and other words (there are quite a few words that are used interchangeably), means something like the cosmic awareness that is inherently in me and in you and in everything, that knows the emptiness of all things, is not separate (as separating subjects and objects). In that sense, it's non-dual. It refers, then, to the knowing - which is also empty; this knowing awareness is empty in itself - but the knowing and_ the appearances _and_ their emptiness. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#Buddha-nature according to Shentong|Buddha-nature according to Shentong]]_</span>
+
+> World Soul - there's a kind of intelligence or divine activity that's operating in and through and as Buddha-nature, as well as that awareness and its inseparability from emptiness, from appearances, etc. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#The dharmakaya can act in the world|The dharmakaya can act in the world]]_</span>
+
+

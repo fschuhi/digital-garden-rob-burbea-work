@@ -42,3 +42,27 @@ term | count | talks
 [[Metta]] | 7 | <span class="counts">[[The Practice of Compassion]] (2) · [[Expressions of Metta]] (1) · [[From Insight to Love]] (1) · [[Love and Emptiness]] (1)</span> 
 [[Dukkha]] | 6 | <span class="counts">[[The Practice of Compassion]] (4) · [[The Way of Non-Clinging Part 2]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 
+### Quotes
+**[[The Practice of Compassion]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> We need, as I said, to touch the suffering of life with the compassion practice, and also to see the commonality and see the oneness. &nbsp;&nbsp;<span class="counts">_[[The Practice of Compassion#We need to touch suffering with compassion and also see the commonality and the oneness|We need to touch suffering with compassion, and also see the commonality and the oneness]]_</span>
+
+**[[Love and Emptiness]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> Human consciousness is programmed incredibly strongly to go to that default mode. What we begin to see in practice is that default way of seeing is not the reality. If we throw out what I would call the deeper senses of oneness, of an infinite love, whatever you want to call it, if we throw that out too quickly, we just go back to the default, and in a way, we're not challenging that default mode enough. &nbsp;&nbsp;<span class="counts">_[[Love and Emptiness#But don't be in a hurry as the power of those kinds of perceptions transforms heart and mind|But don't be in a hurry, as the power of those kinds of perceptions transforms heart and mind]]_</span>
+
+**[[Compassion (talk)]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> The body is vulnerable. We are vulnerable to death. Reflecting, we are one in that. We share that. There's a oneness there. We are one in our uncertainty. &nbsp;&nbsp;<span class="counts">_[[Compassion (talk)#Incline the mind towards oneness|Incline the mind towards oneness]]_</span>
+
+**[[Love and the Emptiness of Things]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> Vast sense of oneness - beautiful. Beautiful for consciousness to open up to, at times. But even that is actually empty. It's still a perception that's come into being through the way we are looking, through our relationship _with_. &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#Even oneness is a perception which comes into being through the way we are looking|Even oneness is a perception which comes into being through the way we are looking]]_</span>
+
+**[[Dilemmas and Delineations - How did we get here Part 2]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> [E]ros involves and leads to soulmaking, and widening of the senses of sacredness beyond just the 'is-ness' of things, and even beyond the transcendence that's possible for us, for consciousness, transcendence in oneness or the Unfabricated. And opening up sacredness wider than a kind of universal sacredness. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 2#Recap Why eros why this delineation|Recap: Why eros, why this delineation?]]_</span>
+
+> It will resist somehow that collapse to oneness. It will preserve the twoness, the self and the erotic other, the erotic object, the beloved. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 2#Eros does not move towards dissolution i e it will either resurrect a twoness after unification or discover more otherness|Eros does not move towards dissolution, i.e. it will either resurrect a twoness after unification, or discover more otherness]]_</span>
+
+

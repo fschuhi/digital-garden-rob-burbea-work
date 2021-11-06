@@ -42,3 +42,25 @@ term | count | talks
 [[Insight]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[The Place of Samadhi in Metta Practice]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 [[Clinging]] | 5 | <span class="counts">[[The Way of Non-Clinging Part 3]] (4) · [[The Way of Non-Clinging Part 2]] (1)</span> 
 
+### Quotes
+**[[Equanimity (talk)]]**
+<span class="counts">[[2006 New Year's Retreat]]</span>
+> A spiritual joy, doesn't have so much to do with the self. So one aspect of spiritual joy, we could say, is wonder, wonder. That quality of just a human being wondering, marveling.. a human being in awe at life, at existence, at the universe... &nbsp;&nbsp;<span class="counts">_[[Equanimity (talk)#Spiritual joy|Spiritual joy]]_</span>
+
+**[[Exploring the World of Loving Kindness]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> [I]t takes an extraordinarily evolved human being to have anger flung at them, energetically, that level of anger, and not to react. &nbsp;&nbsp;<span class="counts">_[[Exploring the World of Loving Kindness#It can also be blind to its effects on others|It can also be blind to its effects on others]]_</span>
+
+**[[Daimon, Refracted]]**
+<span class="counts">[[2019 Four Circles, Four Parables of Stone and Light]]</span>
+> So there's the particular, unique way these ten _Sefirot_ manifest and express through me. So something that can start as an apparently impersonal image, or even sound like it, actually can be, by including the narrative and the particulars and the uniqueness, can be rendered more unique, retain its particularities, retain its personhood and uniqueness to self. &nbsp;&nbsp;<span class="counts">_[[Daimon, Refracted#My particularities were retained in the meditation not just a universal kind of manifestation of God|My particularities were retained in the meditation, not just a universal kind of manifestation of God]]_</span>
+
+**[[A Hidden Treasure - The Relationship with the Hindrances]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> Hindrances - don't take them personally. They're a human thing. They're like facts of being human, and the arising of a hindrance doesn't mean anything about my capability as a meditator or my worthiness as a human being. That's really, really important. So, can I encourage that attitude? And that's part of where we want to move towards. That's part of the gift of _jhāna_ practice. We begin, after a while, to see: it's not personal. &nbsp;&nbsp;<span class="counts">_[[A Hidden Treasure - The Relationship with the Hindrances#3 Do not take the hindrances personally they are a fact of being human|(3) Do not take the hindrances personally, they are a fact of being human]]_</span>
+
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+>  And I find more and more these days, when things are difficult, when there's challenge different ways, that the sense (and I mean that word in its double meaning: the sense, the actual [[perception]], and the idea) of my human being or another human being is more along the lines of this [[Image|image and analogue]], of having [[Dimensionality|angelic dimensions]] which are refracted into the human life more or less at different times, with a [[duty]] to that.... &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#The sense and sensing of being larger having angelic dimensions|The sense and sensing of being larger, having angelic dimensions]]_</span>
+
+

@@ -39,3 +39,9 @@ term | count | talks
 [[Love]] | 3 | <span class="counts">[[Joy (talk)]] (1) · [[The Birth of a Bodhisattva]] (1) · [[What is Insight]] (1)</span> 
 [[Attention]] | 2 | <span class="counts">[[Joy (talk)]] (2)</span> 
 
+### Quotes
+**[[Guided Meditation on Gratitude and Compassion]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> Just opening up the awareness to the huge stream of generosity, of care that we have received from our parents. Allowing the heart to open, too, to their pain, their suffering, their confusion. Wherever they are now, "May they be free from suffering. May they be at peace." &nbsp;&nbsp;<span class="counts">_[[Guided Meditation on Gratitude and Compassion#Compassion to the parents|Compassion to the parents]]_</span>
+
+

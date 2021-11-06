@@ -42,3 +42,15 @@ term | count | talks
 [[Metta]] | 5 | <span class="counts">[[Love and the Emptiness of Things]] (2) · [[Guided Meditation - Directing Love Towards Dharmas]] (1) · [[Guided meditation - Metta to phenomena]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 [[Clinging]] | 4 | <span class="counts">[[What is Insight]] (2) · [[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
 
+### Quotes
+**[[Love and the Emptiness of Things]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> Everything is so fleeting. And so things, phenomena, _dharmas_ are fleeting by their nature, when we look at them. And in a way, you could say, they're deserving of compassion. They're impoverished. They barely last. &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#Phenomena are fleeting by their nature so they are deserving of compassion|Phenomena are fleeting by their nature, so they are deserving of compassion]]_</span>
+
+**[[Dilemmas and Delineations - How did we get here Part 3]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> The assumption that this or that is underneath appearances, or it's really matter, or all appearances/perceptions come from the brain, these are all assumptions. What I have is appearances/phenomena. I use the word appearances, experiences, and perceptions interchangeably. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#1 Phenomenological approach|(1) Phenomenological approach]]_</span>
+
+> [W]hatever appears to me, I can relate to as a phenomenon and investigate it... &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#It's a powerful way into understanding emptiness and the imaginal|It's a powerful way into understanding emptiness and the imaginal]]_</span>
+
+

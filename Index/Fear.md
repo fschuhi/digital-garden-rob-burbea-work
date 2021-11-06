@@ -62,3 +62,49 @@ term | count | talks
 [[Embodiment]] | 12 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (8) · [[From Insight to Love]] (2) · [[Guided Meditation - Directing Love Towards Dharmas]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
 [[Dukkha]] | 10 | <span class="counts">[[The Practice of Compassion]] (5) · [[Compassion (talk)]] (4) · [[From Insight to Love]] (1)</span> 
 
+### Quotes
+**[[From Insight to Love]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> So with these three characteristics, one of the indicators that they're working properly is that they bring [[Awakening|freedom]] and love, and not a sense of coldness and disconnection or fear, as I said before.... &nbsp;&nbsp;<span class="counts">_[[From Insight to Love#The emptiness that opens up from "not me not mine" is inbued with love|The emptiness that opens up from "not me, not mine" is inbued with love]]_</span>
+
+> [I]f there's no fear in practice, just steam right ahead. Don't worry about it. &nbsp;&nbsp;<span class="counts">_[[From Insight to Love#Much of our fear is bound up with the future|Much of our fear is bound up with the future]]_</span>
+
+**[[Love and Emptiness]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> If I don't really believe in the present, I can't really believe in the future, and I can't really believe in fear. I can't really believe in the power of that. &nbsp;&nbsp;<span class="counts">_[[Love and Emptiness#Past present and future are empty|Past, present and future are empty]]_</span>
+
+**[[The Place of Samadhi in Metta Practice]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> If the fear's not that strong, it's possible - just take a step back, say, "I've got two things going on," not push away the fear, but just incline towards what's pleasurable, what's enjoyable in the experience, and just lean that way. And the very enjoying of it will help the fear to just subside. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#Fear can come up|Fear can come up]]_</span>
+
+**[[Using Insight to Deepen Love and Compassion]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> [L]ove and fear have this kind of inverse relationship. Originally, the Buddha offered the _mettā_ practice to a group of monks who were really, really afraid in the forest. That was his initial offering as an antidote and as a response to fear. &nbsp;&nbsp;<span class="counts">_[[Using Insight to Deepen Love and Compassion#Fear is an aversion that blocks love|Fear is an aversion that blocks love]]_</span>
+
+> [W]e _can_ learn to accommodate that experience of fear: the body experience, the thinking experience, and the texture of the mind experience. We learn to just bring mindfulness to it and just to be with it. &nbsp;&nbsp;<span class="counts">_[[Using Insight to Deepen Love and Compassion#We are afraid of fear but we can be with this which brings confidence|We are afraid of fear, but we can be with this, which brings confidence]]_</span>
+
+> What's almost always lacking with fear is confidence. We don't feel confident that we can actually be with the fear and accommodate it, and be okay with it. With practice, bringing mindfulness to all of it, we just see: it's just that, and it's accommodatable. Confidence comes. &nbsp;&nbsp;<span class="counts">_[[Using Insight to Deepen Love and Compassion#We are afraid of fear but we can be with this which brings confidence|We are afraid of fear, but we can be with this, which brings confidence]]_</span>
+
+> When we say that, who is the 'I' in that moment? There's fear around. Who is the 'I'? The 'I' is me with fear. It's not me without the fear, me when the fear goes away, me and idealized fear. &nbsp;&nbsp;<span class="counts">_[[Using Insight to Deepen Love and Compassion#Fear is human|Fear is human]]_</span>
+
+> And you can toy with this playing of perception. Something comes: this moment, death, and vastness. And again, instead of unlocking fear, sometimes it can unlock more love. &nbsp;&nbsp;<span class="counts">_[[Using Insight to Deepen Love and Compassion#Put the moment of perception into context of the unknown|Put the moment of perception into context of the unknown]]_</span>
+
+> Without belief in the self, there can't really be fear. Where is the fear going to take root? It's around self. When we begin to understand, deeply and in the heart, this emptiness of self, we realize there's actually nothing real here to protect, to defend, to worry about, and fear gets released at a very deep level in our lives. &nbsp;&nbsp;<span class="counts">_[[Using Insight to Deepen Love and Compassion#We want to understand something about what the self is and how it is in a way that brings freedom into our life|We want to understand something about what the self is, and how it is, in a way that brings freedom into our life]]_</span>
+
+**[[Compassion (talk)]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> And the presence of the fear actually tends to either make us feel overwhelmed, which is what we were fearing anyway, and/or increases our sense of suffering when we are open to the suffering of others. So the fear is exactly doing what we're afraid we would feel anyway. &nbsp;&nbsp;<span class="counts">_[[Compassion (talk)#1 Fear|(1) Fear]]_</span>
+
+**[[Guided Meditation - Directing Love Towards Dharmas]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> Whatever it is that comes up, if there's resistance or numbness, holding that in kindness. Total, complete welcoming. If there's no feeling, if there's boredom, anger, fear, confusion, whatever it is in this moment, bathing it in love, totally welcoming it, over and over. Nothing is exempt. Nothing is out of the range. &nbsp;&nbsp;<span class="counts">_[[Guided Meditation - Directing Love Towards Dharmas#If there's resistence or numbness - holding it in kindness|If there's resistence or numbness - holding it in kindness]]_</span>
+
+**[[Love and the Emptiness of Things]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> You know, you're afraid walking at night in the dark, and you see the shadows, and it looks like, you know, a big ... [laughter] And it's not. It's just the shadows coloured with the perception from the fear. &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#With fear the object and the fear are not independent|With fear, the object and the fear are not independent]]_</span>
+
+> If I believe in 'the present,' if I believe in a present moment, a present situation, as something that has real, independent existence - if I believe in the present, then fear of the future is inevitable. It's just waiting to happen. &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#A lot of fear is future-thinking based|A lot of fear is future-thinking based]]_</span>
+
+> The present is not independent; the past is also not independent. They depend on the mind state in the present. The future is the same. The future is the same. The future is only going to become present and past. It's dependent. It's not independent. It's empty. When I begin to see this, it's like, I don't really believe in the present; you can't really believe in the future. And if you can't really believe in the future, fear has no footing. &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#Example thinking back on romances of one's past life or high school|Example: thinking back on romances of one's past life, or high school]]_</span>
+
+

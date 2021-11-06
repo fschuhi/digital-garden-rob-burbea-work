@@ -38,3 +38,9 @@ term | count | talks
 [[Preliminaries]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
 [[Vajrayana]] | 2 | <span class="counts">[[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
 
+### Quotes
+**[[Love and the Emptiness of Things]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> To say things don't exist is clearly not true. But to see that they don't exist in any way independently from the way I am looking, independently from the relationship with. So when it says they don't exist, it means they don't exist independently, inherently. Or as the Tibetans say, they don't exist 'from their own side.' &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#The Middle Way is not about things existing or not but that they exist on our relationship with them|The Middle Way is not about things existing or not but that they exist on our relationship with them]]_</span>
+
+

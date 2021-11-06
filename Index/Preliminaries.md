@@ -12,7 +12,7 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 5 | [[2020 Vajra Music]]
 [[Love and the Emptiness of Things]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
-### Quotes
+### Quotes (old)
 ##### Vajra Music: Preliminaries Regarding Voice, Movement, and Gesture - Part 1 [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1|(Transcript)]]
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#1-2|1-2]]** (4) · [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#1-3|1-3]] · [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#1-4|1-4]] · [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#3-2|3-2]] · [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#12-1|12-1]] (2) · [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#15-4|15-4]] (3)</span>
 

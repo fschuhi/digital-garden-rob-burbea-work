@@ -37,3 +37,13 @@ term | count | talks
 [[Letting go]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 3]] (2) · [[Joy (talk)]] (1)</span> 
 [[Passion]] | 3 | <span class="counts">[[The Way of Non-Clinging Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
 
+### Quotes
+**[[The Way of Non-Clinging Part 3]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> Can I have a conceptual framework, can I form, can I open to a conceptual framework and a fantasy that, actually, romantic love becomes part of the path, and not just in those kind of simplistic terms? The concepts, if I try and stretch too small a set of concepts over the range of things that we deeply care about, the whole structure will snap. It's not adequate. It cannot support it. It cannot nourish those areas that we really care about, _if_ we really care about them. &nbsp;&nbsp;<span class="counts">_[[The Way of Non-Clinging Part 3#When I stretch a limited conceptual framework over things I care deeply about the whole structure will snap|When I stretch a limited conceptual framework over things I care deeply about, the whole structure will snap]]_</span>
+
+**[[Dilemmas and Delineations - How did we get here Part 1]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> I cannot reduce a romantic love relationship or a marriage to _mettā_ . There's something more involved, or that needs to be involved. Part of that 'more' is what we're going to call eros, what we're calling eros. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 1#All this is not really adequately addressed in the Dharma at present|All this is not really adequately addressed in the Dharma at present]]_</span>
+
+

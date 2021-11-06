@@ -36,3 +36,13 @@ term | count | talks
 [[Metta]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
 [[The Self]] | 2 | <span class="counts">[[Compassion (talk)]] (1) · [[The Practice of Compassion]] (1)</span> 
 
+### Quotes
+**[[The Practice of Compassion]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> [Compassion](https://publish.obsidian.md/rob-burbea/Index/Compassion) is something that's actually energizing and healing, and moves towards the alleviation of suffering. Self-pity will just keep it cycling. It's disempowering. It actually _keeps_ suffering there. Compassion to self and other is empowering and not debilitating. So in the practice, you can see: when has pity crept in, and is there some way I can equalize things again? &nbsp;&nbsp;<span class="counts">_[[The Practice of Compassion#Self-pity is disempowering|Self-pity is disempowering]]_</span>
+
+**[[Compassion (talk)]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> Compassion empowers; pity disempowers. &nbsp;&nbsp;<span class="counts">_[[Compassion (talk)#3 Pity|(3) Pity]]_</span>
+
+

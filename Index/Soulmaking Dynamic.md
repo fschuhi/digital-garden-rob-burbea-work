@@ -40,3 +40,11 @@ term | count | talks
 [[Logos]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 [[Psyche]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 
+### Quotes
+**[[Dilemmas and Delineations - How did we get here Part 4]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> [E]ros, wanting more, it deepens and creates/discovers more to the image, gives more imaginal dimensions, imaginal complexity, imaginal facets and faces to this beloved other, and in that, the idea, the logos, also, of this other expands. That eros-psyche-logos, that soulmaking dynamic, then comes back, because the object then is more beautiful, more deep, more rich, more juicy, more enticing, more complex. It offers me more. It offers more for the psyche, so to speak, to move into, to expand, but also for the eros to find attractive and to want more of. So there's this way that it kind of, potentially infinitely, in a way, just expands. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 4#Eros psyche logos they all help each other|Eros, psyche, logos, they all help each other]]_</span>
+
+> There's this mutual insemination, mutual fertilization, growth, expansion, deepening, widening, complexifying, complicating, enrichening of eros-psyche-logos. They all help each other, if you like. They're all involved with and involve each other. That's the eros-psyche-logos dynamic. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 4#Eros psyche logos they all help each other|Eros, psyche, logos, they all help each other]]_</span>
+
+

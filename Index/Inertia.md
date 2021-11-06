@@ -14,7 +14,7 @@ talk | count | series
 [[A Hidden Treasure - The Relationship with the Hindrances]] | 3 | [[2019 Practising the Jhanas]]
 [[Counting Within the Breath - Guided Meditation]] | 2 | [[2019 Practising the Jhanas]]
 
-### Quotes
+### Quotes (old)
 #### [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1|Vajra Music: Preliminaries - Part 1 (Transcript)]]
 <span class="counts">[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#5-1|5-1]] (5) · **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#5-4|5-4]]** (5) · **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#6-1|6-1]]** · **[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#7-3|7-3]]** (6) · [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#8-2|8-2]]</span>
 
@@ -56,4 +56,22 @@ term | count | talks
 [[Samadhi]] | 3 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
 [[Attention]] | 2 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
 [[Desire]] | 2 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+
+### Quotes
+**[[Orienting to This Jhana Retreat]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> Like so many things, _jhānas_ lead to malleability. Guess what? Malleability leads to _jhānas._ In other words, it's a condition for _jhānas_. So malleability now is the opposite of inertia. &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#One of the fruits of jhanas is malleability of mind|One of the fruits of jhanas is malleability of mind]]_</span>
+
+**[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> So often, we just go into a default breath, and the only reason it feels comfortable is just because we're used to it. At that moment, it may well _not_ be that helpful in terms of really energizing, and opening, and healing, and soothing, and moving towards _samādhi_. So we have to be, again, willing to let go of our inertia, if it's there. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#Also what way of breathing feels good right now|Also what way of breathing feels good right now]]_</span>
+
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+> Now, I would say that that inquiry into inertia, even though we're not really going into it at the moment [laughs] - again, I'm postponing it, or just mentioning it; I don't know if I'll ever get back to it - I would actually say that's _more_ important as a teaching, as an inquiry, structurally it's more important, at the meta-level it's more important than anything else that I might say in this set of talks about movement and gesture or anything else. &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Where's the inertia|Where's the inertia?]]_</span>
+
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+> There will be consequences to neglecting, not picking up, and just kind of giving in to one's [[inertia]] without really examining it and questioning it. &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#There are consequences to neglecting|There are consequences to neglecting]]_</span>
+
 

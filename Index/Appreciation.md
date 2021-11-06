@@ -39,3 +39,17 @@ term | count | talks
 [[Metta]] | 2 | <span class="counts">[[Expressions of Metta]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
 [[Mudita]] | 2 | <span class="counts">[[Joy (talk)]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
 
+### Quotes
+**[[Joy (talk)]]**
+<span class="counts">[[2007 New Years Retreat Insight Meditation]]</span>
+> So it's joy that comes from cultivation of the beautiful qualities of heart; joy that comes from appreciation, cultivating appreciation; joy that comes from opening, from connecting, from perceiving beauty, from developing our capacity to perceive beauty, from the deepening of our practice, joy in practice itself, joy in the Dharma, joy in the teachings, in hearing the teachings, in the Saṅgha, in the community of people who love to practise, who are interested in practising. This is all Dharma joy, spiritual joy. &nbsp;&nbsp;<span class="counts">_[[Joy (talk)#Different ways spiritual joy expresses itself|Different ways spiritual joy expresses itself]]_</span>
+
+> And I remember sitting there and sort of taking in the whole beauty of the life unfolding. And of course what was very much absent was this critical, "Right. Wrong. That wasn't quite good enough," etc. And such joy and delight and appreciation of just the beauty of humanity sort of coming together, and living, and life just manifesting. &nbsp;&nbsp;<span class="counts">_[[Joy (talk)#Contrast relaxed listening to an Arabic music concert|Contrast: relaxed listening to an Arabic music concert]]_</span>
+
+**[[The Place of Samadhi in Metta Practice]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> You know, sometimes you want to be a bit more inner, and it's appropriate to be with one's own experience. But other times, open up. Can there be an appreciation of the beauty of what's going on here and the loveliness of everyone practising together, trying together, supporting each other, in the silence, in the schedule, and all that? &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#There are many things to appreciate|There are many things to appreciate]]_</span>
+
+> When we think about _samādhi_, the whole picture is important. Taking care of that, nurturing appreciation, gratitude, etc. - very significant. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#Keep that willingness experimentation nurturing around|Keep that willingness, experimentation, nurturing around]]_</span>
+
+

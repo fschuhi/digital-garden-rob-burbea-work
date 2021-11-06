@@ -42,3 +42,19 @@ term | count | talks
 [[Cultivation]] | 3 | <span class="counts">[[Equanimity in Compassion]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1) · [[Joy (talk)]] (1)</span> 
 [[Dukkha]] | 3 | <span class="counts">[[Joy (talk)]] (2) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
 
+### Quotes
+**[[Equanimity (talk)]]**
+<span class="counts">[[2006 New Year's Retreat]]</span>
+> A spiritual joy, doesn't have so much to do with the self. So one aspect of spiritual joy, we could say, is wonder, wonder. That quality of just a human being wondering, marveling.. a human being in awe at life, at existence, at the universe... &nbsp;&nbsp;<span class="counts">_[[Equanimity (talk)#Spiritual joy|Spiritual joy]]_</span>
+
+**[[Equanimity in Compassion]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> How is it that my well of joy, my reservoir of inner happiness, can be deepened in life? And so looking into: how does the being open to wonder? How does it open to the mystery of life, to the awe of things? What's the place of art and music in that? What's the place of our relationship with nature? &nbsp;&nbsp;<span class="counts">_[[Equanimity in Compassion#When feel like we have enough external circumstances make less of an impact|When feel like we have enough, external circumstances make less of an impact]]_</span>
+
+**[[Joy (talk)]]**
+<span class="counts">[[2007 New Years Retreat Insight Meditation]]</span>
+> And so, rather than being hungry for it and sort of reliant on sense pleasure, we can be open to the pleasure through the senses, but it's actually a sense of wonder or mystery through the senses that we're tuning into more and more, rather than the aspect of it being pleasant or unpleasant... &nbsp;&nbsp;<span class="counts">_[[Joy (talk)#Piti is the physical aspect of spiritual joy not based on sense pleasure|Piti is the physical aspect of spiritual joy, not based on sense pleasure]]_</span>
+
+> [T]here's a wonder in it. Not dependent on pleasant or unpleasant; dependent on something else. &nbsp;&nbsp;<span class="counts">_[[Joy (talk)#Piti is the physical aspect of spiritual joy not based on sense pleasure|Piti is the physical aspect of spiritual joy, not based on sense pleasure]]_</span>
+
+

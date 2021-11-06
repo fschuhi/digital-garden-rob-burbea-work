@@ -42,3 +42,17 @@ term | count | talks
 [[Consciousness]] | 4 | <span class="counts">[[Expressions of Metta]] (1) · [[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 [[Craving]] | 4 | <span class="counts">[[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1) · [[From Insight to Love]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 
+### Quotes
+**[[Love and Emptiness]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> Seeing emptiness leads to love and compassion, because it's kind of done away with the reality of separation, with the reality of barriers, with the reality of real problems, real faults, with the investment we have in self-inflating or self-depreciation. &nbsp;&nbsp;<span class="counts">_[[Love and Emptiness#The indicator for emptiness is love and freedom|The indicator for emptiness is love and freedom]]_</span>
+
+**[[Equanimity in Compassion]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> There's absolutely love in it. In that state, there's a kind of non-separation. We're not building a sense of self and other, a sense of separation, by getting involved in this tussle, in this push and pull. In the non-separation, there's love, effortlessly. &nbsp;&nbsp;<span class="counts">_[[Equanimity in Compassion#There is wonder beauty love and juiciness in equanimity practice|There is wonder, beauty, love and juiciness in equanimity practice]]_</span>
+
+**[[Love and the Emptiness of Things]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> [I]t leads to more love, to less of a sense of separation, less of a sense of barriers, less of a sense of fault-finding with oneself, with others, with situations, even - less self-inflating, deflating, etc. &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#Emptiness practice should lead to love and compassion|Emptiness practice should lead to love and compassion]]_</span>
+
+

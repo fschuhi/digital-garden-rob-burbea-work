@@ -42,3 +42,13 @@ term | count | talks
 [[Contraction]] | 3 | <span class="counts">[[Daimon, Refracted]] (1) · [[The Birth of a Bodhisattva]] (1) · [[The Practice of Compassion]] (1)</span> 
 [[Eros]] | 3 | <span class="counts">[[Daimon, Refracted]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
 
+### Quotes
+**[[Equanimity in Compassion]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> No one wants to be blamed or to be in pain or to fail or to lose what we like. And whoever we are in this life, whatever our history, whoever we are, whatever our credentials, we are going to be subject throughout our life to the wavering of those four polarities - no matter who you are... &nbsp;&nbsp;<span class="counts">_[[Equanimity in Compassion#Eight worldly conditions|Eight worldly conditions]]_</span>
+
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+> If I just remember the principle, the range of what I'm doing will not shrink to just the ones that I'm used to doing, out of habit or indoctrination, or the cultures I've moved in, or whatever it is, or [[History|personal history]], or trauma, whatever it is. &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Practice from the place of a principle to keep the pathways fully available for the influx of soul|Practice from the place of a principle, to keep the pathways fully available for the influx of soul]]_</span>
+
+

@@ -32,3 +32,9 @@ term | count | talks
 [[Dimensionality]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
 [[Emptiness]] | 1 | <span class="counts">[[Daimon, Refracted]] (1)</span> 
 
+### Quotes
+**[[Daimon, Refracted]]**
+<span class="counts">[[2019 Four Circles, Four Parables of Stone and Light]]</span>
+> [A]ware of certainly the energetic feel of the energy body, but also aware of the materiality of the body, the physicality of it - sinews, muscles, nerves, fibres, skin. Your body. Yes, it's not yours, but let's say it's yours right now, it's you. It's not you, and it's you. &nbsp;&nbsp;<span class="counts">_[[Daimon, Refracted#Metta in the background but still be there; being aware of the physicality of the body|Metta in the background, but still be there; being aware of the physicality of the body]]_</span>
+
+

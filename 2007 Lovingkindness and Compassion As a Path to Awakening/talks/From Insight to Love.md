@@ -185,7 +185,7 @@ This moment here - colour, light, sound - is in the context of death and that ki
 ![[20070127-Rob_Burbea-GAIA-from_insight_to_love-12291.mp3#t=35:22]]
 
 ```ad-quote
-They are also subject not just to [death](app://obsidian.md/death) but to the uncertainty and change that is, in a way, woven into the fabric of the moment of our lives. They don't know what the next moment will bring, what will happen to the mind, to the body.
+They are also subject not just to death but to the uncertainty and change that is, in a way, woven into the fabric of the moment of our lives. They don't know what the next moment will bring, what will happen to the mind, to the body.
 ```
 
 ---

@@ -42,3 +42,21 @@ term | count | talks
 [[Insight]] | 5 | <span class="counts">[[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity in Compassion]] (1) · [[Love and the Emptiness of Things]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
 [[Love]] | 5 | <span class="counts">[[Love and the Emptiness of Things]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[From Insight to Love]] (1) · [[Guided Meditation - Directing Love Towards Dharmas]] (1)</span> 
 
+### Quotes
+**[[The Place of Samadhi in Metta Practice]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> I think it's really the whole range of that. But certainly the allowing the spaciousness, the letting go, is very significant. You can be letting go of a lot of aversion in that. Aversion has a lot to do with tiredness. When there's aversion around, it's just very tiring. So letting go, being spacious, actually allows that to just let go. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#Be willing to experiment with the whole range of it|Be willing to experiment with the whole range of it]]_</span>
+
+**[[Compassion Part Two - Compassion for Ourselves]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> A wrong kind of self-attention feeds, builds the ego and builds the self-sense, whereas an attention that's full of compassion, full of tenderness, full of acceptance and care, full of insight into questioning, "How is it that this suffering has come about?" - that kind of direction of the attention towards self does not build the ego, will not build the ego, will actually soften things, will actually allow things to become looser and more spacious. &nbsp;&nbsp;<span class="counts">_[[Compassion Part Two - Compassion for Ourselves#Compassion to self does not build the ego|Compassion to self does not build the ego]]_</span>
+
+**[[Guided Meditation - Directing Love Towards Dharmas]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> As if you're opening the doors of awareness very wide, very spacious, to welcome. Complete, radical acceptance of the experience, whatever it is. &nbsp;&nbsp;<span class="counts">_[[Guided Meditation - Directing Love Towards Dharmas#Bathing holding total welcoming|Bathing, holding, total welcoming]]_</span>
+
+**[[The Birth of a Bodhisattva]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> In this practice, the more that we can actually encourage and dwell in that spaciousness, where whatever suffering there is or whatever suffering could possibly arise in the universe, it actually is effortlessly held. And we can begin to get glimpses of that experience and then actually nurture it. &nbsp;&nbsp;<span class="counts">_[[The Birth of a Bodhisattva#The more we encourage this spaciousness the more suffering can be effortlessly held in it|The more we encourage this spaciousness, the more suffering can be effortlessly held in it]]_</span>
+
+

@@ -41,3 +41,13 @@ term | count | talks
 [[Love]] | 4 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (1) · [[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1) · [[Perfection and Christ's Blessing]] (1)</span> 
 [[Metta]] | 4 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (1) · [[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
 
+### Quotes
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+> So letting the movement/gesture/vocalization shape the action in time, as it goes, playing it by ear, so to speak, or creating the pottery, whatever you're making on the potter's wheel. Creating it as you're going, through the feel of it, through the feedback you're getting, through the signals of soul and of blessedness and blessingness that are coming back to you. &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Just start with an intention and just start moving with that intention|Just start with an intention and just start moving with that intention]]_</span>
+
+> [W]e're letting that intention lead us, and just starting the movement, and kind of reading it, surfing the whole situation, responding with our receptivity, with our sensitivity, responding to what we sense in terms of the [[Soul|soulfulness]] and the blessingness, and letting that shape the movements, the gestures, the vocalizations we're doing. So we're letting the body and the [[energy body]] and the sense of the soulfulness in the moment guide the movements, the gestures, the vocalizations... &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Leaning into Mode 2|Leaning into Mode 2]]_</span>
+
+> You're doing this in dyadic relationship with an image. Same thing though: you take your turn to move the body and make gestures and vocalize to the [[Daimon|angel]], to your angel who is your dyad partner, to the image there, to the [[Imaginal|imaginal figure]]. And then you receive, in your imagination, the movements, the gestures, the vocalizations, the [[blessing]] and just the mystery of that communication from the angel, in your imagination. &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Rather than actual person dyad partner is intrapsychic image|Rather than actual person, dyad partner is intrapsychic image]]_</span>
+
+

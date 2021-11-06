@@ -41,3 +41,11 @@ term | count | talks
 [[Awareness]] | 2 | <span class="counts">[[Equanimity (talk)]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
 [[Beauty]] | 2 | <span class="counts">[[Equanimity in Compassion]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
 
+### Quotes
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+> [W]e're letting that intention lead us, and just starting the movement, and kind of reading it, surfing the whole situation, responding with our receptivity, with our sensitivity, responding to what we sense in terms of the [[Soul|soulfulness]] and the blessingness, and letting that shape the movements, the gestures, the vocalizations we're doing. So we're letting the body and the [[energy body]] and the sense of the soulfulness in the moment guide the movements, the gestures, the vocalizations... &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Leaning into Mode 2|Leaning into Mode 2]]_</span>
+
+> [W]e're focusing on the time prior to that, on Abraham and his openness of [[soul]], his soul-antennae, his receptivity, his hospitality to the angels... &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's about the moments prior to the scene in the Rublev's image|It's about the moments prior to the scene in the Rublev's image]]_</span>
+
+

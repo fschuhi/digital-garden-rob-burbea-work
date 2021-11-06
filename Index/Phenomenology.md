@@ -37,3 +37,15 @@ term | count | talks
 [[Phenomenon]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3)</span> 
 [[Dharma]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Questioning Awakening]] (1)</span> 
 
+### Quotes
+**[[Dilemmas and Delineations - How did we get here Part 2]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> Phenomenological observation is always informed by a conceptual framework. But the definitions we're using are based on, really, what is observed in experience in that territory. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 2#This delineation of eros is based on a phenomenological approach|This delineation of eros is based on a phenomenological approach]]_</span>
+
+**[[Dilemmas and Delineations - How did we get here Part 3]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> The doors were presented one after another. The consequences, the avenues, were travelled in a kind of logical or inevitable order - one insight, one opening led to another, etc., all based on what we might call the 'phenomenological approach,' which is how I would base my approach to the Dharma. It's very, very simple, starting with very, very simple practices, including the ideas of mindfulness, but not based on the usual assumptions. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#There is a natural evolution of the material|There is a natural evolution of the material]]_</span>
+
+> [I]f we go deeply enough and radically enough with this phenomenological approach, actually there are ways that it can end up opening what we might call metaphysical philosophy. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#It's a powerful way into understanding emptiness and the imaginal|It's a powerful way into understanding emptiness and the imaginal]]_</span>
+
+

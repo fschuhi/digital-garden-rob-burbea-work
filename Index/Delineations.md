@@ -39,3 +39,13 @@ term | count | talks
 [[Experience]] | 4 | <span class="counts">[[Daimon, Refracted]] (1) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
 [[Meditation]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
 
+### Quotes
+**[[Dilemmas and Delineations - How did we get here Part 1]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> Setting it apart allows us to investigate it, to take it as a theme of investigation. If I don't delineate it in the first place, I can't take it as a theme of investigation. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 1#1 Because eros is already active in our life and by delineating it we get a handle on it|1. Because eros is already active in our life, and by delineating it we get a handle on it]]_</span>
+
+**[[Dilemmas and Delineations - How did we get here Part 4]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> It's a little bit poor as a psychology. Valuable as it is (we've talked about this), we need something richer, deeper, wider: a psychology that can accommodate and delineate between the kinds of things that we're talking about. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 4#"It's just vedana papanca" is a little bit poor as a psychology|"It's just vedana, papanca" is a little bit poor as a psychology]]_</span>
+
+

@@ -41,3 +41,9 @@ term | count | talks
 [[Desire]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Joy (talk)]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Mind]] | 4 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (2) · [[Samadhi in Metta Practice]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
 
+### Quotes
+**[[The Birth of a Bodhisattva]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> When the mind, when the heart, is small, restricted, that karma ripens - the memory of what we did, or what happened to us or whatever - ripens in that context of the restricted, the constricted heart. In the unrestricted heart, the immeasurable heart - so one that is either immeasurable through loving-kindness and compassion, or joy or equanimity, one of the _brahmavihāras_, immeasurable that way, or unrestricted through _samādhi_ or through insight - in the unrestricted heart, when that karma ripens, when it comes up, when the memory comes up or the effects from the past come up, memory or otherwise, it's in a very different context. And the Buddha said it will barely be noticed. &nbsp;&nbsp;<span class="counts">_[[The Birth of a Bodhisattva#Ripening of karma from the past|Ripening of karma from the past]]_</span>
+
+

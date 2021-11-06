@@ -40,3 +40,13 @@ term | count | talks
 [[Contraction]] | 2 | <span class="counts">[[From Insight to Love]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
 [[Dharma]] | 2 | <span class="counts">[[Questioning Awakening]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
 
+### Quotes
+**[[Love and the Emptiness of Things]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> When anything comes up - whatever it is, anxiety or anything at all - there's conditioning from the past. As you say, this comes from the past. But that past conditioning is _not enough_ for it to arise in the present. A thing cannot arise in the present without me doing something as well in the present. And you _can't_ change the past, so to speak, but what we can do is understand, "What is it that I'm putting _in_ in the present which is sustaining or even allowing this thing to arise?" &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#Play with a sense of welcoming rather than wrapping fear in love|Play with a sense of welcoming, rather than wrapping fear in love]]_</span>
+
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+> The mindfulness expands to include that: "Oh, okay. There's self-consciousness going on as well. There's a bit of [[anxiety]], or even a lot of anxiety about looking silly or whatever it is, or sounding silly." Can there be a bit more space in the consciousness? Because anxiety will contract the space of the [[awareness]]. Sometimes just creating a bit more space can help. &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#There might be self-consciousness arising|There might be self-consciousness arising]]_</span>
+
+

@@ -28,3 +28,9 @@ term | count | talks
 [[Jesus]] | 1 | <span class="counts">[[Daimon, Refracted]] (1)</span> 
 [[Love]] | 1 | <span class="counts">[[Daimon, Refracted]] (1)</span> 
 
+### Quotes
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+> Usually when the intention goes into that kind of thing, that's when I'm seeking information; usually that information is for the sake of a reified self, and what this self can get, or how it can aggrandize itself in some way. (...) The fullness of intention is a much more powerful, much more primal, fundamental, beautiful, sacred intention than these other intentions that are more to do with a reified self, and power, and what it can get, etc. &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Magick is not soulmaking|Magick is not soulmaking]]_</span>
+
+

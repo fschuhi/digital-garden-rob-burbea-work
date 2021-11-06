@@ -45,3 +45,15 @@ term | count | talks
 [[Embodiment]] | 25 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (6) · [[The Place of Samadhi in Metta Practice]] (4) · [[Using Insight to Deepen Love and Compassion]] (4) · [[Exploring the World of Loving Kindness]] (2) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (2)</span> 
 [[Soul]] | 22 | <span class="counts">[[Daimon, Refracted]] (5) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[The Way of Non-Clinging Part 3]] (3) · [[Orienting to This Jhana Retreat]] (2)</span> 
 
+### Quotes
+**[[The Place of Samadhi in Metta Practice]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> We need, and particularly on a retreat like this, we need to take care, as much as possible, of a kind of baseline foundation of our sense of well-being, nourish our sense of happiness. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#It works also in the reverse the most important contributor to samadhi is happiness|It works also in the reverse: the most important contributor to samadhi is happiness]]_</span>
+
+> The mind is _not_ like it appears to be right now, it's _not_ clouded, it's _not_ clear, it's _not_ deep, it's _not_ shallow, I'm _not_ sitting here, you're _not_ sitting there, this is _not_ Gaia House, this is _not_ a meditation retreat. It can be hard to understand that without having gone through the depth of _samādhi_. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#A deep understanding of non-duality is that actually there's no "way things are"|A deep understanding of non-duality is that actually there's no "way things are"]]_</span>
+
+**[[Orienting to This Jhana Retreat]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> I really want to emphasize or offer a context for the whole of the path, and then place this retreat within that larger context... &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#The path needs psychological awareness|The path needs psychological awareness]]_</span>
+
+

@@ -38,3 +38,13 @@ term | count | talks
 [[Fabrication]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2)</span> 
 [[Feelings]] | 2 | <span class="counts">[[What is Insight]] (2)</span> 
 
+### Quotes
+**[[What is Insight]]**
+<span class="counts">[[2007 New Years Retreat Insight Meditation]]</span>
+> [U]niversal insights, they're not one-off insights. &nbsp;&nbsp;<span class="counts">_[[What is Insight#What qualities do I need to cultivate that actually lead to a lessening of suffering|What qualities do I need to cultivate that actually lead to a lessening of suffering]]_</span>
+
+**[[The Way of Non-Clinging Part 2]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> Everyone seems to talk as if these things are real - bare sensations, or if I'm in a certain culture, the atomic process of mind moments and experiences. Is that the ultimate reality? Or is that just a certain level of less fabrication? So I keep this framework of ways of looking and fabrication, and I just see. &nbsp;&nbsp;<span class="counts">_[[The Way of Non-Clinging Part 2#Bare sensations etc is not ultimate reality|Bare sensations etc. is not ultimate reality]]_</span>
+
+

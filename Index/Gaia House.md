@@ -42,3 +42,9 @@ term | count | talks
 [[Appreciation]] | 3 | <span class="counts">[[Orienting to This Jhana Retreat]] (2) · [[Samadhi in Metta Practice]] (1)</span> 
 [[Imaginal]] | 3 | <span class="counts">[[Daimon, Refracted]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 
+### Quotes
+**[[The Place of Samadhi in Metta Practice]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> The mind is _not_ like it appears to be right now, it's _not_ clouded, it's _not_ clear, it's _not_ deep, it's _not_ shallow, I'm _not_ sitting here, you're _not_ sitting there, this is _not_ Gaia House, this is _not_ a meditation retreat. It can be hard to understand that without having gone through the depth of _samādhi_. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#A deep understanding of non-duality is that actually there's no "way things are"|A deep understanding of non-duality is that actually there's no "way things are"]]_</span>
+
+

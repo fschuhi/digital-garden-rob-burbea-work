@@ -3,9 +3,9 @@ obsidianUIMode: preview
 ---
 # Garden of Soul: Rob Burbea's Teachings
 ```ad-quote
-[W]e need a slightly more elaborate Dharma psychology because of the different kinds of sacredness and the different realms of experience which are slightly more involved.
+This right now, this sound, this sight, these body sensations, it's all in the context of .. the vast unknown of death. So in a way can we contemplate the infinite every day, can we contemplate death every day. Not morbid. Maybe a little scary at first but actually moving towards equanimity, moving towards freedom.
 
-_(a quote from the talk [[Dilemmas and Delineations - How did we get here Part 1#We need a more sophisticated Dharma psychology|Dilemmas and Delineations - How did we get here Part 1]])_
+_a quote from the talk '[[Equanimity (talk)#This moment is in the context of vast time and the vast unknown of death|Equanimity (talk)]]'_
 ```
 
 ```ad-danger

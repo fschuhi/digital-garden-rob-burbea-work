@@ -42,3 +42,23 @@ term | count | talks
 [[Consciousness]] | 3 | <span class="counts">[[Guided Meditation - Directing Love Towards Dharmas]] (1) · [[Guided meditation - Metta to phenomena]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 [[Fear]] | 3 | <span class="counts">[[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
 
+### Quotes
+**[[Love and Emptiness]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> Mind always has some mind state. So with [mindfulness](app://obsidian.md/mindfulness), there's always _some_ degree of something on the range from complete unconditioned bliss of loving-kindness to rage. The mind will be somewhere along that spectrum. It _has_ to be. &nbsp;&nbsp;<span class="counts">_[[Love and Emptiness#But the mind is coloroud with anger metta romantic love|But the mind is coloroud with anger, metta, romantic love]]_</span>
+
+> The past is coloured by the present mind state. &nbsp;&nbsp;<span class="counts">_[[Love and Emptiness#Past present and future are empty|Past, present and future are empty]]_</span>
+
+**[[Equanimity in Compassion]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> So the mind, the heart, the being staying steady, staying balanced, unshakeable, whatever happens, whatever's going on, whatever is coming to the senses. Sometimes to ask ourselves: how much does my mind state depend on what's going on? This happens or that happens; how much does the mind state wobble with that? A steadiness with it is what equanimity is. &nbsp;&nbsp;<span class="counts">_[[Equanimity in Compassion#Equanimity is steadiness in the face of all conditions|Equanimity is steadiness in the face of all conditions]]_</span>
+
+**[[Love and the Emptiness of Things]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> The present is not independent; the past is also not independent. They depend on the mind state in the present. The future is the same. The future is the same. The future is only going to become present and past. It's dependent. It's not independent. It's empty. When I begin to see this, it's like, I don't really believe in the present; you can't really believe in the future. And if you can't really believe in the future, fear has no footing. &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#Example thinking back on romances of one's past life or high school|Example: thinking back on romances of one's past life, or high school]]_</span>
+
+**[[Dilemmas and Delineations - How did we get here Part 2]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> [A]s practitioners, we need to develop our sensitivity and the subtlety of our awareness to be able to notice mind states. If we're calling eros a mind state or a state of being, to develop the sensitivity to that without relying on the clues and cues of thoughts. Seeing how the energy body is affected, developing the sensitivity to that, to the textures of mind, and what we might call the space of mind, the subtle mental movements that are there even when there is no thought, or they're underneath or alongside thought. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 2#We need to develop the sensitivity to the texture of mind states and the space of mind|We need to develop the sensitivity to the texture of mind states and the space of mind]]_</span>
+
+

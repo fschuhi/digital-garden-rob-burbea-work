@@ -28,3 +28,9 @@ term | count | talks
 [[Meditation]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
 [[Old Testament]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
 
+### Quotes
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+> [W]e're focusing on the time prior to that, on Abraham and his openness of [[soul]], his soul-antennae, his receptivity, his hospitality to the angels... &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's about the moments prior to the scene in the Rublev's image|It's about the moments prior to the scene in the Rublev's image]]_</span>
+
+

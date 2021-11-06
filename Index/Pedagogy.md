@@ -26,3 +26,9 @@ term | count | talks
 [[Soul]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 [[Soulmaking]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 
+### Quotes
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+> Yes, I wasn't taught it, because, as I said, there wasn't the [[pedagogy]] there at that time. But I could have just kept bashing away in this dogged way that one has if one really wants something. I didn't. I chose other things instead. So there's regret. There's some responsibility that falls on me. &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#I could have just kept bashing away but I didn't|I could have just kept bashing away, but I didn't]]_</span>
+
+

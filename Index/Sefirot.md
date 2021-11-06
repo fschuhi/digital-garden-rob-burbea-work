@@ -26,3 +26,11 @@ term | count | talks
 [[Buddha]] | 1 | <span class="counts">[[Daimon, Refracted]] (1)</span> 
 [[Cosmology]] | 1 | <span class="counts">[[Daimon, Refracted]] (1)</span> 
 
+### Quotes
+**[[Daimon, Refracted]]**
+<span class="counts">[[2019 Four Circles, Four Parables of Stone and Light]]</span>
+> [T]he _Sefirot_, they remain impersonal, but the self begins to be given a kind of dimensionality and divinity, and it's complexified, etc., in that way. &nbsp;&nbsp;<span class="counts">_[[Daimon, Refracted#Parallel between dharmakaya and Sefirot|Parallel between dharmakaya and Sefirot]]_</span>
+
+> So there's the particular, unique way these ten _Sefirot_ manifest and express through me. So something that can start as an apparently impersonal image, or even sound like it, actually can be, by including the narrative and the particulars and the uniqueness, can be rendered more unique, retain its particularities, retain its personhood and uniqueness to self. &nbsp;&nbsp;<span class="counts">_[[Daimon, Refracted#My particularities were retained in the meditation not just a universal kind of manifestation of God|My particularities were retained in the meditation, not just a universal kind of manifestation of God]]_</span>
+
+

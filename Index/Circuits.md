@@ -33,3 +33,9 @@ term | count | talks
 [[Devotion]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 [[Energy]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 
+### Quotes
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+> And that's something that often goes with anger when anger is not so healthy: it gets very black and white, the thinking and the viewing. But there may well be a relationship between the prevention, the absence, the block, the non-existence of those circuits of movement, gesture, and voice, and the entrenchment and habit of black-and-white thinking and viewing... &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Closed circuit might lead to black-and-white thinking|Closed circuit might lead to black-and-white thinking]]_</span>
+
+

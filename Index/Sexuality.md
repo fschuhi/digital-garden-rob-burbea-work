@@ -39,3 +39,9 @@ term | count | talks
 [[Energy]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
 [[Imaginal]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
 
+### Quotes
+**[[Dilemmas and Delineations - How did we get here Part 1]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> Sacredness never resides in this or that object or thing; we sacralize. We make something or other sacred through our relationship with it. So there's the possibility of sacralizing sexuality, rather than just viewing eros or sexuality as a defilement, or as leading inevitably to defilement. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 1#2 Opening to the recognition of the sacredness of eros itself|2. Opening to the recognition of the sacredness of eros itself]]_</span>
+
+

@@ -40,3 +40,15 @@ term | count | talks
 [[Insight]] | 6 | <span class="counts">[[Orienting to This Jhana Retreat]] (5) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
 [[Embodiment]] | 5 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
 
+### Quotes
+**[[Dilemmas and Delineations - How did we get here Part 2]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> '[B]liss' as an experience of the energy body, of great pleasantness in the energy body, of rapture or joy in the energy body, and that kind of openness, etc., sometimes very intense, sometimes much more subtle. {quote But that energy body experience of bliss, I would say, accompanies _any_ lightening or unfabricating, to whatever degree, of the self-sense, up to a certain point, at least. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 2#The "bliss" of soulmaking"|The "bliss" of soulmaking"]]_</span>
+
+**[[Orienting to This Jhana Retreat]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> "How do we _get_ that _pīti_ to arise?" Or "How do we _allow_ that _pīti_ to arise?" is a better way of putting it. The lovely news is _pīti_ is just like Newton Abbot. &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#If you can get piti then the whole territory is open to you|If you can get piti, then the whole territory is open to you]]_</span>
+
+> Meaning that it doesn't really matter how that _pīti_ arises, and I would say _anything_ goes. &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#If you can get piti then the whole territory is open to you|If you can get piti, then the whole territory is open to you]]_</span>
+
+

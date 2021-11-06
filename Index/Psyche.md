@@ -42,3 +42,23 @@ term | count | talks
 [[Retreat]] | 5 | <span class="counts">[[Daimon, Refracted]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
 [[Soulmaking dynamic]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 
+### Quotes
+**[[The Way of Non-Clinging Part 3]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> [E]ros, a desire, a movement of the psyche, of the being, that opens, deepens, leads to soulfulness, sacredness, soulmaking, sense of sacredness. Opens that out. A desire, a movement of the psyche, of the being, that opens out, deepens, enriches, complicates also, our sense of sacredness. &nbsp;&nbsp;<span class="counts">_[[The Way of Non-Clinging Part 3#Provision definition of "eros"|Provision definition of "eros"]]_</span>
+
+**[[Dilemmas and Delineations - How did we get here Part 3]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> And so there's a kind of self-feeding, self-generating, ongoing fertilization, mutual fertilization of eros, psyche, logos; mutual widening, deepening, enriching, complicating, adding dimensionality, etc., that goes on. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#Mutual fertilization of erso psyche logos|Mutual fertilization of erso, psyche, logos]]_</span>
+
+**[[Dilemmas and Delineations - How did we get here Part 4]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> [E]ros, wanting more, it deepens and creates/discovers more to the image, gives more imaginal dimensions, imaginal complexity, imaginal facets and faces to this beloved other, and in that, the idea, the logos, also, of this other expands. That eros-psyche-logos, that soulmaking dynamic, then comes back, because the object then is more beautiful, more deep, more rich, more juicy, more enticing, more complex. It offers me more. It offers more for the psyche, so to speak, to move into, to expand, but also for the eros to find attractive and to want more of. So there's this way that it kind of, potentially infinitely, in a way, just expands. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 4#Eros psyche logos they all help each other|Eros, psyche, logos, they all help each other]]_</span>
+
+> There's this mutual insemination, mutual fertilization, growth, expansion, deepening, widening, complexifying, complicating, enrichening of eros-psyche-logos. They all help each other, if you like. They're all involved with and involve each other. That's the eros-psyche-logos dynamic. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 4#Eros psyche logos they all help each other|Eros, psyche, logos, they all help each other]]_</span>
+
+**[[Daimon, Refracted]]**
+<span class="counts">[[2019 Four Circles, Four Parables of Stone and Light]]</span>
+> When the inner critic is badgering us and kind of taking over and hounding us, all the power, or most of the power, has gone _there_. So there is this psyche with its complexity, this self with its complexity, this soul with its complexity, and all the power of that soul seems to be kind of gathered under the purview and domain of that inner critic, and the rest of the being feels weak, collapsed, etc., lacking in power. &nbsp;&nbsp;<span class="counts">_[[Daimon, Refracted#Possibilities to allow things to become imaginal with respect to the inner critic|Possibilities to allow things to become imaginal with respect to the inner critic]]_</span>
+
+

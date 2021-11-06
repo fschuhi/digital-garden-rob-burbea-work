@@ -42,3 +42,21 @@ term | count | talks
 [[Image]] | 4 | <span class="counts">[[Daimon, Refracted]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
 [[Imaginal]] | 4 | <span class="counts">[[Daimon, Refracted]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 
+### Quotes
+**[[What is Insight]]**
+<span class="counts">[[2007 New Years Retreat Insight Meditation]]</span>
+> Suchness is just the way it exactly is in this moment, without my layers of papañca and preconception - that's not actually what it quite means. &nbsp;&nbsp;<span class="counts">_[[What is Insight#It can feel that this radiance is the reality "suchness"|It can feel that this radiance is the reality ("suchness")]]_</span>
+
+**[[The Way of Non-Clinging Part 3]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> [T]here are some who can't wait. They have to include and learn as they go along, through different ways of looking, different practices, trial and error (with the help, hopefully, of the teachers), but to discern between these different movements: what's _papañca_? What's imaginal practice? It's possible. It's absolutely possible. But in a way, parallel tracks are running concurrently. &nbsp;&nbsp;<span class="counts">_[[The Way of Non-Clinging Part 3#There are some who cannot wait|There are some who cannot wait]]_</span>
+
+**[[Daimon, Refracted]]**
+<span class="counts">[[2019 Four Circles, Four Parables of Stone and Light]]</span>
+> So as the imaginal grows, the _papañca_ diminishes. As the _papañca_ grows, the imaginal diminishes. &nbsp;&nbsp;<span class="counts">_[[Daimon, Refracted#Story wounded blackbird|Story: wounded blackbird]]_</span>
+
+**[[A Hidden Treasure - The Relationship with the Hindrances]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> So over time, there's this kind of sifting away, filtering away of the more _papañcizing_ element of the mind. And it becomes: "It's just the hindrance." It might still be quite strong; I'm really quite restless in the body, but there's no story attached to it. There's no lostness. What was usually _papañca_ becomes more just, "I'm just dealing with a hindrance now." &nbsp;&nbsp;<span class="counts">_[[A Hidden Treasure - The Relationship with the Hindrances#Over time self-view manifest less as papanca and more as pure hindrance|Over time, self-view manifest less as papanca and more as pure hindrance]]_</span>
+
+

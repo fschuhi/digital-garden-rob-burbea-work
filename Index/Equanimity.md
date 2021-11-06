@@ -24,7 +24,7 @@ talk | count | series
 [[Compassion (talk)]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Using Insight to Deepen Love and Compassion]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
-### Quotes
+### Quotes (old)
 ##### 2006 New Year's Retreat: Equanimity [[1228 Equanimity (talk)|(Transcript)]]
 <span class="counts">[[1228 Equanimity (talk)#1-1|1-1]] · **[[1228 Equanimity (talk)#1-2|1-2]]** (2) · **[[1228 Equanimity (talk)#1-3|1-3]]** · **[[1228 Equanimity (talk)#2-1|2-1]]** (2) · **[[1228 Equanimity (talk)#2-2|2-2]]** (9) · **[[1228 Equanimity (talk)#2-3|2-3]]** (2) · **[[1228 Equanimity (talk)#2-4|2-4]]** (2) · [[1228 Equanimity (talk)#3-1|3-1]] (2) · [[1228 Equanimity (talk)#3-2|3-2]] · [[1228 Equanimity (talk)#3-4|3-4]] · [[1228 Equanimity (talk)#3-5|3-5]] (2) · **[[1228 Equanimity (talk)#4-2|4-2]]** · [[1228 Equanimity (talk)#4-3|4-3]] · [[1228 Equanimity (talk)#5-2|5-2]] · **[[1228 Equanimity (talk)#5-3|5-3]]** (2) · **[[1228 Equanimity (talk)#6-3|6-3]]** · **[[1228 Equanimity (talk)#9-3|9-3]]** · **[[1228 Equanimity (talk)#11-3|11-3]]** (2) · **[[1228 Equanimity (talk)#12-2|12-2]]** (4) · **[[1228 Equanimity (talk)#12-5|12-5]]** · [[1228 Equanimity (talk)#13-1|13-1]]</span>
 
@@ -112,4 +112,36 @@ term | count | talks
 [[Steadiness]] | 16 | <span class="counts">[[Equanimity in Compassion]] (9) · [[Equanimity (talk)]] (5) · [[Compassion (talk)]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
 [[Cultivation]] | 15 | <span class="counts">[[Equanimity (talk)]] (6) · [[The Birth of a Bodhisattva]] (3) · [[Equanimity in Compassion]] (2) · [[From Insight to Love]] (1)</span> 
 [[Love]] | 14 | <span class="counts">[[Equanimity in Compassion]] (4) · [[Love and the Emptiness of Things]] (3) · [[Love and Emptiness]] (2) · [[The Birth of a Bodhisattva]] (2)</span> 
+
+### Quotes
+**[[Equanimity (talk)]]**
+<span class="counts">[[2006 New Year's Retreat]]</span>
+> So this is quite interesting. Sometimes also the reason we are not so attracted to the idea of equanimity is that we have come to feel and believe that our sense of some juice in life, of juiciness, is wrapped up in drama - in the drama of the self, the drama of getting or getting rid of, of some difficulty or this or that - and when that drama dies down a bit, we're a little bit unsure if what will remain will be a bit grey or a bit boring. It's hard to imagine that maybe equanimity, true equanimity, actually has a quality of juiciness in it. &nbsp;&nbsp;<span class="counts">_[[Equanimity (talk)#The near enemy is indifference and lack of juicyness in life|The near enemy is indifference and lack of juicyness in life]]_</span>
+
+> This right now, this sound, this sight, these body sensations, it's all in the context of .. the vast unknown of death. So in a way can we contemplate the infinite every day, can we contemplate death every day. Not morbid. Maybe a little scary at first but actually moving towards equanimity, moving towards freedom. &nbsp;&nbsp;<span class="counts">_[[Equanimity (talk)#This moment is in the context of vast time and the vast unknown of death|This moment is in the context of vast time and the vast unknown of death]]_</span>
+
+**[[Equanimity in Compassion]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> This is usually a progression that takes months and months, but in the progression of that, the equanimity, too, gets kind of sewn into the being... &nbsp;&nbsp;<span class="counts">_[[Equanimity in Compassion#The natural progression of samadhi leads to equanimity which eventually becomes also accessible outside samadhi|The natural progression of samadhi leads to equanimity, which eventually becomes also accessible outside samadhi]]_</span>
+
+> So the mind, the heart, the being staying steady, staying balanced, unshakeable, whatever happens, whatever's going on, whatever is coming to the senses. Sometimes to ask ourselves: how much does my mind state depend on what's going on? This happens or that happens; how much does the mind state wobble with that? A steadiness with it is what equanimity is. &nbsp;&nbsp;<span class="counts">_[[Equanimity in Compassion#Equanimity is steadiness in the face of all conditions|Equanimity is steadiness in the face of all conditions]]_</span>
+
+> So it has a certain feeling-tone, equanimity, to it, a certain peacefulness, a certain stillness, and it's the mind kind of tuning into that wavelength, that resonance, and just being there with it, noticing it, feeling it, opening to it, and enjoying it, enjoying it, that allows it to deepen, to settle in the being. &nbsp;&nbsp;<span class="counts">_[[Equanimity in Compassion#3 Equanimity deepens when the mind tunes into the feeling-tone of equanimity|(3) Equanimity deepens when the mind tunes into the feeling-tone of equanimity]]_</span>
+
+> That principle is something that applies to all consciousnesses - not even just human beings; all consciousnesses. Whenever there's a consciousness, the appearance of things to that consciousness depends on the push and the pull, the relationship with. And that's universal. That universality, seeing that, understanding that, brings equanimity, as I said, but brings very deep compassion, because it's got very deep wisdom with it. &nbsp;&nbsp;<span class="counts">_[[Equanimity in Compassion#The true nature of all things is immeasurable|The true nature of all things is immeasurable]]_</span>
+
+> But sometimes it can be just the sense of contraction is a sense of suffering. And one notices that when there's pushing or pulling or aversion, there's suffering there. As I relax that, the suffering goes. And being actually sensitive to the suffering and the release of suffering is really key in the deepening of equanimity. So there's a real sensitivity to suffering and its release, and suffering and its release, and suffering and its release, as the process deepens... &nbsp;&nbsp;<span class="counts">_[[Equanimity in Compassion#Rob feeling the suffering is important because there's a lot insight in this approach|Rob: feeling the suffering is important because there's a lot insight in this approach]]_</span>
+
+**[[Joy (talk)]]**
+<span class="counts">[[2007 New Years Retreat Insight Meditation]]</span>
+> Its natural movement in the fullness of time is to move towards equanimity - a beautiful, rich, deep equanimity. That's just the way joy matures. &nbsp;&nbsp;<span class="counts">_[[Joy (talk)#Joy moves naturally towards equanimity|Joy moves naturally towards equanimity]]_</span>
+
+**[[Love and the Emptiness of Things]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> We can actually learn to relax the grasping and see the suffering go out. It doesn't feed suffering. Equanimity and love, in their depths, are non-grasping - there isn't a pushing away or a pulling towards. &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#In its depth the nature of love is non-grasping|In its depth, the nature of love is non-grasping]]_</span>
+
+**[[The Birth of a Bodhisattva]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> When the mind, when the heart, is small, restricted, that karma ripens - the memory of what we did, or what happened to us or whatever - ripens in that context of the restricted, the constricted heart. In the unrestricted heart, the immeasurable heart - so one that is either immeasurable through loving-kindness and compassion, or joy or equanimity, one of the _brahmavihāras_, immeasurable that way, or unrestricted through _samādhi_ or through insight - in the unrestricted heart, when that karma ripens, when it comes up, when the memory comes up or the effects from the past come up, memory or otherwise, it's in a very different context. And the Buddha said it will barely be noticed. &nbsp;&nbsp;<span class="counts">_[[The Birth of a Bodhisattva#Ripening of karma from the past|Ripening of karma from the past]]_</span>
+
 

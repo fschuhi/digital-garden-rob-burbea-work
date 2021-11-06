@@ -36,3 +36,13 @@ term | count | talks
 [[Consciousness]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 1]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
 [[Dependent Origination]] | 2 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2)</span> 
 
+### Quotes
+**[[Love and Emptiness]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> My take on it, as well, is that a person can be awakened to some degree, and there's basically a momentum of saṅkhāras, of karmic momentum, to basically perceive things and things existing really. And that momentum for the duration of their life is enough to keep the world appearing for them. And then, theoretically, when they die, it all kind of dissolves into whatever it does. &nbsp;&nbsp;<span class="counts">_[[Love and Emptiness#Rob Maybe only Buddhas can see emptiness and not bump into things|Rob: Maybe only Buddhas can see emptiness and not bump into things]]_</span>
+
+**[[The Way of Non-Clinging Part 2]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> [W]e see how clinging, craving, _saṅkhārā_, _avijjā_, attention - these notions overlap. They're all different forms of clinging... &nbsp;&nbsp;<span class="counts">_[[The Way of Non-Clinging Part 2#Even attention is a form of clinging|Even attention is a form of clinging]]_</span>
+
+

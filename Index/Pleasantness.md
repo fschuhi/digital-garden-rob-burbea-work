@@ -42,3 +42,33 @@ term | count | talks
 [[Cultivation]] | 9 | <span class="counts">[[Love and the Emptiness of Things]] (2) · [[Equanimity in Compassion]] (1) · [[From Insight to Love]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
 [[Retreat]] | 9 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (5) · [[Orienting to This Jhana Retreat]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
 
+### Quotes
+**[[The Place of Samadhi in Metta Practice]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> We need, and particularly on a retreat like this, we need to take care, as much as possible, of a kind of baseline foundation of our sense of well-being, nourish our sense of happiness. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#It works also in the reverse the most important contributor to samadhi is happiness|It works also in the reverse: the most important contributor to samadhi is happiness]]_</span>
+
+> So any kind of pleasantness, sense of well-being, sense of comfort, pleasure in the body, physical, you want to encourage. It's part of the practice, and you want to kind of mix it in with what's going on. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#Non-entanglement|Non-entanglement]]_</span>
+
+> So if there's any kind of - even if it's unremarkable - sense of enjoying the practice, really let yourself enjoy it. See if you can bring that in and mix it in with what's going on. Open to the enjoyment, however it is. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#ad 3 attachment - - feeling good doesn't lead to attachment|ad 3. attachment - - feeling good doesn't lead to attachment]]_</span>
+
+**[[Using Insight to Deepen Love and Compassion]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> And you drop a word in or a phrase, and it has some resonance in the body sensitivity, or the body feels peaceful, there's a feeling of peace around, there's a feeling of warmth, of happiness - actually connecting with that in the body, feeling it, feeling just a sense of comfort in the body, just a vague, unremarkable sense of well-being. That connection with those kinds of feelings in the body helps the _samādhi_. &nbsp;&nbsp;<span class="counts">_[[Using Insight to Deepen Love and Compassion#Body sensitivity allows samadhi to go deeper|Body sensitivity allows samadhi to go deeper]]_</span>
+
+**[[Compassion (talk)]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> Even though we're opening ourselves to suffering, we're tuning into suffering, we're looking at it, we're willing to let the heart resonate with it - still, compassion is a pleasant quality. It's a pleasant abiding, a sublime or divine abiding. &nbsp;&nbsp;<span class="counts">_[[Compassion (talk)#Energizing rather tiring pleasant rather than unpleasant|Energizing rather tiring, pleasant rather than unpleasant]]_</span>
+
+**[[Love and the Emptiness of Things]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> [W]hat he taught much more is this wholesome nourishment, wholesome developing of what's beautiful, and the well-being that that provides, and the _well_ of well-being that that provides_, and_ investigation. It's not that he taught a particular technique or you have to do this or that. It's those two together that were taught. &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#The Buddha didn't teach insight meditation but well-being and investigation|The Buddha didn't teach insight meditation, but well-being and investigation]]_</span>
+
+**[[Dilemmas and Delineations - How did we get here Part 2]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> '[B]liss' as an experience of the energy body, of great pleasantness in the energy body, of rapture or joy in the energy body, and that kind of openness, etc., sometimes very intense, sometimes much more subtle. {quote But that energy body experience of bliss, I would say, accompanies _any_ lightening or unfabricating, to whatever degree, of the self-sense, up to a certain point, at least. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 2#The "bliss" of soulmaking"|The "bliss" of soulmaking"]]_</span>
+
+**[[Orienting to This Jhana Retreat]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> Listen to what I'm saying. I'm not saying, "Go with whatever practice you feel you can stick with the object the longest for." Go with whatever practice is the _easiest for the well-being to arise_. &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#Don't try to use this retreat to fix tings but rather go with whatever practice is the easiest for the well-being to arise|Don't try to use this retreat to fix tings, but rather go with whatever practice is the easiest for the well-being to arise]]_</span>
+
+

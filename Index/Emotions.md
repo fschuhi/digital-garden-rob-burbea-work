@@ -42,3 +42,25 @@ term | count | talks
 [[Perception]] | 7 | <span class="counts">[[Love and Emptiness]] (3) · [[Love and the Emptiness of Things]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
 [[Consciousness]] | 6 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (3) · [[Love and Emptiness]] (2) · [[What is Insight]] (1)</span> 
 
+### Quotes
+**[[The Place of Samadhi in Metta Practice]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> We tend to think of a storehouse of old emotions: "Here's anger. I need to release it. I need it to come up." But it cannot come up unless the conditions in the present moment are there for it to come up. And sometimes when we're really clear, we can actually see this process, that if we don't feed it in the present, it doesn't come up. It _cannot_ come up. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#When the samadhi is around drop in a thought of what's difficult|When the samadhi is around, drop in a thought of what's difficult]]_</span>
+
+**[[Using Insight to Deepen Love and Compassion]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> What certain situations need is very relative, conventional language. We need to talk about our emotions; we need to express what we feel to each other; we need to respect that. I need to respect my emotions and your emotions at that level. So in that moment, that's what's helpful, that way of looking. But I'm saying a mature practice is able to move between picking that up, putting it down, picking up other ways of seeing - emptiness, _anattā_, etc. - and putting them down, not getting stuck in one or the other. &nbsp;&nbsp;<span class="counts">_[[Using Insight to Deepen Love and Compassion#Maturity in practice comes from being able to move between different ways of seeing|Maturity in practice comes from being able to move between different ways of seeing]]_</span>
+
+**[[Daimon, Refracted]]**
+<span class="counts">[[2019 Four Circles, Four Parables of Stone and Light]]</span>
+> One opens one's being to those particular qualities, and the being, the soul, the energy body, the emotions start resonating with those qualities. And in so doing, we absorb those qualities. We absorb, if you like, into our life in ways that can actually then become manifest, practically manifest, really manifest, in our real, physical relationships, over time. &nbsp;&nbsp;<span class="counts">_[[Daimon, Refracted#It's possible to resonate with the qualities of the imaginal figure and absorb them over time|It's possible to resonate with the qualities of the imaginal figure and absorb them over time]]_</span>
+
+**[[Orienting to This Jhana Retreat]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> We're perfectly happy regarding the emotions as 'real,' and having real causes, and relating to them and caring for them as real entities with real causes. _And_ we're perfectly happy regarding them as thoroughly empty, and not real, and not being really caused by real things. There's a range of view, and we're skilled in many different approaches and perspectives regarding the emotions. &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#Emotional discernment and emotional capacity in awakening and healing|Emotional discernment and emotional capacity in awakening and healing]]_</span>
+
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+> Can we exercise and open up the channels of our being, the movements we make, the body, the [[Embodiment|sense of the body]], the sense of the emotions, the gestures, the voice, so that, at times, at least, we, too, are dwelling, vijahāra, in the diamond, the indestructible, the eternal heart essence of the body, speech, and mind of all Buddhas, all Tathāgatas, all those who go to and come from this transcendent truth, this transcendent reality, this reality that is both transcendent and immanent?... &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Open up so that we too are dwelling there|Open up so that we, too, are dwelling there]]_</span>
+
+

@@ -36,3 +36,11 @@ term | count | talks
 [[Kusala]] | 2 | <span class="counts">[[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
 [[Love]] | 2 | <span class="counts">[[Love and Emptiness]] (1) · [[The Practice of Compassion]] (1)</span> 
 
+### Quotes
+**[[Love and the Emptiness of Things]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> [W]e're reconditioning the heart and the mind, which essentially, you could say, is a whirlpool, a web of conditioning, of conditions and habits of conditions. &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#Planting the seeds of intention to recondition the mind|Planting the seeds of intention to recondition the mind]]_</span>
+
+> So it's really not about self-improvement, and the whole notion of a self to improve begins to just loosen in time with practice. And yet, we can still be really committed to this process of cultivation, of developing the nourishment, of reconditioning. &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#Cultivation is not about self-improvement|Cultivation is not about self-improvement]]_</span>
+
+

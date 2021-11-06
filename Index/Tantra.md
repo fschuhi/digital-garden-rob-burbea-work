@@ -36,3 +36,9 @@ term | count | talks
 [[Guhyasamaja Tantra]] | 2 | <span class="counts">[[Daimon, Refracted]] (2)</span> 
 [[Image]] | 2 | <span class="counts">[[Daimon, Refracted]] (2)</span> 
 
+### Quotes
+**[[Dilemmas and Delineations - How did we get here Part 1]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> All that is partly what allows us to open up teachings of imaginal practice and, if you like, tantric teachings... &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 1#The different ways of looking form a non-realist basis for explanations and explorations|The different ways of looking form a non-realist basis for explanations and explorations]]_</span>
+
+

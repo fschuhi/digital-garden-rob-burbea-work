@@ -33,3 +33,15 @@ term | count | talks
 [[The Self]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Questioning Awakening]] (1)</span> 
 [[Anatta]] | 1 | <span class="counts">[[From Insight to Love]] (1)</span> 
 
+### Quotes
+**[[Questioning Awakening]]**
+<span class="counts">[[2014 November Solitary - Questioning Awakening]]</span>
+> It's impossible to get away from that. You can _think_ you're away from it, you can _assume_ you're away from it. It's impossible to get away from ontology, epistemology,cosmology - metaphysics. And always we have to assume something. There is always an assumption that ends up being actually unprovable - always. &nbsp;&nbsp;<span class="counts">_[[Questioning Awakening#There is always an assumption about metaphysics|There is always an assumption about metaphysics]]_</span>
+
+> Big ideas can open up the whole sense of existence - the questioning, the perception, everything. That opening up won't happen just by 'being with,' or just by being with my feelings, if I'm 'being with' with the same unquestioned ways of looking, unquestioned conceptual framework, etc., unquestioned metaphysics, really. We somehow need to question and to put in new ideas. Somehow. &nbsp;&nbsp;<span class="counts">_[[Questioning Awakening#Is a wholly different relationship with fundamental ideas possible|Is a wholly different relationship with fundamental ideas possible?]]_</span>
+
+**[[Dilemmas and Delineations - How did we get here Part 3]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> [I]f we go deeply enough and radically enough with this phenomenological approach, actually there are ways that it can end up opening what we might call metaphysical philosophy. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#It's a powerful way into understanding emptiness and the imaginal|It's a powerful way into understanding emptiness and the imaginal]]_</span>
+
+

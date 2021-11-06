@@ -38,3 +38,17 @@ term | count | talks
 [[Appreciation]] | 2 | <span class="counts">[[Joy (talk)]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
 [[Beauty]] | 2 | <span class="counts">[[Equanimity in Compassion]] (1) · [[Joy (talk)]] (1)</span> 
 
+### Quotes
+**[[Equanimity (talk)]]**
+<span class="counts">[[2006 New Year's Retreat]]</span>
+> A spiritual joy, doesn't have so much to do with the self. So one aspect of spiritual joy, we could say, is wonder, wonder. That quality of just a human being wondering, marveling.. a human being in awe at life, at existence, at the universe... &nbsp;&nbsp;<span class="counts">_[[Equanimity (talk)#Spiritual joy|Spiritual joy]]_</span>
+
+**[[Joy (talk)]]**
+<span class="counts">[[2007 New Years Retreat Insight Meditation]]</span>
+> So it's joy that comes from cultivation of the beautiful qualities of heart; joy that comes from appreciation, cultivating appreciation; joy that comes from opening, from connecting, from perceiving beauty, from developing our capacity to perceive beauty, from the deepening of our practice, joy in practice itself, joy in the Dharma, joy in the teachings, in hearing the teachings, in the Saṅgha, in the community of people who love to practise, who are interested in practising. This is all Dharma joy, spiritual joy. &nbsp;&nbsp;<span class="counts">_[[Joy (talk)#Different ways spiritual joy expresses itself|Different ways spiritual joy expresses itself]]_</span>
+
+**[[Orienting to This Jhana Retreat]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> It means it's not just the joy in someone else's happiness. It _is_ that, and it's all those things I just talked about as well. That's what _muditā_ means in its broader sense, and that's, I think, how the Buddha meant it. &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#6 Mudita|(6) Mudita]]_</span>
+
+

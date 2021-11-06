@@ -23,3 +23,9 @@ term | count | talks
 [[Metaphysics]] | 1 | <span class="counts">[[Questioning Awakening]] (1)</span> 
 [[Ontology]] | 1 | <span class="counts">[[Questioning Awakening]] (1)</span> 
 
+### Quotes
+**[[Questioning Awakening]]**
+<span class="counts">[[2014 November Solitary - Questioning Awakening]]</span>
+> It's impossible to get away from that. You can _think_ you're away from it, you can _assume_ you're away from it. It's impossible to get away from ontology, epistemology,cosmology - metaphysics. And always we have to assume something. There is always an assumption that ends up being actually unprovable - always. &nbsp;&nbsp;<span class="counts">_[[Questioning Awakening#There is always an assumption about metaphysics|There is always an assumption about metaphysics]]_</span>
+
+

@@ -38,3 +38,19 @@ term | count | talks
 [[Experience]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2)</span> 
 [[Perception]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Daimon, Refracted]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
 
+### Quotes
+**[[Dilemmas and Delineations - How did we get here Part 3]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> But when I talk about logos, because it's wrapped up in perception, I'm not talking about something abstract. We _live_ a logos, or we live logoi. We live different ideas. Different concepts shape how we live, they inform how we live, but more fundamentally, they shape our way of looking. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#There is always a logos operating in the mind except during an experience of the Unfabricated|There is always a logos operating in the mind (except during an experience of the Unfabricated]]_</span>
+
+> And so there's a kind of self-feeding, self-generating, ongoing fertilization, mutual fertilization of eros, psyche, logos; mutual widening, deepening, enriching, complicating, adding dimensionality, etc., that goes on. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#Mutual fertilization of erso psyche logos|Mutual fertilization of erso, psyche, logos]]_</span>
+
+> I was contrasting _poiesis_ and _logos_, but actually when I use the word 'logos' in the way _we're_ using it, we're not making a truth claim, other than that everything is empty, and even _that_, actually, you let go of at a certain point. A logos is just a concept that we can pick up, or a conceptual framework we can pick up, without insisting or even believing it as true. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#The soul is participating in the cosmos|The soul is participating in the cosmos]]_</span>
+
+**[[Dilemmas and Delineations - How did we get here Part 4]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> [E]ros, wanting more, it deepens and creates/discovers more to the image, gives more imaginal dimensions, imaginal complexity, imaginal facets and faces to this beloved other, and in that, the idea, the logos, also, of this other expands. That eros-psyche-logos, that soulmaking dynamic, then comes back, because the object then is more beautiful, more deep, more rich, more juicy, more enticing, more complex. It offers me more. It offers more for the psyche, so to speak, to move into, to expand, but also for the eros to find attractive and to want more of. So there's this way that it kind of, potentially infinitely, in a way, just expands. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 4#Eros psyche logos they all help each other|Eros, psyche, logos, they all help each other]]_</span>
+
+> There's this mutual insemination, mutual fertilization, growth, expansion, deepening, widening, complexifying, complicating, enrichening of eros-psyche-logos. They all help each other, if you like. They're all involved with and involve each other. That's the eros-psyche-logos dynamic. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 4#Eros psyche logos they all help each other|Eros, psyche, logos, they all help each other]]_</span>
+
+

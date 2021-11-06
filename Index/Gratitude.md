@@ -37,3 +37,17 @@ term | count | talks
 [[Beauty]] | 1 | <span class="counts">[[Joy (talk)]] (1)</span> 
 [[Blessing]] | 1 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
 
+### Quotes
+**[[Joy (talk)]]**
+<span class="counts">[[2007 New Years Retreat Insight Meditation]]</span>
+> Huge is the power of gratitude. &nbsp;&nbsp;<span class="counts">_[[Joy (talk)#Excercise 10 things you are grateful for|Excercise: 10 things you are grateful for]]_</span>
+
+**[[The Place of Samadhi in Metta Practice]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> When we think about _samādhi_, the whole picture is important. Taking care of that, nurturing appreciation, gratitude, etc. - very significant. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#Keep that willingness experimentation nurturing around|Keep that willingness, experimentation, nurturing around]]_</span>
+
+**[[Orienting to This Jhana Retreat]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> Taking care of inclining the mind and the heart to gratitude, to seeing what there is to be grateful for and to feeling that gratitude every day, a number of times. &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#2 Gratitude|(2) Gratitude]]_</span>
+
+

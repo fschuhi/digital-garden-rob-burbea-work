@@ -42,3 +42,29 @@ term | count | talks
 [[Insight]] | 11 | <span class="counts">[[Love and the Emptiness of Things]] (4) · [[The Place of Samadhi in Metta Practice]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Compassion (talk)]] (1)</span> 
 [[Retreat]] | 11 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (4) · [[Orienting to This Jhana Retreat]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Daimon, Refracted]] (1)</span> 
 
+### Quotes
+**[[Equanimity in Compassion]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> How is it that my well of joy, my reservoir of inner happiness, can be deepened in life? And so looking into: how does the being open to wonder? How does it open to the mystery of life, to the awe of things? What's the place of art and music in that? What's the place of our relationship with nature? &nbsp;&nbsp;<span class="counts">_[[Equanimity in Compassion#When feel like we have enough external circumstances make less of an impact|When feel like we have enough, external circumstances make less of an impact]]_</span>
+
+**[[The Place of Samadhi in Metta Practice]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> [L]ove for the self, love for others, love for nature, for all things, for all beings. That's a kind of mark of _samādhi_ as it deepens. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#Love comes from doing samadhi practice|Love comes from doing samadhi practice]]_</span>
+
+**[[Using Insight to Deepen Love and Compassion]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> And our life involves an incredible amount of uncertainty and change. That's the nature, that's the fabric of our existence. And they, like us, are subject to that. So just holding this lightly, this sense of _anicca_ that they are vulnerable to, holding that in the awareness very lightly, as one's doing the _mettā_, can either kick-start the _mettā_ when it feels like it's a little bit blocked or it can't really get off the ground... &nbsp;&nbsp;<span class="counts">_[[Using Insight to Deepen Love and Compassion#a Remembering death and the unpredicatibility of life|a) Remembering death and the unpredicatibility of life]]_</span>
+
+> [Y]ou're actually reflecting on the nature of their being, reflecting on the nature of their aggregates, etc. &nbsp;&nbsp;<span class="counts">_[[Using Insight to Deepen Love and Compassion#It's not visual imagination because it's coming out of a contemplation of their emptiness|It's not visual imagination, because it's coming out of a contemplation of their emptiness]]_</span>
+
+> The very nature of consciousness itself is that it's always creating an object and shaping, colouring - 'fabricating' is the Buddha's word - fabricating an object. As such, there is no place to stand where you see a thing as it is _independently of the way I'm looking at it_. &nbsp;&nbsp;<span class="counts">_[[Using Insight to Deepen Love and Compassion#There is no moment of consciousness that is not shaping or creating or colouring or fabricating an experience|There is no moment of consciousness that is not shaping or creating or colouring or fabricating an experience]]_</span>
+
+**[[Compassion (talk)]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> [T]he suffering in the world is _held -_ held, we could say, in the love of the universe, in the compassion of the universe, in the heart of God, whatever language works. It's almost like something deepens, and the true nature of the heart is seen as not limited, but actually infinite and vast. &nbsp;&nbsp;<span class="counts">_[[Compassion (talk)#We can get sometimes a sense of a compassion that it's not the self doing it|We can get sometimes a sense of a compassion that it's not the self doing it]]_</span>
+
+**[[Love and the Emptiness of Things]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> Everything is so fleeting. And so things, phenomena, _dharmas_ are fleeting by their nature, when we look at them. And in a way, you could say, they're deserving of compassion. They're impoverished. They barely last. &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#Phenomena are fleeting by their nature so they are deserving of compassion|Phenomena are fleeting by their nature, so they are deserving of compassion]]_</span>
+
+

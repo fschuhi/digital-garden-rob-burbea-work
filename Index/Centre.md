@@ -101,3 +101,19 @@ term | count | talks
 [[Attention]] | 3 | <span class="counts">[[Compassion Part Two - Compassion for Ourselves]] (1) · [[Joy (talk)]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 [[Awareness]] | 3 | <span class="counts">[[From Insight to Love]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 
+### Quotes
+**[[Using Insight to Deepen Love and Compassion]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> When we release clinging, the heart centre opens. &nbsp;&nbsp;<span class="counts">_[[Using Insight to Deepen Love and Compassion#f feel energetically the opening and closing of the heart centre|f) feel energetically the opening and closing of the heart centre]]_</span>
+
+> And putting the awareness, just gently keep putting it other places - belly, heart centre, etc. And the more you do that with that sensitivity, the more the energy, the more the awareness kind of rests there, takes its centre there. And then it can radiate from there. &nbsp;&nbsp;<span class="counts">_[[Using Insight to Deepen Love and Compassion#Keep putting the awareness in other places than the head|Keep putting the awareness in other places than the head]]_</span>
+
+**[[Compassion Part Two - Compassion for Ourselves]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> But in a way, one's more interested in what's _around_ that, in the - someone in their note, beautifully put - the _holding_ that goes _around_ the pain. So it's as if this pain is at the centre. And we're not denying it. We're still feeling it, but we're not going right into it. We're more interested in the warmth and the tenderness and the holding that's around it. &nbsp;&nbsp;<span class="counts">_[[Compassion Part Two - Compassion for Ourselves#Different from insight practice in compassion practice one is more interest in what is around the pain not in the center of it|Different from insight practice, in compassion practice one is more interest in what is around the pain, not in the center of it]]_</span>
+
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+> One could think about centring as, "I need to centre because I need to encounter that self at my centre." Or it could be that what I'm expecting at the centre is a kind of infinite depth of still nothingness, of stillness and nothingness - which is a wonderful sense: one can look inside, and there are different kinds of nothingness, different kinds of stillness.... &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Finding in one's core the self or stillness Aspect 4|Finding in one's core the self, or stillness (Aspect 4)]]_</span>
+
+

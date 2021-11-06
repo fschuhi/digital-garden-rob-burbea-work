@@ -34,3 +34,9 @@ term | count | talks
 [[The Self]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3)</span> 
 [[Compassion]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
 
+### Quotes
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+> You're doing this in dyadic relationship with an image. Same thing though: you take your turn to move the body and make gestures and vocalize to the [[Daimon|angel]], to your angel who is your dyad partner, to the image there, to the [[Imaginal|imaginal figure]]. And then you receive, in your imagination, the movements, the gestures, the vocalizations, the [[blessing]] and just the mystery of that communication from the angel, in your imagination. &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Rather than actual person dyad partner is intrapsychic image|Rather than actual person, dyad partner is intrapsychic image]]_</span>
+
+

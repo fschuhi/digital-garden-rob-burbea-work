@@ -40,3 +40,9 @@ term | count | talks
 [[Equanimity]] | 3 | <span class="counts">[[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
 [[Grief]] | 3 | <span class="counts">[[Compassion (talk)]] (2) · [[The Practice of Compassion]] (1)</span> 
 
+### Quotes
+**[[The Practice of Compassion]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> Absolutely. I mean, the near enemies will come up, and they're to be worked with - to be seen, to be understood, to be worked with. And as I said, it's part of being human. &nbsp;&nbsp;<span class="counts">_[[The Practice of Compassion#Near enemies will come up that's human|Near enemies will come up, that's human]]_</span>
+
+

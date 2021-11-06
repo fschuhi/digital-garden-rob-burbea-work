@@ -42,3 +42,31 @@ term | count | talks
 [[Attention]] | 8 | <span class="counts">[[Equanimity in Compassion]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1)</span> 
 [[Embodiment]] | 8 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[Compassion (talk)]] (1) · [[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
 
+### Quotes
+**[[The Practice of Compassion]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> [W]hen the [compassion](https://publish.obsidian.md/rob-burbea/Index/Compassion) has gone off into righteous anger or we feel that kind of anger come in, it's actually painful for us. So sometimes this might happen in the course of your practice, if you're giving compassion to the difficult person. To take a moment and just give the compassion to oneself, recognizing there's some pain there. If I'm involved in judgment, if I'm involved in blame, in anger, in all that, my heart is burning, my heart is [contracted](https://publish.obsidian.md/rob-burbea/Index/Contraction) and painful. Just to take a moment, and turn round, and feel that pain, and touch it with compassion to oneself, and then to go out again. &nbsp;&nbsp;<span class="counts">_[[The Practice of Compassion#When feeling the pain of anger coming in remember to give compassion to yourself|When feeling the pain of anger coming in, remember to give compassion to yourself]]_</span>
+
+**[[Equanimity in Compassion]]**
+<span class="counts">[[2007 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> They're four pairs: praise and blame, success and failure, gain and loss, and pleasure and pain... &nbsp;&nbsp;<span class="counts">_[[Equanimity in Compassion#Eight worldly conditions|Eight worldly conditions]]_</span>
+
+> No one wants to be blamed or to be in pain or to fail or to lose what we like. And whoever we are in this life, whatever our history, whoever we are, whatever our credentials, we are going to be subject throughout our life to the wavering of those four polarities - no matter who you are... &nbsp;&nbsp;<span class="counts">_[[Equanimity in Compassion#Eight worldly conditions|Eight worldly conditions]]_</span>
+
+**[[Compassion Part Two - Compassion for Ourselves]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> But in a way, one's more interested in what's _around_ that, in the - someone in their note, beautifully put - the _holding_ that goes _around_ the pain. So it's as if this pain is at the centre. And we're not denying it. We're still feeling it, but we're not going right into it. We're more interested in the warmth and the tenderness and the holding that's around it. &nbsp;&nbsp;<span class="counts">_[[Compassion Part Two - Compassion for Ourselves#Different from insight practice in compassion practice one is more interest in what is around the pain not in the center of it|Different from insight practice, in compassion practice one is more interest in what is around the pain, not in the center of it]]_</span>
+
+**[[Guided Meditation on Gratitude and Compassion]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> Just opening up the awareness to the huge stream of generosity, of care that we have received from our parents. Allowing the heart to open, too, to their pain, their suffering, their confusion. Wherever they are now, "May they be free from suffering. May they be at peace." &nbsp;&nbsp;<span class="counts">_[[Guided Meditation on Gratitude and Compassion#Compassion to the parents|Compassion to the parents]]_</span>
+
+**[[The Way of Non-Clinging Part 3]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> We want _more_ than ease and peace - certainly, probably certainly, than either the kind of ease and peace that is just a matter of stress reduction, or coping with pain, painful sensations. Even we want more than the ease and peace of the most profound kind, the most comprehensive kind. So look. See. Even within the Dharma, isn't it more than ease you want? Isn't it more than _that_ that you're looking for? Yes, there's ease. There's the ease of suffering that we're after. And what? If you love the Dharma, it's not just that. &nbsp;&nbsp;<span class="counts">_[[The Way of Non-Clinging Part 3#Human beings want more than easeand peace|Human beings want more than easeand peace]]_</span>
+
+**[[A Hidden Treasure - The Relationship with the Hindrances]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> **Bring the attention back to myself, and actually notice and feel the _dukkha_ of that ill-will _here_ .** _It's in_ my _heart. There's a taste in my mouth. It's a flavour in my energy body and my consciousness. It's_ dukkha. It's painful. So I'm not trying to change the ill-will. I just come back, and I feel what's happening. Don't judge, just: "What does it feel like? Oh, it's _dukkha_." And feel the pain of it. I just have to let my consciousness touch the pain there. &nbsp;&nbsp;<span class="counts">_[[A Hidden Treasure - The Relationship with the Hindrances#a Ill-will i Metta to the one I'm upset with ii to myself|(a) Ill-will, (i) Metta to the one I'm upset with (ii) to myself]]_</span>
+
+

@@ -42,3 +42,21 @@ term | count | talks
 [[Mind]] | 4 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[Guided Meditation on Gratitude and Compassion]] (1) · [[What is Insight]] (1)</span> 
 [[Dukkha]] | 3 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
 
+### Quotes
+**[[Using Insight to Deepen Love and Compassion]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> And you drop a word in or a phrase, and it has some resonance in the body sensitivity, or the body feels peaceful, there's a feeling of peace around, there's a feeling of warmth, of happiness - actually connecting with that in the body, feeling it, feeling just a sense of comfort in the body, just a vague, unremarkable sense of well-being. That connection with those kinds of feelings in the body helps the _samādhi_. &nbsp;&nbsp;<span class="counts">_[[Using Insight to Deepen Love and Compassion#Body sensitivity allows samadhi to go deeper|Body sensitivity allows samadhi to go deeper]]_</span>
+
+**[[Compassion (talk)]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> And if in our life our compassion is restricted to when we _feel_ it, that's too limited. Sometimes in our life we _don't_ feel it, but we act still. We _do_, we _act_ with compassion. We embody that intention. We cannot feel it all the time because feelings are impermanent... &nbsp;&nbsp;<span class="counts">_[[Compassion (talk)#Like metta compassion is not just a feeling|Like metta, compassion is not just a feeling]]_</span>
+
+**[[Love and the Emptiness of Things]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> So there's the questioning. There is allowing ourselves to feel what needs to be felt at times, feeling the feelings. &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#Questioning|Questioning]]_</span>
+
+**[[Questioning Awakening]]**
+<span class="counts">[[2014 November Solitary - Questioning Awakening]]</span>
+> Big ideas can open up the whole sense of existence - the questioning, the perception, everything. That opening up won't happen just by 'being with,' or just by being with my feelings, if I'm 'being with' with the same unquestioned ways of looking, unquestioned conceptual framework, etc., unquestioned metaphysics, really. We somehow need to question and to put in new ideas. Somehow. &nbsp;&nbsp;<span class="counts">_[[Questioning Awakening#Is a wholly different relationship with fundamental ideas possible|Is a wholly different relationship with fundamental ideas possible?]]_</span>
+
+

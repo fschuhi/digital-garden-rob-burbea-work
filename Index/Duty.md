@@ -36,3 +36,19 @@ term | count | talks
 [[The Self]] | 4 | <span class="counts">[[Daimon, Refracted]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 [[Circuits]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (3)</span> 
 
+### Quotes
+**[[Daimon, Refracted]]**
+<span class="counts">[[2019 Four Circles, Four Parables of Stone and Light]]</span>
+> So the image is brought into a very powerful relationship with the self, but it's got all the lightness - I mean, partly helped by the ethereality - but it's got all the lightness of touch of non-identification, or not _over_-identifying, put it that way, and making a rigid ego-identity around it. So there's the duty wrapped up in it, and the sense of self, and the way this image then informs and flows into the self. &nbsp;&nbsp;<span class="counts">_[[Daimon, Refracted#Our persona being a very particular refraction of the quality of the image|Our persona being a very particular refraction of the quality of the image]]_</span>
+
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+>  And I find more and more these days, when things are difficult, when there's challenge different ways, that the sense (and I mean that word in its double meaning: the sense, the actual [[perception]], and the idea) of my human being or another human being is more along the lines of this [[Image|image and analogue]], of having [[Dimensionality|angelic dimensions]] which are refracted into the human life more or less at different times, with a [[duty]] to that.... &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#The sense and sensing of being larger having angelic dimensions|The sense and sensing of being larger, having angelic dimensions]]_</span>
+
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+> And then, again, in terms of consequences, one of the beautiful consequences - this is part of what we don't know, in terms of when we really act in line with the [[duty]] of our [[soul]] and the callings of our soul, we can't always know the [[beauty]] and the fruit that comes out of that act. &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#African American residents boycotted the public bus service|African American residents boycotted the public bus service]]_</span>
+
+> This is what we want. We want the body and the [[soul]] integrated together. We want the possibility of soul to manifest, express, flow through and flow from all aspects of the being, including the [[Embodiment|body movement]], the body sense, the gesturing, the voice, the language, all of it. We want soul to be able to come through there as soul wants to come through there, so that we _can_ follow our [[telos]], we _can_ discharge our [[duty]], we _can_ carry that out, we _can_ have a fuller sense of ourselves, sense ourselves with soul, sense our life with soul, our work, our duty, our relationships, our being, the aspects of our being. This is what we want. &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#We want the body and soul integrated together|We want the body and soul integrated together]]_</span>
+
+

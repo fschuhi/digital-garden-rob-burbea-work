@@ -26,3 +26,9 @@ term | count | talks
 [[Dependent Origination]] | 1 | <span class="counts">[[Love and the Emptiness of Things]] (1)</span> 
 [[Dharma]] | 1 | <span class="counts">[[Love and the Emptiness of Things]] (1)</span> 
 
+### Quotes
+**[[Love and the Emptiness of Things]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> There's something in opening to a state like that - whatever it is, infinite consciousness pervading the universe - these are all quite related states, very, very, potentially incredibly transforming for the long term. People often fall into one of two extremes with them. One is to reify them and think they've arrived somewhere, and actually stop short their questioning in the path. &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#You don't want to rush through those beautiful states but also not misunderstand them as ultimate|You don't want to rush through those beautiful states, but also not misunderstand them as ultimate]]_</span>
+
+

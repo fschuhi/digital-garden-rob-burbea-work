@@ -42,3 +42,21 @@ term | count | talks
 [[Eros]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Anger]] | 3 | <span class="counts">[[Expressions of Metta]] (3)</span> 
 
+### Quotes
+**[[Exploring the World of Loving Kindness]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> It means to care about that, and to try and keep breaking that open, and having it be fresh. And that's quite a task. I think it's quite a task. And especially, you know, relationships, friendships, intimate relationships that last years - how easy it is to just gloss over the other with time, with familiarity. &nbsp;&nbsp;<span class="counts">_[[Exploring the World of Loving Kindness#Friendship means to have the aspiration to keep seeing each other|Friendship means to have the aspiration to keep seeing each other]]_</span>
+
+**[[The Way of Non-Clinging Part 3]]**
+<span class="counts">[[2017 Eros Unfettered]]</span>
+> [A]re there ways of conceiving, conceptual frameworks, relationships and investigations, that open otherwise closed doors for us? And doors that are deeply important to us, that it's deeply important to us to move through, because of what they open to, because of where they take us? &nbsp;&nbsp;<span class="counts">_[[The Way of Non-Clinging Part 3#How can we conceive of a clinging which opens towards what is deeply important to us|How can we conceive of a clinging which opens towards what is deeply important to us?]]_</span>
+
+**[[Daimon, Refracted]]**
+<span class="counts">[[2019 Four Circles, Four Parables of Stone and Light]]</span>
+> One opens one's being to those particular qualities, and the being, the soul, the energy body, the emotions start resonating with those qualities. And in so doing, we absorb those qualities. We absorb, if you like, into our life in ways that can actually then become manifest, practically manifest, really manifest, in our real, physical relationships, over time. &nbsp;&nbsp;<span class="counts">_[[Daimon, Refracted#It's possible to resonate with the qualities of the imaginal figure and absorb them over time|It's possible to resonate with the qualities of the imaginal figure and absorb them over time]]_</span>
+
+**[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]**
+<span class="counts">[[2020 Vajra Music]]</span>
+> This is what we want. We want the body and the [[soul]] integrated together. We want the possibility of soul to manifest, express, flow through and flow from all aspects of the being, including the [[Embodiment|body movement]], the body sense, the gesturing, the voice, the language, all of it. We want soul to be able to come through there as soul wants to come through there, so that we _can_ follow our [[telos]], we _can_ discharge our [[duty]], we _can_ carry that out, we _can_ have a fuller sense of ourselves, sense ourselves with soul, sense our life with soul, our work, our duty, our relationships, our being, the aspects of our being. This is what we want. &nbsp;&nbsp;<span class="counts">_[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#We want the body and soul integrated together|We want the body and soul integrated together]]_</span>
+
+

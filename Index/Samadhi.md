@@ -60,3 +60,47 @@ term | count | talks
 [[Love]] | 21 | <span class="counts">[[Samadhi in Metta Practice]] (6) · [[Love and the Emptiness of Things]] (4) · [[The Place of Samadhi in Metta Practice]] (4) · [[From Insight to Love]] (2) · [[Love and Emptiness]] (2)</span> 
 [[Pleasantness]] | 20 | <span class="counts">[[Samadhi in Metta Practice]] (7) · [[The Place of Samadhi in Metta Practice]] (4) · [[Orienting to This Jhana Retreat]] (2) · [[The Practice of Compassion]] (2)</span> 
 
+### Quotes
+**[[The Place of Samadhi in Metta Practice]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> So softness - in a way the opposite of tightness - softness is actually a factor of _samādhi_. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#ad 2 tightness|ad 2. tightness]]_</span>
+
+> When we get too tight, what happens? We actually feel it in the body. So part of the art of meditation, part of the art of deepening _samādhi_, is to have this kind of background awareness of breadth of the body awareness, and be sensitive to it. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#ad 2 tightness|ad 2. tightness]]_</span>
+
+> The mind is _not_ like it appears to be right now, it's _not_ clouded, it's _not_ clear, it's _not_ deep, it's _not_ shallow, I'm _not_ sitting here, you're _not_ sitting there, this is _not_ Gaia House, this is _not_ a meditation retreat. It can be hard to understand that without having gone through the depth of _samādhi_. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#A deep understanding of non-duality is that actually there's no "way things are"|A deep understanding of non-duality is that actually there's no "way things are"]]_</span>
+
+> [L]ove for the self, love for others, love for nature, for all things, for all beings. That's a kind of mark of _samādhi_ as it deepens. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#Love comes from doing samadhi practice|Love comes from doing samadhi practice]]_</span>
+
+> This is a very fluid, very responsive practice. One of the skills in _samādhi_ practice, one of the skills in _mettā_ practice, is responsiveness. So what is the way of using the phrases or leaving the phrases that's most helpful right now for you? That's it. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#Your need for the phrases changes|Your need for the phrases changes]]_</span>
+
+> When we think about _samādhi_, the whole picture is important. Taking care of that, nurturing appreciation, gratitude, etc. - very significant. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#Keep that willingness experimentation nurturing around|Keep that willingness, experimentation, nurturing around]]_</span>
+
+**[[Using Insight to Deepen Love and Compassion]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> And you drop a word in or a phrase, and it has some resonance in the body sensitivity, or the body feels peaceful, there's a feeling of peace around, there's a feeling of warmth, of happiness - actually connecting with that in the body, feeling it, feeling just a sense of comfort in the body, just a vague, unremarkable sense of well-being. That connection with those kinds of feelings in the body helps the _samādhi_. &nbsp;&nbsp;<span class="counts">_[[Using Insight to Deepen Love and Compassion#Body sensitivity allows samadhi to go deeper|Body sensitivity allows samadhi to go deeper]]_</span>
+
+**[[Guided Meditation on Gratitude and Compassion]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> If the _samādhi_ feels strong enough or there's a sense of settledness in the mind and the heart with the compassion, it can be almost, at times, as if the body has _turned into_ compassion. And you just let yourself _be_ compassion, and just radiate that out. Let everything become compassion. &nbsp;&nbsp;<span class="counts">_[[Guided Meditation on Gratitude and Compassion#Compassion according to categories of being or directions or just the sense of the body radiating compassion|Compassion according to categories of being, or directions, or just the sense of the body radiating compassion]]_</span>
+
+**[[Love and the Emptiness of Things]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> Sometimes we're more questioning, sometimes we're more allowing what needs to bubble up, and sometimes we're just developing the _samādhi_ and letting things get quiet, developing that journey into the depth, into the stillness, into the subtlety. &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#Encouragement|Encouragement]]_</span>
+
+**[[The Birth of a Bodhisattva]]**
+<span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
+> When the mind, when the heart, is small, restricted, that karma ripens - the memory of what we did, or what happened to us or whatever - ripens in that context of the restricted, the constricted heart. In the unrestricted heart, the immeasurable heart - so one that is either immeasurable through loving-kindness and compassion, or joy or equanimity, one of the _brahmavihāras_, immeasurable that way, or unrestricted through _samādhi_ or through insight - in the unrestricted heart, when that karma ripens, when it comes up, when the memory comes up or the effects from the past come up, memory or otherwise, it's in a very different context. And the Buddha said it will barely be noticed. &nbsp;&nbsp;<span class="counts">_[[The Birth of a Bodhisattva#Ripening of karma from the past|Ripening of karma from the past]]_</span>
+
+**[[Orienting to This Jhana Retreat]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> "We're not into brittle _jhānas._ We're not into brittle _samādhi_." &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#"Open schedule" means that it's on you to find a working temporal structure|"Open schedule" means that it's on you to find a working temporal structure]]_</span>
+
+**[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> So often, we just go into a default breath, and the only reason it feels comfortable is just because we're used to it. At that moment, it may well _not_ be that helpful in terms of really energizing, and opening, and healing, and soothing, and moving towards _samādhi_. So we have to be, again, willing to let go of our inertia, if it's there. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#Also what way of breathing feels good right now|Also what way of breathing feels good right now]]_</span>
+
+> [T]he breath needs to get subtle, the mind needs to get subtle. The journey of _samādhi_, the journey into _jhānas_, is a journey into increasing refinement and subtlety, and we could say it's more _that_ than it is into increasing ability to nail your mind to something and stay there all day, or whatever it is. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#Samadhi is more about open-heartedness subtlety and refinement than focus|Samadhi is more about open-heartedness, subtlety and refinement than focus]]_</span>
+
+> As we go on, and get more and more, and deeper and deeper, those same qualities - sensitivity, responsivity, and willingness - start to apply to more and more aspects of the whole movement of _samādhi_ and the deepening of _samādhi_. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#We want a sensitivity that permeates the whole space|We want a sensitivity that permeates the whole space]]_</span>
+
+

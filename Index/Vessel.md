@@ -13,7 +13,7 @@ talk | count | series
 [[Orienting to This Jhana Retreat]] | 2 | [[2019 Practising the Jhanas]]
 [[Expressions of Metta]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
-### Quotes
+### Quotes (old)
 #IndexEntry #Robology
 
 [[Kabbala]]

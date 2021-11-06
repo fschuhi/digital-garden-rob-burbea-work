@@ -23,3 +23,9 @@ term | count | talks
 [[Samsara]] | 1 | <span class="counts">[[What is Insight]] (1)</span> 
 [[Ways of looking]] | 1 | <span class="counts">[[What is Insight]] (1)</span> 
 
+### Quotes
+**[[What is Insight]]**
+<span class="counts">[[2007 New Years Retreat Insight Meditation]]</span>
+> "That things exist, O Kaccāyana, is one extreme. That they do not exist is another. But I accept neither 'is' nor 'is not,' and I declare the truth from the middle position." &nbsp;&nbsp;<span class="counts">_[[What is Insight#Kaccayana and Dependent Origination|Kaccayana and Dependent Origination]]_</span>
+
+
