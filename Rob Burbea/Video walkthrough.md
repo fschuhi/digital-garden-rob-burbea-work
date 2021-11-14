@@ -2,7 +2,7 @@
 - start w/ 150%
 - This is the starting page of what we Custodians affectionately call the "Digital Garden": a collection of Rob's talks, 
 	- based on the transcripts
-	- with links to the Dharma Seed audio
+	- with links to the Dharma Seed audio,
 	- cross-referenced
 	- organized
 	- with keywords, phrases, terminology
@@ -24,12 +24,6 @@
 
 ### Daily Quote
 - Take a look at the daily quote, pulled from one of his talks, "..."
-
-==what's a good quote for this purpose?==
-- beautiful
-- link to a talk page which has structuring headers
-- easy counts
-- maybe something w/ [[Energy body]]
 
 ##### hover
 - Links to other parts of the Garden, to other pages in it are blue, here the name of the talk.
@@ -66,7 +60,7 @@
 - It also sifts through all the paragraphs and looks for mentionings of ...
 - You remember when we looked at the quote, in the beginning, there were the keywords and [count] times ...? [too difficult]
 - That's the count you see here, showing in the top spot of the table the one paragraph of all the paragraphs of all talks of all retreats where the term occurs the most.
-- [[Energy body]] - - maybe open one from [[2020 Vajra Music]], which looks nice and colorful
+- [[energy body]] - - maybe open one from [[2020 Vajra Music]], which looks nice and colorful
 	- And all of the keywords have tables with the top mentionings.
 	- And some of them even quote collections.
 	- And even lists which show with which other keywords this particular keyword co-occurs most often, in which of the talks.

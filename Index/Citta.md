@@ -5,6 +5,7 @@ talk | count | series
 :- | - |: -
 [[Dilemmas and Delineations - How did we get here Part 3]] | 6 | [[2017 Eros Unfettered]]
 [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] | 4 | [[2019 Practising the Jhanas]]
+[[Breathing with the Energy Body - Guided Meditation]] | 3 | [[2019 Practising the Jhanas]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 2 | [[2020 Vajra Music]]
 [[A Hidden Treasure - The Relationship with the Hindrances]] | 2 | [[2019 Practising the Jhanas]]
 [[Counting Within the Breath - Guided Meditation]] | 2 | [[2019 Practising the Jhanas]]
@@ -25,16 +26,16 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
+[[Embodiment]] | 5 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Breathing with the Energy Body - Guided Meditation]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
 [[Mind]] | 5 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Counting Within the Breath - Guided Meditation]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 [[Soul]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
-[[Embodiment]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
 [[Energy]] | 2 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 [[Energy body]] | 2 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 [[Hindrances]] | 2 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 [[Image]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
+[[Receptivity]] | 2 | <span class="counts">[[Breathing with the Energy Body - Guided Meditation]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
 [[Ways of looking]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
 [[Appreciation]] | 1 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
-[[Attention]] | 1 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (1)</span> 
 
 ### Quotes
 **[[Dilemmas and Delineations - How did we get here Part 3]]**

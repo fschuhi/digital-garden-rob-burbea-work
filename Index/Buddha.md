@@ -43,7 +43,7 @@ term | count | talks
 [[Clinging]] | 28 | <span class="counts">[[The Way of Non-Clinging Part 1]] (8) · [[The Way of Non-Clinging Part 2]] (7) · [[Using Insight to Deepen Love and Compassion]] (4) · [[The Way of Non-Clinging Part 3]] (3) · [[What is Insight]] (2)</span> 
 [[Metta]] | 23 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (5) · [[From Insight to Love]] (2) · [[Love and Emptiness]] (2) · [[Love and the Emptiness of Things]] (2) · [[Samadhi in Metta Practice]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
 [[Craving]] | 22 | <span class="counts">[[The Way of Non-Clinging Part 1]] (7) · [[The Way of Non-Clinging Part 2]] (4) · [[The Way of Non-Clinging Part 3]] (3) · [[Love and Emptiness]] (2)</span> 
-[[Embodiment]] | 21 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[What is Insight]] (3) · [[Daimon, Refracted]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
+[[Embodiment]] | 22 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[What is Insight]] (3) · [[Daimon, Refracted]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
 [[Meditation]] | 20 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (4) · [[Love and the Emptiness of Things]] (3) · [[Love and Emptiness]] (2) · [[The Way of Non-Clinging Part 2]] (2)</span> 
 
 ### Quotes

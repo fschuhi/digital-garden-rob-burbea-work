@@ -3,9 +3,9 @@ obsidianUIMode: preview
 ---
 # Garden of Soul: Rob Burbea's Teachings
 ```ad-quote
-This right now, this sound, this sight, these body sensations, it's all in the context of .. the vast unknown of death. So in a way can we contemplate the infinite every day, can we contemplate death every day. Not morbid. Maybe a little scary at first but actually moving towards equanimity, moving towards freedom.
+We're talking about an energy body sense - expanding, moving, and feeling, sensing and imagining not just the space of the energy body in its usual size, but also the extended sense of the energy in the room, and how that's connected with and impacted by and filled by the energy of your body movements. It's more than just the space of awareness. We're talking about energy body sensitivity here...
 
-_a quote from the talk '[[Equanimity (talk)#This moment is in the context of vast time and the vast unknown of death|Equanimity (talk)]]'_
+_a quote from the talk '[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#The kinaesthetic sense of energy fills the whole space|Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]'_
 ```
 
 ```ad-danger

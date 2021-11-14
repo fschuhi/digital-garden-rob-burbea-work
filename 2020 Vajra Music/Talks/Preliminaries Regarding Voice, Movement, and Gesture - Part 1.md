@@ -424,6 +424,9 @@ Unclear what he is pointing to in this paragraph
 ---
 ##### The kinaesthetic sense of energy fills the whole space
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^17-1|17-1]]**: _[[Awareness]] (5) · [[Energy body]] (4) · [[Energy]] (3) · [[Embodiment]]_</span>
+
+![[20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=1:23:05]]
+
 ```ad-tip
 title: Reminder
 - can be done physically or just in the imagination, but both with the energy body

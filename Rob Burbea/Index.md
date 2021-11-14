@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 ---
 First quote collections:
-- [[Energy body]]
+- [[energy body]]
 - [[Equanimity]]
 - [[Inertia]]
 - [[Preliminaries]]

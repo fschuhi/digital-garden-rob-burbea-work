@@ -40,7 +40,7 @@ term | count | talks
 [[Love]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1) · [[Questioning Awakening]] (1)</span> 
 [[Hindrances]] | 4 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[Guided Meditation - Directing Love Towards Dharmas]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
 [[Mind]] | 4 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[Guided Meditation on Gratitude and Compassion]] (1) · [[What is Insight]] (1)</span> 
-[[Dukkha]] | 3 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
+[[Attention]] | 3 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Breathing with the Energy Body - Guided Meditation]] (1) · [[What is Insight]] (1)</span> 
 
 ### Quotes
 **[[Using Insight to Deepen Love and Compassion]]**

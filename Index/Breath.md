@@ -4,13 +4,13 @@
 talk | count | series
 :- | - |: -
 [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] | 61 | [[2019 Practising the Jhanas]]
+[[Breathing with the Energy Body - Guided Meditation]] | 55 | [[2019 Practising the Jhanas]]
 [[Counting Within the Breath - Guided Meditation]] | 46 | [[2019 Practising the Jhanas]]
 [[A Hidden Treasure - The Relationship with the Hindrances]] | 17 | [[2019 Practising the Jhanas]]
 [[Orienting to This Jhana Retreat]] | 8 | [[2019 Practising the Jhanas]]
 [[Samadhi in Metta Practice]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Place of Samadhi in Metta Practice]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Questioning Awakening]] | 3 | [[2014 November Solitary - Questioning Awakening]]
-[[Compassion (talk)]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[What is Insight]] | 2 | [[2007 New Years Retreat Insight Meditation]]
 [[The Practice of Compassion]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
@@ -36,16 +36,16 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Embodiment]] | 28 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (14) · [[Counting Within the Breath - Guided Meditation]] (11) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Embodiment]] | 42 | <span class="counts">[[Breathing with the Energy Body - Guided Meditation]] (14) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (14) · [[Counting Within the Breath - Guided Meditation]] (11) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
+[[Energy]] | 23 | <span class="counts">[[Breathing with the Energy Body - Guided Meditation]] (10) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (6) · [[A Hidden Treasure - The Relationship with the Hindrances]] (3) · [[Counting Within the Breath - Guided Meditation]] (3)</span> 
+[[Attention]] | 21 | <span class="counts">[[Breathing with the Energy Body - Guided Meditation]] (7) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (5) · [[Counting Within the Breath - Guided Meditation]] (4) · [[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[Orienting to This Jhana Retreat]] (2)</span> 
 [[Mind]] | 17 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (5) · [[The Place of Samadhi in Metta Practice]] (3) · [[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[Orienting to This Jhana Retreat]] (2) · [[Samadhi in Metta Practice]] (2)</span> 
-[[Attention]] | 14 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (5) · [[Counting Within the Breath - Guided Meditation]] (4) · [[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[Orienting to This Jhana Retreat]] (2)</span> 
-[[Energy]] | 13 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (6) · [[A Hidden Treasure - The Relationship with the Hindrances]] (3) · [[Counting Within the Breath - Guided Meditation]] (3) · [[Samadhi in Metta Practice]] (1)</span> 
-[[Metta]] | 13 | <span class="counts">[[Orienting to This Jhana Retreat]] (4) · [[Samadhi in Metta Practice]] (3) · [[The Place of Samadhi in Metta Practice]] (3) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
-[[Samadhi]] | 13 | <span class="counts">[[Samadhi in Metta Practice]] (4) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (4) · [[The Place of Samadhi in Metta Practice]] (4) · [[What is Insight]] (1)</span> 
-[[Awareness]] | 12 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (5) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (5) · [[Samadhi in Metta Practice]] (2)</span> 
+[[Energy body]] | 16 | <span class="counts">[[Breathing with the Energy Body - Guided Meditation]] (9) · [[Counting Within the Breath - Guided Meditation]] (2) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
+[[Awareness]] | 15 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (5) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (5) · [[Breathing with the Energy Body - Guided Meditation]] (3) · [[Samadhi in Metta Practice]] (2)</span> 
+[[Metta]] | 14 | <span class="counts">[[Orienting to This Jhana Retreat]] (4) · [[Samadhi in Metta Practice]] (3) · [[The Place of Samadhi in Metta Practice]] (3) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
+[[Samadhi]] | 14 | <span class="counts">[[Samadhi in Metta Practice]] (4) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (4) · [[The Place of Samadhi in Metta Practice]] (4) · [[Breathing with the Energy Body - Guided Meditation]] (1)</span> 
 [[Jhanas]] | 8 | <span class="counts">[[Orienting to This Jhana Retreat]] (4) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (2) · [[Counting Within the Breath - Guided Meditation]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
-[[Retreat]] | 8 | <span class="counts">[[Orienting to This Jhana Retreat]] (3) · [[Samadhi in Metta Practice]] (2) · [[Counting Within the Breath - Guided Meditation]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
-[[Energy body]] | 7 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (2) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Meditation]] | 8 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Breathing with the Energy Body - Guided Meditation]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
 
 ### Quotes
 **[[Compassion (talk)]]**
