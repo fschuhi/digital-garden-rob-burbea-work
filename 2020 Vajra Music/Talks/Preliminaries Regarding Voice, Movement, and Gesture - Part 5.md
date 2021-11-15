@@ -54,7 +54,7 @@ And really your job is to feel into this, feel into what that combination feels 
 
 ---
 ##### ==variations==
-<span class="counts">**[[0305 Preliminaries Regarding Voice, Movement, and Gesture - Part 5#^1-7|1-7]]**: _[[Embodiment]]_</span>
+<span class="counts">**[[0305 Preliminaries Regarding Voice, Movement, and Gesture - Part 5#^2-3|2-3]]**: _[[Embodiment]]_</span>
 
 - syllables
 - posture, position
@@ -65,12 +65,16 @@ And really your job is to feel into this, feel into what that combination feels 
 
 ---
 ##### Play with the loudness
-<span class="counts">[[0305 Preliminaries Regarding Voice, Movement, and Gesture - Part 5#^2-3|2-3]]</span>
+<span class="counts">[[0305 Preliminaries Regarding Voice, Movement, and Gesture - Part 5#^2-4|2-4]]</span>
 
 ---
 ##### Your job is the sensitivity
-<span class="counts">**[[0305 Preliminaries Regarding Voice, Movement, and Gesture - Part 5#^2-4|2-4]]**: _[[Energy body]] (3) · [[Emotions]] · [[Image]] · [[Soul]] (3) · [[Embodiment]] (2)_</span>
+<span class="counts">**[[0305 Preliminaries Regarding Voice, Movement, and Gesture - Part 5#^2-5|2-5]]**: _[[Energy body]] (3) · [[Emotions]] · [[Image]] · [[Soul]] (3) · [[Embodiment]] (2)_</span>
 
 ```ad-quote
 What happens when you sing it, when you voice it, when you sound it in these different ways, and your body moves, and your body gestures in these different ways? Put them together.
+```
+
+```ad-note
+asdf
 ```
