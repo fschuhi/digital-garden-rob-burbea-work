@@ -20,7 +20,7 @@ description | count | talk
 [[Questioning Awakening#There has been a shift in the concept of awakening as 1 trend it is referred much less nowadays\|There has been a shift in the concept of awakening, as (1. trend) it is referred much less nowadays]] | 7 | [[Questioning Awakening]]
 [[Dilemmas and Delineations - How did we get here Part 1#High bar in Theravada; for Rob it's an endlessly expanding notion of awakening\|High bar in Theravada; for Rob it's an endlessly expanding notion of awakening]] | 6 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[The Way of Non-Clinging Part 1#Fetters and arahantship\|Fetters and arahantship]] | 6 | [[The Way of Non-Clinging Part 1]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 5 2 _The Bhumisparsa Mudra_\|🟡 Excercise 5.2: _The Bhumisparsa Mudra_]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Exercise 5 2 _The Bhumisparsa Mudra_\|🟡 Excercise 5.2: _The Bhumisparsa Mudra_]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[The Way of Non-Clinging Part 1#"Don't try to repeat experiences"\|"Don't try to repeat experiences"]] | 4 | [[The Way of Non-Clinging Part 1]]
 [[Questioning Awakening#Are we free to inquire into different kinds of freedom\|Are we free to inquire into different kinds of freedom?]] | 4 | [[Questioning Awakening]]
 [[The Place of Samadhi in Metta Practice#Three major fruits from this retreat\|Three major fruits from this retreat]] | 4 | [[The Place of Samadhi in Metta Practice]]

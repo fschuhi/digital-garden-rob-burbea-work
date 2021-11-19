@@ -10,7 +10,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 5 3 _The Hospitality to the Angels_ 🟢\|🟡 Excercise 5.3: _The Hospitality to the Angels_ 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Exercise 5 3 _The Hospitality to the Angels_ 🟢\|🟡 Excercise 5.3: _The Hospitality to the Angels_ 🟢]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#It's about the moments prior to the scene in the Rublev's image\|It's about the moments prior to the scene in the Rublev's image]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 
 ### Terms with 20+ co-occurrences

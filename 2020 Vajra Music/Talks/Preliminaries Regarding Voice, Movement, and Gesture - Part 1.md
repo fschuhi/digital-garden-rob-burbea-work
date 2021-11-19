@@ -26,7 +26,7 @@ E[Exercises in<br>this part]
 E --- E1
 E --- E2
 
-E1[Excercise 1<br>'energy body']:::FatStroke
+E1[Exercise 1<br>'energy body']:::FatStroke
 %%E1 --- E1-1[fill room with energy body]:::FixFont
 E1 --- E1-1[fill room with energy body]:::FixFont
 E1 --- E1-2[move hands]:::FixFont
@@ -34,7 +34,7 @@ E1 --- E1-3[move head and neck]:::FixFont
 E1 --- E1-4[add legs, ankles, feet]:::FixFont
 E1 --- E1-5[add hips, pelvis, everything]:::FixFont
 
-E2[Excercise 2<br>'sound']:::FatStroke
+E2[Exercise 2<br>'sound']:::FatStroke
 E2 --- E2-1[feel where the sound is coming from]:::FixFont
 E2 --- E2-2[experiment with different centres of emanation]:::FixFont
 E2 --- E2-3[mix sound and energy body]:::FixFont
@@ -152,7 +152,7 @@ But still, when you listen to this, this set of talks, when you listen to talks 
 ```
 
 ---
-##### ==Actively extract meditations, excercises, from what's being said==
+##### ==Actively extract meditations, exercises, from what's being said==
 <span class="counts">[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^4-4|4-4]]</span>
 
 ```ad-danger
@@ -243,7 +243,7 @@ Now, I would say that that inquiry into inertia, even though we're not really go
 
 ---
 ### "Why?
-##### The "why" of these excercies is related to the "why" of practice in general
+##### The "why" of these exercies is related to the "why" of practice in general
 <span class="counts">[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^8-3|8-3]]</span>
 
 ---
@@ -387,30 +387,30 @@ Unclear what he is pointing to in this paragraph
 ##### Some of you will be Soulmaking musicians
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^15-2|15-2]]**: _[[Music]] (2) · [[Soulmaking]] (3) · [[Soul]] (4)_</span>
 
-### Excercises
-##### Five excercises
+### Exercises
+##### Five exercises
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^15-3|15-3]]**: _[[Soulmaking]] · [[Experience]]_</span>
 
 ---
 ##### There are a lot of variations
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^15-4|15-4]]**: _[[Preliminaries]] (3) · [[Soulmaking]]_</span>
 
-#### Excercise 1
-##### Excercise 1 can be done with the physical  or with the energy body
+#### Exercise 1
+##### Exercise 1 can be done with the physical  or with the energy body
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^15-5|15-5]]**: _[[Embodiment]] (3) · [[Energy body]] (3)_</span>
 
 ---
-##### Excercise 1 can be done in 4 postures
+##### Exercise 1 can be done in 4 postures
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-1|16-1]]**: _[[Energy body]] (3) · [[Satipatthana Sutta]]_</span>
 
 ---
-##### Excercise 1 has 5 parts
+##### Exercise 1 has 5 parts
 <span class="counts">[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-3|16-3]]</span>
 
 ![[20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=1:19:50]]
 
 ---
-##### 🟡 Excercise 1.1: fill the room with the energy body
+##### 🟡 Exercise 1.1: fill the room with the energy body
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-4|16-4]]**: _[[Energy body]] (6) · [[Embodiment]]_</span>
 
 ---
@@ -418,7 +418,7 @@ Unclear what he is pointing to in this paragraph
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-5|16-5]]**: _[[Experience]] · [[Energy body]] (4)_</span>
 
 ---
-##### 🟡 Excercise 1.2: move hands and feel it in the energy body
+##### 🟡 Exercise 1.2: move hands and feel it in the energy body
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^16-6|16-6]]**: _[[Energy body]] (2) · [[Energy]] · [[Embodiment]]_</span>
 
 ---
@@ -438,7 +438,7 @@ We're talking about an energy body sense - expanding, moving, and feeling, sensi
 ```
 
 ---
-##### 🟡 Excercise 1.3: move head and neck
+##### 🟡 Exercise 1.3: move head and neck
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^17-2|17-2]]**: _[[Awareness]]_</span>
 ```ad-tip
 yet another variation: move only hands then only head, or do things cumulative
@@ -449,11 +449,11 @@ the sensitivity, the imagination, the projection, the inhabiting, the filling of
 ```
 
 ---
-##### 🟡 Excercise 1.4: add legs, feet, ankles
+##### 🟡 Exercise 1.4: add legs, feet, ankles
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^17-3|17-3]]**: _[[Embodiment]]_</span>
 
 ---
-##### 🟡 Excercise 1.5: add hips, pelvis, everything
+##### 🟡 Exercise 1.5: add hips, pelvis, everything
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^17-4|17-4]]**: _[[Embodiment]] (2)_</span>
 
 ---
@@ -477,11 +477,11 @@ It's about:
 <span class="counts">[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-1|18-1]]</span>
 
 ```ad-question
-Is this excercise compatible with a all-around-the-day practice? What would be needed to maintain the sense of the energy body, in varying projections (near and far)?
+Is this exercise compatible with a all-around-the-day practice? What would be needed to maintain the sense of the energy body, in varying projections (near and far)?
 ```
 
-#### Excercise 2
-##### Voice excercise (again: physical or imagined)
+#### Exercise 2
+##### Voice exercise (again: physical or imagined)
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-3|18-3]]**: _[[Energy body]] (2) · [[Image]]_</span>
 
 ![[20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=1:28:43]]
@@ -491,11 +491,11 @@ Is this excercise compatible with a all-around-the-day practice? What would be n
 <span class="counts">[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-4|18-4]]</span>
 
 ---
-##### 🟡 Excercise 2.1: Feel where the sound is coming from, against energy body background
+##### 🟡 Exercise 2.1: Feel where the sound is coming from, against energy body background
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-5|18-5]]**: _[[Embodiment]] (4) · [[Centre]] (5) · [[Energy body]] (4)_</span>
 
 ---
-##### 🟡 Excercise 2.2: experiment with different centres of emanation
+##### 🟡 Exercise 2.2: experiment with different centres of emanation
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^18-6|18-6]]**: _[[Energy body]] (3) · [[Embodiment]] (4) · [[Centre]] (4)_</span>
 
 ```ad-quote
@@ -507,23 +507,23 @@ Is this excercise compatible with a all-around-the-day practice? What would be n
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^19-1|19-1]]**: _[[Hearing All Sounds as Mantra]] · [[Meditation]] · [[Energy body]] (2) · [[Embodiment]]_</span>
 
 ---
-##### 🟡 Excercise 2.3: mix sound and energy body
+##### 🟡 Exercise 2.3: mix sound and energy body
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^19-2|19-2]]**: _[[Energy body]] (4) · [[Buddha]]_</span>
 
 ---
-##### 🟡 Excercise 2.4: hear the space filled with sound
+##### 🟡 Exercise 2.4: hear the space filled with sound
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^19-3|19-3]]**: _[[Awareness]] (4) · [[Energy body]] (2) · [[Energy]] · [[Imaginal]]_</span>
 
 ---
-##### 🟡 Excercise 2.5: be louder, or not
+##### 🟡 Exercise 2.5: be louder, or not
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^19-4|19-4]]**: _[[Energy body]]_</span>
 
 ---
-##### Summary of the excercises
+##### Summary of the exercises
 <span class="counts">**[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^20-1|20-1]]**: _[[Energy body]] (5) · [[Embodiment]] (3) · [[Centre]] (2) · [[Awareness]] (3) · [[Energy]]_</span>
 
 ![[20200301-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_1-62452.mp3#t=1:39:23]]
 
 ---
-##### The excercises are relatively simple, but still really worth doing
+##### The exercises are relatively simple, but still really worth doing
 <span class="counts">[[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1#^20-2|20-2]]</span>

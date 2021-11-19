@@ -435,7 +435,7 @@ TODO: x points to y
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=59:06]]
 
 ---
-##### Excercise: if calmness is there, drop in the thought of a difficult issue
+##### Exercise: if calmness is there, drop in the thought of a difficult issue
 <span class="counts">**[[0122 Samadhi in Metta Practice#^12-3|12-3]]**: _[[Steadiness]] (3) · [[Anger]]_</span>
 
 ![[20070122-Rob_Burbea-GAIA-samadhi_in_metta_practice-12294.mp3#t=01:00:51]]

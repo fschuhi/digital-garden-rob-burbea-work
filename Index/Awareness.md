@@ -21,7 +21,7 @@ description | count | talk
 [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#During the day aim for a whole-body awareness that is quite relaxed and open\|During the day, aim for a whole-body awareness that is quite relaxed and open]] | 5 | [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
 [[Counting Within the Breath - Guided Meditation#Slow down to retain whole-body awareness\|Slow down, to retain whole-body awareness]] | 5 | [[Counting Within the Breath - Guided Meditation]]
 [[The Place of Samadhi in Metta Practice#ad 2 tightness\|ad 2. tightness]] | 5 | [[The Place of Samadhi in Metta Practice]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Excercise 2 4 hear the space filled with sound\|🟡 Excercise 2.4: hear the space filled with sound]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Exercise 2 4 hear the space filled with sound\|🟡 Excercise 2.4: hear the space filled with sound]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Dilemmas and Delineations - How did we get here Part 3#There are infinite possibilities for cosmopoesis\|There are infinite possibilities for cosmopoesis]] | 4 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 2#States of mind and experiences are just ways of looking\|States of mind and experiences are just ways of looking]] | 4 | [[The Way of Non-Clinging Part 2]]
 [[Equanimity in Compassion#Practice seeing things as impressions in awareness\|Practice: seeing things as impressions in awareness]] | 3 | [[Equanimity in Compassion]]

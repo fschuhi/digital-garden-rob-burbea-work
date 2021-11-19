@@ -352,7 +352,7 @@ And I remember sitting there and sort of taking in the whole beauty of the life 
 ![[20071231-Rob_Burbea-GAIA-joy-11971.mp3#t=44:38]]
 
 ---
-##### Excercise: 10 things you are grateful for
+##### Exercise: 10 things you are grateful for
 <span class="counts">**[[1231 Joy (talk)#^9-3|9-3]]**: _[[Mind]] · [[Gratitude]]_</span>
 
 ![[20071231-Rob_Burbea-GAIA-joy-11971.mp3#t=45:13]]

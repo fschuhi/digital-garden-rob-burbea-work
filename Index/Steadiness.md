@@ -25,7 +25,7 @@ description | count | talk
 [[The Birth of a Bodhisattva#Samadhi as less distractedness is more steadiness in the mind\|Samadhi as less distractedness is more steadiness in the mind]] | 3 | [[The Birth of a Bodhisattva]]
 [[Equanimity in Compassion#Rob depends on level of steadiness spaciousness and energy body\|Rob: depends on level of steadiness, spaciousness, and energy body]] | 3 | [[Equanimity in Compassion]]
 [[Samadhi in Metta Practice#Stay with metta for a while that's how samadhi begins\|Stay with metta for a while, that's how samadhi begins]] | 3 | [[Samadhi in Metta Practice]]
-[[Samadhi in Metta Practice#Excercise if calmness is there drop in the thought of a difficult issue\|Excercise: if calmness is there, drop in the thought of a difficult issue]] | 3 | [[Samadhi in Metta Practice]]
+[[Samadhi in Metta Practice#Exercise if calmness is there drop in the thought of a difficult issue\|Excercise: if calmness is there, drop in the thought of a difficult issue]] | 3 | [[Samadhi in Metta Practice]]
 [[Equanimity (talk)#That movement of not being so pulled is the beginning of steadiness\|That movement of not being so pulled is the beginning of steadiness]] | 3 | [[Equanimity (talk)]]
 
 ### Terms with 20+ co-occurrences

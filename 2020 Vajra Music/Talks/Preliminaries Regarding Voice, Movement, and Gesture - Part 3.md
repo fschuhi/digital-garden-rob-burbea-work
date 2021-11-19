@@ -19,7 +19,7 @@ graph LR
 %% classDef FixFont font-size:12px
 classDef FatStroke stroke:#333,stroke-width:3px
 
-E[Excercise 4:<br>'blessing']:::FatStroke
+E[Exercise 4:<br>'blessing']:::FatStroke
 E1["Part 1"]
 E2["Part 2"]
 E --- E1
@@ -46,7 +46,7 @@ E2 --- E4-2[no meaning]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3 -|plain list]]
 
 ### "Centring"
-##### Fourth excercise with two parts, but first intro into terminology
+##### Fourth exercise with two parts, but first intro into terminology
 <span class="counts">**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^1-1|1-1]]**: _[[Soulmaking]] · [[Personhood]] (2)_</span>
 
 ---
@@ -299,18 +299,18 @@ The being of the angel, the dimension of the being of the angel, is not of space
 
 ---
 
-### Excercise 4: blessing
-##### 2 dyad excercises
+### Exercise 4: blessing
+##### 2 dyad exercises
 <span class="counts">**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^11-1|11-1]]**: _[[Dyad]] (2)_</span>
 
 ---
-##### Excercise 4.1: One person blesses, the other person receives the blessing
+##### Exercise 4.1: One person blesses, the other person receives the blessing
 <span class="counts">**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^11-3|11-3]]**: _[[Dyad]] (2) · [[Temenos]] · [[Blessing]] (2)_</span>
 
 ![[20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=59:49]]
 
 ---
-##### 🟡 Excercise 4.1.1. no known language for blessing
+##### 🟡 Exercise 4.1.1. no known language for blessing
 <span class="counts">**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^11-4|11-4]]**: _[[Embodiment]] · [[Blessing]] (5)_</span>
 
 ---
@@ -346,7 +346,7 @@ The being of the angel, the dimension of the being of the angel, is not of space
 <span class="counts">**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^12-5|12-5]]**: _[[Energy body]] (3) · [[Soul]] (2) · [[Blessing]] (2) · [[Image]] (5) · [[Imaginal]] (2)_</span>
 
 ---
-##### 🟡 Excercise 4.1.2: no vocalizations
+##### 🟡 Exercise 4.1.2: no vocalizations
 <span class="counts">**[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^13-1|13-1]]**: _[[Embodiment]] · [[Soul]]_</span>
 
 ![[20200303-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_3-62454.mp3#t=1:12:19]]
@@ -356,7 +356,7 @@ The being of the angel, the dimension of the being of the angel, is not of space
 - no gestures/movements, only vocalizations (4.1.3)
 
 ---
-##### 🟡 Excercise 4.1.3: only vocalizations
+##### 🟡 Exercise 4.1.3: only vocalizations
 <span class="counts">[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^13-2|13-2]]</span>
 
 ---
@@ -367,7 +367,7 @@ The being of the angel, the dimension of the being of the angel, is not of space
 - humming
 
 ---
-##### 🟡 Excercise 4.2 (2nd part)
+##### 🟡 Exercise 4.2 (2nd part)
 <span class="counts">[[0303 Preliminaries Regarding Voice, Movement, and Gesture - Part 3#^13-4|13-4]]</span>
 
 ##### Drop any idea of an attempt to express some meaning

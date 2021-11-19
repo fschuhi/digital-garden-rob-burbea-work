@@ -100,7 +100,7 @@ Let's look at a graphical overview:
 - If we quicky jump to the bottom of the page, you see the pages which refer to Equanimity. Those are the transcripts which mention equanimity.
 - Again, Equanimity has its own local graph, showing the network of concepts.
 
-Let's now revisit Padraig's [[Vajra Music Excercises (Pádraig)]]:
+Let's now revisit Padraig's [[Vajra Music Exercises (Pádraig)]]:
 - Looking back to the Google Doc, I've just copied his texts.
 - In addition to that, though, I've added links to the relevant transcript positions.
 - You can also jump directly to the positions in the audio files, letting Rob personally explain the excercises.

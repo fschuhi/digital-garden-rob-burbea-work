@@ -25,17 +25,17 @@ Transcript PDF: [[2020_0305 Preliminaries Regarding Voice, Movement, and Gesture
 <span class="counts">**[[0305 Preliminaries Regarding Voice, Movement, and Gesture - Part 5#^1-1|1-1]]**: _[[Retreat]] (2) · [[Dharma Seed]] · [[Embodiment]] (2) · [[Energy body]] · [[Emotions]] · [[Soul]] (2) · [[Image]] (3)_</span>
 
 ---
-##### Use the excercise to fill out cracks that haven't been filled in the soulscape
+##### Use the exercise to fill out cracks that haven't been filled in the soulscape
 <span class="counts">**[[0305 Preliminaries Regarding Voice, Movement, and Gesture - Part 5#^1-2|1-2]]**: _[[Soul]]_</span>
 
 ---
-##### 🟡 Excercise 6.1: melody, naa, baa
+##### 🟡 Exercise 6.1: melody, naa, baa
 <span class="counts">**[[0305 Preliminaries Regarding Voice, Movement, and Gesture - Part 5#^1-4|1-4]]**: _[[Music]]_</span>
 
 ![[20200305-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_5-62456.mp3#t=03:02]]
 
 ---
-##### 🟡 Excercise 6.2: what happens if you spread your arms
+##### 🟡 Exercise 6.2: what happens if you spread your arms
 <span class="counts">**[[0305 Preliminaries Regarding Voice, Movement, and Gesture - Part 5#^2-1|2-1]]**: _[[Embodiment]]_</span>
 
 ==variations==

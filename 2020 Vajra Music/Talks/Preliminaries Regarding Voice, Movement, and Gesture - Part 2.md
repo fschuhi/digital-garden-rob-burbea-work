@@ -19,7 +19,7 @@ graph LR
 %% classDef FixFont font-size:12px
 classDef FatStroke stroke:#333,stroke-width:3px
 
-E[Excercise 3:<br>'nicknames']:::FatStroke
+E[Exercise 3:<br>'nicknames']:::FatStroke
 E --- E3-1[Thunderclap]
 E --- E3-2[Borne Aloft By Angels]
 E --- E3-3[The Raging Beast]
@@ -44,7 +44,7 @@ E --- E3-5[The Serpent]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2 -|plain list]]
 
 ### Intro
-##### Third set of excercises, but a few general things first
+##### Third set of exercises, but a few general things first
 <span class="counts">[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^1-1|1-1]]</span>
 
 ---
@@ -86,7 +86,7 @@ revisits [[Inertia]]
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-1|3-1]]**: _[[Preliminaries]] (7) · [[Mindfulness]] · [[Energy body]] · [[Soul]] · [[Retreat]]_</span>
 
 ---
-##### Energy body excercises open towards relating to it as imaginal image
+##### Energy body exercises open towards relating to it as imaginal image
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^3-2|3-2]]**: _[[Soul]] (4) · [[Preliminaries]] · [[Energy body]] (4) · [[Awareness]] (2) · [[Embodiment]] · [[Imaginal]] (4)_</span>
 
 ---
@@ -182,8 +182,8 @@ In a way, I'm offering these particular teachings now, offering them so that the
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^6-5|6-5]]**: _[[Embodiment]] (5)_</span>
 
 ---
-### Excercise 3
-##### Excercise 3 has 5 parts
+### Exercise 3
+##### Exercise 3 has 5 parts
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^7-1|7-1]]**: _[[Energy body]] (3) · [[Image]]_</span>
 
 ==variations==
@@ -195,7 +195,7 @@ In a way, I'm offering these particular teachings now, offering them so that the
 <span class="counts">[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^7-2|7-2]]</span>
 
 ---
-#### 🟡 Excercise 3.1: _Thunderclap_
+#### 🟡 Exercise 3.1: _Thunderclap_
 ##### This was the one which started it all
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^7-4|7-4]]**: _[[Thunderclap]] (2)_</span>
 
@@ -264,7 +264,7 @@ But I think even the ability to really read these things in another person and s
 see [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^assessment-2|below]]
 
 ---
-#### 🟡 Excercise 3.2: _Borne Aloft by Angels_
+#### 🟡 Exercise 3.2: _Borne Aloft by Angels_
 ##### Make your body buoyant
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-1|9-1]]**: _[[Borne Aloft By Angels]] (2) · [[Embodiment]] (4) · [[Image]] · [[Love]]_</span>
 ==timing==
@@ -285,7 +285,7 @@ see [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^assessment-
 - being held and being moved
 
 ---
-#### 🟡 Excercise 3.3: _The Raging Beast_
+#### 🟡 Exercise 3.3: _The Raging Beast_
 ##### Different types of beasts
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-3|9-3]]**: _[[The Raging Beast]] · [[Mind]]_</span>
 ==variations==
@@ -302,7 +302,7 @@ see [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^assessment-
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-5|9-5]]**: _[[Embodiment]]_</span>
 
 ---
-#### 🟡 Excercise 3.4: _The Immovable Protector_
+#### 🟡 Exercise 3.4: _The Immovable Protector_
 ##### Human? Angel? Mythic Figure? What are they protecting?
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^9-6|9-6]]**: _[[The Immovable Protector]] (4) · [[Fantasy]] · [[Sociology]] (2) · [[Embodiment]]_</span>
 
@@ -334,7 +334,7 @@ see [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^assessment-
 - posture
 
 ---
-##### 🟡 Excercise 3.5: _The Serpent_
+##### 🟡 Exercise 3.5: _The Serpent_
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^10-2|10-2]]**: _[[The Serpent]] (4)_</span>
 
 ![[20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=49:02]]
@@ -346,7 +346,7 @@ see [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^assessment-
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^10-3|10-3]]**: _[[Energy body]] · [[Imaginal]] (2) · [[Image]] · [[Embodiment]]_</span>
 
 ---
-##### Excercise 3 ends
+##### Exercise 3 ends
 <span class="counts">[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^10-4|10-4]]</span>
 
 ![[20200302-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_2-62453.mp3#t=50:32]]
@@ -365,11 +365,11 @@ see [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^assessment-
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^11-1|11-1]]**: _[[Circuits]] (2) · [[Image]] (5) · [[Embodiment]] · [[Energy body]] · [[The Self]] · [[Soulmaking]] (4) · [[Meditation]] · [[Soul]] (4) · [[Duty]] · [[Psyche]] · [[Relationships]]_</span>
 
 ---
-##### It also affects the decision to practice these kind of excercises
+##### It also affects the decision to practice these kind of exercises
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^11-2|11-2]]**: _[[Circuits]] · [[Soulmaking]] · [[Soul]]_</span>
 
 ---
-##### So careful if you feel resistance to some of these excercises
+##### So careful if you feel resistance to some of these exercises
 <span class="counts">[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^11-3|11-3]]</span>
 
 ```ad-quote
@@ -421,7 +421,7 @@ Putting that piece in, the assessment, the sort of exam piece, actually makes it
 ```
 
 ---
-##### It seems to be difficult to understand why we are introducing those excercises
+##### It seems to be difficult to understand why we are introducing those exercises
 <span class="counts">[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^13-4|13-4]]</span>
 
 ---
@@ -441,7 +441,7 @@ Putting that piece in, the assessment, the sort of exam piece, actually makes it
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^14-2|14-2]]**: _[[Embodiment]] (4) · [[Energy]]_</span>
 
 ---
-##### Doing the excercises can feel alien or comical, or  go against what's associated with spirituality 🟢
+##### Doing the exercises can feel alien or comical, or  go against what's associated with spirituality 🟢
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^14-3|14-3]]**: _[[Retreat]] · [[Voice, Movement, and the Possibilities of Soul]] · [[Embodiment]] · [[Spirituality]] · [[Dharma]]_</span>
 
 ---
@@ -459,7 +459,7 @@ Putting that piece in, the assessment, the sort of exam piece, actually makes it
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^15-1|15-1]]**: _[[The Self]] (2) · [[Embodiment]] · [[Experience]] (2) · [[Alchemy]] · [[Energy body]] · [[Image]] (3) · [[Beauty]] · [[Soul]]_</span>
 
 ---
-##### The excercises here are more like scales and technical excercises, not "wow"
+##### The exercises here are more like scales and technical exercises, not "wow"
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^15-2|15-2]]**: _[[Experience]]_</span>
 
 ---
@@ -593,5 +593,5 @@ Sometimes something is so cut that we don't even feel the soul's want. If the ci
 ```
 
 ---
-##### Sometimes angels reconnect the circuits, and sometimes we excercise to open the circuits
+##### Sometimes angels reconnect the circuits, and sometimes we exercise to open the circuits
 <span class="counts">**[[0302 Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^20-3|20-3]]**: _[[Daimon]] (11) · [[Devotion]] · [[Soulmaking]] (2) · [[Image]] (6) · [[Impermanence]] · [[Soul]] (4) · [[Duty]] · [[Personhood]] · [[Circuits]] (2)_</span>

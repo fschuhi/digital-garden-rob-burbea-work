@@ -25,9 +25,9 @@ E[Exercises in<br>this part]
 E --- E4
 E --- E5
 
-E4[Excercise 4.2<br>'blessing' revisited]:::DottedFatStroke
+E4[Exercise 4.2<br>'blessing' revisited]:::DottedFatStroke
 
-E5[Excercise 5<br>'iconic movements and gestures']:::FatStroke
+E5[Exercise 5<br>'iconic movements and gestures']:::FatStroke
 E5 --- E5-1[Via Dolorosa]
 E5 --- E5-2[The Bhumisparsa Mudra]
 E5 --- E5-3[The Hospitality of the Angels]
@@ -46,10 +46,10 @@ E5 --- E5-4[Rosa Parks]
 ## Paragraphs
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4 -|plain list]]
 
-### 🟡 Excercises 4.2 revisited
+### 🟡 Exercises 4.2 revisited
 _keywords: _
 
-=> [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#0303 Preliminaries Regarding Voice Movement and Gesture - Part 3 13-4 13-4 🟡 Excercise 4 2 2nd part]]
+=> [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#0303 Preliminaries Regarding Voice Movement and Gesture - Part 3 13-4 13-4 🟡 Exercise 4 2 2nd part]]
 
 #### What does "blessing" look like?
 ##### The question "what does blessing look like" is culturally contingent (Mode 1)
@@ -221,11 +221,11 @@ Because when there's sensing with soul, it will tend to counter that kind of rei
 <span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^8-3|8-3]]**: _[[Fullness of intention]] (3) · [[Soul]] (7) · [[Eros]] (2) · [[Soulmaking]] (3) · [[Desire]] (2)_</span>
 
 ---
-##### Remind yourself: It's an excercise, not a performance
+##### Remind yourself: It's an exercise, not a performance
 <span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^8-4|8-4]]**: _[[Soul]] · [[Sangha]] · [[The Self]]_</span>
 
 ---
-#### What can happen from Excercise 4
+#### What can happen from Exercise 4
 ##### Something in the larger constellation may ignite and become image
 <span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^9-1|9-1]]**: _[[Embodiment]] · [[Image]] · [[Divinity]] (2) · [[Imaginal]] (5) · [[Soul]] · [[The Self]]_</span>
 
@@ -238,7 +238,7 @@ Because when there's sensing with soul, it will tend to counter that kind of rei
 <span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^9-3|9-3]]**: _[[Image]] · [[Imaginal]] · [[Soul]] (3) · [[Soulmaking]]_</span>
 
 ---
-#### Variation on Excercise 4
+#### Variation on Exercise 4
 ##### Rather than actual person, dyad partner is intrapsychic image
 <span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^9-5|9-5]]**: _[[Dyad]] (4) · [[Image]] (3) · [[Personhood]] · [[Embodiment]] · [[Daimon]] (3) · [[Imaginal]] · [[Blessing]]_</span>
 
@@ -291,14 +291,14 @@ Usually when the intention goes into that kind of thing, that's when I'm seeking
 ```
 ---
 
-##### Summary Excercise 4 with ==variations==
+##### Summary Exercise 4 with ==variations==
 <span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^11-3|11-3]]**: _[[Dyad]] · [[Personhood]] · [[Soulmaking]] · [[Imaginal]] · [[Daimon]] · [[Blessing]] · [[Embodiment]]_</span>
 1. actual person vs imaginal figure
 2. intentionally blessing vs moving beyond it
 3. which of movement/gesture/voice
 ---
 
-### Excercises 5
+### Exercises 5
 ##### Iconic movements and gestures
 <span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^11-5|11-5]]**: _[[Image]] (3) · [[Soul]] (2) · [[Embodiment]] · [[Energy body]]_</span>
 
@@ -309,7 +309,7 @@ The exercise is to take one of these moments and embody it. Feel into the [[Soul
 ```
 
 ---
-##### 🟡 Excercise 5.1: _Via Dolorosa_
+##### 🟡 Exercise 5.1: _Via Dolorosa_
 <span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^12-1|12-1]]**: _[[Via Dolorosa]] (2) · [[Passion]] · [[Death]] · [[Christianity]] (2) · [[Pontius Pilate]] · [[Meditation]]_</span>
 
 ---
@@ -341,7 +341,7 @@ The exercise is to take one of these moments and embody it. Feel into the [[Soul
 ==That's the practice prescription==
 
 ---
-##### 🟡 Excercise 5.2: _The Bhumisparsa Mudra_
+##### 🟡 Exercise 5.2: _The Bhumisparsa Mudra_
 <span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^13-3|13-3]]**: _[[Buddhism]] · [[Mudra]] (2) · [[Bhumi]] · [[Buddha]] (4) · [[Awakening]] (5) · [[Mara]] (2)_</span>
 
 ![[20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=1:04:43]]
@@ -351,7 +351,7 @@ The exercise is to take one of these moments and embody it. Feel into the [[Soul
 <span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^13-4|13-4]]**: _[[Passion]] · [[Awakening]] · [[Mudra]] · [[Buddhism]] (2)_</span>
 
 ---
-##### It's not an acting excercise
+##### It's not an acting exercise
 <span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^14-1|14-1]]**: _[[Via Dolorosa]] · [[Energy body]] (2) · [[Soul]]_</span>
 
 ```ad-quote
@@ -373,7 +373,7 @@ Doesn't the **therefore** point to a rather limited definition of what acting is
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#^the-serpent]]
 
 ---
-##### What's happening in Excercises 5 does not have to transfer to movement or sound at all
+##### What's happening in Exercises 5 does not have to transfer to movement or sound at all
 <span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^14-4|14-4]]**: _[[The Serpent]] · [[Image]] (2) · [[Duty]] · [[Daimon]] · [[Passion]] · [[Telos]] · [[Fear]] · [[Beauty]] · [[Devotion]] · [[Nobility]] · [[Imaginal]] · [[Energy body]]_</span>
 
 ---
@@ -389,7 +389,7 @@ But actually to hold a fully authentic imaginal image, and be in relation to tha
 <span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^15-2|15-2]]**: _[[Image]] (2)_</span>
 
 ---
-##### 🟡 Excercise 5.3: _The Hospitality to the Angels_ 🟢
+##### 🟡 Exercise 5.3: _The Hospitality to the Angels_ 🟢
 <span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^15-3|15-3]]**: _[[Image]] (3) · [[Daimon]] (3) · [[The Hospitality to the Angels]] · [[Art and Dharma]] · [[Christianity]] · [[Abraham]] (3) · [[Old Testament]] (3)_</span>
 
 https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)
@@ -494,8 +494,8 @@ Now, okay, so here's a certain personality, a certain kind of style of expressio
 ```
 
 ---
-### Recap Excercises
-##### The excercises are seeds, not meant to be canonical
+### Recap Exercises
+##### The exercises are seeds, not meant to be canonical
 <span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^19-3|19-3]]**: _[[Soulmaking]]_</span>
 
 ![[20200304-Rob_Burbea-GAIA-preliminaries_regarding_voice_movement_and_gesture_part_4-62455.mp3#t=1:38:30]]
@@ -578,7 +578,7 @@ Can we exercise and open up the channels of our being, the movements we make, th
 <span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^22-5|22-5]]**: _[[Preliminaries]] · [[Soulmaking]] (3) · [[Dimensionality]]_</span>
 
 ---
-##### Rinpoches spend most of their time doing Ngöndro, what are basically preliminary excercises
+##### Rinpoches spend most of their time doing Ngöndro, what are basically preliminary exercises
 <span class="counts">**[[0304 Preliminaries Regarding Voice, Movement, and Gesture - Part 4#^23-1|23-1]]**: _[[Tibetan Buddhism]] (2) · [[Dzogchen]] (2) · [[Ultimate truth]] · [[Mahamudra]] · [[Ngöndro]] · [[Preliminaries]]_</span>
 
 ---

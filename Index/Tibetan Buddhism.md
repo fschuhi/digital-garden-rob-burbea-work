@@ -14,7 +14,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Rinpoches spend most of their time doing Ngöndro what are basically preliminary excercises\|Rinpoches spend most of their time doing Ngöndro, what are basically preliminary excercises]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Rinpoches spend most of their time doing Ngöndro what are basically preliminary exercises\|Rinpoches spend most of their time doing Ngöndro, what are basically preliminary excercises]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#"Études" Preliminaries"\|"Études", Preliminaries"]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Dilemmas and Delineations - How did we get here Part 3#Buddha-nature according to Shentong\|Buddha-nature according to Shentong]] | 1 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Birth of a Bodhisattva#This can take on a very personal flavour\|This can take on a very personal flavour]] | 1 | [[The Birth of a Bodhisattva]]

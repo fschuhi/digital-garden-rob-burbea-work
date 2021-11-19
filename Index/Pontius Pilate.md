@@ -8,7 +8,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Excercise 5 1 _Via Dolorosa_\|🟡 Excercise 5.1: _Via Dolorosa_]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Exercise 5 1 _Via Dolorosa_\|🟡 Excercise 5.1: _Via Dolorosa_]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 
 ### Terms with 20+ co-occurrences
 term | count | talks

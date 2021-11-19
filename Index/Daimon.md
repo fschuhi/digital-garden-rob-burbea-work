@@ -12,7 +12,7 @@ talk | count | series
 description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Angel is not of space or time\|Angel is not of space or time]] | 11 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Sometimes angels reconnect the circuits and sometimes we excercise to open the circuits\|Sometimes angels reconnect the circuits, and sometimes we excercise to open the circuits]] | 11 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Sometimes angels reconnect the circuits and sometimes we exercise to open the circuits\|Sometimes angels reconnect the circuits, and sometimes we excercise to open the circuits]] | 11 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Words like 'angel' 'soul' 'image' imply unfathomability\|Words like 'angel', 'soul', 'image' imply unfathomability]] | 9 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Some soul-secrets might be for the ears of the angel only Reason 4\|Some soul-secrets might be for the ears of the angel only (Reason 4)]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Rather than "this area is me" we have a sense of the larger human being image and analogue 🟢\|Rather than "this area is me" we have a sense of the larger human being (image and analogue) 🟢]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
