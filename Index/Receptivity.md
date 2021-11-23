@@ -8,9 +8,9 @@ talk | count | series
 [[Equanimity (talk)]] | 3 | [[2006 New Year's Retreat]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 2 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 2 | [[2020 Vajra Music]]
-[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] | 2 | [[2019 Practising the Jhanas]]
+[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] | 2 | [[2019 Practising the Jhanas]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 1 | [[2020 Vajra Music]]
-[[Breathing with the Energy Body - Guided Meditation]] | 1 | [[2019 Practising the Jhanas]]
+[[Breathing with the Energy Body (Guided Meditation)]] | 1 | [[2019 Practising the Jhanas]]
 [[Compassion (talk)]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
@@ -32,13 +32,13 @@ description | count | talk
 term | count | talks
 -|-|-
 [[Nature]] | 6 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
-[[Mind]] | 5 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
-[[Embodiment]] | 4 | <span class="counts">[[Breathing with the Energy Body - Guided Meditation]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Mind]] | 5 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (1)</span> 
+[[Embodiment]] | 4 | <span class="counts">[[Breathing with the Energy Body (Guided Meditation)]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1) · [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
 [[Samadhi]] | 4 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
 [[Soul]] | 4 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
 [[Wonder]] | 4 | <span class="counts">[[Equanimity (talk)]] (2) · [[Equanimity in Compassion]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
 [[Energy body]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
-[[Attention]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Attention]] | 2 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (1)</span> 
 [[Awareness]] | 2 | <span class="counts">[[Equanimity (talk)]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
 [[Beauty]] | 2 | <span class="counts">[[Equanimity in Compassion]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
 

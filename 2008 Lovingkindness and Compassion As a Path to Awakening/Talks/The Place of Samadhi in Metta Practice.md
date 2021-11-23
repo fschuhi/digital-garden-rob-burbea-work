@@ -14,7 +14,7 @@ Transcript PDF: [[2008_0129 The Place of Samadhi in Metta Practice.pdf]]
 ![[20080129-Rob_Burbea-GAIA-the_place_of_samadhi_in_metta_practice-11955.mp3]]
 
 ## Index
-<span class="counts">_[[Samadhi]] (123) · [[Metta]] (62) · [[Mind]] (62) · [[Retreat]] (38) · [[Embodiment]] (28) · [[Love]] (18) · [[Consciousness]] (16) · [[Contraction]] (16) · [[Happiness]] (16) · [[Meditation]] (16) · [[Steadiness]] (16) · [[Energy]] (14) · [[Fear]] (13) · [[Insight]] (13) · [[Piti]] (12) · [[The Self]] (12) · [[Compassion]] (10) · [[Experience]] (10) · [[Pleasantness]] (10) · [[Anger]] (9) · [[Dharma]] (9) · [[Letting go]] (9) · [[Aversion]] (7) · [[Awareness]] (7) · [[Emptiness]] (7) · [[Hindrances]] (7) · [[Nature]] (7) · [[Nondualism]] (6) · [[Appreciation]] (5) · [[Awakening]] (5) · [[Buddha]] (5) · [[Emotions]] (5) · [[Mind state]] (5) · [[Receptivity]] (5) · [[Spaciousness]] (5) · [[Stories]] (5) · [[Beauty]] (4) · [[Brahmaviharas]] (4) · [[Breath]] (4) · [[Catherine McGee]] (4) · [[Cultivation]] (4) · [[Gratitude]] (4) · [[Healing]] (4) · [[Mindfulness]] (4) · [[Perception]] (4) · [[Attention]] (3) · [[Image]] (3) · [[Personhood]] (3) · [[Present moment]] (3) · [[Anxiety]] (2) · [[Craving]] (2) · [[David Beckham]] (2) · [[Death]] (2) · [[Fantasy]] (2) · [[Jhanas]] (2) · [[Psyche]] (2) · [[Tiredness]] (2) · [[Commentaries]] · [[Equanimity]] · [[Feelings]] · [[Freedom]] · [[Gaia House]] · [[Habit]] · [[Impermanence]] · [[Music]] · [[Reactivity]] · [[Ways of looking]] · [[Wonder]]_</span>
+<span class="counts">_[[Samadhi]] (123) · [[Metta]] (62) · [[Mind]] (62) · [[Retreat]] (38) · [[Embodiment]] (28) · [[Love]] (18) · [[Consciousness]] (16) · [[Contraction]] (16) · [[Happiness]] (16) · [[Meditation]] (16) · [[Steadiness]] (16) · [[Energy]] (14) · [[Fear]] (13) · [[Insight]] (13) · [[Piti]] (12) · [[The Self]] (12) · [[Compassion]] (10) · [[Experience]] (10) · [[Pleasantness]] (10) · [[Anger]] (9) · [[Dharma]] (9) · [[Letting go]] (9) · [[Aversion]] (7) · [[Awareness]] (7) · [[Emptiness]] (7) · [[Hindrances]] (7) · [[Nature]] (7) · [[Nondualism]] (6) · [[Appreciation]] (5) · [[Awakening]] (5) · [[Buddha]] (5) · [[Emotions]] (5) · [[Mind state]] (5) · [[Receptivity]] (5) · [[Spaciousness]] (5) · [[Stories]] (5) · [[Beauty]] (4) · [[Brahmaviharas]] (4) · [[Breath]] (4) · [[Catherine McGee]] (4) · [[Cultivation]] (4) · [[Gratitude]] (4) · [[Healing]] (4) · [[Mindfulness]] (4) · [[Perception]] (4) · [[Attention]] (3) · [[Image]] (3) · [[Personhood]] (3) · [[Present moment]] (3) · [[Anxiety]] (2) · [[Craving]] (2) · [[David Beckham]] (2) · [[Death]] (2) · [[Fantasy]] (2) · [[Jhanas]] (2) · [[Psyche]] (2) · [[Tiredness]] (2) · [[Commentaries]] · [[Equanimity]] · [[Feelings]] · [[Freedom]] · [[Gaia House]] · [[Habit]] · [[Impermanence]] · [[Music]] · [[Reactivity]] · [[Thanissaro Bhikkhu]] · [[Ways of looking]] · [[Wonder]]_</span>
 <br/>
 
 ## Paragraphs
@@ -233,13 +233,13 @@ Once we judge ourselves because a hindrance is there, we're adding fuel to the f
 ![[20080129-Rob_Burbea-GAIA-the_place_of_samadhi_in_metta_practice-11955.mp3#t=29:48]]
 
 ---
-##### Those doubts wil come up
+##### Those doubts will come up
 <span class="counts">**[[0129 The Place of Samadhi in Metta Practice#^7-4|7-4]]**: _[[Contraction]] · [[Samadhi]] (2) · [[Metta]]_</span>
 
 ![[20080129-Rob_Burbea-GAIA-the_place_of_samadhi_in_metta_practice-11955.mp3#t=30:11]]
 
 ---
-##### ad 2. tightness
+##### ad 1. tightness
 <span class="counts">**[[0129 The Place of Samadhi in Metta Practice#^7-5|7-5]]**: _[[Contraction]] (5) · [[Samadhi]] (4) · [[Mindfulness]] (2) · [[Awareness]] (5) · [[Buddha]] · [[Embodiment]] (5) · [[Meditation]]_</span>
 
 ![[20080129-Rob_Burbea-GAIA-the_place_of_samadhi_in_metta_practice-11955.mp3#t=31:33]]
@@ -388,7 +388,7 @@ So if there's any kind of - even if it's unremarkable - sense of enjoying the pr
 
 ---
 ##### "Go ahead and get attached"
-<span class="counts">**[[0129 The Place of Samadhi in Metta Practice#^12-1|12-1]]**: _[[Consciousness]] · [[Meditation]] (2) · [[The Self]]_</span>
+<span class="counts">**[[0129 The Place of Samadhi in Metta Practice#^12-1|12-1]]**: _[[Thanissaro Bhikkhu]] · [[Consciousness]] · [[Meditation]] (2) · [[The Self]]_</span>
 
 ![[20080129-Rob_Burbea-GAIA-the_place_of_samadhi_in_metta_practice-11955.mp3#t=53:04]]
 

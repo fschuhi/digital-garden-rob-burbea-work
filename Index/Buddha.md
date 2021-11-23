@@ -8,10 +8,10 @@ talk | count | series
 [[The Way of Non-Clinging Part 2]] | 18 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 1]] | 18 | [[2017 Eros Unfettered]]
 [[Joy (talk)]] | 18 | [[2007 New Years Retreat Insight Meditation]]
+[[An Introduction to the Jhanas]] | 17 | [[2019 Practising the Jhanas]]
 [[What is Insight]] | 16 | [[2007 New Years Retreat Insight Meditation]]
 [[Love and the Emptiness of Things]] | 13 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 12 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[Love and Emptiness]] | 11 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 11 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions
@@ -21,7 +21,7 @@ description | count | talk
 [[Joy (talk)#The presence of joy can relativize a lot of other things in our life \|The presence of joy can relativize a lot of other things in our life.]] | 6 | [[Joy (talk)]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟢sarvatathāgatakāyavākcittaguhyahṛdayavajra\|🟢sarvatathāgatakāyavākcittaguhyahṛdayavajra]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Dilemmas and Delineations - How did we get here Part 1#Another equates Eros with life\|Another equates Eros with life]] | 5 | [[Dilemmas and Delineations - How did we get here Part 1]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Exercise 5 2 _The Bhumisparsa Mudra_\|🟡 Excercise 5.2: _The Bhumisparsa Mudra_]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Exercise 5 2 _The Bhumisparsa Mudra_\|🟡 Exercise 5.2: _The Bhumisparsa Mudra_]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Dwelling in the indestructible heart essence of the body speach and mind of all those who are gone to and come from the truth\|Dwelling in the indestructible heart essence of the body, speach and mind of all those who are gone to and come from the truth]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Open up so that we too are dwelling there\|Open up so that we, too, are dwelling there]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[The Way of Non-Clinging Part 2#The problem in Mahayana of even a Buddha needing to fabricate appearances\|The problem in Mahayana of even a Buddha needing to fabricate appearances]] | 4 | [[The Way of Non-Clinging Part 2]]
@@ -32,19 +32,23 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Mind]] | 48 | <span class="counts">[[Samadhi in Metta Practice]] (6) · [[Equanimity (talk)]] (4) · [[Love and Emptiness]] (4) · [[Love and the Emptiness of Things]] (4) · [[Using Insight to Deepen Love and Compassion]] (4) · [[Equanimity in Compassion]] (3) · [[Joy (talk)]] (3) · [[The Way of Non-Clinging Part 2]] (3) · [[From Insight to Love]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[What is Insight]] (2)</span> 
-[[Insight]] | 41 | <span class="counts">[[What is Insight]] (7) · [[The Practice of Compassion]] (5) · [[The Way of Non-Clinging Part 2]] (5) · [[From Insight to Love]] (4) · [[A Hidden Treasure - The Relationship with the Hindrances]] (3) · [[Love and the Emptiness of Things]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Compassion (talk)]] (2) · [[The Birth of a Bodhisattva]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
-[[Compassion]] | 32 | <span class="counts">[[The Practice of Compassion]] (6) · [[Compassion (talk)]] (5) · [[Using Insight to Deepen Love and Compassion]] (5) · [[Love and the Emptiness of Things]] (4) · [[The Birth of a Bodhisattva]] (4) · [[Love and Emptiness]] (3) · [[From Insight to Love]] (2)</span> 
-[[Dukkha]] | 32 | <span class="counts">[[The Practice of Compassion]] (6) · [[Using Insight to Deepen Love and Compassion]] (4) · [[From Insight to Love]] (3) · [[What is Insight]] (3) · [[Compassion (talk)]] (2) · [[Love and Emptiness]] (2) · [[Questioning Awakening]] (2) · [[The Birth of a Bodhisattva]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
-[[Dharma]] | 31 | <span class="counts">[[Orienting to This Jhana Retreat]] (3) · [[What is Insight]] (3) · [[Daimon, Refracted]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Equanimity (talk)]] (2) · [[Joy (talk)]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
-[[Experience]] | 31 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (7) · [[The Way of Non-Clinging Part 1]] (4) · [[From Insight to Love]] (3) · [[The Way of Non-Clinging Part 2]] (3) · [[What is Insight]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Equanimity (talk)]] (2) · [[Questioning Awakening]] (2) · [[Samadhi in Metta Practice]] (2)</span> 
-[[Love]] | 31 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (10) · [[From Insight to Love]] (5) · [[Exploring the World of Loving Kindness]] (2) · [[Expressions of Metta]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
-[[Happiness]] | 29 | <span class="counts">[[Joy (talk)]] (10) · [[Orienting to This Jhana Retreat]] (4) · [[Equanimity (talk)]] (2) · [[From Insight to Love]] (2) · [[Samadhi in Metta Practice]] (2) · [[What is Insight]] (2)</span> 
+[[Mind]] | 49 | <span class="counts">[[Samadhi in Metta Practice]] (6) · [[Equanimity (talk)]] (4) · [[Love and Emptiness]] (4) · [[Love and the Emptiness of Things]] (4) · [[Using Insight to Deepen Love and Compassion]] (4) · [[Equanimity in Compassion]] (3) · [[Joy (talk)]] (3) · [[The Way of Non-Clinging Part 2]] (3) · [[From Insight to Love]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[What is Insight]] (2)</span> 
+[[Insight]] | 47 | <span class="counts">[[What is Insight]] (7) · [[An Introduction to the Jhanas]] (6) · [[The Practice of Compassion]] (5) · [[The Way of Non-Clinging Part 2]] (5) · [[From Insight to Love]] (4) · [[A Hidden Treasure - The Relationship with the Hindrances]] (3) · [[Love and the Emptiness of Things]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Compassion (talk)]] (2) · [[The Birth of a Bodhisattva]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
+[[Dharma]] | 35 | <span class="counts">[[An Introduction to the Jhanas]] (4) · [[Orienting to This Jhana Retreat]] (3) · [[What is Insight]] (3) · [[Daimon, Refracted]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Equanimity (talk)]] (2) · [[Joy (talk)]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Compassion]] | 33 | <span class="counts">[[The Practice of Compassion]] (6) · [[Compassion (talk)]] (5) · [[Using Insight to Deepen Love and Compassion]] (5) · [[Love and the Emptiness of Things]] (4) · [[The Birth of a Bodhisattva]] (4) · [[Love and Emptiness]] (3) · [[From Insight to Love]] (2)</span> 
+[[Dukkha]] | 33 | <span class="counts">[[The Practice of Compassion]] (6) · [[Using Insight to Deepen Love and Compassion]] (4) · [[From Insight to Love]] (3) · [[What is Insight]] (3) · [[Compassion (talk)]] (2) · [[Love and Emptiness]] (2) · [[Questioning Awakening]] (2) · [[The Birth of a Bodhisattva]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Experience]] | 33 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (7) · [[The Way of Non-Clinging Part 1]] (4) · [[From Insight to Love]] (3) · [[The Way of Non-Clinging Part 2]] (3) · [[What is Insight]] (3) · [[An Introduction to the Jhanas]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Equanimity (talk)]] (2) · [[Questioning Awakening]] (2) · [[Samadhi in Metta Practice]] (2)</span> 
+[[Love]] | 32 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (10) · [[From Insight to Love]] (5) · [[Exploring the World of Loving Kindness]] (2) · [[Expressions of Metta]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Happiness]] | 30 | <span class="counts">[[Joy (talk)]] (10) · [[Orienting to This Jhana Retreat]] (4) · [[Equanimity (talk)]] (2) · [[From Insight to Love]] (2) · [[Samadhi in Metta Practice]] (2) · [[What is Insight]] (2)</span> 
 [[Clinging]] | 28 | <span class="counts">[[The Way of Non-Clinging Part 1]] (8) · [[The Way of Non-Clinging Part 2]] (7) · [[Using Insight to Deepen Love and Compassion]] (4) · [[The Way of Non-Clinging Part 3]] (3) · [[What is Insight]] (2)</span> 
-[[Metta]] | 23 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (5) · [[From Insight to Love]] (2) · [[Love and Emptiness]] (2) · [[Love and the Emptiness of Things]] (2) · [[Samadhi in Metta Practice]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Jhanas]] | 24 | <span class="counts">[[An Introduction to the Jhanas]] (13) · [[A Hidden Treasure - The Relationship with the Hindrances]] (5) · [[Orienting to This Jhana Retreat]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Metta]] | 24 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (5) · [[From Insight to Love]] (2) · [[Love and Emptiness]] (2) · [[Love and the Emptiness of Things]] (2) · [[Samadhi in Metta Practice]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Embodiment]] | 23 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[What is Insight]] (3) · [[Daimon, Refracted]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
 [[Craving]] | 22 | <span class="counts">[[The Way of Non-Clinging Part 1]] (7) · [[The Way of Non-Clinging Part 2]] (4) · [[The Way of Non-Clinging Part 3]] (3) · [[Love and Emptiness]] (2)</span> 
-[[Embodiment]] | 22 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[What is Insight]] (3) · [[Daimon, Refracted]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
-[[Meditation]] | 20 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (4) · [[Love and the Emptiness of Things]] (3) · [[Love and Emptiness]] (2) · [[The Way of Non-Clinging Part 2]] (2)</span> 
+[[Meditation]] | 21 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (4) · [[Love and the Emptiness of Things]] (3) · [[Love and Emptiness]] (2) · [[The Way of Non-Clinging Part 2]] (2)</span> 
+[[Samadhi]] | 21 | <span class="counts">[[Samadhi in Metta Practice]] (7) · [[The Place of Samadhi in Metta Practice]] (4) · [[An Introduction to the Jhanas]] (3) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
+[[Emptiness]] | 20 | <span class="counts">[[The Way of Non-Clinging Part 2]] (6) · [[Love and Emptiness]] (2) · [[Love and the Emptiness of Things]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2)</span> 
+[[Freedom]] | 20 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (5) · [[An Introduction to the Jhanas]] (2) · [[From Insight to Love]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Way of Non-Clinging Part 2]] (2)</span> 
 
 ### Quotes
 **[[Equanimity in Compassion]]**
@@ -61,7 +65,7 @@ term | count | talks
 
 **[[The Place of Samadhi in Metta Practice]]**
 <span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
-> [M]ake the mindfulness a bit bigger, meaning make the range of the awareness a bit bigger. As I said at least once in the instructions, the Buddha says "sensitive to the whole body." &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#ad 2 tightness|ad 2. tightness]]_</span>
+> [M]ake the mindfulness a bit bigger, meaning make the range of the awareness a bit bigger. As I said at least once in the instructions, the Buddha says "sensitive to the whole body." &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#ad 1 tightness|ad 1. tightness]]_</span>
 
 **[[Using Insight to Deepen Love and Compassion]]**
 <span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
@@ -103,11 +107,21 @@ term | count | talks
 
 > It means it's not just the joy in someone else's happiness. It _is_ that, and it's all those things I just talked about as well. That's what _muditā_ means in its broader sense, and that's, I think, how the Buddha meant it. &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#6 Mudita|(6) Mudita]]_</span>
 
+**[[An Introduction to the Jhanas]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> So by 'intelligence,' I mean a certain boldness. I mean much more than scholarship: "Well, I go back to the Buddha, and this Pali word means ..." - that's all good, but I mean more than that. I mean a wisdom to discern what is essential. &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#Intelligence means boldness|Intelligence means boldness]]_</span>
+
+> [W]e need the psychological work. We're a whole different species now than we were in the Buddha's day. &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#Jhanas alone will not liberate totally|Jhanas alone will not liberate totally]]_</span>
+
 **[[A Hidden Treasure - The Relationship with the Hindrances]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>
 > Without me _doing_ something, usually unconsciously, it cannot arise as that emotion. It cannot get fabricated. It cannot get constructed. So in the Buddha's words, we "see a hindrance as a hindrance,"^[Cf. the Buddha's statement at DN 22: "One dwells seeing phenomena as phenomena in terms of the five hindrances" _(dhammesu dhammānupassī viharati pañcasu nīvaraṇesu)_] and not necessarily as an emotion. We recognize what's there. It's a 'fabrication,' or in other language, it's actually 'empty.' &nbsp;&nbsp;<span class="counts">_[[A Hidden Treasure - The Relationship with the Hindrances#Over time it becomes almost undeniable that an emotion is an fabrication|Over time it becomes almost undeniable that an emotion is an fabrication]]_</span>
 
 > [T]he view of catharsis, the view of, "Yes, something is purifying here. I may not even know what, but I sit through it as a purification," and then I have a whole stance with that and relationship with it - or the view that "It's _not_ that. They're fabrications, and I need to get interested in the fabrication." They're both there. But as we practise certainly _jhānas_ more and more, we begin to "see a hindrance as a hindrance" more and more, as the Buddha might say. &nbsp;&nbsp;<span class="counts">_[[A Hidden Treasure - The Relationship with the Hindrances#I can see an emotion as empty or see it as real I'm not parking in either one|I can see an emotion as empty or see it as real, I'm not parking in either one]]_</span>
+
+**[[Breathing with the Energy Body (Guided Meditation)]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> And what you're paying attention to is what feels good, what's helpful in terms of - remember the Buddha's analogy of the soap ball, and the apprentice bathman, bathperson, just shaping it. That's kind of what you're doing. You're using the breath to shape that ball into what feels good. &nbsp;&nbsp;<span class="counts">_[[Breathing with the Energy Body (Guided Meditation)#You are using the breath to feel good|You are using the breath to feel good]]_</span>
 
 **[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]**
 <span class="counts">[[2020 Vajra Music]]</span>

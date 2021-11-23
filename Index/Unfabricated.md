@@ -31,10 +31,10 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Experience]] | 17 | <span class="counts">[[The Way of Non-Clinging Part 2]] (6) · [[Love and the Emptiness of Things]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
+[[Experience]] | 18 | <span class="counts">[[The Way of Non-Clinging Part 2]] (6) · [[Love and the Emptiness of Things]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
 [[Emptiness]] | 14 | <span class="counts">[[The Way of Non-Clinging Part 2]] (4) · [[Love and Emptiness]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
 [[Perception]] | 14 | <span class="counts">[[The Way of Non-Clinging Part 2]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Daimon, Refracted]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
-[[Clinging]] | 12 | <span class="counts">[[The Way of Non-Clinging Part 2]] (7) · [[The Way of Non-Clinging Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Clinging]] | 13 | <span class="counts">[[The Way of Non-Clinging Part 2]] (7) · [[The Way of Non-Clinging Part 1]] (3) · [[An Introduction to the Jhanas]] (1) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
 [[Fabrication]] | 12 | <span class="counts">[[The Way of Non-Clinging Part 2]] (7) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Insight]] | 10 | <span class="counts">[[The Way of Non-Clinging Part 2]] (4) · [[Daimon, Refracted]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
 [[Mind]] | 9 | <span class="counts">[[The Way of Non-Clinging Part 2]] (3) · [[Love and Emptiness]] (2) · [[Love and the Emptiness of Things]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 

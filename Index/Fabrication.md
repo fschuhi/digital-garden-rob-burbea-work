@@ -9,10 +9,10 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] | 8 | [[2020 Vajra Music]]
 [[A Hidden Treasure - The Relationship with the Hindrances]] | 7 | [[2019 Practising the Jhanas]]
 [[The Way of Non-Clinging Part 1]] | 7 | [[2017 Eros Unfettered]]
+[[An Introduction to the Jhanas]] | 6 | [[2019 Practising the Jhanas]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 6 | [[2017 Eros Unfettered]]
 [[Using Insight to Deepen Love and Compassion]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[From Insight to Love]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -35,13 +35,13 @@ description | count | talk
 term | count | talks
 -|-|-
 [[Clinging]] | 33 | <span class="counts">[[The Way of Non-Clinging Part 2]] (21) · [[The Way of Non-Clinging Part 3]] (6) · [[The Way of Non-Clinging Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
-[[Perception]] | 30 | <span class="counts">[[The Way of Non-Clinging Part 2]] (16) · [[The Way of Non-Clinging Part 3]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Love and Emptiness]] (2)</span> 
-[[Ways of looking]] | 29 | <span class="counts">[[The Way of Non-Clinging Part 2]] (16) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Love and Emptiness]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
-[[Experience]] | 23 | <span class="counts">[[The Way of Non-Clinging Part 2]] (14) · [[The Way of Non-Clinging Part 3]] (3) · [[The Way of Non-Clinging Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
-[[Insight]] | 22 | <span class="counts">[[The Way of Non-Clinging Part 2]] (10) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[The Way of Non-Clinging Part 3]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
-[[Emptiness]] | 19 | <span class="counts">[[The Way of Non-Clinging Part 2]] (12) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Perception]] | 32 | <span class="counts">[[The Way of Non-Clinging Part 2]] (16) · [[The Way of Non-Clinging Part 3]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[An Introduction to the Jhanas]] (2) · [[Love and Emptiness]] (2)</span> 
+[[Ways of looking]] | 31 | <span class="counts">[[The Way of Non-Clinging Part 2]] (16) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[An Introduction to the Jhanas]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Love and Emptiness]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Insight]] | 25 | <span class="counts">[[The Way of Non-Clinging Part 2]] (10) · [[An Introduction to the Jhanas]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Experience]] | 24 | <span class="counts">[[The Way of Non-Clinging Part 2]] (14) · [[The Way of Non-Clinging Part 3]] (3) · [[The Way of Non-Clinging Part 1]] (2) · [[An Introduction to the Jhanas]] (1)</span> 
+[[Emptiness]] | 21 | <span class="counts">[[The Way of Non-Clinging Part 2]] (12) · [[An Introduction to the Jhanas]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Mind]] | 19 | <span class="counts">[[The Way of Non-Clinging Part 2]] (10) · [[An Introduction to the Jhanas]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Equanimity in Compassion]] (1)</span> 
 [[Craving]] | 18 | <span class="counts">[[The Way of Non-Clinging Part 2]] (11) · [[The Way of Non-Clinging Part 3]] (4) · [[The Way of Non-Clinging Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
-[[Mind]] | 17 | <span class="counts">[[The Way of Non-Clinging Part 2]] (10) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Equanimity in Compassion]] (1) · [[From Insight to Love]] (1)</span> 
 [[The Self]] | 17 | <span class="counts">[[The Way of Non-Clinging Part 2]] (12) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[From Insight to Love]] (1)</span> 
 [[Consciousness]] | 15 | <span class="counts">[[The Way of Non-Clinging Part 2]] (8) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Love and Emptiness]] (2) · [[From Insight to Love]] (1)</span> 
 
@@ -91,6 +91,12 @@ term | count | talks
 > So there's a spectrum of fabrication, and different ways of looking fabricate more or less, all the way to extremely gross and solid and oppressive, to much, much less fabricated, less fabricated, less fabricated, etc., down into not fabricating at all. What's fabricated there, as I said, is _dukkha_, is dis-ease and suffering, but also the sense of self, the sense of object, the sense of world, the sense of time - all of it. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#3 Fabrication|(3) Fabrication]]_</span>
 
 > Without the way of looking, and without being _fabricated_ by the way of looking, there is not the appearance of that thing. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#4 Emptiness|(4) Emptiness]]_</span>
+
+**[[An Introduction to the Jhanas]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> [I]f I want a liberation that actually does have sensitivity in it, and attunement, and relational skill, and psychological awareness, and want to understand about emptiness as something very different, to do with ways of looking and fabrication, then I'm going to have to think about _jhānas_ in a very different way. &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#There's a relationship between the way the goal is seen and what I emphasize in jhana practice|There's a relationship between the way the goal is seen and what I emphasize in jhana practice]]_</span>
+
+> There's no privileged way of looking. There are just ways of looking. Things are empty. Insight is the practice of ways of looking that liberate, and ways of looking that fabricate less. &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#Start with the goal malleability of perception|Start with the goal: malleability of perception]]_</span>
 
 **[[A Hidden Treasure - The Relationship with the Hindrances]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>

@@ -16,7 +16,7 @@ _The Buddha placed great emphasis on joy (mudita) and Happiness (sukkha) as part
 ![[20071231-Rob_Burbea-GAIA-joy-11971.mp3]]
 
 ## Index
-<span class="counts">_[[Happiness]] (198) · [[Buddha]] (19) · [[Mind]] (18) · [[Dharma]] (17) · [[Attention]] (14) · [[Letting go]] (12) · [[Metta]] (12) · [[Mudita]] (11) · [[Cultivation]] (9) · [[Wonder]] (9) · [[Beauty]] (8) · [[Equanimity]] (8) · [[Aversion]] (7) · [[Embodiment]] (7) · [[Habit]] (7) · [[Hindrances]] (7) · [[Impermanence]] (7) · [[Mindfulness]] (7) · [[Compassion]] (6) · [[Energy]] (5) · [[Perception]] (5) · [[The Self]] (5) · [[Appreciation]] (4) · [[Brahmaviharas]] (4) · [[Clinging]] (4) · [[Experience]] (4) · [[Generosity]] (4) · [[Love]] (4) · [[Awareness]] (3) · [[Dana]] (3) · [[Death]] (3) · [[Freedom]] (3) · [[Retreat]] (3) · [[Centre]] (2) · [[Desire]] (2) · [[Dukkha]] (2) · [[Emptiness]] (2) · [[Gaia House]] (2) · [[Gratitude]] (2) · [[Meditation]] (2) · [[Music]] (2) · [[Pleasantness]] (2) · [[Reconditioning]] (2) · [[Samadhi]] (2) · [[Shantideva]] (2) · [[Three characteristics]] (2) · [[Acceptance]] · [[Anatta]] · [[Devotion]] · [[Dominant culture]] · [[Ethics]] · [[Fear]] · [[Image]] · [[Insight]] · [[Ludwig van Beethoven]] · [[Mahayana]] · [[Mind state]] · [[Mother Teresa]] · [[Nature]] · [[Piti]] · [[Poetry]] · [[Romantic love]] · [[Rumi]] · [[Sangha]] · [[Sila]] · [[Spaciousness]] · [[Spiritual circles]] · [[Steadiness]] · [[Vedana]] · [[William Blake]]_</span>
+<span class="counts">_[[Happiness]] (198) · [[Buddha]] (19) · [[Mind]] (18) · [[Dharma]] (17) · [[Attention]] (14) · [[Letting go]] (12) · [[Metta]] (12) · [[Mudita]] (11) · [[Cultivation]] (9) · [[Wonder]] (9) · [[Beauty]] (8) · [[Equanimity]] (8) · [[Aversion]] (7) · [[Embodiment]] (7) · [[Habit]] (7) · [[Hindrances]] (7) · [[Impermanence]] (7) · [[Mindfulness]] (7) · [[Compassion]] (6) · [[Energy]] (5) · [[Perception]] (5) · [[The Self]] (5) · [[Appreciation]] (4) · [[Brahmaviharas]] (4) · [[Clinging]] (4) · [[Experience]] (4) · [[Generosity]] (4) · [[Love]] (4) · [[Awareness]] (3) · [[Dana]] (3) · [[Death]] (3) · [[Freedom]] (3) · [[Retreat]] (3) · [[Thanissaro Bhikkhu]] (3) · [[Centre]] (2) · [[Desire]] (2) · [[Dukkha]] (2) · [[Emptiness]] (2) · [[Gaia House]] (2) · [[Gratitude]] (2) · [[Meditation]] (2) · [[Music]] (2) · [[Pleasantness]] (2) · [[Reconditioning]] (2) · [[Samadhi]] (2) · [[Shantideva]] (2) · [[Three characteristics]] (2) · [[Acceptance]] · [[Anatta]] · [[Devotion]] · [[Dominant culture]] · [[Ethics]] · [[Fear]] · [[Image]] · [[Insight]] · [[Ludwig van Beethoven]] · [[Mahayana]] · [[Mind state]] · [[Mother Teresa]] · [[Nature]] · [[Piti]] · [[Poetry]] · [[Romantic love]] · [[Rumi]] · [[Sangha]] · [[Sila]] · [[Spaciousness]] · [[Spiritual circles]] · [[Steadiness]] · [[Vedana]] · [[William Blake]]_</span>
 
 ## Paragraphs
 [[Joy (talk) -|plain list]]
@@ -258,7 +258,7 @@ So at times, we can be in a mode of practice where we're just letting everything
 
 ---
 ##### "Skilful attachment"
-<span class="counts">**[[1231 Joy (talk)#^6-4|6-4]]**: _[[Happiness]] (3) · [[Letting go]] (4) · [[Image]] · [[Dharma]] · [[Impermanence]] · [[Clinging]]_</span>
+<span class="counts">**[[1231 Joy (talk)#^6-4|6-4]]**: _[[Thanissaro Bhikkhu]] · [[Happiness]] (3) · [[Letting go]] (4) · [[Image]] · [[Dharma]] · [[Impermanence]] · [[Clinging]]_</span>
 
 ![[20071231-Rob_Burbea-GAIA-joy-11971.mp3#t=31:28]]
 
@@ -477,7 +477,7 @@ It was just interesting to notice that I could actually just decide to be sad or
 
 ---
 ##### However good it gets, it's going to end
-<span class="counts">**[[1231 Joy (talk)#^12-2|12-2]]**: _[[Happiness]] (10) · [[Freedom]] (2) · [[The Self]] (2) · [[Emptiness]] · [[Buddha]] · [[Experience]] · [[Death]] (3) · [[Mind]]_</span>
+<span class="counts">**[[1231 Joy (talk)#^12-2|12-2]]**: _[[Happiness]] (10) · [[Freedom]] (2) · [[The Self]] (2) · [[Emptiness]] · [[Thanissaro Bhikkhu]] (2) · [[Buddha]] · [[Experience]] · [[Death]] (3) · [[Mind]]_</span>
 
 ![[20071231-Rob_Burbea-GAIA-joy-11971.mp3#t=01:00:58]]
 

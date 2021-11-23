@@ -6,21 +6,21 @@ talk | count | series
 [[The Practice of Compassion]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Compassion (talk)]] | 8 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Compassion Part Two - Compassion for Ourselves]] | 7 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[An Introduction to the Jhanas]] | 5 | [[2019 Practising the Jhanas]]
 [[Daimon, Refracted]] | 4 | [[2019 Four Circles, Four Parables of Stone and Light]]
 [[The Place of Samadhi in Metta Practice]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity in Compassion]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Birth of a Bodhisattva]] | 3 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Orienting to This Jhana Retreat]] | 2 | [[2019 Practising the Jhanas]]
-[[Expressions of Metta]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
+[[An Introduction to the Jhanas#Jhana practice can fit very naturally into other practices\|Jhana practice can fit very naturally into other practices]] | 5 | [[An Introduction to the Jhanas]]
 [[Compassion Part Two - Compassion for Ourselves#Compassion for oneself is tremendously healing\|Compassion for oneself is tremendously healing]] | 4 | [[Compassion Part Two - Compassion for Ourselves]]
 [[The Place of Samadhi in Metta Practice#Samadhi brings with it a tremendous of well being\|Samadhi brings with it a tremendous of well being]] | 4 | [[The Place of Samadhi in Metta Practice]]
 [[Equanimity in Compassion#The outflow of compassion from us to others touches us and we feel healed\|The outflow of compassion from us to others touches us, and we feel healed]] | 3 | [[Equanimity in Compassion]]
-[[The Birth of a Bodhisattva#Recap balancing of receiving and giving\|Recap: balancing of receiving and giving]] | 2 | [[The Birth of a Bodhisattva]]
 [[Compassion Part Two - Compassion for Ourselves#Two more possibilities\|Two more possibilities]] | 2 | [[Compassion Part Two - Compassion for Ourselves]]
 [[Compassion (talk)#Compassion holds suffering and then adds healing and understanding\|Compassion holds suffering and then adds healing and understanding]] | 2 | [[Compassion (talk)]]
 [[Compassion (talk)#You can play with this it's not a static balance\|You can play with this, it's not a static balance]] | 2 | [[Compassion (talk)]]
@@ -36,8 +36,8 @@ term | count | talks
 [[Energy]] | 11 | <span class="counts">[[Compassion (talk)]] (5) · [[Daimon, Refracted]] (1) · [[Equanimity in Compassion]] (1) · [[Expressions of Metta]] (1)</span> 
 [[Metta]] | 9 | <span class="counts">[[Expressions of Metta]] (2) · [[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Daimon, Refracted]] (1)</span> 
 [[Embodiment]] | 8 | <span class="counts">[[Compassion (talk)]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Daimon, Refracted]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
+[[Insight]] | 8 | <span class="counts">[[The Practice of Compassion]] (2) · [[An Introduction to the Jhanas]] (1) · [[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1)</span> 
 [[Cultivation]] | 7 | <span class="counts">[[Compassion (talk)]] (2) · [[Equanimity (talk)]] (1) · [[From Insight to Love]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
-[[Insight]] | 7 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[From Insight to Love]] (1)</span> 
 [[Samadhi]] | 7 | <span class="counts">[[Compassion Part Two - Compassion for Ourselves]] (1) · [[From Insight to Love]] (1) · [[Questioning Awakening]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
 [[Pleasantness]] | 6 | <span class="counts">[[The Practice of Compassion]] (2) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity in Compassion]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
 [[Mind]] | 5 | <span class="counts">[[Compassion (talk)]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Samadhi in Metta Practice]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
@@ -67,8 +67,12 @@ term | count | talks
 <span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
 > [W]hen we talk about compassion in the meditation, there's the taking in, the empathy, the tuning into the suffering of another, letting the heart resonate, letting that sorrow resonate in the heart, the receiving of the suffering. And the balancing of that with the healing energy that goes out, the balm, that which soothes, that which helps. And feeling that energy on its way out, the balm, the healing, because it bathes oneself on the way out, and it's actually pleasant, and it's actually happy, even if it's just quietly happy, and it's actually nourishing. &nbsp;&nbsp;<span class="counts">_[[The Birth of a Bodhisattva#Recap balancing of receiving and giving|Recap: balancing of receiving and giving]]_</span>
 
-**[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]**
+**[[An Introduction to the Jhanas]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>
-> So often, we just go into a default breath, and the only reason it feels comfortable is just because we're used to it. At that moment, it may well _not_ be that helpful in terms of really energizing, and opening, and healing, and soothing, and moving towards _samādhi_. So we have to be, again, willing to let go of our inertia, if it's there. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#Also what way of breathing feels good right now|Also what way of breathing feels good right now]]_</span>
+> [S]ensitivity, subtle attunement, refinement - you see, those same kind of developments are actually part of _jhāna_, emptiness, soulmaking, emotional work, healing, and relational stuff. There's something very integrated here. &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#Jhana practice can fit very naturally into other practices|Jhana practice can fit very naturally into other practices]]_</span>
+
+**[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> So often, we just go into a default breath, and the only reason it feels comfortable is just because we're used to it. At that moment, it may well _not_ be that helpful in terms of really energizing, and opening, and healing, and soothing, and moving towards _samādhi_. So we have to be, again, willing to let go of our inertia, if it's there. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)#Also what way of breathing feels good right now|Also what way of breathing feels good right now]]_</span>
 
 

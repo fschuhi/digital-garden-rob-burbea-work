@@ -7,12 +7,12 @@ talk | count | series
 [[The Way of Non-Clinging Part 1]] | 11 | [[2017 Eros Unfettered]]
 [[What is Insight]] | 9 | [[2007 New Years Retreat Insight Meditation]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 8 | [[2020 Vajra Music]]
+[[An Introduction to the Jhanas]] | 7 | [[2019 Practising the Jhanas]]
 [[Joy (talk)]] | 7 | [[2007 New Years Retreat Insight Meditation]]
 [[Expressions of Metta]] | 6 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Using Insight to Deepen Love and Compassion]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Exploring the World of Loving Kindness]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Way of Non-Clinging Part 3]] | 4 | [[2017 Eros Unfettered]]
-[[Samadhi in Metta Practice]] | 3 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -31,10 +31,10 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Mind]] | 16 | <span class="counts">[[From Insight to Love]] (3) · [[Joy (talk)]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
+[[Mind]] | 19 | <span class="counts">[[An Introduction to the Jhanas]] (3) · [[From Insight to Love]] (3) · [[Joy (talk)]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
 [[Insight]] | 12 | <span class="counts">[[What is Insight]] (3) · [[From Insight to Love]] (1) · [[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
+[[Embodiment]] | 10 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[What is Insight]] (2)</span> 
 [[Metta]] | 10 | <span class="counts">[[From Insight to Love]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Compassion (talk)]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
-[[Embodiment]] | 9 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[What is Insight]] (2)</span> 
 [[Retreat]] | 8 | <span class="counts">[[Daimon, Refracted]] (1) · [[Love and Emptiness]] (1) · [[Orienting to This Jhana Retreat]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 [[Buddha]] | 7 | <span class="counts">[[From Insight to Love]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[Expressions of Metta]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
 [[Compassion]] | 7 | <span class="counts">[[Compassion (talk)]] (1) · [[From Insight to Love]] (1) · [[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
@@ -50,6 +50,12 @@ term | count | talks
 **[[Love and the Emptiness of Things]]**
 <span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
 > [W]e're reconditioning the heart and the mind, which essentially, you could say, is a whirlpool, a web of conditioning, of conditions and habits of conditions. &nbsp;&nbsp;<span class="counts">_[[Love and the Emptiness of Things#Planting the seeds of intention to recondition the mind|Planting the seeds of intention to recondition the mind]]_</span>
+
+**[[An Introduction to the Jhanas]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> We need to sit in a _jhāna_ a long time. It's doing a lot of work on the cells, on the being, on the _citta_. It's fine to go through for two seconds on the way - that's all fine, but the real work happens when we really just get in and sit there for a long time, and really let that change our habits, our mental habits, and our energetic habits. &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#Mastery includes staying in a particular jhana in any posture; "marinate" in it|Mastery includes staying in a particular jhana in any posture; "marinate" in it]]_</span>
+
+> We want it to work on the being. We have to linger. We have to live there. We have to, as I said, marinate, absorb - not just _get_ absorbed, but almost absorb the _jhāna_ itself into our being, get to know it intimately, so that the cells, the mind, the habit patterns of mind, etc., and energy are affected. And in that way it makes a really long-term difference to one's life... &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#No achievement badges|No achievement badges]]_</span>
 
 **[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]**
 <span class="counts">[[2020 Vajra Music]]</span>

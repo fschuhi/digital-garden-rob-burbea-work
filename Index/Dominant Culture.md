@@ -36,9 +36,9 @@ term | count | talks
 [[The Self]] | 4 | <span class="counts">[[Daimon, Refracted]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 [[Buddha]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1)</span> 
 [[Dukkha]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[The Birth of a Bodhisattva]] (1)</span> 
-[[Embodiment]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Embodiment]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (1)</span> 
 [[Insight]] | 3 | <span class="counts">[[Daimon, Refracted]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
-[[Meditation]] | 3 | <span class="counts">[[Daimon, Refracted]] (1) · [[Orienting to This Jhana Retreat]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
-[[Retreat]] | 3 | <span class="counts">[[Equanimity (talk)]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Meditation]] | 3 | <span class="counts">[[Daimon, Refracted]] (1) · [[Orienting to This Jhana Retreat]] (1) · [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (1)</span> 
+[[Retreat]] | 3 | <span class="counts">[[Equanimity (talk)]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (1)</span> 
 [[Desire]] | 2 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
 

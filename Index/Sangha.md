@@ -16,7 +16,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Remind yourself It's an exercise not a performance\|Remind yourself: It's an excercise, not a performance]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Remind yourself It's an exercise not a performance\|Remind yourself: It's an exercise, not a performance]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#They are also path dependend in response to different students that I've been working with\|They are also path dependend, in response to different students that I've been working with]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#Maybe steady courses classes groups can provide a different kind of support\|Maybe steady courses, classes, groups can provide a different kind of support]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Make a set of instructions\|==Make a set of instructions==]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]

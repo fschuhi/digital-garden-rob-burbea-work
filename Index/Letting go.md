@@ -33,10 +33,10 @@ term | count | talks
 -|-|-
 [[Clinging]] | 33 | <span class="counts">[[The Way of Non-Clinging Part 1]] (9) · [[The Way of Non-Clinging Part 2]] (9) · [[The Way of Non-Clinging Part 3]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Joy (talk)]] (2)</span> 
 [[Craving]] | 28 | <span class="counts">[[The Way of Non-Clinging Part 3]] (8) · [[The Way of Non-Clinging Part 1]] (5) · [[What is Insight]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[The Way of Non-Clinging Part 2]] (3) · [[Equanimity in Compassion]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
-[[Experience]] | 19 | <span class="counts">[[What is Insight]] (7) · [[The Way of Non-Clinging Part 1]] (5) · [[The Way of Non-Clinging Part 2]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
+[[Experience]] | 20 | <span class="counts">[[What is Insight]] (7) · [[The Way of Non-Clinging Part 1]] (5) · [[The Way of Non-Clinging Part 2]] (3) · [[An Introduction to the Jhanas]] (1)</span> 
 [[Dukkha]] | 18 | <span class="counts">[[What is Insight]] (6) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[From Insight to Love]] (2) · [[The Practice of Compassion]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
 [[Dharma]] | 17 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[The Way of Non-Clinging Part 1]] (3) · [[The Way of Non-Clinging Part 3]] (3) · [[What is Insight]] (3) · [[Joy (talk)]] (2)</span> 
-[[Insight]] | 16 | <span class="counts">[[The Way of Non-Clinging Part 2]] (3) · [[What is Insight]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Insight]] | 17 | <span class="counts">[[The Way of Non-Clinging Part 2]] (3) · [[What is Insight]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
 [[Emptiness]] | 15 | <span class="counts">[[The Way of Non-Clinging Part 2]] (3) · [[What is Insight]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
 [[The Self]] | 14 | <span class="counts">[[The Way of Non-Clinging Part 2]] (4) · [[The Way of Non-Clinging Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Equanimity in Compassion]] (1)</span> 
 [[Desire]] | 13 | <span class="counts">[[The Way of Non-Clinging Part 3]] (8) · [[The Way of Non-Clinging Part 1]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
@@ -69,8 +69,12 @@ term | count | talks
 
 > [T]hese teachings are integrated into the usual Dharma teachings about craving and letting go and releasing _dukkha_, and the much deeper teachings about dependent arising and emptiness, and that forms a non-realist basis. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 1#The different ways of looking form a non-realist basis for explanations and explorations|The different ways of looking form a non-realist basis for explanations and explorations]]_</span>
 
-**[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]**
+**[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>
-> Energization through the whole space with the in-breath; a kind of relaxation, easing, letting go with the out-breath. Qualities of energy that fill the whole space with the in-and the out-breaths. So this is what we want to tune to, open to, really feel. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#A kind of relaxation easing letting go with the out-breath|A kind of relaxation, easing, letting go with the out-breath]]_</span>
+> Energization through the whole space with the in-breath; a kind of relaxation, easing, letting go with the out-breath. Qualities of energy that fill the whole space with the in-and the out-breaths. So this is what we want to tune to, open to, really feel. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)#A kind of relaxation easing letting go with the out-breath|A kind of relaxation, easing, letting go with the out-breath]]_</span>
+
+**[[Breathing with the Energy Body (Guided Meditation)]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> [F]eel into the sense of the whole space being energized, feeling energized with the in-breath, and a kind of relaxation or letting go with the out-breath. &nbsp;&nbsp;<span class="counts">_[[Breathing with the Energy Body (Guided Meditation)#Tune in to the sense of the whole space|Tune in to the sense of the whole space]]_</span>
 
 

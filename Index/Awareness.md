@@ -3,44 +3,44 @@
 ### Top 10 referring talks
 talk | count | series
 :- | - |: -
-[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] | 19 | [[2019 Practising the Jhanas]]
 [[Using Insight to Deepen Love and Compassion]] | 18 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 15 | [[2020 Vajra Music]]
-[[Counting Within the Breath - Guided Meditation]] | 14 | [[2019 Practising the Jhanas]]
 [[From Insight to Love]] | 14 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] | 12 | [[2019 Practising the Jhanas]]
 [[Dilemmas and Delineations - How did we get here Part 3]] | 12 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 2]] | 12 | [[2017 Eros Unfettered]]
 [[Questioning Awakening]] | 12 | [[2014 November Solitary - Questioning Awakening]]
 [[A Hidden Treasure - The Relationship with the Hindrances]] | 11 | [[2019 Practising the Jhanas]]
 [[Love and Emptiness]] | 11 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[Samadhi in Metta Practice]] | 8 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#The kinaesthetic sense of energy fills the whole space\|The kinaesthetic sense of energy fills the whole space]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
-[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#During the day aim for a whole-body awareness that is quite relaxed and open\|During the day, aim for a whole-body awareness that is quite relaxed and open]] | 5 | [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
-[[Counting Within the Breath - Guided Meditation#Slow down to retain whole-body awareness\|Slow down, to retain whole-body awareness]] | 5 | [[Counting Within the Breath - Guided Meditation]]
-[[The Place of Samadhi in Metta Practice#ad 2 tightness\|ad 2. tightness]] | 5 | [[The Place of Samadhi in Metta Practice]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Exercise 2 4 hear the space filled with sound\|🟡 Excercise 2.4: hear the space filled with sound]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[The Place of Samadhi in Metta Practice#ad 1 tightness\|ad 1. tightness]] | 5 | [[The Place of Samadhi in Metta Practice]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Exercise 2 4 hear the space filled with sound\|🟡 Exercise 2.4: hear the space filled with sound]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Dilemmas and Delineations - How did we get here Part 3#There are infinite possibilities for cosmopoesis\|There are infinite possibilities for cosmopoesis]] | 4 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 2#States of mind and experiences are just ways of looking\|States of mind and experiences are just ways of looking]] | 4 | [[The Way of Non-Clinging Part 2]]
+[[Love and the Emptiness of Things#"Dharmas" here mean things in experience i e objects of awareness\|"Dharmas" here mean things in experience, i.e. objects of awareness]] | 3 | [[Love and the Emptiness of Things]]
 [[Equanimity in Compassion#Practice seeing things as impressions in awareness\|Practice: seeing things as impressions in awareness]] | 3 | [[Equanimity in Compassion]]
 [[Love and Emptiness#Emphasis was on complete acceptance\|Emphasis was on complete acceptance]] | 3 | [[Love and Emptiness]]
 [[Love and Emptiness#Rob Language is stopped short\|Rob: Language is stopped short]] | 3 | [[Love and Emptiness]]
+[[Samadhi in Metta Practice#Emotion is reflected as a contraction in the body\|Emotion is reflected as a contraction in the body]] | 3 | [[Samadhi in Metta Practice]]
 
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Embodiment]] | 56 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (10) · [[Counting Within the Breath - Guided Meditation]] (8) · [[Using Insight to Deepen Love and Compassion]] (6) · [[A Hidden Treasure - The Relationship with the Hindrances]] (4) · [[Breathing with the Energy Body - Guided Meditation]] (4) · [[Daimon, Refracted]] (4) · [[From Insight to Love]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Questioning Awakening]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
-[[Experience]] | 30 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (7) · [[Love and the Emptiness of Things]] (4) · [[The Way of Non-Clinging Part 2]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Guided meditation - Metta to phenomena]] (2) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (2)</span> 
-[[Mind]] | 30 | <span class="counts">[[The Way of Non-Clinging Part 2]] (4) · [[A Hidden Treasure - The Relationship with the Hindrances]] (3) · [[From Insight to Love]] (3) · [[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[Questioning Awakening]] (2) · [[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2)</span> 
+[[Embodiment]] | 51 | <span class="counts">[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (8) · [[Using Insight to Deepen Love and Compassion]] (6) · [[A Hidden Treasure - The Relationship with the Hindrances]] (4) · [[An Introduction to the Jhanas]] (4) · [[Counting Within the Breath (Guided Meditation)]] (4) · [[Daimon, Refracted]] (4) · [[From Insight to Love]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Questioning Awakening]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
+[[Mind]] | 32 | <span class="counts">[[The Way of Non-Clinging Part 2]] (4) · [[A Hidden Treasure - The Relationship with the Hindrances]] (3) · [[From Insight to Love]] (3) · [[An Introduction to the Jhanas]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[Questioning Awakening]] (2) · [[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2)</span> 
+[[Experience]] | 31 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (7) · [[Love and the Emptiness of Things]] (4) · [[The Way of Non-Clinging Part 2]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Guided meditation - Metta to phenomena]] (2) · [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (2)</span> 
 [[Metta]] | 28 | <span class="counts">[[From Insight to Love]] (6) · [[Using Insight to Deepen Love and Compassion]] (4) · [[Guided meditation - Metta to phenomena]] (3) · [[Guided Meditation - Directing Love Towards Dharmas]] (2) · [[Guided Meditation on Gratitude and Compassion]] (2) · [[Love and Emptiness]] (2) · [[Love and the Emptiness of Things]] (2) · [[Samadhi in Metta Practice]] (2)</span> 
 [[Compassion]] | 23 | <span class="counts">[[The Practice of Compassion]] (5) · [[Guided Meditation on Gratitude and Compassion]] (3) · [[Guided meditation - Metta to phenomena]] (3) · [[Love and the Emptiness of Things]] (3) · [[From Insight to Love]] (2) · [[Love and Emptiness]] (2)</span> 
-[[Attention]] | 22 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (6) · [[Breathing with the Energy Body - Guided Meditation]] (3) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (3) · [[The Way of Non-Clinging Part 2]] (3)</span> 
 [[Love]] | 22 | <span class="counts">[[From Insight to Love]] (3) · [[Love and the Emptiness of Things]] (3) · [[Daimon, Refracted]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Guided meditation - Metta to phenomena]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
-[[Energy body]] | 17 | <span class="counts">[[Daimon, Refracted]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (3) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (3) · [[A Hidden Treasure - The Relationship with the Hindrances]] (2)</span> 
+[[Attention]] | 20 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (6) · [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (3) · [[The Way of Non-Clinging Part 2]] (3) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
 [[Consciousness]] | 16 | <span class="counts">[[Guided meditation - Metta to phenomena]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[The Way of Non-Clinging Part 2]] (2)</span> 
 [[Meditation]] | 16 | <span class="counts">[[Questioning Awakening]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[The Place of Samadhi in Metta Practice]] (2) · [[Daimon, Refracted]] (1)</span> 
+[[Energy body]] | 15 | <span class="counts">[[Daimon, Refracted]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (3) · [[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (2)</span> 
 
 ### Quotes
 **[[The Practice of Compassion]]**
@@ -55,9 +55,9 @@ term | count | talks
 
 **[[The Place of Samadhi in Metta Practice]]**
 <span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
-> [M]ake the mindfulness a bit bigger, meaning make the range of the awareness a bit bigger. As I said at least once in the instructions, the Buddha says "sensitive to the whole body." &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#ad 2 tightness|ad 2. tightness]]_</span>
+> [M]ake the mindfulness a bit bigger, meaning make the range of the awareness a bit bigger. As I said at least once in the instructions, the Buddha says "sensitive to the whole body." &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#ad 1 tightness|ad 1. tightness]]_</span>
 
-> When we get too tight, what happens? We actually feel it in the body. So part of the art of meditation, part of the art of deepening _samādhi_, is to have this kind of background awareness of breadth of the body awareness, and be sensitive to it. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#ad 2 tightness|ad 2. tightness]]_</span>
+> When we get too tight, what happens? We actually feel it in the body. So part of the art of meditation, part of the art of deepening _samādhi_, is to have this kind of background awareness of breadth of the body awareness, and be sensitive to it. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#ad 1 tightness|ad 1. tightness]]_</span>
 
 **[[Using Insight to Deepen Love and Compassion]]**
 <span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
@@ -91,25 +91,31 @@ term | count | talks
 <span class="counts">[[2019 Four Circles, Four Parables of Stone and Light]]</span>
 > [H]aving a sense of body, how the body feels, how the energy body feels, its presence right now, its material presence, its energetic presence and feel, but also of your self. There's a self sitting here, so to speak, and that self has a narrative, and that kind of can be included, so to speak, in the larger scope or background of the awareness. &nbsp;&nbsp;<span class="counts">_[[Daimon, Refracted#Let the sense of self including your narratives be there too|Let the sense of self (including your narratives) be there too]]_</span>
 
-**[[Counting Within the Breath - Guided Meditation]]**
+**[[Counting Within the Breath (Guided Meditation)]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>
-> Meet every number. Be there. Sense it, alive. If you're drowsy, make those numbers brighter. Make them louder. Keep opening up the awareness - the whole space, larger than the body. Keep opening it, again and again and again. &nbsp;&nbsp;<span class="counts">_[[Counting Within the Breath - Guided Meditation#Meet every number|Meet every number]]_</span>
+> Meet every number. Be there. Sense it, alive. If you're drowsy, make those numbers brighter. Make them louder. Keep opening up the awareness - the whole space, larger than the body. Keep opening it, again and again and again. &nbsp;&nbsp;<span class="counts">_[[Counting Within the Breath (Guided Meditation)#Meet every number|Meet every number]]_</span>
 
-> [M]oving slowly around enables you to kind of keep that basic, whole-body awareness, that basic mindfulness. &nbsp;&nbsp;<span class="counts">_[[Counting Within the Breath - Guided Meditation#Slow down to retain whole-body awareness|Slow down, to retain whole-body awareness]]_</span>
+> [M]oving slowly around enables you to kind of keep that basic, whole-body awareness, that basic mindfulness. &nbsp;&nbsp;<span class="counts">_[[Counting Within the Breath (Guided Meditation)#Slow down to retain whole-body awareness|Slow down, to retain whole-body awareness]]_</span>
 
-> It's part of the whole kind of energetic awareness we want to gradually cultivate, this bubble of resource. So find that pace where actually that's what you're doing when you're moving around - you've got some sense of the whole body, and the energy of the whole body. &nbsp;&nbsp;<span class="counts">_[[Counting Within the Breath - Guided Meditation#Slow down to retain whole-body awareness|Slow down, to retain whole-body awareness]]_</span>
+> It's part of the whole kind of energetic awareness we want to gradually cultivate, this bubble of resource. So find that pace where actually that's what you're doing when you're moving around - you've got some sense of the whole body, and the energy of the whole body. &nbsp;&nbsp;<span class="counts">_[[Counting Within the Breath (Guided Meditation)#Slow down to retain whole-body awareness|Slow down, to retain whole-body awareness]]_</span>
 
 **[[Orienting to This Jhana Retreat]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>
 > What it means is, these days, liberation needs to include a certain depth and breadth, and capacity, and sophistication, and sensitivity with regard to what we might call psychological awareness of self and other. &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#Emotional discernment and emotional capacity in awakening and healing|Emotional discernment and emotional capacity in awakening and healing]]_</span>
 
-**[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]**
+**[[An Introduction to the Jhanas]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>
-> [T]he awareness inhabits equally, homogenously, the whole space, and even a little bit bigger. So the whole thing is integrated and homogenized. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#Homogeneity of experience but also of awareness|Homogeneity, of experience but also of awareness]]_</span>
+> [I]f I want a liberation that actually does have sensitivity in it, and attunement, and relational skill, and psychological awareness, and want to understand about emptiness as something very different, to do with ways of looking and fabrication, then I'm going to have to think about _jhānas_ in a very different way. &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#There's a relationship between the way the goal is seen and what I emphasize in jhana practice|There's a relationship between the way the goal is seen and what I emphasize in jhana practice]]_</span>
 
-> So the awareness will keep shrinking. It will shrink a thousand times. And just keep opening it out to just a little bit bigger than the physical body space, and fill that with alive awareness, presence. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#We are interested in the felt sense not so much the image of the physical form|We are interested in the felt sense, not so much the image of the physical form]]_</span>
+> Yes, definitely, we _do_ want to increase and develop our focus and our concentration. But we also, and oftentimes more importantly, are interested in this development of deep, profound resources, of training the perceptions (what does that mean?), the relation of that with emptiness understanding, and the development of all these lovely, lovely capacities and capabilities of attunement, sensitivity, subtlety of awareness, beauty, magic, art. &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#We are interested in the development of deep profound resources|We are interested in the development of deep, profound resources]]_</span>
 
-> So in the whole space, attuned, alive, filled with awareness; the longest breath. Just how does it feel, the expansion and the contraction with the breath? Really tuning to that and feeling it. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#The whole space is expanding on the in-breath contracting on the out-breath|The whole space is expanding on the in-breath, contracting on the out-breath]]_</span>
+**[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> [T]he awareness inhabits equally, homogenously, the whole space, and even a little bit bigger. So the whole thing is integrated and homogenized. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)#Homogeneity of experience but also of awareness|Homogeneity, of experience but also of awareness]]_</span>
+
+> So the awareness will keep shrinking. It will shrink a thousand times. And just keep opening it out to just a little bit bigger than the physical body space, and fill that with alive awareness, presence. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)#We are interested in the felt sense not so much the image of the physical form|We are interested in the felt sense, not so much the image of the physical form]]_</span>
+
+> So in the whole space, attuned, alive, filled with awareness; the longest breath. Just how does it feel, the expansion and the contraction with the breath? Really tuning to that and feeling it. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)#The whole space is expanding on the in-breath contracting on the out-breath|The whole space is expanding on the in-breath, contracting on the out-breath]]_</span>
 
 **[[A Hidden Treasure - The Relationship with the Hindrances]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>

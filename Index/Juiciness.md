@@ -5,8 +5,8 @@ talk | count | series
 :- | - |: -
 [[Dilemmas and Delineations - How did we get here Part 2]] | 8 | [[2017 Eros Unfettered]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 2 | [[2020 Vajra Music]]
+[[An Introduction to the Jhanas]] | 2 | [[2019 Practising the Jhanas]]
 [[Equanimity (talk)]] | 2 | [[2006 New Year's Retreat]]
-[[A Hidden Treasure - The Relationship with the Hindrances]] | 1 | [[2019 Practising the Jhanas]]
 [[Dilemmas and Delineations - How did we get here Part 4]] | 1 | [[2017 Eros Unfettered]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 1 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 2]] | 1 | [[2017 Eros Unfettered]]
@@ -37,10 +37,10 @@ term | count | talks
 [[Beauty]] | 4 | <span class="counts">[[Equanimity in Compassion]] (1) · [[Expressions of Metta]] (1) · [[Orienting to This Jhana Retreat]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
 [[Experience]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (4)</span> 
 [[Soulmaking]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (3) · [[Orienting to This Jhana Retreat]] (1)</span> 
-[[Embodiment]] | 3 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Breathing with the Energy Body - Guided Meditation]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Embodiment]] | 3 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Breathing with the Energy Body (Guided Meditation)]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
 [[Image]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Jhanas]] | 3 | <span class="counts">[[An Introduction to the Jhanas]] (2) · [[Orienting to This Jhana Retreat]] (1)</span> 
 [[Psyche]] | 3 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
-[[Craving]] | 2 | <span class="counts">[[Equanimity in Compassion]] (1) · [[The Way of Non-Clinging Part 2]] (1)</span> 
 
 ### Quotes
 **[[Equanimity (talk)]]**

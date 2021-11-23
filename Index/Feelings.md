@@ -31,16 +31,16 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Embodiment]] | 10 | <span class="counts">[[Daimon, Refracted]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
+[[Embodiment]] | 11 | <span class="counts">[[Daimon, Refracted]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
 [[Metta]] | 10 | <span class="counts">[[Exploring the World of Loving Kindness]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Compassion (talk)]] (1)</span> 
 [[Experience]] | 6 | <span class="counts">[[Love and the Emptiness of Things]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Love and Emptiness]] (1)</span> 
 [[Perception]] | 6 | <span class="counts">[[Questioning Awakening]] (2) · [[Daimon, Refracted]] (1) · [[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Love and Emptiness]] (1)</span> 
 [[Compassion]] | 5 | <span class="counts">[[Love and the Emptiness of Things]] (2) · [[Compassion (talk)]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
 [[Consciousness]] | 5 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Daimon, Refracted]] (1) · [[Guided Meditation - Directing Love Towards Dharmas]] (1)</span> 
 [[Love]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 4]] (1) · [[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1) · [[Questioning Awakening]] (1)</span> 
+[[Mind]] | 5 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[An Introduction to the Jhanas]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1) · [[What is Insight]] (1)</span> 
+[[Happiness]] | 4 | <span class="counts">[[An Introduction to the Jhanas]] (1) · [[Exploring the World of Loving Kindness]] (1) · [[Guided Meditation - Directing Love Towards Dharmas]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 [[Hindrances]] | 4 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[Guided Meditation - Directing Love Towards Dharmas]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
-[[Mind]] | 4 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[Guided Meditation on Gratitude and Compassion]] (1) · [[What is Insight]] (1)</span> 
-[[Attention]] | 3 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Breathing with the Energy Body - Guided Meditation]] (1) · [[What is Insight]] (1)</span> 
 
 ### Quotes
 **[[Using Insight to Deepen Love and Compassion]]**

@@ -3,12 +3,14 @@
 talk | count | series
 :- | - |: -
 [[Love and the Emptiness of Things]] | 4 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[An Introduction to the Jhanas]] | 2 | [[2019 Practising the Jhanas]]
 [[Daimon, Refracted]] | 1 | [[2019 Four Circles, Four Parables of Stone and Light]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
 [[Love and the Emptiness of Things#To understand fully the nature of perception is to be fully awakened\|To understand fully the nature of perception is to be fully awakened]] | 3 | [[Love and the Emptiness of Things]]
+[[An Introduction to the Jhanas#Sixth Jhana Pali Canon\|Sixth Jhana (Pali Canon)]] | 2 | [[An Introduction to the Jhanas]]
 [[Daimon, Refracted#We should allow ourselves imaginal dimensions of self\|We should allow ourselves imaginal dimensions of self]] | 1 | [[Daimon, Refracted]]
 [[Love and the Emptiness of Things#You don't want to rush through those beautiful states but also not misunderstand them as ultimate\|You don't want to rush through those beautiful states, but also not misunderstand them as ultimate]] | 1 | [[Love and the Emptiness of Things]]
 

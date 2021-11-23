@@ -33,14 +33,14 @@ term | count | talks
 -|-|-
 [[Embodiment]] | 15 | <span class="counts">[[Love and Emptiness]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2)</span> 
 [[Retreat]] | 12 | <span class="counts">[[Orienting to This Jhana Retreat]] (5) · [[The Place of Samadhi in Metta Practice]] (2) · [[Love and Emptiness]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] (1)</span> 
-[[Soul]] | 10 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] (2) · [[Daimon, Refracted]] (1)</span> 
+[[Soul]] | 11 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] (2) · [[An Introduction to the Jhanas]] (1)</span> 
 [[Buddha]] | 9 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Love and the Emptiness of Things]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Insight]] | 9 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[An Introduction to the Jhanas]] (1) · [[Daimon, Refracted]] (1) · [[Love and Emptiness]] (1)</span> 
 [[Energy body]] | 8 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Daimon, Refracted]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 5]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
-[[Insight]] | 8 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[Daimon, Refracted]] (1) · [[Love and Emptiness]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Emptiness]] | 7 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (3) · [[Love and Emptiness]] (2) · [[An Introduction to the Jhanas]] (1) · [[What is Insight]] (1)</span> 
 [[Experience]] | 7 | <span class="counts">[[Love and Emptiness]] (2) · [[Love and the Emptiness of Things]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
+[[Jhanas]] | 7 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (3) · [[Orienting to This Jhana Retreat]] (3) · [[An Introduction to the Jhanas]] (1)</span> 
 [[Mind]] | 7 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (3) · [[What is Insight]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
-[[Perception]] | 7 | <span class="counts">[[Love and Emptiness]] (3) · [[Love and the Emptiness of Things]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
-[[Consciousness]] | 6 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (3) · [[Love and Emptiness]] (2) · [[What is Insight]] (1)</span> 
 
 ### Quotes
 **[[The Place of Samadhi in Metta Practice]]**

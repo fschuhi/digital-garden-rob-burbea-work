@@ -9,9 +9,9 @@ talk | count | series
 [[What is Insight]] | 17 | [[2007 New Years Retreat Insight Meditation]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 11 | [[2017 Eros Unfettered]]
 [[From Insight to Love]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
+[[An Introduction to the Jhanas]] | 8 | [[2019 Practising the Jhanas]]
 [[Questioning Awakening]] | 5 | [[2014 November Solitary - Questioning Awakening]]
 [[Exploring the World of Loving Kindness]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[The Way of Non-Clinging Part 3]] | 4 | [[2017 Eros Unfettered]]
 [[Love and Emptiness]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Paragraphs with 4+ mentions
@@ -20,6 +20,7 @@ description | count | talk
 [[Dilemmas and Delineations - How did we get here Part 3#2 Ways of looking - including the relationship of what I'm perceiving\|(2) Ways of looking - including the relationship of what I'm perceiving]] | 13 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 3#Emptiness is a radical pervasive concept\|Emptiness is a radical, pervasive concept]] | 8 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[The Way of Non-Clinging Part 2#Does Mahasi-style meditation on impermance disclose reality\|Does Mahasi-style meditation on impermance disclose reality?]] | 8 | [[The Way of Non-Clinging Part 2]]
+[[An Introduction to the Jhanas#Start with the goal malleability of perception\|Start with the goal: malleability of perception]] | 7 | [[An Introduction to the Jhanas]]
 [[Dilemmas and Delineations - How did we get here Part 3#The concept of ways of looking is compatible with the Four Noble Truths but can also points beyond it\|The concept of ways of looking is compatible with the Four Noble Truths, but can also points beyond it]] | 6 | [[Dilemmas and Delineations - How did we get here Part 3]]
 [[Dilemmas and Delineations - How did we get here Part 1#Dharma concepts aim towards less papanca\|Dharma concepts aim towards less papanca]] | 6 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[The Way of Non-Clinging Part 2#There is always a way of looking with more or less clinging\|There is always a way of looking, with more or less clinging]] | 6 | [[The Way of Non-Clinging Part 2]]
@@ -37,15 +38,15 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Insight]] | 32 | <span class="counts">[[The Way of Non-Clinging Part 2]] (8) · [[What is Insight]] (5) · [[Using Insight to Deepen Love and Compassion]] (4) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Orienting to This Jhana Retreat]] (2)</span> 
-[[Perception]] | 31 | <span class="counts">[[The Way of Non-Clinging Part 2]] (13) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Love and Emptiness]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
-[[Fabrication]] | 29 | <span class="counts">[[The Way of Non-Clinging Part 2]] (16) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Love and Emptiness]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
-[[Experience]] | 28 | <span class="counts">[[The Way of Non-Clinging Part 2]] (11) · [[Using Insight to Deepen Love and Compassion]] (5) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[What is Insight]] (4) · [[From Insight to Love]] (2)</span> 
+[[Insight]] | 34 | <span class="counts">[[The Way of Non-Clinging Part 2]] (8) · [[What is Insight]] (5) · [[Using Insight to Deepen Love and Compassion]] (4) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[An Introduction to the Jhanas]] (2) · [[Orienting to This Jhana Retreat]] (2)</span> 
+[[Perception]] | 32 | <span class="counts">[[The Way of Non-Clinging Part 2]] (13) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Love and Emptiness]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Fabrication]] | 31 | <span class="counts">[[The Way of Non-Clinging Part 2]] (16) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[An Introduction to the Jhanas]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Love and Emptiness]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
+[[Experience]] | 29 | <span class="counts">[[The Way of Non-Clinging Part 2]] (11) · [[Using Insight to Deepen Love and Compassion]] (5) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[What is Insight]] (4) · [[From Insight to Love]] (2)</span> 
 [[Clinging]] | 26 | <span class="counts">[[The Way of Non-Clinging Part 2]] (18) · [[The Way of Non-Clinging Part 3]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
+[[Emptiness]] | 22 | <span class="counts">[[The Way of Non-Clinging Part 2]] (7) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[An Introduction to the Jhanas]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2)</span> 
 [[Dukkha]] | 21 | <span class="counts">[[What is Insight]] (5) · [[The Way of Non-Clinging Part 2]] (3) · [[Compassion (talk)]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
-[[Emptiness]] | 20 | <span class="counts">[[The Way of Non-Clinging Part 2]] (7) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2)</span> 
+[[Mind]] | 20 | <span class="counts">[[The Way of Non-Clinging Part 2]] (9) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Love and Emptiness]] (2) · [[An Introduction to the Jhanas]] (1)</span> 
 [[Love]] | 19 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (5) · [[From Insight to Love]] (3) · [[Love and Emptiness]] (3) · [[Exploring the World of Loving Kindness]] (2)</span> 
-[[Mind]] | 19 | <span class="counts">[[The Way of Non-Clinging Part 2]] (9) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Love and Emptiness]] (2) · [[Compassion (talk)]] (1)</span> 
 [[Buddha]] | 18 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (5) · [[What is Insight]] (5) · [[The Way of Non-Clinging Part 2]] (4) · [[From Insight to Love]] (2)</span> 
 
 ### Quotes
@@ -130,6 +131,14 @@ term | count | talks
 > I'm referring to a mode of attending to the experience of body - a way of looking... &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#8 Energy body|(8) Energy body]]_</span>
 
 > But when I talk about logos, because it's wrapped up in perception, I'm not talking about something abstract. We _live_ a logos, or we live logoi. We live different ideas. Different concepts shape how we live, they inform how we live, but more fundamentally, they shape our way of looking. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#There is always a logos operating in the mind except during an experience of the Unfabricated|There is always a logos operating in the mind (except during an experience of the Unfabricated]]_</span>
+
+**[[An Introduction to the Jhanas]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> [I]f I want a liberation that actually does have sensitivity in it, and attunement, and relational skill, and psychological awareness, and want to understand about emptiness as something very different, to do with ways of looking and fabrication, then I'm going to have to think about _jhānas_ in a very different way. &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#There's a relationship between the way the goal is seen and what I emphasize in jhana practice|There's a relationship between the way the goal is seen and what I emphasize in jhana practice]]_</span>
+
+> There's no privileged way of looking. There are just ways of looking. Things are empty. Insight is the practice of ways of looking that liberate, and ways of looking that fabricate less. &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#Start with the goal malleability of perception|Start with the goal: malleability of perception]]_</span>
+
+> [W]hat we practise, and what we're left with at the end of practice, is _malleability_: malleability of perception, malleability of view, malleability of way of looking. This is a goal and a starting point in practice... &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#Start with the goal malleability of perception|Start with the goal: malleability of perception]]_</span>
 
 **[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]**
 <span class="counts">[[2020 Vajra Music]]</span>

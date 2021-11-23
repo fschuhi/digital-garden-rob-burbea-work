@@ -5,6 +5,7 @@ talk | count | series
 :- | - |: -
 [[What is Insight]] | 5 | [[2007 New Years Retreat Insight Meditation]]
 [[Joy (talk)]] | 4 | [[2007 New Years Retreat Insight Meditation]]
+[[An Introduction to the Jhanas]] | 1 | [[2019 Practising the Jhanas]]
 [[The Birth of a Bodhisattva]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and the Emptiness of Things]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Guided Meditation on Gratitude and Compassion]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
@@ -29,19 +30,23 @@ description | count | talk
 term | count | talks
 -|-|-
 [[Happiness]] | 8 | <span class="counts">[[Joy (talk)]] (3) · [[What is Insight]] (2) · [[Compassion (talk)]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
-[[Metta]] | 6 | <span class="counts">[[Compassion (talk)]] (1) · [[Joy (talk)]] (1) · [[Love and the Emptiness of Things]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
-[[Insight]] | 5 | <span class="counts">[[What is Insight]] (3) · [[Love and the Emptiness of Things]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
-[[Buddha]] | 4 | <span class="counts">[[Joy (talk)]] (1) · [[Love and the Emptiness of Things]] (1) · [[Using Insight to Deepen Love and Compassion]] (1) · [[What is Insight]] (1)</span> 
-[[Cultivation]] | 4 | <span class="counts">[[Compassion (talk)]] (1) · [[Love and the Emptiness of Things]] (1) · [[The Birth of a Bodhisattva]] (1) · [[What is Insight]] (1)</span> 
+[[Metta]] | 7 | <span class="counts">[[An Introduction to the Jhanas]] (1) · [[Compassion (talk)]] (1) · [[Joy (talk)]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
+[[Insight]] | 6 | <span class="counts">[[What is Insight]] (3) · [[An Introduction to the Jhanas]] (1) · [[Love and the Emptiness of Things]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
+[[Buddha]] | 5 | <span class="counts">[[An Introduction to the Jhanas]] (1) · [[Joy (talk)]] (1) · [[Love and the Emptiness of Things]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Cultivation]] | 5 | <span class="counts">[[An Introduction to the Jhanas]] (1) · [[Compassion (talk)]] (1) · [[Love and the Emptiness of Things]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
+[[Compassion]] | 4 | <span class="counts">[[An Introduction to the Jhanas]] (1) · [[Compassion (talk)]] (1) · [[Love and the Emptiness of Things]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 [[Mind]] | 4 | <span class="counts">[[Joy (talk)]] (1) · [[Love and the Emptiness of Things]] (1) · [[The Birth of a Bodhisattva]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
-[[Compassion]] | 3 | <span class="counts">[[Compassion (talk)]] (1) · [[Love and the Emptiness of Things]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
+[[Dukkha]] | 3 | <span class="counts">[[An Introduction to the Jhanas]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1) · [[What is Insight]] (1)</span> 
 [[Equanimity]] | 3 | <span class="counts">[[Love and the Emptiness of Things]] (1) · [[The Birth of a Bodhisattva]] (1) · [[Using Insight to Deepen Love and Compassion]] (1)</span> 
 [[Love]] | 3 | <span class="counts">[[Joy (talk)]] (1) · [[The Birth of a Bodhisattva]] (1) · [[What is Insight]] (1)</span> 
-[[Attention]] | 2 | <span class="counts">[[Joy (talk)]] (2)</span> 
 
 ### Quotes
 **[[Guided Meditation on Gratitude and Compassion]]**
 <span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
 > Just opening up the awareness to the huge stream of generosity, of care that we have received from our parents. Allowing the heart to open, too, to their pain, their suffering, their confusion. Wherever they are now, "May they be free from suffering. May they be at peace." &nbsp;&nbsp;<span class="counts">_[[Guided Meditation on Gratitude and Compassion#Compassion to the parents|Compassion to the parents]]_</span>
+
+**[[An Introduction to the Jhanas]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> So yes, _samādhi_; yes, insight; and yes, psychological work; and _yes_, the cultivation of virtues and the beautiful qualities - _mettā,_ and generosity, and compassion, all those - those four together... &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#Jhanas alone will not liberate totally|Jhanas alone will not liberate totally]]_</span>
 
 

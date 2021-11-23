@@ -21,8 +21,8 @@ talk | count | series
 [[The Practice of Compassion]] | 8 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and Emptiness]] | 7 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Orienting to This Jhana Retreat]] | 4 | [[2019 Practising the Jhanas]]
+[[An Introduction to the Jhanas]] | 3 | [[2019 Practising the Jhanas]]
 [[Compassion (talk)]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
-[[Using Insight to Deepen Love and Compassion]] | 2 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 
 ### Quotes (old)
 ##### 2006 New Year's Retreat: Equanimity [[1228 Equanimity (talk)|(Transcript)]]
@@ -104,8 +104,8 @@ term | count | talks
 -|-|-
 [[Compassion]] | 47 | <span class="counts">[[The Birth of a Bodhisattva]] (15) · [[Equanimity in Compassion]] (14) · [[The Practice of Compassion]] (6) · [[Compassion (talk)]] (2) · [[Equanimity (talk)]] (2) · [[Love and the Emptiness of Things]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
 [[Dukkha]] | 28 | <span class="counts">[[The Birth of a Bodhisattva]] (12) · [[Equanimity in Compassion]] (8) · [[The Practice of Compassion]] (4) · [[Compassion (talk)]] (2)</span> 
+[[Happiness]] | 23 | <span class="counts">[[The Birth of a Bodhisattva]] (5) · [[Equanimity in Compassion]] (4) · [[Joy (talk)]] (3) · [[An Introduction to the Jhanas]] (2) · [[Equanimity (talk)]] (2) · [[Orienting to This Jhana Retreat]] (2)</span> 
 [[Metta]] | 22 | <span class="counts">[[Equanimity in Compassion]] (6) · [[The Birth of a Bodhisattva]] (5) · [[Equanimity (talk)]] (2) · [[The Practice of Compassion]] (2)</span> 
-[[Happiness]] | 21 | <span class="counts">[[The Birth of a Bodhisattva]] (5) · [[Equanimity in Compassion]] (4) · [[Joy (talk)]] (3) · [[Equanimity (talk)]] (2) · [[Orienting to This Jhana Retreat]] (2)</span> 
 [[Mind]] | 21 | <span class="counts">[[Equanimity in Compassion]] (7) · [[Equanimity (talk)]] (5) · [[Love and the Emptiness of Things]] (2) · [[The Birth of a Bodhisattva]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
 [[Buddha]] | 18 | <span class="counts">[[Equanimity (talk)]] (7) · [[Equanimity in Compassion]] (2) · [[The Birth of a Bodhisattva]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
 [[Insight]] | 17 | <span class="counts">[[The Birth of a Bodhisattva]] (6) · [[Equanimity in Compassion]] (5) · [[Equanimity (talk)]] (2) · [[Compassion (talk)]] (1)</span> 

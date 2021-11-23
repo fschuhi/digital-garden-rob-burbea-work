@@ -8,11 +8,11 @@ talk | count | series
 [[Love and Emptiness]] | 30 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Love and the Emptiness of Things]] | 26 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Using Insight to Deepen Love and Compassion]] | 23 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
+[[An Introduction to the Jhanas]] | 19 | [[2019 Practising the Jhanas]]
 [[Dilemmas and Delineations - How did we get here Part 4]] | 19 | [[2017 Eros Unfettered]]
 [[Questioning Awakening]] | 14 | [[2014 November Solitary - Questioning Awakening]]
 [[Compassion (talk)]] | 11 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 11 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[The Way of Non-Clinging Part 1]] | 10 | [[2017 Eros Unfettered]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -22,9 +22,11 @@ description | count | talk
 [[From Insight to Love#All I see are moments of perception that are both part of the world and part of me\|All I see are moments of perception that are both part of the world and part of me]] | 11 | [[From Insight to Love]]
 [[Compassion (talk)#Perception is a double-sided feature\|Perception is a double-sided feature]] | 10 | [[Compassion (talk)]]
 [[The Way of Non-Clinging Part 1#Can there be more\|Can there be more?]] | 8 | [[The Way of Non-Clinging Part 1]]
+[[An Introduction to the Jhanas#Jhanas are "perception attainments"\|Jhanas are "perception attainments"]] | 6 | [[An Introduction to the Jhanas]]
 [[Love and the Emptiness of Things#When the Buddha talks about emptiness and talks about awakening he's talking about understanding the very nature of all perception itself\|When the Buddha talks about emptiness and talks about awakening, he's talking about understanding the very nature of all perception itself]] | 6 | [[Love and the Emptiness of Things]]
 [[Exploring the World of Loving Kindness#Perceptions are changing\|Perceptions are changing]] | 6 | [[Exploring the World of Loving Kindness]]
 [[The Practice of Compassion#Non-separation as corrolary to the mind having perceptions\|Non-separation as corrolary to the mind having perceptions]] | 6 | [[The Practice of Compassion]]
+[[An Introduction to the Jhanas#Eigth Jhana\|Eigth Jhana]] | 5 | [[An Introduction to the Jhanas]]
 [[Dilemmas and Delineations - How did we get here Part 4#Clinging leads to a solidification and stagnation of perception and vice versa\|Clinging leads to a solidification and stagnation of perception, and vice versa]] | 5 | [[Dilemmas and Delineations - How did we get here Part 4]]
 [[Dilemmas and Delineations - How did we get here Part 4#The soulmaking dynamic opens out the perception\|The soulmaking dynamic opens out the perception]] | 5 | [[Dilemmas and Delineations - How did we get here Part 4]]
 [[The Way of Non-Clinging Part 2#If I really let go of everything self world time do not appear\|If I really let go of everything, self, world, time do not appear]] | 5 | [[The Way of Non-Clinging Part 2]]
@@ -43,13 +45,13 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Emptiness]] | 39 | <span class="counts">[[The Way of Non-Clinging Part 2]] (10) · [[Love and Emptiness]] (9) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Love and the Emptiness of Things]] (4) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
-[[Experience]] | 38 | <span class="counts">[[The Way of Non-Clinging Part 2]] (9) · [[Dilemmas and Delineations - How did we get here Part 3]] (7) · [[Using Insight to Deepen Love and Compassion]] (4) · [[Love and the Emptiness of Things]] (3) · [[The Way of Non-Clinging Part 3]] (3) · [[Love and Emptiness]] (2) · [[Questioning Awakening]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
-[[Insight]] | 35 | <span class="counts">[[The Way of Non-Clinging Part 2]] (9) · [[Dilemmas and Delineations - How did we get here Part 3]] (5) · [[Love and Emptiness]] (4) · [[Using Insight to Deepen Love and Compassion]] (3) · [[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (2) · [[What is Insight]] (2)</span> 
+[[Emptiness]] | 42 | <span class="counts">[[The Way of Non-Clinging Part 2]] (10) · [[Love and Emptiness]] (9) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Love and the Emptiness of Things]] (4) · [[An Introduction to the Jhanas]] (3) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Experience]] | 39 | <span class="counts">[[The Way of Non-Clinging Part 2]] (9) · [[Dilemmas and Delineations - How did we get here Part 3]] (7) · [[Using Insight to Deepen Love and Compassion]] (4) · [[Love and the Emptiness of Things]] (3) · [[The Way of Non-Clinging Part 3]] (3) · [[Love and Emptiness]] (2) · [[Questioning Awakening]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
+[[Insight]] | 38 | <span class="counts">[[The Way of Non-Clinging Part 2]] (9) · [[Dilemmas and Delineations - How did we get here Part 3]] (5) · [[Love and Emptiness]] (4) · [[An Introduction to the Jhanas]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (2) · [[What is Insight]] (2)</span> 
+[[Mind]] | 33 | <span class="counts">[[The Way of Non-Clinging Part 2]] (8) · [[Love and Emptiness]] (7) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[The Practice of Compassion]] (2)</span> 
 [[Clinging]] | 32 | <span class="counts">[[The Way of Non-Clinging Part 2]] (17) · [[The Way of Non-Clinging Part 3]] (5) · [[The Way of Non-Clinging Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
-[[Mind]] | 32 | <span class="counts">[[The Way of Non-Clinging Part 2]] (8) · [[Love and Emptiness]] (7) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[The Practice of Compassion]] (2)</span> 
-[[Ways of looking]] | 31 | <span class="counts">[[The Way of Non-Clinging Part 2]] (13) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Love and Emptiness]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
-[[Fabrication]] | 30 | <span class="counts">[[The Way of Non-Clinging Part 2]] (16) · [[The Way of Non-Clinging Part 3]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Love and Emptiness]] (2)</span> 
+[[Fabrication]] | 32 | <span class="counts">[[The Way of Non-Clinging Part 2]] (16) · [[The Way of Non-Clinging Part 3]] (5) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[An Introduction to the Jhanas]] (2) · [[Love and Emptiness]] (2)</span> 
+[[Ways of looking]] | 32 | <span class="counts">[[The Way of Non-Clinging Part 2]] (13) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Love and Emptiness]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
 [[Love]] | 29 | <span class="counts">[[Love and Emptiness]] (8) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Daimon, Refracted]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Equanimity in Compassion]] (2) · [[Expressions of Metta]] (2) · [[Love and the Emptiness of Things]] (2)</span> 
 [[The Self]] | 26 | <span class="counts">[[The Way of Non-Clinging Part 2]] (10) · [[Daimon, Refracted]] (4) · [[Using Insight to Deepen Love and Compassion]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
 [[Craving]] | 24 | <span class="counts">[[The Way of Non-Clinging Part 2]] (9) · [[The Way of Non-Clinging Part 3]] (4) · [[Love and Emptiness]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2)</span> 
@@ -160,6 +162,16 @@ term | count | talks
 **[[Daimon, Refracted]]**
 <span class="counts">[[2019 Four Circles, Four Parables of Stone and Light]]</span>
 > And sometimes it's a possible, I find very lovely perception, to perceive this other, this beloved other, or oneself, even, as the sort of contemporaneous totality of the temporal slices of their life. &nbsp;&nbsp;<span class="counts">_[[Daimon, Refracted#Triggered eternality node|Triggered eternality node]]_</span>
+
+**[[An Introduction to the Jhanas]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> [W]hat we practise, and what we're left with at the end of practice, is _malleability_: malleability of perception, malleability of view, malleability of way of looking. This is a goal and a starting point in practice... &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#Start with the goal malleability of perception|Start with the goal: malleability of perception]]_</span>
+
+> [T]o really shape the view, and let the view and the experience of things be shaped, through a whole range, and feeling the impact on perception... &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#Start with the goal malleability of perception|Start with the goal: malleability of perception]]_</span>
+
+> [T]his I would like to emphasize: perception attainment. We're training certain perceptions... &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#Jhanas are "perception attainments"|Jhanas are "perception attainments"]]_</span>
+
+> Yes, definitely, we _do_ want to increase and develop our focus and our concentration. But we also, and oftentimes more importantly, are interested in this development of deep, profound resources, of training the perceptions (what does that mean?), the relation of that with emptiness understanding, and the development of all these lovely, lovely capacities and capabilities of attunement, sensitivity, subtlety of awareness, beauty, magic, art. &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#We are interested in the development of deep profound resources|We are interested in the development of deep, profound resources]]_</span>
 
 **[[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]**
 <span class="counts">[[2020 Vajra Music]]</span>

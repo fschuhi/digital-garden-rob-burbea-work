@@ -3,9 +3,9 @@ obsidianUIMode: preview
 ---
 # Garden of Soul: Rob Burbea's Teachings
 ```ad-quote
-We're talking about an energy body sense - expanding, moving, and feeling, sensing and imagining not just the space of the energy body in its usual size, but also the extended sense of the energy in the room, and how that's connected with and impacted by and filled by the energy of your body movements. It's more than just the space of awareness. We're talking about energy body sensitivity here...
+We're perfectly happy regarding the emotions as 'real,' and having real causes, and relating to them and caring for them as real entities with real causes. _And_ we're perfectly happy regarding them as thoroughly empty, and not real, and not being really caused by real things. There's a range of view, and we're skilled in many different approaches and perspectives regarding the emotions.
 
-_a quote from the talk '[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#The kinaesthetic sense of energy fills the whole space|Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]'_
+_a quote from the talk '[[Orienting to This Jhana Retreat#Emotional discernment and emotional capacity in awakening and healing|Orienting to This Jhana Retreat]]'_
 ```
 
 ```ad-danger

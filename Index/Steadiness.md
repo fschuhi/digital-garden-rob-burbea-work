@@ -25,13 +25,13 @@ description | count | talk
 [[The Birth of a Bodhisattva#Samadhi as less distractedness is more steadiness in the mind\|Samadhi as less distractedness is more steadiness in the mind]] | 3 | [[The Birth of a Bodhisattva]]
 [[Equanimity in Compassion#Rob depends on level of steadiness spaciousness and energy body\|Rob: depends on level of steadiness, spaciousness, and energy body]] | 3 | [[Equanimity in Compassion]]
 [[Samadhi in Metta Practice#Stay with metta for a while that's how samadhi begins\|Stay with metta for a while, that's how samadhi begins]] | 3 | [[Samadhi in Metta Practice]]
-[[Samadhi in Metta Practice#Exercise if calmness is there drop in the thought of a difficult issue\|Excercise: if calmness is there, drop in the thought of a difficult issue]] | 3 | [[Samadhi in Metta Practice]]
+[[Samadhi in Metta Practice#Exercise if calmness is there drop in the thought of a difficult issue\|Exercise: if calmness is there, drop in the thought of a difficult issue]] | 3 | [[Samadhi in Metta Practice]]
 [[Equanimity (talk)#That movement of not being so pulled is the beginning of steadiness\|That movement of not being so pulled is the beginning of steadiness]] | 3 | [[Equanimity (talk)]]
 
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Mind]] | 20 | <span class="counts">[[Equanimity in Compassion]] (4) · [[Samadhi in Metta Practice]] (4) · [[The Place of Samadhi in Metta Practice]] (4) · [[Equanimity (talk)]] (2)</span> 
+[[Mind]] | 21 | <span class="counts">[[Equanimity in Compassion]] (4) · [[Samadhi in Metta Practice]] (4) · [[The Place of Samadhi in Metta Practice]] (4) · [[Equanimity (talk)]] (2)</span> 
 [[Samadhi]] | 17 | <span class="counts">[[Samadhi in Metta Practice]] (5) · [[The Place of Samadhi in Metta Practice]] (5) · [[The Birth of a Bodhisattva]] (2) · [[What is Insight]] (2)</span> 
 [[Equanimity]] | 16 | <span class="counts">[[Equanimity in Compassion]] (9) · [[Equanimity (talk)]] (5) · [[Compassion (talk)]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
 [[Metta]] | 11 | <span class="counts">[[Equanimity in Compassion]] (3) · [[From Insight to Love]] (2) · [[Samadhi in Metta Practice]] (2) · [[Equanimity (talk)]] (1)</span> 

@@ -7,6 +7,7 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 1]] | 7 | [[2017 Eros Unfettered]]
 [[Questioning Awakening]] | 7 | [[2014 November Solitary - Questioning Awakening]]
 [[Daimon, Refracted]] | 4 | [[2019 Four Circles, Four Parables of Stone and Light]]
+[[An Introduction to the Jhanas]] | 1 | [[2019 Practising the Jhanas]]
 [[The Way of Non-Clinging Part 3]] | 1 | [[2017 Eros Unfettered]]
 [[Using Insight to Deepen Love and Compassion]] | 1 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Practice of Compassion]] | 1 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
@@ -31,13 +32,13 @@ term | count | talks
 [[Divinity]] | 9 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Daimon, Refracted]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
 [[Imaginal]] | 9 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Daimon, Refracted]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2)</span> 
 [[Perception]] | 8 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Daimon, Refracted]] (1) · [[Questioning Awakening]] (1)</span> 
+[[Eros]] | 6 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[An Introduction to the Jhanas]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Soul]] | 6 | <span class="counts">[[Daimon, Refracted]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
 [[The Self]] | 6 | <span class="counts">[[Daimon, Refracted]] (4) · [[Questioning Awakening]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 [[Dharma]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Daimon, Refracted]] (1) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
-[[Eros]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
+[[Love]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[An Introduction to the Jhanas]] (1) · [[The Practice of Compassion]] (1)</span> 
 [[Ways of looking]] | 5 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Daimon, Refracted]] (1) · [[Questioning Awakening]] (1)</span> 
 [[Awareness]] | 4 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[The Practice of Compassion]] (1)</span> 
-[[Conceptual framework]] | 4 | <span class="counts">[[Questioning Awakening]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[The Way of Non-Clinging Part 3]] (1)</span> 
 
 ### Quotes
 **[[Questioning Awakening]]**
@@ -47,5 +48,9 @@ term | count | talks
 **[[Dilemmas and Delineations - How did we get here Part 3]]**
 <span class="counts">[[2017 Eros Unfettered]]</span>
 > [S]omething of the image, and something particularly of the _divinity_ of the image, starts to pervade my sense of the cosmos that I feel myself to be part of. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#17 Cosmopoesis|(17) Cosmopoesis]]_</span>
+
+**[[An Introduction to the Jhanas]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> [T]he _jhānas_ - they're almost like dimensions of being, if you like. They're beautiful, amazing dimensions of being, treasures, treasure realms, enchanted realms. And they're there, and they're available for us. And this becomes a part of one's life, and a part of one's sense of what existence _is_ and what the cosmos includes. &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#Jhanas are amazing dimensions of being already there|Jhanas are amazing dimensions of being, already there]]_</span>
 
 

@@ -8,7 +8,7 @@ talk | count | series
 [[Equanimity in Compassion]] | 8 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Birth of a Bodhisattva]] | 6 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Orienting to This Jhana Retreat]] | 4 | [[2019 Practising the Jhanas]]
-[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] | 1 | [[2019 Practising the Jhanas]]
+[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] | 1 | [[2019 Practising the Jhanas]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -32,10 +32,10 @@ term | count | talks
 [[Compassion]] | 5 | <span class="counts">[[Equanimity (talk)]] (2) · [[The Birth of a Bodhisattva]] (2) · [[Equanimity in Compassion]] (1)</span> 
 [[Equanimity]] | 5 | <span class="counts">[[The Birth of a Bodhisattva]] (3) · [[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
 [[Wonder]] | 5 | <span class="counts">[[Equanimity (talk)]] (2) · [[Equanimity in Compassion]] (2) · [[Joy (talk)]] (1)</span> 
-[[Cultivation]] | 4 | <span class="counts">[[Joy (talk)]] (2) · [[Equanimity in Compassion]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Cultivation]] | 4 | <span class="counts">[[Joy (talk)]] (2) · [[Equanimity in Compassion]] (1) · [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (1)</span> 
 [[Metta]] | 4 | <span class="counts">[[Equanimity (talk)]] (2) · [[Equanimity in Compassion]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
 [[Samadhi]] | 4 | <span class="counts">[[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1) · [[Joy (talk)]] (1) · [[The Birth of a Bodhisattva]] (1)</span> 
-[[Appreciation]] | 2 | <span class="counts">[[Joy (talk)]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Appreciation]] | 2 | <span class="counts">[[Joy (talk)]] (1) · [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (1)</span> 
 [[Beauty]] | 2 | <span class="counts">[[Equanimity in Compassion]] (1) · [[Joy (talk)]] (1)</span> 
 
 ### Quotes

@@ -31,7 +31,7 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Soul]] | 54 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (14) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (9) · [[Daimon, Refracted]] (7) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (7) · [[Dilemmas and Delineations - How did we get here Part 1]] (5) · [[The Way of Non-Clinging Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2)</span> 
+[[Soul]] | 55 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (14) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (9) · [[Daimon, Refracted]] (7) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (7) · [[Dilemmas and Delineations - How did we get here Part 1]] (5) · [[The Way of Non-Clinging Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2)</span> 
 [[Imaginal]] | 41 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (14) · [[Daimon, Refracted]] (7) · [[Dilemmas and Delineations - How did we get here Part 2]] (5) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
 [[Image]] | 35 | <span class="counts">[[Daimon, Refracted]] (8) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (8) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (6) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2)</span> 
 [[Eros]] | 29 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (7) · [[Dilemmas and Delineations - How did we get here Part 2]] (7) · [[Dilemmas and Delineations - How did we get here Part 4]] (6) · [[The Way of Non-Clinging Part 3]] (3) · [[Daimon, Refracted]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
@@ -80,6 +80,10 @@ term | count | talks
 **[[Orienting to This Jhana Retreat]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>
 > You need a fantasy of yourself as a practitioner - you know, a juicy, soulmaking, beautiful image fantasy of yourself, something that's operating in the background, a fantasy of the tradition. &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#You need a fantasy of the retreat|You need a fantasy of the retreat]]_</span>
+
+**[[An Introduction to the Jhanas]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> [S]ensitivity, subtle attunement, refinement - you see, those same kind of developments are actually part of _jhāna_, emptiness, soulmaking, emotional work, healing, and relational stuff. There's something very integrated here. &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#Jhana practice can fit very naturally into other practices|Jhana practice can fit very naturally into other practices]]_</span>
 
 **[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]**
 <span class="counts">[[2020 Vajra Music]]</span>

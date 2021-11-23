@@ -41,7 +41,7 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Eros]] | 43 | <span class="counts">[[The Way of Non-Clinging Part 3]] (12) · [[Dilemmas and Delineations - How did we get here Part 1]] (11) · [[Daimon, Refracted]] (7) · [[Dilemmas and Delineations - How did we get here Part 2]] (5) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 4]] (2)</span> 
+[[Eros]] | 44 | <span class="counts">[[The Way of Non-Clinging Part 3]] (12) · [[Dilemmas and Delineations - How did we get here Part 1]] (11) · [[Daimon, Refracted]] (7) · [[Dilemmas and Delineations - How did we get here Part 2]] (5) · [[Dilemmas and Delineations - How did we get here Part 3]] (4) · [[Dilemmas and Delineations - How did we get here Part 4]] (2)</span> 
 [[Craving]] | 33 | <span class="counts">[[The Way of Non-Clinging Part 3]] (13) · [[The Way of Non-Clinging Part 1]] (10) · [[Dilemmas and Delineations - How did we get here Part 1]] (4) · [[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
 [[Clinging]] | 27 | <span class="counts">[[The Way of Non-Clinging Part 3]] (13) · [[The Way of Non-Clinging Part 1]] (11) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
 [[Dharma]] | 24 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (11) · [[The Way of Non-Clinging Part 3]] (8) · [[The Way of Non-Clinging Part 1]] (4) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
@@ -89,8 +89,8 @@ term | count | talks
 
 > [F]rustration also has this heat element, and it's very close to the desire and the eros. &nbsp;&nbsp;<span class="counts">_[[Daimon, Refracted#3 Contact the eros that's there|(3) Contact the eros that's there]]_</span>
 
-**[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]**
+**[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>
-> There's a directionality and a desire there. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#Samadhi practice is coaxing the energy body into something nice|Samadhi practice is coaxing the energy body into something nice]]_</span>
+> There's a directionality and a desire there. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)#Samadhi practice is coaxing the energy body into something nice|Samadhi practice is coaxing the energy body into something nice]]_</span>
 
 

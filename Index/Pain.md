@@ -20,7 +20,7 @@ description | count | talk
 [[Equanimity (talk)#Pain and pleasure are dependent on my reaction to it - I am making things with my reaction\|Pain and pleasure are dependent on my reaction to it - I am making things with my reaction]] | 13 | [[Equanimity (talk)]]
 [[Compassion Part Two - Compassion for Ourselves#Different from insight practice in compassion practice one is more interest in what is around the pain not in the center of it\|Different from insight practice, in compassion practice one is more interest in what is around the pain, not in the center of it]] | 6 | [[Compassion Part Two - Compassion for Ourselves]]
 [[A Hidden Treasure - The Relationship with the Hindrances#With the hindrances around there's often not enough heart\|With the hindrances around there's often not enough heart]] | 3 | [[A Hidden Treasure - The Relationship with the Hindrances]]
-[[Counting Within the Breath - Guided Meditation#You can't start with working with pain\|You can't start with working with pain]] | 3 | [[Counting Within the Breath - Guided Meditation]]
+[[Counting Within the Breath (Guided Meditation)#You can't start with working with pain\|You can't start with working with pain]] | 3 | [[Counting Within the Breath (Guided Meditation)]]
 [[Dilemmas and Delineations - How did we get here Part 1#The contemplative painfully longs for awakening\|The contemplative painfully longs for awakening]] | 3 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[Guided Meditation on Gratitude and Compassion#Compassion to benefactor\|Compassion to benefactor]] | 3 | [[Guided Meditation on Gratitude and Compassion]]
 [[Exploring the World of Loving Kindness#Embrace pain lovingly\|Embrace pain lovingly]] | 3 | [[Exploring the World of Loving Kindness]]
@@ -33,14 +33,14 @@ term | count | talks
 -|-|-
 [[Dukkha]] | 24 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (7) · [[The Practice of Compassion]] (3) · [[What is Insight]] (3) · [[The Way of Non-Clinging Part 1]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
 [[Compassion]] | 16 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (5) · [[The Practice of Compassion]] (3) · [[The Birth of a Bodhisattva]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Mind]] | 13 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[Equanimity (talk)]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[An Introduction to the Jhanas]] (1)</span> 
 [[Metta]] | 12 | <span class="counts">[[Exploring the World of Loving Kindness]] (2) · [[Expressions of Metta]] (2) · [[Guided Meditation on Gratitude and Compassion]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
-[[Mind]] | 12 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[Equanimity (talk)]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Guided Meditation on Gratitude and Compassion]] (1)</span> 
+[[Awareness]] | 11 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (5) · [[An Introduction to the Jhanas]] (2) · [[Equanimity (talk)]] (1) · [[Love and Emptiness]] (1)</span> 
+[[Experience]] | 11 | <span class="counts">[[Equanimity (talk)]] (3) · [[The Way of Non-Clinging Part 2]] (2) · [[An Introduction to the Jhanas]] (1) · [[Dilemmas and Delineations - How did we get here Part 1]] (1)</span> 
 [[Aversion]] | 10 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[What is Insight]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Equanimity (talk)]] (1)</span> 
 [[Craving]] | 10 | <span class="counts">[[The Way of Non-Clinging Part 1]] (5) · [[What is Insight]] (2) · [[Equanimity (talk)]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
-[[Experience]] | 10 | <span class="counts">[[Equanimity (talk)]] (3) · [[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
-[[Awareness]] | 9 | <span class="counts">[[Guided Meditation on Gratitude and Compassion]] (5) · [[Equanimity (talk)]] (1) · [[Love and Emptiness]] (1) · [[The Practice of Compassion]] (1)</span> 
-[[Attention]] | 8 | <span class="counts">[[Equanimity in Compassion]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1)</span> 
-[[Embodiment]] | 8 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[Compassion (talk)]] (1) · [[Equanimity (talk)]] (1) · [[Equanimity in Compassion]] (1)</span> 
+[[Embodiment]] | 10 | <span class="counts">[[The Way of Non-Clinging Part 1]] (3) · [[An Introduction to the Jhanas]] (2) · [[Compassion (talk)]] (1) · [[Equanimity (talk)]] (1)</span> 
+[[Insight]] | 9 | <span class="counts">[[Equanimity (talk)]] (2) · [[An Introduction to the Jhanas]] (1) · [[Compassion Part Two - Compassion for Ourselves]] (1) · [[Equanimity in Compassion]] (1)</span> 
 
 ### Quotes
 **[[The Practice of Compassion]]**

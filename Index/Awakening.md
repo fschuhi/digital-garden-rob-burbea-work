@@ -9,8 +9,8 @@ talk | count | series
 [[Love and Emptiness]] | 10 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] | 6 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 6 | [[2020 Vajra Music]]
+[[An Introduction to the Jhanas]] | 6 | [[2019 Practising the Jhanas]]
 [[The Way of Non-Clinging Part 2]] | 5 | [[2017 Eros Unfettered]]
-[[Love and the Emptiness of Things]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[The Place of Samadhi in Metta Practice]] | 5 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[From Insight to Love]] | 5 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 
@@ -20,7 +20,7 @@ description | count | talk
 [[Questioning Awakening#There has been a shift in the concept of awakening as 1 trend it is referred much less nowadays\|There has been a shift in the concept of awakening, as (1. trend) it is referred much less nowadays]] | 7 | [[Questioning Awakening]]
 [[Dilemmas and Delineations - How did we get here Part 1#High bar in Theravada; for Rob it's an endlessly expanding notion of awakening\|High bar in Theravada; for Rob it's an endlessly expanding notion of awakening]] | 6 | [[Dilemmas and Delineations - How did we get here Part 1]]
 [[The Way of Non-Clinging Part 1#Fetters and arahantship\|Fetters and arahantship]] | 6 | [[The Way of Non-Clinging Part 1]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Exercise 5 2 _The Bhumisparsa Mudra_\|🟡 Excercise 5.2: _The Bhumisparsa Mudra_]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#🟡 Exercise 5 2 _The Bhumisparsa Mudra_\|🟡 Exercise 5.2: _The Bhumisparsa Mudra_]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[The Way of Non-Clinging Part 1#"Don't try to repeat experiences"\|"Don't try to repeat experiences"]] | 4 | [[The Way of Non-Clinging Part 1]]
 [[Questioning Awakening#Are we free to inquire into different kinds of freedom\|Are we free to inquire into different kinds of freedom?]] | 4 | [[Questioning Awakening]]
 [[The Place of Samadhi in Metta Practice#Three major fruits from this retreat\|Three major fruits from this retreat]] | 4 | [[The Place of Samadhi in Metta Practice]]
@@ -32,15 +32,15 @@ description | count | talk
 term | count | talks
 -|-|-
 [[Dharma]] | 22 | <span class="counts">[[Questioning Awakening]] (6) · [[Dilemmas and Delineations - How did we get here Part 1]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (3) · [[The Way of Non-Clinging Part 3]] (3) · [[The Way of Non-Clinging Part 1]] (2)</span> 
-[[Buddha]] | 18 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[The Way of Non-Clinging Part 2]] (2) · [[What is Insight]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
-[[Insight]] | 14 | <span class="counts">[[Love and Emptiness]] (3) · [[What is Insight]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[From Insight to Love]] (1)</span> 
-[[Emptiness]] | 13 | <span class="counts">[[Love and Emptiness]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Love and the Emptiness of Things]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Buddha]] | 19 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[The Way of Non-Clinging Part 2]] (2) · [[What is Insight]] (2) · [[An Introduction to the Jhanas]] (1)</span> 
+[[Insight]] | 18 | <span class="counts">[[An Introduction to the Jhanas]] (4) · [[Love and Emptiness]] (3) · [[What is Insight]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
+[[Emptiness]] | 15 | <span class="counts">[[Love and Emptiness]] (3) · [[An Introduction to the Jhanas]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[Love and the Emptiness of Things]] (1)</span> 
 [[Desire]] | 12 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (7) · [[The Way of Non-Clinging Part 1]] (2) · [[The Way of Non-Clinging Part 3]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
 [[Retreat]] | 12 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[The Place of Samadhi in Metta Practice]] (2) · [[Dilemmas and Delineations - How did we get here Part 2]] (1) · [[From Insight to Love]] (1)</span> 
+[[Meditation]] | 11 | <span class="counts">[[Questioning Awakening]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[An Introduction to the Jhanas]] (1)</span> 
 [[Fantasy]] | 10 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (4) · [[The Way of Non-Clinging Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Questioning Awakening]] (1)</span> 
-[[Meditation]] | 10 | <span class="counts">[[Questioning Awakening]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[Love and Emptiness]] (1)</span> 
-[[Metta]] | 9 | <span class="counts">[[From Insight to Love]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[Love and Emptiness]] (1) · [[Love and the Emptiness of Things]] (1)</span> 
-[[Passion]] | 9 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (5) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1) · [[The Way of Non-Clinging Part 1]] (1)</span> 
+[[Jhanas]] | 10 | <span class="counts">[[An Introduction to the Jhanas]] (4) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[From Insight to Love]] (1)</span> 
+[[Metta]] | 10 | <span class="counts">[[From Insight to Love]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[An Introduction to the Jhanas]] (1) · [[Love and Emptiness]] (1)</span> 
 
 ### Quotes
 **[[Questioning Awakening]]**
@@ -66,5 +66,11 @@ term | count | talks
 **[[Orienting to This Jhana Retreat]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>
 > What it means is, these days, liberation needs to include a certain depth and breadth, and capacity, and sophistication, and sensitivity with regard to what we might call psychological awareness of self and other. &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#Emotional discernment and emotional capacity in awakening and healing|Emotional discernment and emotional capacity in awakening and healing]]_</span>
+
+**[[An Introduction to the Jhanas]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> We need the combination if we're really talking about big, wide, deep liberation, we need the combination of insight and _samādhi_... &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#Jhanas alone will not liberate totally|Jhanas alone will not liberate totally]]_</span>
+
+> [I]f I want a liberation that actually does have sensitivity in it, and attunement, and relational skill, and psychological awareness, and want to understand about emptiness as something very different, to do with ways of looking and fabrication, then I'm going to have to think about _jhānas_ in a very different way. &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#There's a relationship between the way the goal is seen and what I emphasize in jhana practice|There's a relationship between the way the goal is seen and what I emphasize in jhana practice]]_</span>
 
 

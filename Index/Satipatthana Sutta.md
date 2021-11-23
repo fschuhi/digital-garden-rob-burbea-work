@@ -10,7 +10,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Exercise 1 can be done in 4 postures\|Excercise 1 can be done in 4 postures]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#Exercise 1 can be done in 4 postures\|Exercise 1 can be done in 4 postures]] | 1 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[A Hidden Treasure - The Relationship with the Hindrances#In jhana practice we want antidotes to work against the hindrances\|In jhana practice, we want antidotes to work against the hindrances]] | 1 | [[A Hidden Treasure - The Relationship with the Hindrances]]
 [[What is Insight#Satipatthana Sutta\|Satipatthana Sutta]] | 1 | [[What is Insight]]
 

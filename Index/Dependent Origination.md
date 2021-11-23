@@ -83,4 +83,8 @@ term | count | talks
 
 > [T]hese teachings are integrated into the usual Dharma teachings about craving and letting go and releasing _dukkha_, and the much deeper teachings about dependent arising and emptiness, and that forms a non-realist basis. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 1#The different ways of looking form a non-realist basis for explanations and explorations|The different ways of looking form a non-realist basis for explanations and explorations]]_</span>
 
+**[[Breathing with the Energy Body (Guided Meditation)]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> This ideal poise of the _citta_ manifesting, expressing in the posture. The _citta_ will shape the posture. The posture, to a certain extent, at least, will shape the _citta_ - mutual dependent arising. &nbsp;&nbsp;<span class="counts">_[[Breathing with the Energy Body (Guided Meditation)#Sensing the uprightness resolve openness expressed in the posture|Sensing the uprightness, resolve, openness expressed in the posture]]_</span>
+
 

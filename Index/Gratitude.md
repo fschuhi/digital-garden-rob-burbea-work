@@ -19,7 +19,7 @@ description | count | talk
 [[Samadhi in Metta Practice#Gratitude\|Gratitude]] | 3 | [[Samadhi in Metta Practice]]
 [[Love and the Emptiness of Things#Just do it\|Just do it]] | 1 | [[Love and the Emptiness of Things]]
 [[The Place of Samadhi in Metta Practice#Keep that willingness experimentation nurturing around\|Keep that willingness, experimentation, nurturing around]] | 1 | [[The Place of Samadhi in Metta Practice]]
-[[Joy (talk)#Exercise 10 things you are grateful for\|Excercise: 10 things you are grateful for]] | 1 | [[Joy (talk)]]
+[[Joy (talk)#Exercise 10 things you are grateful for\|Exercise: 10 things you are grateful for]] | 1 | [[Joy (talk)]]
 [[Joy (talk)#In the practice both is important working with the difficult and inclining the mind to the beautiful\|In the practice both is important: working with the difficult and inclining the mind to the beautiful]] | 1 | [[Joy (talk)]]
 [[Samadhi in Metta Practice#Appreciation\|Appreciation]] | 1 | [[Samadhi in Metta Practice]]
 
@@ -40,7 +40,7 @@ term | count | talks
 ### Quotes
 **[[Joy (talk)]]**
 <span class="counts">[[2007 New Years Retreat Insight Meditation]]</span>
-> Huge is the power of gratitude. &nbsp;&nbsp;<span class="counts">_[[Joy (talk)#Exercise 10 things you are grateful for|Excercise: 10 things you are grateful for]]_</span>
+> Huge is the power of gratitude. &nbsp;&nbsp;<span class="counts">_[[Joy (talk)#Exercise 10 things you are grateful for|Exercise: 10 things you are grateful for]]_</span>
 
 **[[The Place of Samadhi in Metta Practice]]**
 <span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>

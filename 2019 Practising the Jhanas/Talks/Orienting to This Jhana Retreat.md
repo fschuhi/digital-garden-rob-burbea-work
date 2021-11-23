@@ -5,7 +5,7 @@ obsidianUIMode: preview
 ---
 #Talk
 
-[[Counting Within the Breath - Guided Meditation|Counting Within the Breath - Guided Meditation 🡄]] | [[2019 Practising the Jhanas|🡅]] | [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation|🡆 The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]
+[[Counting Within the Breath (Guided Meditation)|Counting Within the Breath (Guided Meditation) 🡄]] | [[2019 Practising the Jhanas|🡅]] | [[An Introduction to the Jhanas|🡆 An Introduction to the Jhanas]]
 
 Series: [[2019 Practising the Jhanas]]
 Transcript: [[1217 Orienting to This Jhana Retreat]]
@@ -14,7 +14,7 @@ Transcript PDF: [[2019_1217 Orienting to This Jhana Retreat.pdf]]
 ![[20191217-Rob_Burbea-GAIA-orienting_to_this_jhana_retreat-60865.mp3]]
 
 ## Index
-<span class="counts">_[[Jhanas]] (75) · [[Retreat]] (42) · [[Happiness]] (25) · [[Embodiment]] (21) · [[Emotions]] (19) · [[Piti]] (17) · [[Mind]] (15) · [[Hindrances]] (14) · [[Insight]] (14) · [[Samadhi]] (12) · [[Beauty]] (10) · [[Dharma]] (10) · [[Gaia House]] (10) · [[Grief]] (10) · [[Cultivation]] (9) · [[Fantasy]] (9) · [[Appreciation]] (8) · [[Breath]] (8) · [[Buddha]] (8) · [[Devotion]] (8) · [[Meditation]] (8) · [[Pleasantness]] (7) · [[Soul]] (7) · [[Inertia]] (6) · [[Nature]] (5) · [[Attention]] (4) · [[Awareness]] (4) · [[Energy]] (4) · [[Equanimity]] (4) · [[Love]] (4) · [[Metta]] (4) · [[Mudita]] (4) · [[Soulmaking]] (4) · [[Conceptual framework]] (3) · [[Constriction]] (3) · [[Gratitude]] (3) · [[Image]] (3) · [[Spaciousness]] (3) · [[Stories]] (3) · [[The Self]] (3) · [[Ways of looking]] (3) · [[Awakening]] (2) · [[Consciousness]] (2) · [[Death]] (2) · [[Experience]] (2) · [[Healing]] (2) · [[Passion]] (2) · [[Personhood]] (2) · [[Sexuality]] (2) · [[Vessel]] (2) · [[Activism]] · [[Anger]] · [[Blessing]] · [[Clinging]] · [[Contraction]] · [[Dominant culture]] · [[Energy body]] · [[Fabrication]] · [[Freedom]] · [[Habit]] · [[Hell]] · [[Imaginal]] · [[Juiciness]] · [[Letting go]] · [[Perception]] · [[Precepts]] · [[Relationships]] · [[Rupa]] · [[Seeing That Frees]] · [[Sutta]]_</span>
+<span class="counts">_[[Jhanas]] (75) · [[Retreat]] (42) · [[Happiness]] (25) · [[Embodiment]] (21) · [[Emotions]] (19) · [[Piti]] (17) · [[Mind]] (15) · [[Hindrances]] (14) · [[Insight]] (14) · [[Samadhi]] (12) · [[Beauty]] (10) · [[Dharma]] (10) · [[Gaia House]] (10) · [[Grief]] (10) · [[Cultivation]] (9) · [[Fantasy]] (9) · [[Appreciation]] (8) · [[Breath]] (8) · [[Buddha]] (8) · [[Devotion]] (8) · [[Meditation]] (8) · [[Pleasantness]] (7) · [[Soul]] (7) · [[Inertia]] (6) · [[Nature]] (5) · [[Attention]] (4) · [[Awareness]] (4) · [[Energy]] (4) · [[Equanimity]] (4) · [[Love]] (4) · [[Metta]] (4) · [[Mudita]] (4) · [[Soulmaking]] (4) · [[Conceptual framework]] (3) · [[Constriction]] (3) · [[Gratitude]] (3) · [[Image]] (3) · [[Spaciousness]] (3) · [[Stories]] (3) · [[The Self]] (3) · [[Ways of looking]] (3) · [[Awakening]] (2) · [[Consciousness]] (2) · [[Death]] (2) · [[Experience]] (2) · [[Healing]] (2) · [[Passion]] (2) · [[Personhood]] (2) · [[Sexuality]] (2) · [[Vessel]] (2) · [[Activism]] · [[Anger]] · [[Blessing]] · [[Clinging]] · [[Contraction]] · [[Dominant culture]] · [[Energy body]] · [[Fabrication]] · [[Freedom]] · [[Habit]] · [[Hell]] · [[Imaginal]] · [[Juiciness]] · [[Letting go]] · [[Perception]] · [[Precepts]] · [[Relationships]] · [[Rupa]] · [[Seeing That Frees]] · [[Sutta]] · [[Thanissaro Bhikkhu]]_</span>
 <br/>
 
 ## Paragraphs
@@ -58,7 +58,7 @@ Transcript PDF: [[2019_1217 Orienting to This Jhana Retreat.pdf]]
 
 ---
 ##### Have an attitude and openness, also towards noise (Gaia House renovation)
-<span class="counts">**[[1217 Orienting to This Jhana Retreat#^2-2|2-2]]**: _[[Retreat]] (4) · [[Mind]] · [[Gaia House]] (2) · [[Jhanas]] (2) · [[Samadhi]]_</span>
+<span class="counts">**[[1217 Orienting to This Jhana Retreat#^2-2|2-2]]**: _[[Retreat]] (4) · [[Mind]] · [[Gaia House]] (2) · [[Jhanas]] (2) · [[Samadhi]] · [[Thanissaro Bhikkhu]]_</span>
 
 ---
 ##### Buddha: "Jhana depends on happiness", not on external silence

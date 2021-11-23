@@ -81,11 +81,11 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Singularity of self Aspect 3\|Singularity of self (Aspect 3)]] | 7 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Whats the logos of "centring"\|Whats the logos of "centring"?]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#Centre also relates to the centre of a circumscribed area Aspect 2\|Centre also relates to the centre of a circumscribed area (Aspect 2)]] | 6 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Exercise 2 1 Feel where the sound is coming from against energy body background\|🟡 Excercise 2.1: Feel where the sound is coming from, against energy body background]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Exercise 2 1 Feel where the sound is coming from against energy body background\|🟡 Exercise 2.1: Feel where the sound is coming from, against energy body background]] | 5 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 [[Using Insight to Deepen Love and Compassion#f feel energetically the opening and closing of the heart centre\|f) feel energetically the opening and closing of the heart centre]] | 5 | [[Using Insight to Deepen Love and Compassion]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#"I've lost my centre" "I need to regain my centre"\|"I've lost my centre", "I need to regain my centre"]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3#If we do not aim for Aspect 4 we might see the face of the divine Aspect 5\|If we do not aim for Aspect 4 we might see the face of the divine (Aspect 5)]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 3]]
-[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Exercise 2 2 experiment with different centres of emanation\|🟡 Excercise 2.2: experiment with different centres of emanation]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
+[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1#🟡 Exercise 2 2 experiment with different centres of emanation\|🟡 Exercise 2.2: experiment with different centres of emanation]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]
 
 ### Terms with 20+ co-occurrences
 term | count | talks

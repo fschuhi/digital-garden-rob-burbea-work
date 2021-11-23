@@ -9,7 +9,7 @@ talk | count | series
 [[Joy (talk)]] | 4 | [[2007 New Years Retreat Insight Meditation]]
 [[Expressions of Metta]] | 4 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
 [[Samadhi in Metta Practice]] | 2 | [[2007 Lovingkindness and Compassion As a Path to Awakening]]
-[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] | 1 | [[2019 Practising the Jhanas]]
+[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] | 1 | [[2019 Practising the Jhanas]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -33,11 +33,11 @@ term | count | talks
 [[Dharma]] | 3 | <span class="counts">[[Joy (talk)]] (1) · [[Orienting to This Jhana Retreat]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
 [[Gaia House]] | 3 | <span class="counts">[[Orienting to This Jhana Retreat]] (2) · [[Samadhi in Metta Practice]] (1)</span> 
 [[Gratitude]] | 3 | <span class="counts">[[Joy (talk)]] (1) · [[Samadhi in Metta Practice]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
-[[Mind]] | 3 | <span class="counts">[[Joy (talk)]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
-[[Cultivation]] | 2 | <span class="counts">[[Joy (talk)]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Mind]] | 3 | <span class="counts">[[Joy (talk)]] (1) · [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (1) · [[The Place of Samadhi in Metta Practice]] (1)</span> 
+[[Cultivation]] | 2 | <span class="counts">[[Joy (talk)]] (1) · [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (1)</span> 
 [[Love]] | 2 | <span class="counts">[[Expressions of Metta]] (1) · [[Joy (talk)]] (1)</span> 
 [[Metta]] | 2 | <span class="counts">[[Expressions of Metta]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
-[[Mudita]] | 2 | <span class="counts">[[Joy (talk)]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
+[[Mudita]] | 2 | <span class="counts">[[Joy (talk)]] (1) · [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (1)</span> 
 
 ### Quotes
 **[[Joy (talk)]]**

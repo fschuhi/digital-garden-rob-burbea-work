@@ -8,11 +8,11 @@ talk | count | series
 [[Dilemmas and Delineations - How did we get here Part 3]] | 8 | [[2017 Eros Unfettered]]
 [[The Way of Non-Clinging Part 3]] | 8 | [[2017 Eros Unfettered]]
 [[Joy (talk)]] | 8 | [[2007 New Years Retreat Insight Meditation]]
+[[An Introduction to the Jhanas]] | 7 | [[2019 Practising the Jhanas]]
 [[Dilemmas and Delineations - How did we get here Part 1]] | 7 | [[2017 Eros Unfettered]]
 [[Love and the Emptiness of Things]] | 6 | [[2008 Lovingkindness and Compassion As a Path to Awakening]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 5 | [[2020 Vajra Music]]
 [[The Way of Non-Clinging Part 2]] | 5 | [[2017 Eros Unfettered]]
-[[Equanimity (talk)]] | 4 | [[2006 New Year's Retreat]]
 
 ### Paragraphs with 4+ mentions
 description | count | talk
@@ -21,10 +21,10 @@ description | count | talk
 [[The Way of Non-Clinging Part 3#Wrapped up in the movement of eros is beauty\|Wrapped up in the movement of eros is beauty]] | 4 | [[The Way of Non-Clinging Part 3]]
 [[Equanimity (talk)#There is nothing really to be equanimous about\|There is nothing really to be equanimous about]] | 4 | [[Equanimity (talk)]]
 [[A Hidden Treasure - The Relationship with the Hindrances#It's ok to have the hindrance win the battle and just go for a walk\|It's ok to have the hindrance win the battle and just go for a walk]] | 3 | [[A Hidden Treasure - The Relationship with the Hindrances]]
+[[An Introduction to the Jhanas#Jhanas there's something of magic here\|Jhanas: there's something of magic here]] | 3 | [[An Introduction to the Jhanas]]
 [[Orienting to This Jhana Retreat#3 Beauty\|(3) Beauty]] | 3 | [[Orienting to This Jhana Retreat]]
 [[Daimon, Refracted#Sometimes it's easier to have that sense of beauty and eros when it's externalized like that\|Sometimes it's easier to have that sense of beauty and eros when it's externalized like that]] | 3 | [[Daimon, Refracted]]
 [[Daimon, Refracted#Examples from interviews\|Examples from interviews]] | 3 | [[Daimon, Refracted]]
-[[Joy (talk)#Different ways spiritual joy expresses itself\|Different ways spiritual joy expresses itself]] | 2 | [[Joy (talk)]]
 [[Equanimity in Compassion#There is wonder beauty love and juiciness in equanimity practice\|There is wonder, beauty, love and juiciness in equanimity practice]] | 2 | [[Equanimity in Compassion]]
 [[Samadhi in Metta Practice#Nature\|Nature]] | 2 | [[Samadhi in Metta Practice]]
 
@@ -34,13 +34,13 @@ term | count | talks
 [[Dukkha]] | 17 | <span class="counts">[[The Way of Non-Clinging Part 2]] (3) · [[Guided Meditation on Gratitude and Compassion]] (2) · [[Questioning Awakening]] (2) · [[The Way of Non-Clinging Part 3]] (2)</span> 
 [[Love]] | 17 | <span class="counts">[[Daimon, Refracted]] (2) · [[Joy (talk)]] (2) · [[Love and the Emptiness of Things]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[Questioning Awakening]] (2)</span> 
 [[Soul]] | 17 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Daimon, Refracted]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Experience]] | 15 | <span class="counts">[[An Introduction to the Jhanas]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Way of Non-Clinging Part 2]] (2)</span> 
+[[Insight]] | 14 | <span class="counts">[[An Introduction to the Jhanas]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Questioning Awakening]] (2) · [[From Insight to Love]] (1)</span> 
 [[Dimensionality]] | 13 | <span class="counts">[[Daimon, Refracted]] (4) · [[The Way of Non-Clinging Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
-[[Experience]] | 13 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
 [[Image]] | 13 | <span class="counts">[[Daimon, Refracted]] (3) · [[Orienting to This Jhana Retreat]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (2)</span> 
 [[Imaginal]] | 13 | <span class="counts">[[Daimon, Refracted]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2)</span> 
+[[Perception]] | 13 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Dilemmas and Delineations - How did we get here Part 4]] (3) · [[Love and the Emptiness of Things]] (3) · [[An Introduction to the Jhanas]] (2)</span> 
 [[Retreat]] | 13 | <span class="counts">[[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[Love and the Emptiness of Things]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
-[[Eros]] | 12 | <span class="counts">[[Daimon, Refracted]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (3) · [[The Way of Non-Clinging Part 3]] (3) · [[Dilemmas and Delineations - How did we get here Part 2]] (1)</span> 
-[[Desire]] | 11 | <span class="counts">[[The Way of Non-Clinging Part 3]] (4) · [[Daimon, Refracted]] (3) · [[Dilemmas and Delineations - How did we get here Part 1]] (2) · [[Dilemmas and Delineations - How did we get here Part 4]] (1)</span> 
 
 ### Quotes
 **[[Equanimity in Compassion]]**
@@ -95,15 +95,25 @@ term | count | talks
 
 > So sometimes connecting with an image and recognizing, feeling, opening to its love for us, it's so tailored and so tailored to our being and our particularities, and so attuned to us and empowered by the dimensionality and the divinity and the beauty, etc., that, in a way, that kind of love, the love that images have for us, that profound and almost mysterious, mysteriously attuned love, it can heal the inner critic and that whole painful constellation almost more powerfully, I think, than anything else. &nbsp;&nbsp;<span class="counts">_[[Daimon, Refracted#The love images have for us can heal the inner critic|The love images have for us can heal the inner critic]]_</span>
 
-**[[Counting Within the Breath - Guided Meditation]]**
+**[[Counting Within the Breath (Guided Meditation)]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>
-> [G]o for a walk out there, off the grounds, with the idea of enjoying yourself, and opening the heart, taking in the beauty, appreciating, opening the senses, etc. &nbsp;&nbsp;<span class="counts">_[[Counting Within the Breath - Guided Meditation#Go for walks|Go for walks]]_</span>
+> [G]o for a walk out there, off the grounds, with the idea of enjoying yourself, and opening the heart, taking in the beauty, appreciating, opening the senses, etc. &nbsp;&nbsp;<span class="counts">_[[Counting Within the Breath (Guided Meditation)#Go for walks|Go for walks]]_</span>
 
 **[[Orienting to This Jhana Retreat]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>
 > The onus is on you to be responsive and sensitive to your practice, and the needs, and the ebbs and flows, and the ups and downs, and "What is needed right now? Do I need to go out and do some walking? Do I need to sit longer with whatever is happening? Do I need to actually go for a walk, and open my mind, and touch the beauty, and be touched by beauty? Do I need a cup of tea?" &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#"Open schedule" means that it's on you to find a working temporal structure|"Open schedule" means that it's on you to find a working temporal structure]]_</span>
 
 > '[F]antasy' as opposed to 'image.' They're almost subliminal. They're just kind of really nourishing and supporting, lubricating our whole sense of what we're doing, giving moisture there, giving beauty and depth. &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#There fantasies operate in the background|There fantasies operate in the background]]_</span>
+
+**[[An Introduction to the Jhanas]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> [I]f there is an extraordinary opening to well-being or different kinds of well-being, if there's a really deep sense of different kinds of beauty, if there's a really profound sense of resource that's coming from that, if the practice of whatever it is you're doing brings, in an integrated way, insight and freedom, and it makes sense as part of the path in an integrated way, then _if_ we need to make definitions and demarcations, that would seem pretty good to call that a _jhāna_, right? &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#A preliminary definition of what the jhana are|A preliminary definition of what the jhana are]]_</span>
+
+> [T]here are resources that come with the practice of the _jhānas_, that really enable, really help us to let go. We say, "Let go, let go, let go, let go." Once I'm this rich in this beauty, once I have these treasures available to me, it becomes much easier to let go. &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#Once I have those treasures available to me it becomes much easier to let go|Once I have those treasures available to me it becomes much easier to let go]]_</span>
+
+> It's something about opening more and more, or to more and more of the beauty, the beauties of existence, inner and outer. &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#Jhanas there's something of magic here|Jhanas: there's something of magic here]]_</span>
+
+> Yes, definitely, we _do_ want to increase and develop our focus and our concentration. But we also, and oftentimes more importantly, are interested in this development of deep, profound resources, of training the perceptions (what does that mean?), the relation of that with emptiness understanding, and the development of all these lovely, lovely capacities and capabilities of attunement, sensitivity, subtlety of awareness, beauty, magic, art. &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#We are interested in the development of deep profound resources|We are interested in the development of deep, profound resources]]_</span>
 
 **[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]**
 <span class="counts">[[2020 Vajra Music]]</span>

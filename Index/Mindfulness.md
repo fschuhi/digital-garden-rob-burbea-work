@@ -34,13 +34,13 @@ term | count | talks
 [[Experience]] | 29 | <span class="counts">[[The Way of Non-Clinging Part 1]] (5) · [[The Way of Non-Clinging Part 2]] (4) · [[Love and Emptiness]] (3) · [[Using Insight to Deepen Love and Compassion]] (3) · [[What is Insight]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[Love and the Emptiness of Things]] (2) · [[Questioning Awakening]] (2)</span> 
 [[Insight]] | 25 | <span class="counts">[[What is Insight]] (6) · [[A Hidden Treasure - The Relationship with the Hindrances]] (3) · [[Love and Emptiness]] (3) · [[Questioning Awakening]] (3) · [[Love and the Emptiness of Things]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
 [[Mind]] | 25 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (4) · [[Love and the Emptiness of Things]] (3) · [[The Way of Non-Clinging Part 1]] (3) · [[A Hidden Treasure - The Relationship with the Hindrances]] (2) · [[From Insight to Love]] (2) · [[Love and Emptiness]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[What is Insight]] (2)</span> 
-[[Attention]] | 21 | <span class="counts">[[The Way of Non-Clinging Part 1]] (6) · [[The Way of Non-Clinging Part 2]] (3) · [[What is Insight]] (3) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Attention]] | 21 | <span class="counts">[[The Way of Non-Clinging Part 1]] (6) · [[The Way of Non-Clinging Part 2]] (3) · [[What is Insight]] (3) · [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
 [[Metta]] | 18 | <span class="counts">[[Love and Emptiness]] (6) · [[Love and the Emptiness of Things]] (3) · [[Using Insight to Deepen Love and Compassion]] (2) · [[From Insight to Love]] (1)</span> 
+[[Buddha]] | 17 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (4) · [[From Insight to Love]] (2) · [[Joy (talk)]] (2) · [[Questioning Awakening]] (2)</span> 
 [[Dharma]] | 17 | <span class="counts">[[Questioning Awakening]] (3) · [[Love and the Emptiness of Things]] (2) · [[The Way of Non-Clinging Part 3]] (2) · [[Using Insight to Deepen Love and Compassion]] (2) · [[What is Insight]] (2)</span> 
-[[Buddha]] | 16 | <span class="counts">[[Using Insight to Deepen Love and Compassion]] (4) · [[From Insight to Love]] (2) · [[Joy (talk)]] (2) · [[Questioning Awakening]] (2)</span> 
+[[Embodiment]] | 16 | <span class="counts">[[An Introduction to the Jhanas]] (2) · [[Equanimity (talk)]] (2) · [[Love and Emptiness]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (2)</span> 
 [[Love]] | 16 | <span class="counts">[[Love and Emptiness]] (3) · [[Love and the Emptiness of Things]] (3) · [[From Insight to Love]] (2) · [[Guided Meditation - Directing Love Towards Dharmas]] (1)</span> 
 [[Meditation]] | 16 | <span class="counts">[[Questioning Awakening]] (4) · [[The Way of Non-Clinging Part 1]] (3) · [[The Place of Samadhi in Metta Practice]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
-[[Embodiment]] | 14 | <span class="counts">[[Equanimity (talk)]] (2) · [[Love and Emptiness]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (2)</span> 
 
 ### Quotes
 **[[Love and Emptiness]]**
@@ -59,7 +59,7 @@ term | count | talks
 
 **[[The Place of Samadhi in Metta Practice]]**
 <span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
-> [M]ake the mindfulness a bit bigger, meaning make the range of the awareness a bit bigger. As I said at least once in the instructions, the Buddha says "sensitive to the whole body." &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#ad 2 tightness|ad 2. tightness]]_</span>
+> [M]ake the mindfulness a bit bigger, meaning make the range of the awareness a bit bigger. As I said at least once in the instructions, the Buddha says "sensitive to the whole body." &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#ad 1 tightness|ad 1. tightness]]_</span>
 
 **[[Using Insight to Deepen Love and Compassion]]**
 <span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
@@ -83,9 +83,9 @@ term | count | talks
 <span class="counts">[[2017 Eros Unfettered]]</span>
 > The doors were presented one after another. The consequences, the avenues, were travelled in a kind of logical or inevitable order - one insight, one opening led to another, etc., all based on what we might call the 'phenomenological approach,' which is how I would base my approach to the Dharma. It's very, very simple, starting with very, very simple practices, including the ideas of mindfulness, but not based on the usual assumptions. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#There is a natural evolution of the material|There is a natural evolution of the material]]_</span>
 
-**[[Counting Within the Breath - Guided Meditation]]**
+**[[Counting Within the Breath (Guided Meditation)]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>
-> [M]oving slowly around enables you to kind of keep that basic, whole-body awareness, that basic mindfulness. &nbsp;&nbsp;<span class="counts">_[[Counting Within the Breath - Guided Meditation#Slow down to retain whole-body awareness|Slow down, to retain whole-body awareness]]_</span>
+> [M]oving slowly around enables you to kind of keep that basic, whole-body awareness, that basic mindfulness. &nbsp;&nbsp;<span class="counts">_[[Counting Within the Breath (Guided Meditation)#Slow down to retain whole-body awareness|Slow down, to retain whole-body awareness]]_</span>
 
 **[[A Hidden Treasure - The Relationship with the Hindrances]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>

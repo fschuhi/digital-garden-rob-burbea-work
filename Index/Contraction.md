@@ -17,7 +17,7 @@ talk | count | series
 ### Paragraphs with 4+ mentions
 description | count | talk
 :- | : - | :-
-[[The Place of Samadhi in Metta Practice#ad 2 tightness\|ad 2. tightness]] | 5 | [[The Place of Samadhi in Metta Practice]]
+[[The Place of Samadhi in Metta Practice#ad 1 tightness\|ad 1. tightness]] | 5 | [[The Place of Samadhi in Metta Practice]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4#Opening up counteracts the contraction that's inherent in self-consciousness\|Opening up counteracts the contraction that's inherent in self-consciousness]] | 4 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]
 [[Samadhi in Metta Practice#Can we be okay with a sense of tightness\|Can we be okay with a sense of tightness?]] | 4 | [[Samadhi in Metta Practice]]
 [[Daimon, Refracted#This is quite a different hermeneutic of what we're doing in our life\|This is quite a different hermeneutic of what we're doing in our life]] | 3 | [[Daimon, Refracted]]
@@ -32,7 +32,7 @@ description | count | talk
 term | count | talks
 -|-|-
 [[Mind]] | 16 | <span class="counts">[[The Way of Non-Clinging Part 1]] (6) · [[Samadhi in Metta Practice]] (3) · [[The Way of Non-Clinging Part 2]] (2) · [[Dilemmas and Delineations - How did we get here Part 3]] (1)</span> 
-[[Embodiment]] | 15 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (3) · [[The Place of Samadhi in Metta Practice]] (3) · [[Samadhi in Metta Practice]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
+[[Embodiment]] | 15 | <span class="counts">[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (3) · [[The Place of Samadhi in Metta Practice]] (3) · [[Samadhi in Metta Practice]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
 [[Dukkha]] | 13 | <span class="counts">[[The Practice of Compassion]] (3) · [[The Way of Non-Clinging Part 2]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (2) · [[The Way of Non-Clinging Part 1]] (2)</span> 
 [[Craving]] | 11 | <span class="counts">[[The Way of Non-Clinging Part 1]] (5) · [[The Way of Non-Clinging Part 2]] (3) · [[Dilemmas and Delineations - How did we get here Part 3]] (1) · [[Samadhi in Metta Practice]] (1)</span> 
 [[Awareness]] | 10 | <span class="counts">[[Samadhi in Metta Practice]] (3) · [[Equanimity in Compassion]] (1) · [[From Insight to Love]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (1)</span> 
@@ -40,7 +40,7 @@ term | count | talks
 [[Metta]] | 9 | <span class="counts">[[The Place of Samadhi in Metta Practice]] (5) · [[Samadhi in Metta Practice]] (3) · [[Equanimity in Compassion]] (1)</span> 
 [[The Self]] | 8 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]] (2) · [[The Practice of Compassion]] (2) · [[The Way of Non-Clinging Part 2]] (2) · [[Daimon, Refracted]] (1)</span> 
 [[Clinging]] | 7 | <span class="counts">[[The Way of Non-Clinging Part 2]] (2) · [[From Insight to Love]] (1) · [[Orienting to This Jhana Retreat]] (1) · [[The Practice of Compassion]] (1)</span> 
-[[Meditation]] | 7 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1) · [[The Practice of Compassion]] (1)</span> 
+[[Meditation]] | 7 | <span class="counts">[[Samadhi in Metta Practice]] (2) · [[The Place of Samadhi in Metta Practice]] (2) · [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (1) · [[The Practice of Compassion]] (1)</span> 
 
 ### Quotes
 **[[The Practice of Compassion]]**
@@ -55,7 +55,7 @@ term | count | talks
 
 **[[The Place of Samadhi in Metta Practice]]**
 <span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
-> So softness - in a way the opposite of tightness - softness is actually a factor of _samādhi_. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#ad 2 tightness|ad 2. tightness]]_</span>
+> So softness - in a way the opposite of tightness - softness is actually a factor of _samādhi_. &nbsp;&nbsp;<span class="counts">_[[The Place of Samadhi in Metta Practice#ad 1 tightness|ad 1. tightness]]_</span>
 
 **[[Using Insight to Deepen Love and Compassion]]**
 <span class="counts">[[2008 Lovingkindness and Compassion As a Path to Awakening]]</span>
@@ -71,11 +71,11 @@ term | count | talks
 <span class="counts">[[2017 Eros Unfettered]]</span>
 > [C]raving is a kind of desire that does _not_ lead to soulmaking. Actually, it leads to a kind of contraction. Soulmaking is an opening movement, and craving brings contraction. &nbsp;&nbsp;<span class="counts">_[[Dilemmas and Delineations - How did we get here Part 3#11 Craving|(11) Craving]]_</span>
 
-**[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]**
+**[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>
-> So in the whole space, attuned, alive, filled with awareness; the longest breath. Just how does it feel, the expansion and the contraction with the breath? Really tuning to that and feeling it. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#The whole space is expanding on the in-breath contracting on the out-breath|The whole space is expanding on the in-breath, contracting on the out-breath]]_</span>
+> So in the whole space, attuned, alive, filled with awareness; the longest breath. Just how does it feel, the expansion and the contraction with the breath? Really tuning to that and feeling it. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)#The whole space is expanding on the in-breath contracting on the out-breath|The whole space is expanding on the in-breath, contracting on the out-breath]]_</span>
 
-> **(1) the expansion and contraction of the whole space**. Not just your ribcage, but the whole space, and it feels a certain way. **(2)** Second thing: **the energization and relaxation, again, that you can feel in the whole space**. **(3)** The third aspect, actually, which we'll pick up again, is the possibility that, **within that whole space, you notice certain currents of energy**. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#Recap; three kinds of things to pay attention to|Recap; three kinds of things to pay attention to]]_</span>
+> **(1) the expansion and contraction of the whole space**. Not just your ribcage, but the whole space, and it feels a certain way. **(2)** Second thing: **the energization and relaxation, again, that you can feel in the whole space**. **(3)** The third aspect, actually, which we'll pick up again, is the possibility that, **within that whole space, you notice certain currents of energy**. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)#Recap; three kinds of things to pay attention to|Recap; three kinds of things to pay attention to]]_</span>
 
 **[[Preliminaries Regarding Voice, Movement, and Gesture - Part 4]]**
 <span class="counts">[[2020 Vajra Music]]</span>

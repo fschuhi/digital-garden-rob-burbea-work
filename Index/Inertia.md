@@ -10,9 +10,9 @@ talk | count | series
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] | 24 | [[2020 Vajra Music]]
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] | 8 | [[2020 Vajra Music]]
 [[Orienting to This Jhana Retreat]] | 6 | [[2019 Practising the Jhanas]]
-[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] | 4 | [[2019 Practising the Jhanas]]
+[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] | 4 | [[2019 Practising the Jhanas]]
 [[A Hidden Treasure - The Relationship with the Hindrances]] | 3 | [[2019 Practising the Jhanas]]
-[[Counting Within the Breath - Guided Meditation]] | 2 | [[2019 Practising the Jhanas]]
+[[Counting Within the Breath (Guided Meditation)]] | 2 | [[2019 Practising the Jhanas]]
 
 ### Quotes (old)
 #### [[0301 Preliminaries Regarding Voice, Movement, and Gesture - Part 1|Vajra Music: Preliminaries - Part 1 (Transcript)]]
@@ -40,20 +40,20 @@ description | count | talk
 [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2#"Why not" points to failing to discriminate discern signifiance\|"Why not?" points to failing to discriminate/discern signifiance]] | 2 | [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]]
 [[A Hidden Treasure - The Relationship with the Hindrances#Watch out for the habit of letting-be in standard mindfulness practice\|Watch out for the habit of letting-be in standard mindfulness practice]] | 2 | [[A Hidden Treasure - The Relationship with the Hindrances]]
 [[A Hidden Treasure - The Relationship with the Hindrances#There are subtle hindrances to work and experiment with\|There are subtle hindrances to work and experiment with]] | 1 | [[A Hidden Treasure - The Relationship with the Hindrances]]
-[[Counting Within the Breath - Guided Meditation#Beware of inertia as most people suffer from low energy\|Beware of inertia, as most people suffer from low energy]] | 1 | [[Counting Within the Breath - Guided Meditation]]
-[[Counting Within the Breath - Guided Meditation#The long breath is helpful in bringing energy - it can take you right up to the edge of the first jhana\|The long breath is helpful in bringing energy - it can take you right up to the edge of the first jhana]] | 1 | [[Counting Within the Breath - Guided Meditation]]
+[[Counting Within the Breath (Guided Meditation)#Beware of inertia as most people suffer from low energy\|Beware of inertia, as most people suffer from low energy]] | 1 | [[Counting Within the Breath (Guided Meditation)]]
+[[Counting Within the Breath (Guided Meditation)#The long breath is helpful in bringing energy - it can take you right up to the edge of the first jhana\|The long breath is helpful in bringing energy - it can take you right up to the edge of the first jhana]] | 1 | [[Counting Within the Breath (Guided Meditation)]]
 
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Mind]] | 7 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (2) · [[Orienting to This Jhana Retreat]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
-[[Breath]] | 6 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (3) · [[Counting Within the Breath - Guided Meditation]] (2) · [[Orienting to This Jhana Retreat]] (1)</span> 
-[[Jhanas]] | 5 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Counting Within the Breath - Guided Meditation]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Mind]] | 7 | <span class="counts">[[Counting Within the Breath (Guided Meditation)]] (2) · [[Orienting to This Jhana Retreat]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
+[[Breath]] | 6 | <span class="counts">[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (3) · [[Counting Within the Breath (Guided Meditation)]] (2) · [[Orienting to This Jhana Retreat]] (1)</span> 
+[[Jhanas]] | 5 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Counting Within the Breath (Guided Meditation)]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
 [[Meditation]] | 5 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (4) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1)</span> 
-[[Energy]] | 4 | <span class="counts">[[Counting Within the Breath - Guided Meditation]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (1)</span> 
-[[Embodiment]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[Counting Within the Breath - Guided Meditation]] (1)</span> 
-[[Retreat]] | 3 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Counting Within the Breath - Guided Meditation]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
-[[Samadhi]] | 3 | <span class="counts">[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
+[[Energy]] | 4 | <span class="counts">[[Counting Within the Breath (Guided Meditation)]] (2) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (1) · [[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (1)</span> 
+[[Embodiment]] | 3 | <span class="counts">[[Preliminaries Regarding Voice, Movement, and Gesture - Part 2]] (2) · [[Counting Within the Breath (Guided Meditation)]] (1)</span> 
+[[Retreat]] | 3 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Counting Within the Breath (Guided Meditation)]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
+[[Samadhi]] | 3 | <span class="counts">[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]] (2) · [[A Hidden Treasure - The Relationship with the Hindrances]] (1)</span> 
 [[Attention]] | 2 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Orienting to This Jhana Retreat]] (1)</span> 
 [[Desire]] | 2 | <span class="counts">[[A Hidden Treasure - The Relationship with the Hindrances]] (1) · [[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]] (1)</span> 
 
@@ -62,9 +62,9 @@ term | count | talks
 <span class="counts">[[2019 Practising the Jhanas]]</span>
 > Like so many things, _jhānas_ lead to malleability. Guess what? Malleability leads to _jhānas._ In other words, it's a condition for _jhānas_. So malleability now is the opposite of inertia. &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#One of the fruits of jhanas is malleability of mind|One of the fruits of jhanas is malleability of mind]]_</span>
 
-**[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation]]**
+**[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>
-> So often, we just go into a default breath, and the only reason it feels comfortable is just because we're used to it. At that moment, it may well _not_ be that helpful in terms of really energizing, and opening, and healing, and soothing, and moving towards _samādhi_. So we have to be, again, willing to let go of our inertia, if it's there. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath - Instructions and Guided Meditation#Also what way of breathing feels good right now|Also what way of breathing feels good right now]]_</span>
+> So often, we just go into a default breath, and the only reason it feels comfortable is just because we're used to it. At that moment, it may well _not_ be that helpful in terms of really energizing, and opening, and healing, and soothing, and moving towards _samādhi_. So we have to be, again, willing to let go of our inertia, if it's there. &nbsp;&nbsp;<span class="counts">_[[The Energy Body and the Whole-body breath (Instructions and Guided Meditation)#Also what way of breathing feels good right now|Also what way of breathing feels good right now]]_</span>
 
 **[[Preliminaries Regarding Voice, Movement, and Gesture - Part 1]]**
 <span class="counts">[[2020 Vajra Music]]</span>

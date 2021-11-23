@@ -31,16 +31,16 @@ description | count | talk
 ### Terms with 20+ co-occurrences
 term | count | talks
 -|-|-
-[[Compassion]] | 30 | <span class="counts">[[Compassion (talk)]] (6) · [[The Practice of Compassion]] (6) · [[Love and the Emptiness of Things]] (4) · [[Love and Emptiness]] (3) · [[Equanimity in Compassion]] (2) · [[From Insight to Love]] (2) · [[Guided Meditation on Gratitude and Compassion]] (2) · [[The Birth of a Bodhisattva]] (2)</span> 
+[[Compassion]] | 31 | <span class="counts">[[Compassion (talk)]] (6) · [[The Practice of Compassion]] (6) · [[Love and the Emptiness of Things]] (4) · [[Love and Emptiness]] (3) · [[Equanimity in Compassion]] (2) · [[From Insight to Love]] (2) · [[Guided Meditation on Gratitude and Compassion]] (2) · [[The Birth of a Bodhisattva]] (2)</span> 
 [[Happiness]] | 23 | <span class="counts">[[Joy (talk)]] (6) · [[Compassion (talk)]] (2) · [[Equanimity (talk)]] (2) · [[Equanimity in Compassion]] (2) · [[From Insight to Love]] (2) · [[Orienting to This Jhana Retreat]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
-[[Metta]] | 20 | <span class="counts">[[Love and the Emptiness of Things]] (4) · [[The Practice of Compassion]] (3) · [[Equanimity (talk)]] (2) · [[From Insight to Love]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
+[[Metta]] | 21 | <span class="counts">[[Love and the Emptiness of Things]] (4) · [[The Practice of Compassion]] (3) · [[Equanimity (talk)]] (2) · [[From Insight to Love]] (2) · [[Using Insight to Deepen Love and Compassion]] (2)</span> 
 [[Mind]] | 20 | <span class="counts">[[Equanimity (talk)]] (4) · [[Love and Emptiness]] (3) · [[Love and the Emptiness of Things]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
-[[Buddha]] | 17 | <span class="counts">[[Love and Emptiness]] (4) · [[Love and the Emptiness of Things]] (4) · [[Equanimity (talk)]] (2) · [[Joy (talk)]] (2) · [[The Practice of Compassion]] (2)</span> 
-[[Dukkha]] | 16 | <span class="counts">[[The Birth of a Bodhisattva]] (4) · [[The Practice of Compassion]] (3) · [[Compassion (talk)]] (2) · [[Guided Meditation on Gratitude and Compassion]] (2)</span> 
+[[Buddha]] | 18 | <span class="counts">[[Love and Emptiness]] (4) · [[Love and the Emptiness of Things]] (4) · [[Equanimity (talk)]] (2) · [[Joy (talk)]] (2) · [[The Practice of Compassion]] (2)</span> 
+[[Dukkha]] | 17 | <span class="counts">[[The Birth of a Bodhisattva]] (4) · [[The Practice of Compassion]] (3) · [[Compassion (talk)]] (2) · [[Guided Meditation on Gratitude and Compassion]] (2)</span> 
+[[Samadhi]] | 16 | <span class="counts">[[Compassion (talk)]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Birth of a Bodhisattva]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
 [[Equanimity]] | 15 | <span class="counts">[[Equanimity (talk)]] (6) · [[The Birth of a Bodhisattva]] (3) · [[Equanimity in Compassion]] (2) · [[From Insight to Love]] (1)</span> 
-[[Samadhi]] | 15 | <span class="counts">[[Compassion (talk)]] (2) · [[Love and the Emptiness of Things]] (2) · [[The Birth of a Bodhisattva]] (2) · [[The Place of Samadhi in Metta Practice]] (2)</span> 
+[[Insight]] | 14 | <span class="counts">[[Love and the Emptiness of Things]] (3) · [[Love and Emptiness]] (2) · [[The Practice of Compassion]] (2) · [[What is Insight]] (2)</span> 
 [[Love]] | 14 | <span class="counts">[[From Insight to Love]] (2) · [[Love and the Emptiness of Things]] (2) · [[Orienting to This Jhana Retreat]] (2) · [[The Practice of Compassion]] (2)</span> 
-[[Retreat]] | 14 | <span class="counts">[[Orienting to This Jhana Retreat]] (4) · [[Love and the Emptiness of Things]] (2) · [[Dilemmas and Delineations - How did we get here Part 1]] (1) · [[Exploring the World of Loving Kindness]] (1)</span> 
 
 ### Quotes
 **[[Joy (talk)]]**
@@ -81,9 +81,9 @@ term | count | talks
 
 > It doesn't open that up. It doesn't nourish it. It doesn't bring water to it. It doesn't fan the fire. It doesn't bring out the beauty, reveal the beauty, the dimensions there. &nbsp;&nbsp;<span class="counts">_[[The Way of Non-Clinging Part 3#Certain viewpoints cannot fan the fire|Certain viewpoints cannot fan the fire]]_</span>
 
-**[[Counting Within the Breath - Guided Meditation]]**
+**[[Counting Within the Breath (Guided Meditation)]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>
-> It's part of the whole kind of energetic awareness we want to gradually cultivate, this bubble of resource. So find that pace where actually that's what you're doing when you're moving around - you've got some sense of the whole body, and the energy of the whole body. &nbsp;&nbsp;<span class="counts">_[[Counting Within the Breath - Guided Meditation#Slow down to retain whole-body awareness|Slow down, to retain whole-body awareness]]_</span>
+> It's part of the whole kind of energetic awareness we want to gradually cultivate, this bubble of resource. So find that pace where actually that's what you're doing when you're moving around - you've got some sense of the whole body, and the energy of the whole body. &nbsp;&nbsp;<span class="counts">_[[Counting Within the Breath (Guided Meditation)#Slow down to retain whole-body awareness|Slow down, to retain whole-body awareness]]_</span>
 
 **[[Orienting to This Jhana Retreat]]**
 <span class="counts">[[2019 Practising the Jhanas]]</span>
@@ -92,5 +92,9 @@ term | count | talks
 > Fantasy of the whole tradition; it's all part of it. That's part of your happiness and nourishment. &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#You need a fantasy of the retreat|You need a fantasy of the retreat]]_</span>
 
 > '[F]antasy' as opposed to 'image.' They're almost subliminal. They're just kind of really nourishing and supporting, lubricating our whole sense of what we're doing, giving moisture there, giving beauty and depth. &nbsp;&nbsp;<span class="counts">_[[Orienting to This Jhana Retreat#There fantasies operate in the background|There fantasies operate in the background]]_</span>
+
+**[[An Introduction to the Jhanas]]**
+<span class="counts">[[2019 Practising the Jhanas]]</span>
+> So yes, _samādhi_; yes, insight; and yes, psychological work; and _yes_, the cultivation of virtues and the beautiful qualities - _mettā,_ and generosity, and compassion, all those - those four together... &nbsp;&nbsp;<span class="counts">_[[An Introduction to the Jhanas#Jhanas alone will not liberate totally|Jhanas alone will not liberate totally]]_</span>
 
 
